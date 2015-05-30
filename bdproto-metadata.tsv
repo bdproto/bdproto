@@ -112,15 +112,15 @@ BdprotoID	LanguageName	GlottologID	GlottologNotes	LanguageFamilyRoot	Family	Clas
 1084	URALIC	ural1272		urlc	Ural-Altaic	"Ural-Altaic, Uralic"	"mesolithic age"		-8000		http://www.diadm.ish-lyon.cnrs.fr/upsid/index.php?set_db=BDPROTO&view=lang&code=1084	LG1084.txt		sammallahti1988		
 1114	URALO-SIBERIAN	ural1272	check		Macro-Family	Macro-Family	" between 8000 and 6000 BC"		-10000	"south central siberia"	http://www.diadm.ish-lyon.cnrs.fr/upsid/index.php?set_db=BDPROTO&view=lang&code=1114	LG1114.txt	"Need to do something about LanguageFamilyRoot"	fortescue1998		fortescue1998
 1069	"UTO AZTECAN"	utoa1244		nuaz	North-American	"North-American, Uto-Aztecan"	"up to 5000 years"		-7000	"border region between the USA and Mexico, namely the upland regions of Arizona and New Mexico and the adjacent areas of the Mexican states of Sonora and Chihuaua, roughly corresponding to the Sonoran Desert and the western part of the Chihuahuan Desert"	http://www.diadm.ish-lyon.cnrs.fr/upsid/index.php?set_db=BDPROTO&view=lang&code=1069	LG1069.txt		langaker1970		
-1036	VOLTA	volt1241	"We use: Volta-Congo"	nkrd	Niger-Kordofanian	"Niger-Kordofanian, Voltaic"					http://www.diadm.ish-lyon.cnrs.fr/upsid/index.php?set_db=BDPROTO&view=lang&code=1036	LG1036.txt	"Link dead"	williamson1989		
-1048	"WEST SAXON"	olde1238	check	ieur	Indo-European	"Indo-European, Germanic, West"					http://www.diadm.ish-lyon.cnrs.fr/upsid/index.php?set_db=BDPROTO&view=lang&code=1048	LG1048.txt		antonsen1961		
-1032	"WEST TARIKU"	west2582		papt	Papuan	"Papuan, Geelvink-Bay"					http://www.diadm.ish-lyon.cnrs.fr/upsid/index.php?set_db=BDPROTO&view=lang&code=1032	LG1032.txt		clouse1996		
-1005	"WESTERN MALAYO POLYNESIAN"	mala1536	check	auth	Austro-Tai	"Austro-Tai, Austronesian, West-Malayo-Polynesian"					http://www.diadm.ish-lyon.cnrs.fr/upsid/index.php?set_db=BDPROTO&view=lang&code=1005	LG1005.txt		hogan1993		
-1008	YOKUTS	yoku1255		calp	North-American	"North-American, Penutian"					http://www.diadm.ish-lyon.cnrs.fr/upsid/index.php?set_db=BDPROTO&view=lang&code=1008	LG1008.txt		golla1964		
-1076	ZAPOTECAN	zapo1436		otma	North-American	"North-American, Oto-Manguean"					http://www.diadm.ish-lyon.cnrs.fr/upsid/index.php?set_db=BDPROTO&view=lang&code=1076	LG1076.txt		longacre1967		
-1078	ZOQUEAN	mixe1284		calp	North-American	"North-American, Penutian"					http://www.diadm.ish-lyon.cnrs.fr/upsid/index.php?set_db=BDPROTO&view=lang&code=1078	LG1078.txt		longacre1967		
-1	PROTO-BERBER	berb1260												kossmann2001origine		
-2	PROTO-KARTVELIAN	kart1248												fahnrich2002kartwelische		
+1036	VOLTA	volt1241	"We use: Volta-Congo"	nkrd	Niger-Kordofanian	"Niger-Kordofanian, Voltaic"			NA		http://www.diadm.ish-lyon.cnrs.fr/upsid/index.php?set_db=BDPROTO&view=lang&code=1036	LG1036.txt	"Link dead"	williamson1989		
+1048	"WEST SAXON"	olde1238	check	ieur	Indo-European	"Indo-European, Germanic, West"			-1600		http://www.diadm.ish-lyon.cnrs.fr/upsid/index.php?set_db=BDPROTO&view=lang&code=1048	LG1048.txt		antonsen1961		
+1032	"WEST TARIKU"	west2582		papt	Papuan	"Papuan, Geelvink-Bay"			NA		http://www.diadm.ish-lyon.cnrs.fr/upsid/index.php?set_db=BDPROTO&view=lang&code=1032	LG1032.txt		clouse1996		
+1005	"WESTERN MALAYO POLYNESIAN"	mala1536	check	auth	Austro-Tai	"Austro-Tai, Austronesian, West-Malayo-Polynesian"			-4500		http://www.diadm.ish-lyon.cnrs.fr/upsid/index.php?set_db=BDPROTO&view=lang&code=1005	LG1005.txt		hogan1993	bellwood2007prehistory	
+1008	YOKUTS	yoku1255		calp	North-American	"North-American, Penutian"			-3000		http://www.diadm.ish-lyon.cnrs.fr/upsid/index.php?set_db=BDPROTO&view=lang&code=1008	LG1008.txt		golla1964	jones2007california	
+1076	ZAPOTECAN	zapo1436		otma	North-American	"North-American, Oto-Manguean"			-2400		http://www.diadm.ish-lyon.cnrs.fr/upsid/index.php?set_db=BDPROTO&view=lang&code=1076	LG1076.txt		longacre1967	evans2013archaeology	
+1078	ZOQUEAN	mixe1284		calp	North-American	"North-American, Penutian"			"gleich wie proto-slavic"		http://www.diadm.ish-lyon.cnrs.fr/upsid/index.php?set_db=BDPROTO&view=lang&code=1078	LG1078.txt		longacre1967		
+1	PROTO-BERBER	berb1260		afas	Afro-Asiatic	"Afro-Asiatic, Berber"			-7000					kossmann2001origine	louali2003protoberberes	
+2	PROTO-KARTVELIAN	kart1248		cauc	Caucasian	Caucasian		-5000	-5000					fahnrich2002kartwelische	gamkrelidze1995indo	
 3	PROTO-BALTO-SLAVIC	balt1263												kortlandt1979toward		
 4	PROTO-SLAVIC	slav1255												schenker1993proto		
 5	PROTO-CELTIC	celt1248												schrijver1995studies		
@@ -129,7 +129,7 @@ BdprotoID	LanguageName	GlottologID	GlottologNotes	LanguageFamilyRoot	Family	Clas
 8	PROTO-MONGOLIC	mong1329												janhunen2006mongolic		
 9	PROTO-KRA	kra1291												ostapirat2000proto-kra		
 10	PROTO-HLAI	nucl1241												norquest2007phonological		
-11	PROTO-TIBETO-BURMAN	sino1245	"We use: Sino-Tibeatan"											matisoff2003handbook		
+11	PROTO-TIBETO-BURMAN	sino1245	"We use: Sino-Tibeatan (-> but sino-tib is not the same as tibeto-burman)"											matisoff2003handbook		
 12	PROTO-MON-KHMER	aust1305												shorto2006mon		
 13	PROTO-IROQUOIAN	iroq1247												julian2010history		
 14	"Proto-Dené–Caucasian language"	NULL												bengtson2008materials		
