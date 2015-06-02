@@ -86,7 +86,7 @@ BdprotoID	LanguageName	GlottologID	GlottologNotes	LanguageFamilyRoot	Family	Clas
 1035	PROTO-AINU	ainu1240		urlc	Ural-Altaic	"Ural-Altaic, Ainu"			NA		http://www.diadm.ish-lyon.cnrs.fr/upsid/index.php?set_db=BDPROTO&view=lang&code=1035	LG1035.txt		"no squib"	vovin1993		
 1016	PROTO-HAUSA	haus1257		afas	Afro-Asiatic	"Afro-Asiatic, Chadic"			NA		http://www.diadm.ish-lyon.cnrs.fr/upsid/index.php?set_db=BDPROTO&view=lang&code=1016	LG1016.txt			newman1979historical		
 1101	PROTO-JAPANESE	nucl1643		urlc	Ural-Altaic	"Ural-Altaic, Japanese"		"400 B.C."	-2400	"northern Kyushu"	http://www.diadm.ish-lyon.cnrs.fr/upsid/index.php?set_db=BDPROTO&view=lang&code=1101	LG1101.txt		"no squib"	martin1987	hudson1994japan	hudson1994japan
-1013	PROTO-KAREN	kare1337		tbur	Sino-Tibetan	"Sino-Tibetan, Karenic"			recheck		http://www.diadm.ish-lyon.cnrs.fr/upsid/index.php?set_db=BDPROTO&view=lang&code=1013	LG1013.txt			jones1961		
+1013	PROTO-KAREN	kare1337		tbur	Sino-Tibetan	"Sino-Tibetan, Karenic"			NA		http://www.diadm.ish-lyon.cnrs.fr/upsid/index.php?set_db=BDPROTO&view=lang&code=1013	LG1013.txt			jones1961		
 1003	PROTO-LAKKIA	lakk1238		auth	Austro-Tai	"Austro-Tai, Li-Kam-Tai"			NA		http://www.diadm.ish-lyon.cnrs.fr/upsid/index.php?set_db=BDPROTO&view=lang&code=1003	LG1003.txt			theraphan1991		
 1023	PROTO-MABA	maba1274		nsah	Nilo-Saharan	"Nilo-Saharan, Maban"			NA		http://www.diadm.ish-lyon.cnrs.fr/upsid/index.php?set_db=BDPROTO&view=lang&code=1023	LG1023.txt			edgar1991		
 1044	PROTO-NUBIAN	nubi1251		nsah	Nilo-Saharan	"Nilo-Saharan, East-Sudanic"		"first millenium BC"	-3000	Kordofan	http://www.diadm.ish-lyon.cnrs.fr/upsid/index.php?set_db=BDPROTO&view=lang&code=1044	LG1044.txt			gerst1989	rilly2009cradle	rilly2009cradle
