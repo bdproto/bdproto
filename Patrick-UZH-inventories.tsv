@@ -1,103 +1,6 @@
 bdprotoID	$	glottocode	LanguageName	"Specific Dialect"	Phonemes	Comments	Allophones	"Explanation of the allophony"
 								
 								
-1	wiki_kossmann2001a	berb1260	"Proto-Berber language"		ɑ			
-					i			
-					u			
-					ɑː			
-					iː			
-					eː			
-					uː			
-					m	"“labial nasal”"		
-					b	"“labial stop”"		
-					f	"“labiodental fricative”"		
-					β	"“bilabial fricative”"		
-					mː	"“long labial nasal”"		
-					bː	"“long labial stop”"		
-					fː	"“long labiodental fricative”"		
-					n̪	"“plain dental nasal”"		
-					t̪	"“plain dental voiceless stop”"		
-					d̪	"“plain dental voiced stop”"		
-					s̪	"“plain dental voiceless fricative”"		
-					z̪	"“plain dental voiced fricative”"		
-					l̪	"“plain dental lateral approximant”"		
-					r̪	"“plain dental trill”"		
-					n̪ː	"“long plain dental nasal”"		
-					t̪ː	"“long plain dental voiceless stop”"		
-					d̪ː	"“long plain dental voiced stop”"		
-					s̪ː	"“long plain dental voiceless fricative”"		
-					z̪ː	"“long plain dental voiced fricative”"		
-					l̪ː	"“long plain dental lateral approximant”"		
-					r̪ː	"“long plain dental trill”"		
-					d̪ˤ	"“dental pharyngalized stop”"		
-					z̪ˤ	"“dental pharyngalized fricative”"		
-					d̪ˤː	"“long dental pharyngalized stop”"		
-					z̪ˤː	"“long dental pharyngalized fricative”"		
-					c	"“postalveolar/palatal voiceless stop”"		
-					ɟ	"“postalveolar/palatal voiced stop”"		
-					ʃ	"“postalveolar/palatal voiceless fricative”"		
-					ʒ	"“postalveolar/palatal voiced fricative”"	“uncertain”	
-					j	"“postalveolar/palatal approximant”"		
-					cː	"“long postalveolar/palatal voiceless stop”"		
-					ɟː	"“long postalveolar/palatal voiced stop”"		
-					ʃː	"“long postalveolar/palatal voiceless fricative”"	“uncertain”	
-					jː	"“long postalveolar/palatal approximant”"		
-					k	"“plain voiced velar stop”"		
-					g	"“plain voiceless velar stop”"		
-					ɣ	"“plain voiced velar fricative”"		
-					kː	"“long plain voiced velar stop”"		
-					gː	"“long plain voiceless velar stop”"		
-					gʷː	"“voiceless labiovelar stop”"		
-					qː	"“long voiceless uvular stop”"		
-					ʔ	"“glottal stop”"		
-								
-								
-								
-2	wiki_gamkrelidze1966	kart1248	"Proto-Kartvelian language"		i	"“front close short vowel”"		
-					ɛ	"“front open-mid short vowel”"		
-					ɛː	"“fron open-mid long vowel”"		
-					ɑ	"“back open unrounded short vowel”"		
-					ɑː	"“back open unrounded long vowel”"		
-					u	"“back close rounded short vowel”"		
-					ɔ	"“back open-mid rounded short vowel”"		
-					ɔː	"“back open-mid rounded long vowel”"		
-					m	"“labial nasal”"		
-					b	"“voiced labial plosive”"		
-					p	"“voiceless labial plosive”"		
-					pʼ	"“ejective labial plosive”"		
-					w	"“labial approximant”"		
-					n	"“dental nasal”"		
-					d	"“voiced dental plosive”"		
-					t	"“voiceless dental plosive”"		
-					tʼ	"“ejective dental plosive”"		
-					d͡z	"“dental voiced affricate”"		
-					t͡s	"“dental voiceless affricate”"		
-					t͡sʼ	"“dental ejective affricate”"		
-					s	"“dental voiceless fricative”"		
-					z	"“dental voiced fricative”"		
-					l	"“dental approximant”"		
-					d͡ʐ	"“denti-alveolar voiced affricate”"		
-					t͡ʂ	"“denti-alveolarl voiceless affricate”"		
-					t͡ʂʼ	"“denti-alveolar ejective affricate”"		
-					ʂ	"“denti-alveolar voiceless fricative”"		
-					ʐ	"“denti-alveolar voiced fricative”"		
-					d͡ʒ	"""central alveolar voiced affricate”"		
-					t͡ʃ	"“central alveolar voiceless affricate”"		
-					t͡ʃʼ	"“central alveolar ejective affricate”"		
-					ʃ	"“central alveolar voiceless fricative”"		
-					ʒ	"“central alveolar voiced fricative”"		
-					r	"“central alveolar trill”"		
-					t͡ɬʼ	"“lateral alveolar ejective affricate”"		
-					ɬ	"“lateral alveolar voiceless fricative”"		
-					g	"“voiced velar plosive”"		
-					k	"“voiceless velar plosive”"		
-					kʼ	"“ejective velar plosive”"		
-					x	"“voiceless velar fricative”"		
-					ɣ	"“voiced velar fricative”"		
-					q	"“voiceless uvular plosive”"		
-					qʼ	"“voiced uvular plosive”"		
-					h	"“voiceless glottal fricative”"		
-								
 								
 3	kortlandt1979_phon	balt1263	"Proto-Balto-Slavic language"		m	"“labial nasal”"		
 					p	"“voiceless labial plosive”"		
@@ -126,14 +29,14 @@ bdprotoID	$	glottocode	LanguageName	"Specific Dialect"	Phonemes	Comments	Allopho
 					ɑː	"“long back open vowel”"		
 								
 								
-4	wiki_schenker2002	slav1255	"Proto-Slavic Language"		m	"“labial nasal”"		
+4	schenker1993proto	slav1255	"Proto-Slavic Language"		m	"“labial nasal”"		
 					p	"“voiceless labial plosive”"		
 					b	"“voiced labial plosive”"		
 					ʋ	"“v was a labial approximant [ʋ]. It may have had bilabial [w] as an allophone in certain positions (as in modern Slovene).“"		
 					n	"“coronal nasal”"		
 					t	"“coronal voiceless plosive”"		
 					d	"“coronal voiced plosive”"		
-					t͡s	"“voiceless alveolar affricate”"	"d͡z "	"“voiced counterpart”"
+					t͡s	"“voiceless alveolar affricate”"	d͡z	"“voiced counterpart”"
 					s	"“voiceless coronal fricative”"		
 					z	"“voiced coronal fricative”"		
 					r	"“coronal trill”"		
@@ -146,7 +49,7 @@ bdprotoID	$	glottocode	LanguageName	"Specific Dialect"	Phonemes	Comments	Allopho
 					ʒ	"“š and *ž were postalveolar [ʃ] and [ʒ] “"		
 					sʲ	"“ś was [sʲ] or perhaps [ɕ]. It merged with *š in West Slavic, with *s in the other dialect"		
 					rʲ	"“The pronunciation of *ř is not precisely known, but it was approximately a palatalized trill [rʲ]. It survives as a separate phoneme only in Czech, but also existed in earlier Polish (where it has since merged with *ž <ż>, but continues to be spelled <rz>). In other languages it either merged with *r, or dissimilated into *rj.”"		
-					ʎ	"The sonorants *ľ *ň were either palatalized [lʲ nʲ] or true palatal [ʎ ɲ] "		
+					ʎ	"The sonorants *ľ *ň were either palatalized [lʲ nʲ] or true palatal [ʎ ɲ]"		
 					j	"“palatal approximant”"		
 					k	"“voiceless velar plosive”"		
 					g	"“voiced velar plosive”"		
@@ -160,17 +63,17 @@ bdprotoID	$	glottocode	LanguageName	"Specific Dialect"	Phonemes	Comments	Allopho
 					uː	"“long back rounded vowel”"		
 					ɯː	"“long back unrounded vowel”"		
 					ɑː	"“long back open vowel”"		
-					"ẽ "	"“front mid nasal vowel”"		
-					"õ "	"“central/back mid nasal vowel”"		
+					ẽ	"“front mid nasal vowel”"		
+					õ	"“central/back mid nasal vowel”"		
 					ai			
 					au			
 					ei			
 					eu			
 								
 								
-5	wiki_schrijver1995	celt1248	"Proto-Celtic language"		b	"“voiced bilabial plosive”"		
+5	schrijver1995studies	celt1248	"Proto-Celtic language"		b	"“voiced bilabial plosive”"		
 					m	"“bilabial nasal”"		
-					"ɸ "	"“voiceless bilabial fricative”"		
+					ɸ	"“voiceless bilabial fricative”"		
 					t	"“voiceless alveolar plosive”"		
 					d	"“voiced alveolar plosive”"		
 					n	"“alveolar nasal”"		
@@ -180,8 +83,8 @@ bdprotoID	$	glottocode	LanguageName	"Specific Dialect"	Phonemes	Comments	Allopho
 					j	"“palatal approximant (medial)"		
 					k	"“voiceless velar plosive”"		
 					g	"“voiced velar plosive”"		
-					"kʷ "	"“voiceless labialised velar plosive”"		
-					"ɡʷ "	"“voiced labialised velar plosive”"		
+					kʷ	"“voiceless labialised velar plosive”"		
+					ɡʷ	"“voiced labialised velar plosive”"		
 					w	"“bilabial approximant”"		
 					iː	"“long front close vowel”"		
 					i	"“short front close vowel”"		
@@ -199,42 +102,42 @@ bdprotoID	$	glottocode	LanguageName	"Specific Dialect"	Phonemes	Comments	Allopho
 					ou			
 								
 								
-6	pittayaporn2009_phon	daic1237	"Proto-Tai language"		p	"“voiceless labial plosive”"		
+6	pittayaporn2009proto	daic1237	"Proto-Tai language"		p	"“voiceless labial plosive”"		
 					b	"“voiced labial plosive”"		
-					"ɓ "	"“glottalized labial”"		
+					ɓ	"“glottalized labial”"		
 					f	"“voiceless labial fricative”"		
 					v	"“voiced labial fricative”"		
-					"m̥ "	"“voiceless labial nasal”"		
+					m̥	"“voiceless labial nasal”"		
 					m	"“voiced labial nasal”"		
-					"w̥ "	"„voiceless labial approximant”"		
+					w̥	"„voiceless labial approximant”"		
 					w	"“voiced labial approximant”"		
 					t	"“voiceless alveolar stop”"		
 					d	"“voiced alveolar stop”"		
-					"ɗ "	"“glottalized alveolar stop”"		
+					ɗ	"“glottalized alveolar stop”"		
 					s	"“voiceless alveolar fricative”"		
 					z	"“voiced alveolar fricative”"		
-					"n̥ "	"“voiceless alveolar nasal”"		
+					n̥	"“voiceless alveolar nasal”"		
 					n	"“voiced alveolar nasal”"		
-					"r̥ "	"“voiceless alveolar trill”"		
+					r̥	"“voiceless alveolar trill”"		
 					r	"“voiced alveolar trill”"		
-					"l̥ "	"“voiceless alveolar glide”"		
+					l̥	"“voiceless alveolar glide”"		
 					l	"“voiced alveolar glide”"		
 					c	"“voiceless palatal stop”"		
-					"ɟ "	"“voiced palatal stop”"		
-					"ʄ "	"“glottalized palatal stop”"		
-					"ɲ̥ "	"“voiceless palatal nasal”"		
-					"ɲ "	"“voiced palatal nassal”"		
+					ɟ	"“voiced palatal stop”"		
+					ʄ	"“glottalized palatal stop”"		
+					ɲ̥	"“voiceless palatal nasal”"		
+					ɲ	"“voiced palatal nassal”"		
 					j	"“palatal glide”"		
 					k	"“voiceless velar stop”"		
 					g	"“voiced velar stop”"		
 					x	"“voiceless velar fricative”"		
-					"ɣ "	"“voiced velar fricative”"		
-					"ŋ "	"“voiced velar nasal”"		
+					ɣ	"“voiced velar fricative”"		
+					ŋ	"“voiced velar nasal”"		
 					q	"“voiceless uvular stop”"		
-					"ɢ "	"“voiced uvular stop”"		
-					"χ "	"“voiceless uvular fricative”"		
-					"ʔ "	"“glottal stop”"		
-					"h "	"“voiceless glottal fricative”"		
+					ɢ	"“voiced uvular stop”"		
+					χ	"“voiceless uvular fricative”"		
+					ʔ	"“glottal stop”"		
+					h	"“voiceless glottal fricative”"		
 					i	"“short front close unrounded vowel”"		
 					iː	"“long front close unrounded vowel"		
 					e	"“short front mid unrounded vowel”"		
@@ -242,29 +145,29 @@ bdprotoID	$	glottocode	LanguageName	"Specific Dialect"	Phonemes	Comments	Allopho
 					ɯ	"“short back close unrounded vowel”"		
 					ɯː	"“long back close unrounded vowel”"		
 					ɤ	"“short back mid unrounded vowel”"		
-					"ɤː "	"“long back mid unrounded vowel”"		
+					ɤː	"“long back mid unrounded vowel”"		
 					ɑ	"“short back open unrounded vowel”"		
 					ɑː	"“long back open unrounded vowel”"		
 					u	"“short back close rounded vowel”"		
 					uː	"“long back close rounded vowel”"		
 					o	"“short back mid rounded vowel”"		
 					oː	"“long back mid rounded vowel”"		
-					"iə "	"“rising diphtong”"		
-					"ɯə "	"“rising diphtong”"		
-					"uə "	"“rising diphtong”"		
-					"ɤɰ "	"“falling diphtong”"		
-					"aɰ "	"“falling diphtong”"		
+					iə	"“rising diphtong”"		
+					ɯə	"“rising diphtong”"		
+					uə	"“rising diphtong”"		
+					ɤɰ	"“falling diphtong”"		
+					aɰ	"“falling diphtong”"		
 					?	"Tone A"		
 					?	"Tone B"		
 					?	"Tone C"		
 					?	"Tone D [non-phonemic]"		
 								
 								
-7	róna-tas1998_phon	turk1305	"Proto-Turkic language"		i			
+7	ronatas1998reconstruction	turk1305	"Proto-Turkic language"		i			
 					y			
 					e	"“short closed ė”"		
 					ø			
-					"ɛ "	"“short open e”"		
+					ɛ	"“short open e”"		
 					ɑ			
 					o			
 					ɯ			
@@ -284,43 +187,43 @@ bdprotoID	$	glottocode	LanguageName	"Specific Dialect"	Phonemes	Comments	Allopho
 					k	"“unvoiced, maybe aspirated”"		
 					ɡ̊	"“weak and most probably also unvoiced”"		
 					j			
-					"ɲ "	"“palatal nasal”"		
+					ɲ	"“palatal nasal”"		
 					t͡ʃ	"“(post)palatal affricate”"		
 					s			
 					z			
 					m			
 					n			
-					"ŋ "			
+					ŋ			
 					r			
 					l			
 					h			
 								
 								
-8	janhunen2003_phon	mong1329	Proto-Mongolic		u	"“back, high rounded”"		
+8	jahunen2003	mong1329	Proto-Mongolic		u	"“back, high rounded”"		
 					o	"“back, non-high rounded”"		
 					ɑ	"“back, unrounded”"		
 					y	"“front, high rounded”"		
-					"ø "	"“front. non-high rounded”"		
+					ø	"“front. non-high rounded”"		
 					e	"“front, unrounded; In this context it remains irrelevant whether the unrounded front vowel “e was phonetically a low [ä] or a mid-high [e].”"		
 					i	"“neutral vowel”"		
 					b	"“labial weak stop”"		
 					d	"“dental weak stop”"		
-					"ɟ͡ʝ "	"“palatal weak stop; were apparently realized as affricates”"		
-					"ɡ "	"“velar weak stop; were apparently realized as affricates”"		
+					ɟ͡ʝ	"“palatal weak stop; were apparently realized as affricates”"		
+					ɡ	"“velar weak stop; were apparently realized as affricates”"		
 					t	"“dental strong stop”"		
-					"c͡ç "	"“palatal strong stop”"		
+					c͡ç	"“palatal strong stop”"		
 					k	"“velar strong stop”"		
 					m	"“labial nasal”"		
 					n	"“dental nasal”"		
-					"ŋ "	"“velar nasal”"		
+					ŋ	"“velar nasal”"		
 					s	"“dental sibilant”"		
 					x	"“velar spirant”"		
 					l			
 					r			
-					"j "	"“palatal glide”"		
+					j	"“palatal glide”"		
 								
 								
-9	wiki_ostapirat2009	kra1291	Proto-Kra		m	"“labial nasal”"		
+9	ostapirat2000proto-kra	kra1291	Proto-Kra		m	"“labial nasal”"		
 					p	"“voiceless nasal stop”"		
 					b	"“voiced labial stop”"		
 					w	"“labial approximant”"		
@@ -337,21 +240,21 @@ bdprotoID	$	glottocode	LanguageName	"Specific Dialect"	Phonemes	Comments	Allopho
 					d͡ʒ	"“postalveolar voiced affricate”"		
 					ʃ	"“postalveolar voiceless fricative”"		
 					ʒ	"“postalveolar voiced fricative”"		
-					"ɳ "	"“retroflex nasal”"		
-					"ʈ "	"“voiceless retroflex stop”"		
-					"ɖ "	"“voiced retroflex stop”"		
-					"t͡ʂ "	"“voiceless retroflex affricate”"		
+					ɳ	"“retroflex nasal”"		
+					ʈ	"“voiceless retroflex stop”"		
+					ɖ	"“voiced retroflex stop”"		
+					t͡ʂ	"“voiceless retroflex affricate”"		
 					d͡ʐ	"“voiced retroflex affricate”"		
-					"ɲ "	"“palatal nasal”"		
+					ɲ	"“palatal nasal”"		
 					c	"“voiceless palatal stop”"		
-					"ɟ "	"“voiced palatal stop”"		
+					ɟ	"“voiced palatal stop”"		
 					j	"“palatal approximant”"		
-					"ŋ "	"“velar nasal”"		
+					ŋ	"“velar nasal”"		
 					k	"“voiceless velar stop”"		
 					ɡ	"“voiced velar stop”"		
 					x	"“voiceless velar fricative”"		
-					"ɣ "	"“voiced velar fricative”"		
-					"ʔ "	"“voiceless glottal stop”"		
+					ɣ	"“voiced velar fricative”"		
+					ʔ	"“voiceless glottal stop”"		
 					i	"“front close vowel”"		
 					e	"“front mid vowel”"		
 					ə	"“central mid vowel”"		
@@ -369,39 +272,39 @@ bdprotoID	$	glottocode	LanguageName	"Specific Dialect"	Phonemes	Comments	Allopho
 								
 								
 								
-10	norquest2007_phon	nucl1241	Proto-Hlai		"ɓ "	"“labial glottal or implosive”"		
-					"pʰ "	"“voiceless aspirated labial stop”"		
+10	norquest2007phonological	nucl1241	Proto-Hlai		ɓ	"“labial glottal or implosive”"		
+					pʰ	"“voiceless aspirated labial stop”"		
 					f	"“voiceless labial fricative”"		
 					β	"“voiced labial fricative; only C-β”"		
-					"ʰm "	"“voiceless labial nasal”"		
+					ʰm	"“voiceless labial nasal”"		
 					m	"“voiced labial nasal; only C-m”"		
 					l	"“voiced labial lateral”"		
-					"ʰw "	"“voiceless labial approximant”"		
-					"ʋ "	"“voiced labial approximant”"		
-					"ɗ "	"“alveolar glottal or implosive”"		
-					"tʰ "	"“voiceless aspirated alveolar stop”"		
+					ʰw	"“voiceless labial approximant”"		
+					ʋ	"“voiced labial approximant”"		
+					ɗ	"“alveolar glottal or implosive”"		
+					tʰ	"“voiceless aspirated alveolar stop”"		
 					s	"“voiceless alveolar fricative”"		
-					"ʰn "	"“voiceless alveolar nasal”"		
+					ʰn	"“voiceless alveolar nasal”"		
 					n	"“voiced alveolar nasal; only C-n”"		
-					"ʰl "	"“voiceless alveolar lateral”"		
+					ʰl	"“voiceless alveolar lateral”"		
 					l	"“voiced alveolar lateral”"		
-					"ɾ "	"“alveolar tap or trill”"		
+					ɾ	"“alveolar tap or trill”"		
 					j	"“alveolar liquid or glide”"		
-					"tʃʰ "	"“voiceless aspirated postalveolar stop”"		
-					"tɕ "	"“palatal glottal or implosive”"		
-					"tɕʰ "	"“voiceless aspirated palatal affricate”"		
-					"ʰɲ "	"“voiceless palatal nasal”"		
-					"ɲ "	"“voiced palatal nasal; only C-ɲ”"		
-					"ʰj "	"“voiceless palatal approximant”"		
-					"ɠ "	"“velar glottal or implosive”"		
-					"kʰ "	"“voiceless aspirated velar stop”"		
-					"ʰŋ "	"“voiceless velar nasal”"		
-					"ŋ "	"“voiced velar nasal”"		
-					"ʔ "	"“voiceless glottal stop”"		
-					"ɦ "	"“voiced glottal fricative”"		
-					"iː "	"“front close”"		
-					"ɯː "	"“central close”"		
-					"uː "	"“back close”"		
+					tʃʰ	"“voiceless aspirated postalveolar stop”"		
+					tɕ	"“palatal glottal or implosive”"		
+					tɕʰ	"“voiceless aspirated palatal affricate”"		
+					ʰɲ	"“voiceless palatal nasal”"		
+					ɲ	"“voiced palatal nasal; only C-ɲ”"		
+					ʰj	"“voiceless palatal approximant”"		
+					ɠ	"“velar glottal or implosive”"		
+					kʰ	"“voiceless aspirated velar stop”"		
+					ʰŋ	"“voiceless velar nasal”"		
+					ŋ	"“voiced velar nasal”"		
+					ʔ	"“voiceless glottal stop”"		
+					ɦ	"“voiced glottal fricative”"		
+					iː	"“front close”"		
+					ɯː	"“central close”"		
+					uː	"“back close”"		
 					ɑ:	"“central open”"		
 						"“Tone A”"		
 						"“Tone B”"		
@@ -409,7 +312,7 @@ bdprotoID	$	glottocode	LanguageName	"Specific Dialect"	Phonemes	Comments	Allopho
 						"“Tone D”"		
 								
 								
-11	wiki_matisoff2003		Proto-Tibeto-Burman		p			
+11	matisoff2003handbook		Proto-Tibeto-Burman		p			
 					b			
 					m			
 					w			
@@ -418,10 +321,10 @@ bdprotoID	$	glottocode	LanguageName	"Specific Dialect"	Phonemes	Comments	Allopho
 					n			
 					s			
 					z			
-					"t͡s "			
-					"d͡z "			
+					t͡s			
+					d͡z			
 					l			
-					"ɾ "			
+					ɾ			
 					sʲ			
 					zʲ			
 					t͡sʲ			
@@ -429,7 +332,7 @@ bdprotoID	$	glottocode	LanguageName	"Specific Dialect"	Phonemes	Comments	Allopho
 					j			
 					k			
 					ɡ			
-					"ŋ "			
+					ŋ			
 					h			
 					iː			
 					i			
@@ -447,26 +350,26 @@ bdprotoID	$	glottocode	LanguageName	"Specific Dialect"	Phonemes	Comments	Allopho
 								
 								
 								
-12	wiki_shorto2006	aust1305	Proto-Austroasiatic		p			
+12	shorto2006mon	aust1305	Proto-Austroasiatic		p			
 					b			
-					"ɓ "			
+					ɓ			
 					m			
 					w			
 					t			
 					d			
-					"ɗ "			
+					ɗ			
 					n			
 					r			
 					l			
 					c			
 					ɟ			
-					"ɲ "			
+					ɲ			
 					j			
 					ç			
 					k			
 					ɡ			
-					"ŋ "			
-					"ʔ "			
+					ŋ			
+					ʔ			
 					h			
 					i			
 					iː			
@@ -486,17 +389,17 @@ bdprotoID	$	glottocode	LanguageName	"Specific Dialect"	Phonemes	Comments	Allopho
 					uə			
 					ai			
 								
-13	wiki_julian2010	iroq1247	Proto-Iroquoian		i			
+13	julian2010history	iroq1247	Proto-Iroquoian		i			
 					iː			
 					e			
 					eː			
-					"ẽ "			
+					ẽ			
 					ẽː			
 					a			
 					aː			
 					o			
 					oː			
-					"õ "			
+					õ			
 					õː			
 					u			
 					uː			
@@ -504,16 +407,16 @@ bdprotoID	$	glottocode	LanguageName	"Specific Dialect"	Phonemes	Comments	Allopho
 					ts			
 					s			
 					n			
-					"ɹ "			
+					ɹ			
 					j			
 					k			
-					"kʷ "			
-					"w "			
-					"ʔ "			
-					"h "			
+					kʷ			
+					w			
+					ʔ			
+					h			
 								
 								
-14	bengston2008_phon	NULL	"Proto-Dené–Caucasian language"		pʰ	"“bilabial aspirated plosive”"		
+14	bengtson2008materials	NULL	"Proto-Dené–Caucasian language"		pʰ	"“bilabial aspirated plosive”"		
 					b	"“bilabial voiced plosive”"		
 					pʼ	"“bilabial ejective plosive”"		
 					m	"“bilabial nasal”"		
