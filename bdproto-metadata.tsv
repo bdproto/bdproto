@@ -110,7 +110,7 @@ BdprotoID	LanguageName	GlottologID	GlottologNotes	LanguageFamilyRoot	Family	Clas
 1119	TUPI-GUARANI	tupi1275		amin	South-American	"South-American, Equatorial"			-4500		http://www.diadm.ish-lyon.cnrs.fr/upsid/index.php?set_db=BDPROTO&view=lang&code=1119	LG1119.txt	"Need to do something about LanguageFamilyRoot"	jensen1998	balee2000antiquity	
 1088	UGRIC	hung1274	check	urlc	Ural-Altaic	"Ural-Altaic, Finno-Ugric"	-3500/-3000		-3000		http://www.diadm.ish-lyon.cnrs.fr/upsid/index.php?set_db=BDPROTO&view=lang&code=1088	LG1088.txt		sammallahti1988		
 1084	URALIC	ural1272		urlc	Ural-Altaic	"Ural-Altaic, Uralic"	"mesolithic age"		-8000		http://www.diadm.ish-lyon.cnrs.fr/upsid/index.php?set_db=BDPROTO&view=lang&code=1084	LG1084.txt		sammallahti1988		
-1114	URALO-SIBERIAN	ural1272	check		Macro-Family	Macro-Family	" between 8000 and 6000 BC"		-10000	"south central siberia"	http://www.diadm.ish-lyon.cnrs.fr/upsid/index.php?set_db=BDPROTO&view=lang&code=1114	LG1114.txt	"Need to do something about LanguageFamilyRoot"	fortescue1998		fortescue1998
+1114	URALO-SIBERIAN	ural1272	check		Macro-Family	Macro-Family	"between 8000 and 6000 BC"		-10000	"south central siberia"	http://www.diadm.ish-lyon.cnrs.fr/upsid/index.php?set_db=BDPROTO&view=lang&code=1114	LG1114.txt	"Need to do something about LanguageFamilyRoot"	fortescue1998		fortescue1998
 1069	"UTO AZTECAN"	utoa1244		nuaz	North-American	"North-American, Uto-Aztecan"	"up to 5000 years"		-7000	"border region between the USA and Mexico, namely the upland regions of Arizona and New Mexico and the adjacent areas of the Mexican states of Sonora and Chihuaua, roughly corresponding to the Sonoran Desert and the western part of the Chihuahuan Desert"	http://www.diadm.ish-lyon.cnrs.fr/upsid/index.php?set_db=BDPROTO&view=lang&code=1069	LG1069.txt		langaker1970		
 1036	VOLTA	volt1241	"We use: Volta-Congo"	nkrd	Niger-Kordofanian	"Niger-Kordofanian, Voltaic"			NA		http://www.diadm.ish-lyon.cnrs.fr/upsid/index.php?set_db=BDPROTO&view=lang&code=1036	LG1036.txt	"Link dead"	williamson1989		
 1048	"WEST SAXON"	olde1238	check	ieur	Indo-European	"Indo-European, Germanic, West"			-1600		http://www.diadm.ish-lyon.cnrs.fr/upsid/index.php?set_db=BDPROTO&view=lang&code=1048	LG1048.txt		antonsen1961		
@@ -121,9 +121,9 @@ BdprotoID	LanguageName	GlottologID	GlottologNotes	LanguageFamilyRoot	Family	Clas
 1078	ZOQUEAN	mixe1284		calp	North-American	"North-American, Penutian"			"gleich wie proto-slavic"		http://www.diadm.ish-lyon.cnrs.fr/upsid/index.php?set_db=BDPROTO&view=lang&code=1078	LG1078.txt		longacre1967		
 1	PROTO-BERBER	berb1260		afas	Afro-Asiatic	"Afro-Asiatic, Berber"			-7000					kossmann2001origine	louali2003protoberberes	
 2	PROTO-KARTVELIAN	kart1248		cauc	Caucasian	Caucasian		-5000	-5000					fahnrich2002kartwelische	gamkrelidze1995indo	
-3	PROTO-BALTO-SLAVIC	balt1263												kortlandt1979toward		
-4	PROTO-SLAVIC	slav1255												schenker1993proto		
-5	PROTO-CELTIC	celt1248												schrijver1995studies		
+3	PROTO-BALTO-SLAVIC	balt1263						"between 1500 and 1000 B.C."	-3000					kortlandt1979toward	novotna2011glottochronology	
+4	PROTO-SLAVIC	slav1255						"around 500 AD split of daughter languages"	-1500	"Eastern Poland and Wester Ukraine"				schenker1993proto	andersen2003language	andersen2003language
+5	PROTO-CELTIC	celt1248							-3000					schrijver1995studies	gosden2014celtic	
 6	PROTO-TAI	daic1237												pittayaporn2009proto		
 7	PROTO-TURKIC	turk1305												ronatas1998reconstruction		
 8	PROTO-MONGOLIC	mong1329												janhunen2006mongolic		
