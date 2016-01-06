@@ -1,0 +1,13 @@
+Language name: KOLOKUMA IJO
+
+Language number: 4150
+
+Alternate names: North-Central Ijo
+
+Classification: Niger-Kardofanian, Kwa
+
+Comments:
+Kolokuma Ijo is spoken on the Nun branch of the Niger delta system in Rivers State, Nigeria. There are two level tones. Vowel harmony separates 'close' vowels /i, e, u, o/ from their more open counterparts; /a/ is neutral. Nasalized vowels preceding stops are pronounced with a consonantal nasal offset homorganic with the stop.
+
+Sources: 
+Williamson, K. 1965. A Grammar of the Kolokuma Dialect of Ijo. Cambridge University Press, Cambridge.

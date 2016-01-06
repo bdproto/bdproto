@@ -1,0 +1,13 @@
+Language name: YULU
+
+Language number: 4216
+
+Alternate names: 
+
+Classification: Nilo-Saharan, C. Sudanic
+
+Comments:
+Boyeldieu posits a tone system with four level tones.  Vowel length is treated as distinctive; consonants are shorter after long vowels.
+
+Sources: 
+Boyeldieu, P. 1987.  Les Langues fer ("Kara") et Yulu du Nord Centrafricain. Esquisses Descriptives et Lexiques. Laboratoire de Langues et Civilisations a Tradition Orale, Paris.

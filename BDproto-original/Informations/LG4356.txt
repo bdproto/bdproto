@@ -1,0 +1,13 @@
+Language name: Shilha
+
+Language number: 4356
+
+Alternate names: 
+
+Classification: Afro-Asiatic, Berber
+
+Comments:
+The pharyngealized dental/alveolar consonants are described as "domal".  Applegate posits an element /:/ which adds "tension" to a preceding consonant and shortens the preceding vowel.  Other analyses would treat this as gemination.  All consonants except perhaps /9,w,j/ seem to occur geminate.
+
+Sources: 
+Applegate, J.R. 1958. An Outline of the Structure of Shilha. American Council of Learned Societies, New York.

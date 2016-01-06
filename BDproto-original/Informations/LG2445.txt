@@ -1,0 +1,15 @@
+Language name: MARANAO
+
+Language number: 2445
+
+Alternate names: 
+
+Classification: Austro-Tai, West Malayo-Polynesian
+
+Comments:
+Maranao is spoken on Mindanao, Philippines.
+
+Sources: 
+McKaughan, H.P.  1958.  The Inflection and Syntax of Maranao Verbs.  Publication of the Institute of National Language.  Bureau of Printing, Manila.
+
+McKaughan, H.P., Macaraya, B.A.  1967.  A Maranao Dictionary.  University of Hawaii Press, Honolulu.

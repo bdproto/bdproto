@@ -1,0 +1,13 @@
+Language name: Chuvash
+
+Language number:2160 
+
+Alternate names: 
+
+Classification: Ural-Altaic, Turkic
+
+Comments:
+Chuvash is spoken in Chuvash ASSR, near the Volga River, east of Moscow, USSR. 
+
+Sources: 
+Krueger, J.R. 1961. Chuvash Manual (Indiana University Publications, Uralic and Altaic Series 7). Indiana University, Bloomington.

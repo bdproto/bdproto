@@ -1,0 +1,13 @@
+Language name: ATAYAL
+
+Language number: 2407
+
+Alternate names: 
+
+Classification: Austro-Tai, Atayalic
+
+Comments:
+Atayal is spoken in the mountains in the North, South of the Ketagalam area in taiwan. Long /i:/ and /u:/ could be interpreted as /ij/ or /uw/.
+
+Sources: 
+Egerod, S. 1966. A statement on Atayal phonology. Artivus Asiae, Supplement 23: 120-30.

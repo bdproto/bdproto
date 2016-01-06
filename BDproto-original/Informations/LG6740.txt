@@ -1,0 +1,14 @@
+Language name: Picuris
+
+Language number: 6740
+
+Alternate names: Tiwa
+
+Classification: N. American, Kiowa-Tanoan
+
+Comments: 
+
+Sources: 
+Hoijer, H. and Dozier, E.P. 1949. The phonemes of Tewa, Santa Clara dialect. International Journal of American Linguistics 15/3: 139-144.
+
+Trager, F.H. 1971. The phonology of Picuris. International Journal of American Linguistics 37: 29-33.

@@ -1,0 +1,16 @@
+Language name: INUIT
+
+Language number: 6901
+
+Alternate names: Greenlandic
+
+Classification: Eskimo-Aleut, Eskimo
+
+Comments: 
+
+Sources:
+Kleinschmidt, S. 1851. Grammatik der Gronlandischen Sprache. Reimer, Berlin.
+
+Rischel, J. 1974. Topics in West Greenlandic Phonology. Akademisk Forlag, Copenhagen.
+
+Thalbitzer, W. 1904. A Phonetical Study of the Eskimo Language (Meddelelser om Gronland 31). Copenhagen.

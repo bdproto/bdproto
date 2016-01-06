@@ -1,0 +1,17 @@
+Language name: HIGHLAND CHINANTEC
+
+Language number: 6786
+
+Alternate names: 
+
+Classification: Northern American, Oto-Manguean
+
+Comments:
+Quiotepec dialect. Highland Chinantec is spoken in Ixtlan district, Oaxaca, Mexico. Robbins (1968) analyzes it as having three level tones and stress. Syllables with short vowels have only one tone. Syllables with long vowels can have rising and falling combinations of these levels. The only syllable-final consonant is /?/. Oral and nasalized vowels occur after voiceless obstruents, but nasal consonants and prenasalized stops are in complementary distribution. This is interpreted as 'oralization' of nasals before oral vowels (i.e. /ma/=[mba] etc.) Clusters of /?/ + nasal or /w, j/ occur but all other clusters posited by Robbins have been interpreted as single segments. Note especially his 'hg' is interpreted as the voiceless velar nasal. Phonetically he transcribes it as a prenasalized stop with a voiceless nasal onset and although he says that 'h' can "precede any nasal" there are no examples of 'h' before 'eng' anywhere in his grammar.
+
+Sources: 
+Robbins, F.E. 1968. Quiotepec Chinantec Grammar. Papeles de la Chinantla, IV/8.
+
+Robbins, F.E. 1975. Nasal words without phonetic vowels in Quiotepec Chinantec.  Bibliographie phonetique (Karger, Basel) no. 11: 126-130.
+
+Robbins, F.E. 1961. Quiotepec Chinantec syllable patterning. International Journal of American Linguistics 27: 237-50.

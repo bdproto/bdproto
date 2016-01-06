@@ -1,0 +1,19 @@
+Language name: CHAMORRO
+
+Language number: 2416
+
+Alternate names: 
+
+Classification: Austro-Tai, W. Malayo-Polynesian
+
+Comments:
+Chamorro is spoken in Guam.
+
+Sources: 
+Costenoble, H. 1935. Die Chamaro Sprache. M. Nijhoff, 'S-Gravenhage.
+
+Seiden, W. 1960. Chamorro phonemes. Anthropological Linguistics 2/4: 6-33.
+
+Topping, D.M. 1969. Spoken Chamorro. University of Hawaii Press, Honolulu.
+
+Topping, D.M. 1973. Chamorro Reference Grammar. University of Hawaii Press, Honolulu.

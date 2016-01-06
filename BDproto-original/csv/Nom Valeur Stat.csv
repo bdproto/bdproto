@@ -1,0 +1,635 @@
+								
+	CodeStat	NomValeurStat	SelecteSup	SelecteInf	Selecte1Sup	Selecte1Inf		NomValeurStat Anglais
+	1000	segments	0	0	0	0		
+	1001	consonants	0	0	0	0		
+	1002	vowels	0	0	0	0		
+	1003	vowel qualities	0	0	0	0		
+	1004	ratio C/V	0	0	0	0		
+	1005	ratio C/VQ	0	0	0	0		
+	1006	nombre traits total	0	0	0	0		
+	1007	diphtongs	0	0	0	0		
+	2000	peripheric vowels	0	0	0	0		
+	2001	ratio PV / VT	0	0	0	0		
+	2002	number of apertures	0	0	0	0		
+	2100	front	0	0	0	0		
+	2101	front rounded vowels	0	0	0	0		
+	2102	front unrounded vowels	0	0	0	0		
+	2103	ratio FV / V Tot.	0	0	0	0		
+	2104	ratio FRV / FV	0	0	0	0		
+	2105	ratio FUV / FV	0	0	0	0		
+	2106	front high	0	0	0	0		
+	2107	front lowered-high	0	0	0	0		
+	2108	front higher-mid	0	0	0	0		
+	2109	front mid	0	0	0	0		
+	2110	front lower-mid	0	0	0	0		
+	2111	front raised-low	0	0	0	0		
+	2112	front low	0	0	0	0		
+	2200	central	0	0	0	0		
+	2201	central rounded vowels	0	0	0	0		
+	2202	central unrounded vowels	0	0	0	0		
+	2203	ratio CV / V Tot.	0	0	0	0		
+	2204	ratio CRV / CV	0	0	0	0		
+	2205	ratio CUV / CV	0	0	0	0		
+	2206	central high	0	0	0	0		
+	2207	central lowered-high	0	0	0	0		
+	2208	central higher-mid	0	0	0	0		
+	2209	central mid	0	0	0	0		
+	2210	central lower-mid	0	0	0	0		
+	2211	central raised-low	0	0	0	0		
+	2212	central low	0	0	0	0		
+	2300	back	0	0	0	0		
+	2301	back rounded vowels	0	0	0	0		
+	2302	back unrounded vowels	0	0	0	0		
+	2303	ratio BV / V Tot.	0	0	0	0		
+	2304	ratio BRV / BV	0	0	0	0		
+	2305	ratio BUV / BV	0	0	0	0		
+	2306	back high	0	0	0	0		
+	2307	back lowered-high	0	0	0	0		
+	2308	back higher-mid	0	0	0	0		
+	2309	back mid	0	0	0	0		
+	2310	back lower-mid	0	0	0	0		
+	2311	back raised-low	0	0	0	0		
+	2312	back low	0	0	0	0		
+	2500	number of contrasts	0	0	0	0		
+	2501	ad-tg-root	0	0	0	0		
+	2502	breathy-voiced	0	0	0	0		
+	2503	creaky-voiced	0	0	0	0		
+	2504	long	0	0	0	0		
+	2505	nasalized	0	0	0	0		
+	2506	overshort	0	0	0	0		
+	2507	retroflexed	0	0	0	0		
+	2508	velarized	0	0	0	0		
+	2509	voiceless	0	0	0	0		
+	2510	pharyngealized	0	0	0	0		
+	3000	number of ≠ modes	0	0	0	0		
+	3001	number of ≠ places	0	0	0	0		
+	3100	stop	0	0	0	0		
+	3101	stop bilabial	0	0	0	0		
+	3102	stop labiodental	0	0	0	0		
+	3103	stop labial-palatal	0	0	0	0		
+	3104	stop labial-velar	0	0	0	0		
+	3105	stop dental	0	0	0	0		
+	3106	stop alveolar	0	0	0	0		
+	3107	stop postalveolar	0	0	0	0		
+	3108	stop retroflex	0	0	0	0		
+	3109	stop palatal	0	0	0	0		
+	3110	stop velar	0	0	0	0		
+	3111	stop velar-alveolar	0	0	0	0		
+	3112	stop uvular	0	0	0	0		
+	3113	stop pharyngeal	0	0	0	0		
+	3114	stop epiglottal	0	0	0	0		
+	3115	stop glottal	0	0	0	0		
+	3116	stop laryngeal	0	0	0	0		
+	3150	stop aspirated	0	0	0	0		
+	3151	stop breathy-voiced	0	0	0	0		
+	3152	stop creaky-voiced	0	0	0	0		
+	3153	stop ejective	0	0	0	0		
+	3154	stop glottalized	0	0	0	0		
+	3155	stop labialized	0	0	0	0		
+	3156	stop lateral-release	0	0	0	0		
+	3157	stop long	0	0	0	0		
+	3158	stop nasal-release	0	0	0	0		
+	3159	stop palatalized	0	0	0	0		
+	3160	stop pharyngealized	0	0	0	0		
+	3161	stop preaspirated	0	0	0	0		
+	3162	stop preglottalized	0	0	0	0		
+	3163	stop prenasalized	0	0	0	0		
+	3164	stop prestopped	0	0	0	0		
+	3165	stop sibilant	0	0	0	0		
+	3166	stop velar-fricated	0	0	0	0		
+	3167	stop velarized	0	0	0	0		
+	3168	stop voiced	0	0	0	0		
+	3169	stop voiceless	0	0	0	0		
+	3170	stop with-breathy-release	0	0	0	0		
+	3200	implosive	0	0	0	0		
+	3201	implosive bilabial	0	0	0	0		
+	3202	implosive labiodental	0	0	0	0		
+	3203	implosive labial-palatal	0	0	0	0		
+	3204	implosive labial-velar	0	0	0	0		
+	3205	implosive dental	0	0	0	0		
+	3206	implosive alveolar	0	0	0	0		
+	3207	implosive postalveolar	0	0	0	0		
+	3208	implosive retroflex	0	0	0	0		
+	3209	implosive palatal	0	0	0	0		
+	3210	implosive velar	0	0	0	0		
+	3211	implosive velar-alveolar	0	0	0	0		
+	3212	implosive uvular	0	0	0	0		
+	3213	implosive pharyngeal	0	0	0	0		
+	3214	implosive epiglottal	0	0	0	0		
+	3215	implosive glottal	0	0	0	0		
+	3216	implosive laryngeal	0	0	0	0		
+	3250	implosive aspirated	0	0	0	0		
+	3251	implosive breathy-voiced	0	0	0	0		
+	3252	implosive creaky-voiced	0	0	0	0		
+	3253	implosive ejective	0	0	0	0		
+	3254	implosive glottalized	0	0	0	0		
+	3255	implosive labialized	0	0	0	0		
+	3256	implosive lateral-release	0	0	0	0		
+	3257	implosive long	0	0	0	0		
+	3258	implosive nasal-release	0	0	0	0		
+	3259	implosive palatalized	0	0	0	0		
+	3260	implosive pharyngealized	0	0	0	0		
+	3261	implosive preaspirated	0	0	0	0		
+	3262	implosive preglottalized	0	0	0	0		
+	3263	implosive prenasalized	0	0	0	0		
+	3264	implosive prestopped	0	0	0	0		
+	3265	implosive sibilant	0	0	0	0		
+	3266	implosive velar-fricated	0	0	0	0		
+	3267	implosive velarized	0	0	0	0		
+	3268	implosive voiced	0	0	0	0		
+	3269	implosive voiceless	0	0	0	0		
+	3270	implosive with-breathy-release	0	0	0	0		
+	3300	nasal	0	0	0	0		
+	3301	nasal bilabial	0	0	0	0		
+	3302	nasal labiodental	0	0	0	0		
+	3303	nasal labial-palatal	0	0	0	0		
+	3304	nasal labial-velar	0	0	0	0		
+	3305	nasal dental	0	0	0	0		
+	3306	nasal alveolar	0	0	0	0		
+	3307	nasal postalveolar	0	0	0	0		
+	3308	nasal retroflex	0	0	0	0		
+	3309	nasal palatal	0	0	0	0		
+	3310	nasal velar	0	0	0	0		
+	3311	nasal velar-alveolar	0	0	0	0		
+	3312	nasal uvular	0	0	0	0		
+	3313	nasal pharyngeal	0	0	0	0		
+	3314	nasal epiglottal	0	0	0	0		
+	3315	nasal glottal	0	0	0	0		
+	3316	nasal laryngeal	0	0	0	0		
+	3350	nasal aspirated	0	0	0	0		
+	3351	nasal breathy-voiced	0	0	0	0		
+	3352	nasal creaky-voiced	0	0	0	0		
+	3353	nasal ejective	0	0	0	0		
+	3354	nasal glottalized	0	0	0	0		
+	3355	nasal labialized	0	0	0	0		
+	3356	nasal lateral-release	0	0	0	0		
+	3357	nasal long	0	0	0	0		
+	3358	nasal nasal-release	0	0	0	0		
+	3359	nasal palatalized	0	0	0	0		
+	3360	nasal pharyngealized	0	0	0	0		
+	3361	nasal preaspirated	0	0	0	0		
+	3362	nasal preglottalized	0	0	0	0		
+	3363	nasal prenasalized	0	0	0	0		
+	3364	nasal prestopped	0	0	0	0		
+	3365	nasal sibilant	0	0	0	0		
+	3366	nasal velar-fricated	0	0	0	0		
+	3367	nasal velarized	0	0	0	0		
+	3368	nasal voiced	0	0	0	0		
+	3369	nasal voiceless	0	0	0	0		
+	3370	nasal with-breathy-release	0	0	0	0		
+	3400	trill	0	0	0	0		
+	3401	trill bilabial	0	0	0	0		
+	3402	trill labiodental	0	0	0	0		
+	3403	trill labial-palatal	0	0	0	0		
+	3404	trill labial-velar	0	0	0	0		
+	3405	trill dental	0	0	0	0		
+	3406	trill alveolar	0	0	0	0		
+	3407	trill postalveolar	0	0	0	0		
+	3408	trill retroflex	0	0	0	0		
+	3409	trill palatal	0	0	0	0		
+	3410	trill velar	0	0	0	0		
+	3411	trill velar-alveolar	0	0	0	0		
+	3412	trill uvular	0	0	0	0		
+	3413	trill pharyngeal	0	0	0	0		
+	3414	trill epiglottal	0	0	0	0		
+	3415	trill glottal	0	0	0	0		
+	3416	trill laryngeal	0	0	0	0		
+	3450	trill aspirated	0	0	0	0		
+	3451	trill breathy-voiced	0	0	0	0		
+	3452	trill creaky-voiced	0	0	0	0		
+	3453	trill ejective	0	0	0	0		
+	3454	trill glottalized	0	0	0	0		
+	3455	trill labialized	0	0	0	0		
+	3456	trill lateral-release	0	0	0	0		
+	3457	trill long	0	0	0	0		
+	3458	trill nasal-release	0	0	0	0		
+	3459	trill palatalized	0	0	0	0		
+	3460	trill pharyngealized	0	0	0	0		
+	3461	trill preaspirated	0	0	0	0		
+	3462	trill preglottalized	0	0	0	0		
+	3463	trill prenasalized	0	0	0	0		
+	3464	trill prestopped	0	0	0	0		
+	3465	trill sibilant	0	0	0	0		
+	3466	trill velar-fricated	0	0	0	0		
+	3467	trill velarized	0	0	0	0		
+	3468	trill voiced	0	0	0	0		
+	3469	trill voiceless	0	0	0	0		
+	3470	trill with-breathy-release	0	0	0	0		
+	3500	tap	0	0	0	0		
+	3501	tap bilabial	0	0	0	0		
+	3502	tap labiodental	0	0	0	0		
+	3503	tap labial-palatal	0	0	0	0		
+	3504	tap labial-velar	0	0	0	0		
+	3505	tap dental	0	0	0	0		
+	3506	tap alveolar	0	0	0	0		
+	3507	tap postalveolar	0	0	0	0		
+	3508	tap retroflex	0	0	0	0		
+	3509	tap palatal	0	0	0	0		
+	3510	tap velar	0	0	0	0		
+	3511	tap velar-alveolar	0	0	0	0		
+	3512	tap uvular	0	0	0	0		
+	3513	tap pharyngeal	0	0	0	0		
+	3514	tap epiglottal	0	0	0	0		
+	3515	tap glottal	0	0	0	0		
+	3516	tap laryngeal	0	0	0	0		
+	3550	tap aspirated	0	0	0	0		
+	3551	tap breathy-voiced	0	0	0	0		
+	3552	tap creaky-voiced	0	0	0	0		
+	3553	tap ejective	0	0	0	0		
+	3554	tap glottalized	0	0	0	0		
+	3555	tap labialized	0	0	0	0		
+	3556	tap lateral-release	0	0	0	0		
+	3557	tap long	0	0	0	0		
+	3558	tap nasal-release	0	0	0	0		
+	3559	tap palatalized	0	0	0	0		
+	3560	tap pharyngealized	0	0	0	0		
+	3561	tap preaspirated	0	0	0	0		
+	3562	tap preglottalized	0	0	0	0		
+	3563	tap prenasalized	0	0	0	0		
+	3564	tap prestopped	0	0	0	0		
+	3565	tap sibilant	0	0	0	0		
+	3566	tap velar-fricated	0	0	0	0		
+	3567	tap velarized	0	0	0	0		
+	3568	tap voiced	0	0	0	0		
+	3569	tap voiceless	0	0	0	0		
+	3570	tap with-breathy-release	0	0	0	0		
+	3600	flap	0	0	0	0		
+	3601	flap bilabial	0	0	0	0		
+	3602	flap labiodental	0	0	0	0		
+	3603	flap labial-palatal	0	0	0	0		
+	3604	flap labial-velar	0	0	0	0		
+	3605	flap dental	0	0	0	0		
+	3606	flap alveolar	0	0	0	0		
+	3607	flap postalveolar	0	0	0	0		
+	3608	flap retroflex	0	0	0	0		
+	3609	flap palatal	0	0	0	0		
+	3610	flap velar	0	0	0	0		
+	3611	flap velar-alveolar	0	0	0	0		
+	3612	flap uvular	0	0	0	0		
+	3613	flap pharyngeal	0	0	0	0		
+	3614	flap epiglottal	0	0	0	0		
+	3615	flap glottal	0	0	0	0		
+	3616	flap laryngeal	0	0	0	0		
+	3650	flap aspirated	0	0	0	0		
+	3651	flap breathy-voiced	0	0	0	0		
+	3652	flap creaky-voiced	0	0	0	0		
+	3653	flap ejective	0	0	0	0		
+	3654	flap glottalized	0	0	0	0		
+	3655	flap labialized	0	0	0	0		
+	3656	flap lateral-release	0	0	0	0		
+	3657	flap long	0	0	0	0		
+	3658	flap nasal-release	0	0	0	0		
+	3659	flap palatalized	0	0	0	0		
+	3660	flap pharyngealized	0	0	0	0		
+	3661	flap preaspirated	0	0	0	0		
+	3662	flap preglottalized	0	0	0	0		
+	3663	flap prenasalized	0	0	0	0		
+	3664	flap prestopped	0	0	0	0		
+	3665	flap sibilant	0	0	0	0		
+	3666	flap velar-fricated	0	0	0	0		
+	3667	flap velarized	0	0	0	0		
+	3668	flap voiced	0	0	0	0		
+	3669	flap voiceless	0	0	0	0		
+	3670	flap with-breathy-release	0	0	0	0		
+	3700	r-sound	0	0	0	0		
+	3701	r-sound bilabial	0	0	0	0		
+	3702	r-sound labiodental	0	0	0	0		
+	3703	r-sound labial-palatal	0	0	0	0		
+	3704	r-sound labial-velar	0	0	0	0		
+	3705	r-sound dental	0	0	0	0		
+	3706	r-sound alveolar	0	0	0	0		
+	3707	r-sound postalveolar	0	0	0	0		
+	3708	r-sound retroflex	0	0	0	0		
+	3709	r-sound palatal	0	0	0	0		
+	3710	r-sound velar	0	0	0	0		
+	3711	r-sound velar-alveolar	0	0	0	0		
+	3712	r-sound uvular	0	0	0	0		
+	3713	r-sound pharyngeal	0	0	0	0		
+	3714	r-sound epiglottal	0	0	0	0		
+	3715	r-sound glottal	0	0	0	0		
+	3716	r-sound laryngeal	0	0	0	0		
+	3750	r-sound aspirated	0	0	0	0		
+	3751	r-sound breathy-voiced	0	0	0	0		
+	3752	r-sound creaky-voiced	0	0	0	0		
+	3753	r-sound ejective	0	0	0	0		
+	3754	r-sound glottalized	0	0	0	0		
+	3755	r-sound labialized	0	0	0	0		
+	3756	r-sound lateral-release	0	0	0	0		
+	3757	r-sound long	0	0	0	0		
+	3758	r-sound nasal-release	0	0	0	0		
+	3759	r-sound palatalized	0	0	0	0		
+	3760	r-sound pharyngealized	0	0	0	0		
+	3761	r-sound preaspirated	0	0	0	0		
+	3762	r-sound preglottalized	0	0	0	0		
+	3763	r-sound prenasalized	0	0	0	0		
+	3764	r-sound prestopped	0	0	0	0		
+	3765	r-sound sibilant	0	0	0	0		
+	3766	r-sound velar-fricated	0	0	0	0		
+	3767	r-sound velarized	0	0	0	0		
+	3768	r-sound voiced	0	0	0	0		
+	3769	r-sound voiceless	0	0	0	0		
+	3770	r-sound with-breathy-release	0	0	0	0		
+	3800	fricative	0	0	0	0		
+	3801	fricative bilabial	0	0	0	0		
+	3802	fricative labiodental	0	0	0	0		
+	3803	fricative labial-palatal	0	0	0	0		
+	3804	fricative labial-velar	0	0	0	0		
+	3805	fricative dental	0	0	0	0		
+	3806	fricative alveolar	0	0	0	0		
+	3807	fricative postalveolar	0	0	0	0		
+	3808	fricative retroflex	0	0	0	0		
+	3809	fricative palatal	0	0	0	0		
+	3810	fricative velar	0	0	0	0		
+	3811	fricative velar-alveolar	0	0	0	0		
+	3812	fricative uvular	0	0	0	0		
+	3813	fricative pharyngeal	0	0	0	0		
+	3814	fricative epiglottal	0	0	0	0		
+	3815	fricative glottal	0	0	0	0		
+	3816	fricative laryngeal	0	0	0	0		
+	3850	fricative aspirated	0	0	0	0		
+	3851	fricative breathy-voiced	0	0	0	0		
+	3852	fricative creaky-voiced	0	0	0	0		
+	3853	fricative ejective	0	0	0	0		
+	3854	fricative glottalized	0	0	0	0		
+	3855	fricative labialized	0	0	0	0		
+	3856	fricative lateral-release	0	0	0	0		
+	3857	fricative long	0	0	0	0		
+	3858	fricative nasal-release	0	0	0	0		
+	3859	fricative palatalized	0	0	0	0		
+	3860	fricative pharyngealized	0	0	0	0		
+	3861	fricative preaspirated	0	0	0	0		
+	3862	fricative preglottalized	0	0	0	0		
+	3863	fricative prenasalized	0	0	0	0		
+	3864	fricative prestopped	0	0	0	0		
+	3865	fricative sibilant	0	0	0	0		
+	3866	fricative velar-fricated	0	0	0	0		
+	3867	fricative velarized	0	0	0	0		
+	3868	fricative voiced	0	0	0	0		
+	3869	fricative voiceless	0	0	0	0		
+	3870	fricative with-breathy-release	0	0	0	0		
+	3900	affricate	0	0	0	0		
+	3901	affricate bilabial	0	0	0	0		
+	3902	affricate labiodental	0	0	0	0		
+	3903	affricate labial-palatal	0	0	0	0		
+	3904	affricate labial-velar	0	0	0	0		
+	3905	affricate dental	0	0	0	0		
+	3906	affricate alveolar	0	0	0	0		
+	3907	affricate postalveolar	0	0	0	0		
+	3908	affricate retroflex	0	0	0	0		
+	3909	affricate palatal	0	0	0	0		
+	3910	affricate velar	0	0	0	0		
+	3911	affricate velar-alveolar	0	0	0	0		
+	3912	affricate uvular	0	0	0	0		
+	3913	affricate pharyngeal	0	0	0	0		
+	3914	affricate epiglottal	0	0	0	0		
+	3915	affricate glottal	0	0	0	0		
+	3916	affricate laryngeal	0	0	0	0		
+	3950	affricate aspirated	0	0	0	0		
+	3951	affricate breathy-voiced	0	0	0	0		
+	3952	affricate creaky-voiced	0	0	0	0		
+	3953	affricate ejective	0	0	0	0		
+	3954	affricate glottalized	0	0	0	0		
+	3955	affricate labialized	0	0	0	0		
+	3956	affricate lateral-release	0	0	0	0		
+	3957	affricate long	0	0	0	0		
+	3958	affricate nasal-release	0	0	0	0		
+	3959	affricate palatalized	0	0	0	0		
+	3960	affricate pharyngealized	0	0	0	0		
+	3961	affricate preaspirated	0	0	0	0		
+	3962	affricate preglottalized	0	0	0	0		
+	3963	affricate prenasalized	0	0	0	0		
+	3964	affricate prestopped	0	0	0	0		
+	3965	affricate sibilant	0	0	0	0		
+	3966	affricate velar-fricated	0	0	0	0		
+	3967	affricate velarized	0	0	0	0		
+	3968	affricate voiced	0	0	0	0		
+	3969	affricate voiceless	0	0	0	0		
+	3970	affricate with-breathy-release	0	0	0	0		
+	4000	affricate trill	0	0	0	0		
+	4001	affricate trill bilabial	0	0	0	0		
+	4002	affricate trill labiodental	0	0	0	0		
+	4003	affricate trill labial-palatal	0	0	0	0		
+	4004	affricate trill labial-velar	0	0	0	0		
+	4005	affricate trill dental	0	0	0	0		
+	4006	affricate trill alveolar	0	0	0	0		
+	4007	affricate trill postalveolar	0	0	0	0		
+	4008	affricate trill retroflex	0	0	0	0		
+	4009	affricate trill palatal	0	0	0	0		
+	4010	affricate trill velar	0	0	0	0		
+	4011	affricate trill velar-alveolar	0	0	0	0		
+	4012	affricate trill uvular	0	0	0	0		
+	4013	affricate trill pharyngeal	0	0	0	0		
+	4014	affricate trill epiglottal	0	0	0	0		
+	4015	affricate trill glottal	0	0	0	0		
+	4016	affricate trill laryngeal	0	0	0	0		
+	4050	affricate trill aspirated	0	0	0	0		
+	4051	affricate trill breathy-voiced	0	0	0	0		
+	4052	affricate trill creaky-voiced	0	0	0	0		
+	4053	affricate trill ejective	0	0	0	0		
+	4054	affricate trill glottalized	0	0	0	0		
+	4055	affricate trill labialized	0	0	0	0		
+	4056	affricate trill lateral-release	0	0	0	0		
+	4057	affricate trill long	0	0	0	0		
+	4058	affricate trill nasal-release	0	0	0	0		
+	4059	affricate trill palatalized	0	0	0	0		
+	4060	affricate trill pharyngealized	0	0	0	0		
+	4061	affricate trill preaspirated	0	0	0	0		
+	4062	affricate trill preglottalized	0	0	0	0		
+	4063	affricate trill prenasalized	0	0	0	0		
+	4064	affricate trill prestopped	0	0	0	0		
+	4065	affricate trill sibilant	0	0	0	0		
+	4066	affricate trill velar-fricated	0	0	0	0		
+	4067	affricate trill velarized	0	0	0	0		
+	4068	affricate trill voiced	0	0	0	0		
+	4069	affricate trill voiceless	0	0	0	0		
+	4070	affricate trill with-breathy-release	0	0	0	0		
+	4100	lateral fricative	0	0	0	0		
+	4101	lateral fricative bilabial	0	0	0	0		
+	4102	lateral fricative labiodental	0	0	0	0		
+	4103	lateral fricative labial-palatal	0	0	0	0		
+	4104	lateral fricative labial-velar	0	0	0	0		
+	4105	lateral fricative dental	0	0	0	0		
+	4106	lateral fricative alveolar	0	0	0	0		
+	4107	lateral fricative postalveolar	0	0	0	0		
+	4108	lateral fricative retroflex	0	0	0	0		
+	4109	lateral fricative palatal	0	0	0	0		
+	4110	lateral fricative velar	0	0	0	0		
+	4111	lateral fricative velar-alveolar	0	0	0	0		
+	4112	lateral fricative uvular	0	0	0	0		
+	4113	lateral fricative pharyngeal	0	0	0	0		
+	4114	lateral fricative epiglottal	0	0	0	0		
+	4115	lateral fricative glottal	0	0	0	0		
+	4116	lateral fricative laryngeal	0	0	0	0		
+	4150	lateral fricative aspirated	0	0	0	0		
+	4151	lateral fricative breathy-voiced	0	0	0	0		
+	4152	lateral fricative creaky-voiced	0	0	0	0		
+	4153	lateral fricative ejective	0	0	0	0		
+	4154	lateral fricative glottalized	0	0	0	0		
+	4155	lateral fricative labialized	0	0	0	0		
+	4156	lateral fricative lateral-release	0	0	0	0		
+	4157	lateral fricative long	0	0	0	0		
+	4158	lateral fricative nasal-release	0	0	0	0		
+	4159	lateral fricative palatalized	0	0	0	0		
+	4160	lateral fricative pharyngealized	0	0	0	0		
+	4161	lateral fricative preaspirated	0	0	0	0		
+	4162	lateral fricative preglottalized	0	0	0	0		
+	4163	lateral fricative prenasalized	0	0	0	0		
+	4164	lateral fricative prestopped	0	0	0	0		
+	4165	lateral fricative sibilant	0	0	0	0		
+	4166	lateral fricative velar-fricated	0	0	0	0		
+	4167	lateral fricative velarized	0	0	0	0		
+	4168	lateral fricative voiced	0	0	0	0		
+	4169	lateral fricative voiceless	0	0	0	0		
+	4170	lateral fricative with-breathy-release	0	0	0	0		
+	4200	lateral approximant	0	0	0	0		
+	4201	lateral approximant bilabial	0	0	0	0		
+	4202	lateral approximant labiodental	0	0	0	0		
+	4203	lateral approximant labial-palatal	0	0	0	0		
+	4204	lateral approximant labial-velar	0	0	0	0		
+	4205	lateral approximant dental	0	0	0	0		
+	4206	lateral approximant alveolar	0	0	0	0		
+	4207	lateral approximant postalveolar	0	0	0	0		
+	4208	lateral approximant retroflex	0	0	0	0		
+	4209	lateral approximant palatal	0	0	0	0		
+	4210	lateral approximant velar	0	0	0	0		
+	4211	lateral approximant velar-alveolar	0	0	0	0		
+	4212	lateral approximant uvular	0	0	0	0		
+	4213	lateral approximant pharyngeal	0	0	0	0		
+	4214	lateral approximant epiglottal	0	0	0	0		
+	4215	lateral approximant glottal	0	0	0	0		
+	4216	lateral approximant laryngeal	0	0	0	0		
+	4250	lateral approximant aspirated	0	0	0	0		
+	4251	lateral approximant breathy-voiced	0	0	0	0		
+	4252	lateral approximant creaky-voiced	0	0	0	0		
+	4253	lateral approximant ejective	0	0	0	0		
+	4254	lateral approximant glottalized	0	0	0	0		
+	4255	lateral approximant labialized	0	0	0	0		
+	4256	lateral approximant lateral-release	0	0	0	0		
+	4257	lateral approximant long	0	0	0	0		
+	4258	lateral approximant nasal-release	0	0	0	0		
+	4259	lateral approximant palatalized	0	0	0	0		
+	4260	lateral approximant pharyngealized	0	0	0	0		
+	4261	lateral approximant preaspirated	0	0	0	0		
+	4262	lateral approximant preglottalized	0	0	0	0		
+	4263	lateral approximant prenasalized	0	0	0	0		
+	4264	lateral approximant prestopped	0	0	0	0		
+	4265	lateral approximant sibilant	0	0	0	0		
+	4266	lateral approximant velar-fricated	0	0	0	0		
+	4267	lateral approximant velarized	0	0	0	0		
+	4268	lateral approximant voiced	0	0	0	0		
+	4269	lateral approximant voiceless	0	0	0	0		
+	4270	lateral approximant with-breathy-release	0	0	0	0		
+	4300	approximant	0	0	0	0		
+	4301	approximant bilabial	0	0	0	0		
+	4302	approximant labiodental	0	0	0	0		
+	4303	approximant labial-palatal	0	0	0	0		
+	4304	approximant labial-velar	0	0	0	0		
+	4305	approximant dental	0	0	0	0		
+	4306	approximant alveolar	0	0	0	0		
+	4307	approximant postalveolar	0	0	0	0		
+	4308	approximant retroflex	0	0	0	0		
+	4309	approximant palatal	0	0	0	0		
+	4310	approximant velar	0	0	0	0		
+	4311	approximant velar-alveolar	0	0	0	0		
+	4312	approximant uvular	0	0	0	0		
+	4313	approximant pharyngeal	0	0	0	0		
+	4314	approximant epiglottal	0	0	0	0		
+	4315	approximant glottal	0	0	0	0		
+	4316	approximant laryngeal	0	0	0	0		
+	4350	approximant aspirated	0	0	0	0		
+	4351	approximant breathy-voiced	0	0	0	0		
+	4352	approximant creaky-voiced	0	0	0	0		
+	4353	approximant ejective	0	0	0	0		
+	4354	approximant glottalized	0	0	0	0		
+	4355	approximant labialized	0	0	0	0		
+	4356	approximant lateral-release	0	0	0	0		
+	4357	approximant long	0	0	0	0		
+	4358	approximant nasal-release	0	0	0	0		
+	4359	approximant palatalized	0	0	0	0		
+	4360	approximant pharyngealized	0	0	0	0		
+	4361	approximant preaspirated	0	0	0	0		
+	4362	approximant preglottalized	0	0	0	0		
+	4363	approximant prenasalized	0	0	0	0		
+	4364	approximant prestopped	0	0	0	0		
+	4365	approximant sibilant	0	0	0	0		
+	4366	approximant velar-fricated	0	0	0	0		
+	4367	approximant velarized	0	0	0	0		
+	4368	approximant voiced	0	0	0	0		
+	4369	approximant voiceless	0	0	0	0		
+	4370	approximant with-breathy-release	0	0	0	0		
+	4400	click	0	0	0	0		
+	4401	click bilabial	0	0	0	0		
+	4402	click labiodental	0	0	0	0		
+	4403	click labial-palatal	0	0	0	0		
+	4404	click labial-velar	0	0	0	0		
+	4405	click dental	0	0	0	0		
+	4406	click alveolar	0	0	0	0		
+	4407	click postalveolar	0	0	0	0		
+	4408	click retroflex	0	0	0	0		
+	4409	click palatal	0	0	0	0		
+	4410	click velar	0	0	0	0		
+	4411	click velar-alveolar	0	0	0	0		
+	4412	click uvular	0	0	0	0		
+	4413	click pharyngeal	0	0	0	0		
+	4414	click epiglottal	0	0	0	0		
+	4415	click glottal	0	0	0	0		
+	4416	click laryngeal	0	0	0	0		
+	4450	click aspirated	0	0	0	0		
+	4451	click breathy-voiced	0	0	0	0		
+	4452	click creaky-voiced	0	0	0	0		
+	4453	click ejective	0	0	0	0		
+	4454	click glottalized	0	0	0	0		
+	4455	click labialized	0	0	0	0		
+	4456	click lateral-release	0	0	0	0		
+	4457	click long	0	0	0	0		
+	4458	click nasal-release	0	0	0	0		
+	4459	click palatalized	0	0	0	0		
+	4460	click pharyngealized	0	0	0	0		
+	4461	click preaspirated	0	0	0	0		
+	4462	click preglottalized	0	0	0	0		
+	4463	click prenasalized	0	0	0	0		
+	4464	click prestopped	0	0	0	0		
+	4465	click sibilant	0	0	0	0		
+	4466	click velar-fricated	0	0	0	0		
+	4467	click velarized	0	0	0	0		
+	4468	click voiced	0	0	0	0		
+	4469	click voiceless	0	0	0	0		
+	4470	click with-breathy-release	0	0	0	0		
+	4500	affricate lateral	0	0	0	0		
+	4501	affricate lateral bilabial	0	0	0	0		
+	4502	affricate lateral labiodental	0	0	0	0		
+	4503	affricate lateral labial-palatal	0	0	0	0		
+	4504	affricate lateral labial-velar	0	0	0	0		
+	4505	affricate lateral dental	0	0	0	0		
+	4506	affricate lateral alveolar	0	0	0	0		
+	4507	affricate lateral postalveolar	0	0	0	0		
+	4508	affricate lateral retroflex	0	0	0	0		
+	4509	affricate lateral palatal	0	0	0	0		
+	4510	affricate lateral velar	0	0	0	0		
+	4511	affricate lateral velar-alveolar	0	0	0	0		
+	4512	affricate lateral uvular	0	0	0	0		
+	4513	affricate lateral pharyngeal	0	0	0	0		
+	4514	affricate lateral epiglottal	0	0	0	0		
+	4515	affricate lateral glottal	0	0	0	0		
+	4516	affricate lateral laryngeal	0	0	0	0		
+	4550	affricate lateral aspirated	0	0	0	0		
+	4551	affricate lateral breathy-voiced	0	0	0	0		
+	4552	affricate lateral creaky-voiced	0	0	0	0		
+	4553	affricate lateral ejective	0	0	0	0		
+	4554	affricate lateral glottalized	0	0	0	0		
+	4555	affricate lateral labialized	0	0	0	0		
+	4556	affricate lateral lateral-release	0	0	0	0		
+	4557	affricate lateral long	0	0	0	0		
+	4558	affricate lateral nasal-release	0	0	0	0		
+	4559	affricate lateral palatalized	0	0	0	0		
+	4560	affricate lateral pharyngealized	0	0	0	0		
+	4561	affricate lateral preaspirated	0	0	0	0		
+	4562	affricate lateral preglottalized	0	0	0	0		
+	4563	affricate lateral prenasalized	0	0	0	0		
+	4564	affricate lateral prestopped	0	0	0	0		
+	4565	affricate lateral sibilant	0	0	0	0		
+	4566	affricate lateral velar-fricated	0	0	0	0		
+	4567	affricate lateral velarized	0	0	0	0		
+	4568	affricate lateral voiced	0	0	0	0		
+	4569	affricate lateral voiceless	0	0	0	0		
+	4570	affricate lateral with-breathy-release	0	0	0	0		

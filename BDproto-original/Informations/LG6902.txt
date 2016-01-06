@@ -1,0 +1,12 @@
+Language name: YUPIK
+
+Language number: 6902
+
+Alternate names: Chaplino
+
+Classification: Eskimo-Aleut, Eskimo
+
+Comments: 
+
+Sources: 
+Krauss, M.E. 1975. St. Lawrence Island Eskimo phonology and orthography.  Linguistics 152:39-72.

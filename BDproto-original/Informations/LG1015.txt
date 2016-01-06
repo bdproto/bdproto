@@ -1,0 +1,17 @@
+Language name: IJO
+
+Language number: 1015
+
+Classification: Niger-Kordofanian, Kwa
+
+Depth: 
+
+Author: K. Williamson
+
+Date: 1979
+
+Comments: 
+
+
+Sources: 
+K. Williamson, 1979, ‘Medial consonants in proto ijo’, Journal of African Languages and Linguistics, vol 1, n° 1, Foris Publications, Dordrecht

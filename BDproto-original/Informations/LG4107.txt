@@ -1,0 +1,16 @@
+Language name: WOLOF
+
+Language number: 4107
+
+Alternate names: 
+
+Classification: Niger-Kordofanian, West Atlantic
+
+Comments: 
+
+Sources: 
+Manessy, G. and Sauvageot, S. 1963. Notes Preliminaires to Wolof et Serer: Etudes de Phonetique et de Grammaire Descriptive. Universite de Dakar, Dakar.
+
+Sauvageot, S. 1965. Description Synchronique d'un Dialecte Wolof: le Parler du Dyolof (Memoires de l'Institut Fondamental d'Afrique Noire 73). IFAN, Dakar.
+
+Sauvageot, S. 1963. A short phonetic study of Wolof (Jolof) as spoken in the Gambia and in Senegal. Wolof et Serer (Manessy and Sauvageot, eds.) Universite de Dakar, Dakar.

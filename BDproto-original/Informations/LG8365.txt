@@ -1,0 +1,15 @@
+Language name: Kala Lagaw Ya
+
+Language number: 8365
+
+Alternate names: Mabuiag, Western Torres Straits
+
+Classification: Australian, Pama-Nyungan
+
+Comments:
+Kala Lagaw Ya is spoken in the western Torres Straits Islands, north of Cape York, Australia. Vowel sequences ending with /i/ or /u/ are said to be single syllabic peaks but to be two segments (Kennedy 1981).
+
+Sources: 
+Kennedy, R.J. 1981. Phonology of Kala Lagaw Ya in Saibai dialect. Work Papers of SIL-AAB (Summer Institute of Linguistics -- Australian Aborigines Branch, Darwin). Series A, 5: 103-137.
+
+Wurm, S.A. 1972. Languages of Australia and Tasmania. Mouton, The Hague.

@@ -1,0 +1,13 @@
+Language name: TLAPANEC
+
+Language number: 6772
+
+Alternate names: 
+
+Classification: N. American, Oto-Manguean
+
+Comments:
+Tlapanec is spoken in the state of Guewero, Mexico. It has a tone system of 3 levels plus sequences of these. Vowels may appear long and short, long vowels usually resulting from inflection. Mid vowels contrast rather marginally with high vowels, often being predictable with low tone.
+
+Sources: 
+Suarez, J.A. 1983. La Lengua Tlapaneca de Malinaltepec. Universidad Nacional Autonoma de Mexico, Mexico.

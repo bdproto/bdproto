@@ -1,0 +1,13 @@
+Language name: SAVOSAVO
+
+Language number: 8645
+
+Alternate names: 
+
+Classification: Papuan, East Papuan
+
+Comments:
+Savosavo is spoken on Savo Island just north of Guadalcanal, Solomon Islands. Todd's description (1975: 808) contains only a phoneme list but is based on quite substantial fieldwork. Stress is reported to be contrastive.
+
+Sources: 
+Todd, E.M. 1975. The Solomon language family. In S.A. Wurm (ed.), Papuan Languages and the New Guinea Linguistic Scene.  New Guinea Area Languages and Language Study, Vol. 1.  Pacific Linguistics, Series C, No. 38.  Australian National University, Canberra.

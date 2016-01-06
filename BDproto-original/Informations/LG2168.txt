@@ -1,0 +1,13 @@
+Language name: Nanai
+
+Language number: 2168
+
+Alternate names: Goldi
+
+Classification: Ural-Altaic, Tungus
+
+Comments:
+Nanai is spoken in the extreme Soviet far east, confluence of the Amur and Ussuri Rivers, scattered in Ussuri valley and Sikhote-alin, settled more densely in the Amur valley below Khabarovsk, in USSR. All vowels also appear long.  Vn in final position -> V~.  There are also 24 vowel combinations which  Avrorin calls "diphthongs".  Avrorin treats long vowels, nasalized vowels, and diphthongs as phonemic units, resulting in 42 vocalic phonemes.
+
+Sources: 
+Avrorin, V.A. 1968. Nanajski jazyk. In V.V. Vinogradov  (ed.), Jazyki Narodov SSSR, Vol. 5. Nauka, Leningrad and Moscow: 5: 129-48.

@@ -1,0 +1,13 @@
+Language name: IRAQW
+
+Language number: 4360
+
+Alternate names: 
+
+Classification: Afro-Asiatic, Cushitic
+
+Comments:
+Whitely implies that the voiced implosives may be contrastive morphophonologically but Chris Ehret (p.c.) considers them as free variants of voiced plosives. Non-low central vowels may be derived, leaving a five-vowel long/short basic system.  Iraqw probably has a two-level tone system.
+
+Sources: 
+Whiteley, W.H. 1958. A Short Description of Item Categories in Iraqw. East African Institute of Social Research, Kampala.

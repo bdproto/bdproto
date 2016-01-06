@@ -1,0 +1,14 @@
+Language name: BISA
+
+Language number: 4104
+
+Alternate names: 
+
+Classification: Niger-Kordofanian, Mande
+
+Comments: 
+
+Sources: 
+Naden, A.J. 1973. The Grammar and Semantics of Bisa. Summer Institute of Linguistics and School of Oriental and African Studies, London.
+
+Naden, A.J. 1973. The Grammar of Bisa. Ph. D. Thesis. School of Oriental and African Studies, London University, London.

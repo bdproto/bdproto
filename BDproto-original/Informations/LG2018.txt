@@ -1,0 +1,19 @@
+Language name: KASHMIRI
+
+Language number: 2018
+
+Alternate names: 
+
+Classification: Indo-European, Indic
+
+Comments:
+Most Kashmiri consonants in final position may occur with distinctive palatal, central or back (rounded) releases.  Zakharin (1974) sets up separate series of palatalized and labialized consonants to account for these.  Bhat (1987) interprets these releases as resulting from diphthongs preceding the consonants.  The solution preferred here is to treat these as instances of the short high vowels.  Nasalized vowels occur only in medial position.
+
+Sources: 
+Bhat, R. 1987. A descriptive study of Kashmiri.  Amar Prakashan Delhi.
+
+Kelkar, A.R. and Trisal, P.N. 1964. Kashmiri word phonology: a first sketch. Anthropological Linguistics 6/1: 13-22.
+
+Zakhar'in, B.A. 1974. Problemy fonologii iazyka kashmiri. Nauka, Moscow.
+
+Zakhar'in, B.A., Edel'man, D.I. 1971. Iazyk kashmiri. (Iazyki narodov Azii i Afriki). Nauka, Moscow.

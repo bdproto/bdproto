@@ -1,0 +1,13 @@
+Language name: FRENCH
+
+Language number: 2010
+
+Alternate names: 
+
+Classification: Indo-European, Romance
+
+Comments:
+French is spoken in France, parts of Canada, Belgium, Switzerland, Haiti, French Guiana, Monaco, Africa,  French Polynesia.
+
+Sources: 
+Sten, H. 1963. Manuel de Phonetique Francaise. Munksgaard, Copenhagen.

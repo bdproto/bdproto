@@ -1,0 +1,13 @@
+Language name: TERA
+
+Language number: 4375
+
+Alternate names: 
+
+Classification: Afro-Asiatic, Chadic (Wuyo dialect)
+
+Comments:
+Tera is spoken in an area east of Gombe in northern Nigeria. Tera has 3 level tones.
+
+Sources: 
+Newman, P. 1970. A grammar of Tera. UCPL no. 57. University of California Press, Berkeley and Los Angeles.

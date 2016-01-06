@@ -1,0 +1,17 @@
+Language name: PROTO-POMO
+
+Language number: 1115
+
+Classification: North-American, Hokan
+
+Depth: 
+
+Author: S. Mc Lendon
+
+Date: 1973
+
+Comments: 
+
+
+Sources: 
+S. Mc Lendon, 1973, ‘Proto-Pomo”, University of California Press, Berkeley, Los Angeles, London

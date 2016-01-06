@@ -1,0 +1,17 @@
+Language name: QUICHEAN
+
+Language number: 1010
+
+Classification: North-American, Penutian
+
+Depth: 
+
+Author: L. Campbell
+
+Date: 1977
+
+Comments: 
+
+
+Sources: 
+L. Campbell, 1977, ‘Quichean linguistic prehistory’, University of California Press, Berkeley, Los Angeles, London

@@ -1,0 +1,15 @@
+Language name: Lue
+
+Language number: 2427
+
+Alternate names: Li
+
+Classification: Austro-Tai, Li-Kam-Tai
+
+Comments:
+Lue is spoken in southern Yunnan, China, near the common border of Myanmar (Burma) and Laos. The language has six tones; high, mid and low level, mid-high and low-mid rising, high falling. Vowels in syllables closed by /p t k ?/ are short and these syllables may only have H or M tone. Final [w] (found after unrounded vowels only) is treated as an allophone of /v/. Final /j/ occurs after non-front vowels only. Morev (1978) lists one affricate (apparently [ts] at least before non-front vowels); Li (1964) lists aspirated and unaspirated "pre-palatal" affricates. Morev considers /kw, khw/ units, Li (1964) treats them as initial clusters.
+
+Sources: 
+Li, F-K. 1964. The phonemic system of the Tai Lu language. Bulletin of the Institute of History and Philology, Academia Sinica, vol. 35, Taipei.
+
+Morev, L.N. 1978. Jazyk Li. Nauka, Moscow.

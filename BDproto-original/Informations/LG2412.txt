@@ -1,0 +1,13 @@
+Language name: SAMA
+
+Language number: 2412
+
+Alternate names: Bajo, Bajau
+
+Classification: Austro-Tai, W. Malayo-Polynesian
+
+Comments:
+Sama is spoken in the Capul Island near San Bernadino Strait, northwest Samar in the phillipines.All vowels except schwa occur long and short and all consonants except /h/ and /?/ may appear geminate. Long vowels do not occur before geminates.  Since prenasalized consonants can be geminated and permit a long vowel to precede they are treated as single consonants. Verheijen's final diphthongs /ai,au/ are interpreted as /aj,aw/.
+
+Sources: 
+Verheijen, J.A.J. 1986. The Sama/Bajau Language in the Lesser Sunda Islands.  Pacific Linguistics, Series D, No. 70.  Materials in Languages of Indonesia, No. 32, series editor W.A.L Stokhof.  Australian National University, Canberra.

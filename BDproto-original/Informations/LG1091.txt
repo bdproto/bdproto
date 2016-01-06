@@ -1,0 +1,17 @@
+Language name: PERMIC
+
+Language number: 1091
+
+Classification: Ural-Altaic, Finno-Ugric
+
+Depth: 
+
+Author: 
+
+Date: 
+
+Comments: 
+
+
+Sources: 
+P. Sammallahti, 1988, ‘Historical phonology of the uralic languages’, The uralic languages, description, history and foreign influences, edited by Denis Sinor, E. J. Brill, Leiden, New York, Kobenhaun, Köln

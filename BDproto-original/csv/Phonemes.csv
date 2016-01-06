@@ -1,0 +1,932 @@
+																														
+	NUMClassement	APICodeEntier	APICode	SymboleAPI	Ajouter sous Excel	Champ1	Caracteristique	Theme	Type	CoordX	CoordY	NbTot	Selecte	Selecte1	CaractHex	Case 1	Case 2	Case 3	Case 4	Case 5	Case 6	Case 7	Case 8	Case 9	Case 10	Case 11	Case 12	Case 13	Case 14	Case 15
+	1	487	hi	i°	i°	voiceless high front unrounded peripheral vowel	vl high front unrnd perif vowel		2	0		3	FALSE	FALSE	006900B0									vl	high		front	unrnd	perif	vowel
+	2	534	i	i	i	high front unrounded peripheral vowel	high front unrnd perif vowel		1	0		393	FALSE	FALSE	0069										high		front	unrnd	perif	vowel
+	3	535	i*	i·	i·	creaky-voiced high front unrounded peripheral vowel	creaky high front unrnd perif vowel		2	0		4	FALSE	FALSE	00690387							creaky			high		front	unrnd	perif	vowel
+	4	536	i-	iĝ	iĝ	high front unrounded peripheral vowel velarized	high front unrnd perif vowel velzd		2	0		1	FALSE	FALSE	0069011D				velzd						high		front	unrnd	perif	vowel
+	5	537	i9	iſ	iſ	pharyngealized high front unrounded peripheral vowel	pharzd high front unrnd perif vowel		2	0		2	FALSE	FALSE	0069017F				pharzd						high		front	unrnd	perif	vowel
+	6	538	i9:	iſ►	iſ►	long pharyngealized high front unrounded peripheral vowel	long pharzd high front unrnd perif vowel		2	0		1	FALSE	FALSE	0069017F25BA				pharzd	long					high		front	unrnd	perif	vowel
+	7	539	i:	i►	i►	long high front unrounded peripheral vowel	long high front unrnd perif vowel		2	0		40	FALSE	FALSE	006925BA					long					high		front	unrnd	perif	vowel
+	8	544	iF	i»	i»	raised high front unrounded peripheral vowel	raisd high front unrnd perif vowel		2	0		1	FALSE	FALSE	006900BB						raisd				high		front	unrnd	perif	vowel
+	9	545	iS	i˘	i˘	overshort high front unrounded peripheral vowel	ovrshort high front unrnd perif vowel		2	0		2	FALSE	FALSE	006902D8					ovrshort					high		front	unrnd	perif	vowel
+	10	562	ih	i΄	i΄	breathy-voiced high front unrounded peripheral vowel	breathy high front unrnd perif vowel		2	0		5	FALSE	FALSE	00690384							breathy			high		front	unrnd	perif	vowel
+	11	566	i~	i†	i†	nasalized high front unrounded peripheral vowel	naszd high front unrnd perif vowel		2	0		82	FALSE	FALSE	00692020			naszd							high		front	unrnd	perif	vowel
+	12	567	i~*	i†·	i†·	creaky-voiced nasalized high front unrounded peripheral vowel	creaky naszd high front unrnd perif vowel		2	0		1	FALSE	FALSE	006920200387			naszd				creaky			high		front	unrnd	perif	vowel
+	13	568	i~-	i†ĝ	i†ĝ	nasalized high front unrounded peripheral vowel velarized	naszd high front unrnd perif vowel velzd		2	0		9	FALSE	FALSE	00692020011D			naszd	velzd						high		front	unrnd	perif	vowel
+	14	569	i~:	i†►	i†►	long nasalized high front unrounded peripheral vowel	long naszd high front unrnd perif vowel		2	0		0	FALSE	FALSE	0069202025BA			naszd		long					high		front	unrnd	perif	vowel
+	15	971		i¾†	i¾†	nasalized ad-tg-root high front unrounded peripheral vowel	naszd atroot high front unrnd perif vowel		2	0			FALSE	FALSE	006900BE2020			naszd						atroot	high		front	unrnd	perif	vowel
+	16	972		i¾	i¾	ad-tg-root high front unrounded peripheral vowel	atroot high front unrnd perif vowel		2	0			FALSE	FALSE	006900BE									atroot	high		front	unrnd	perif	vowel
+	17	905	y	y	y	high front rounded vowel	high front rounded vowel		1	1		24	FALSE	FALSE	0079										high		front	rounded		vowel
+	18	906	y:	y►	y►	long high front rounded vowel	long high front rounded vowel		2	1		4	FALSE	FALSE	007925BA					long					high		front	rounded		vowel
+	19	908	y~	y†	y†	nasalized high front rounded vowel	naszd high front rounded vowel		2	1		1	FALSE	FALSE	00792020			naszd							high		front	rounded		vowel
+	20	999		y˘	y˘	overshort high front rounded vowel	ovrshort high front rounded vowel		2	1			FALSE	FALSE	007902D8					ovrshort					high		front	rounded		vowel
+	21	547	i_	ï	ï	high central unrounded vowel	high central unrnd vowel		1	2		61	FALSE	FALSE	00EF										high		central	unrnd		vowel
+	22	548	i_.	ï²	ï²	retroflexed high central unrounded vowel	retrfld high central unrnd vowel		2	2		1	FALSE	FALSE	00EF00B2				retrfld						high		central	unrnd		vowel
+	23	549	i_:	ï►	ï►	long high central unrounded vowel	long high central unrnd vowel		2	2		3	FALSE	FALSE	00EF25BA					long					high		central	unrnd		vowel
+	24	551	i_S	ï˘	ï˘	overshort high central unrounded vowel	ovrshort high central unrnd vowel		2	2		2	FALSE	FALSE	00EF02D8					ovrshort					high		central	unrnd		vowel
+	25	555	i_~	ï†	ï†	nasalized high central unrounded vowel	naszd high central unrnd vowel		2	2		11	FALSE	FALSE	00EF2020			naszd							high		central	unrnd		vowel
+	26	556	i_~:	ï†►	ï†►	long nasalized high central unrounded vowel	long naszd high central unrnd vowel		2	2		1	FALSE	FALSE	00EF202025BA			naszd		long					high		central	unrnd		vowel
+	27	963		ï°	ï°	voiceless high central unrounded vowel	vl high central unrnd vowel		2	2			FALSE	FALSE	00EF00B0									vl	high		central	unrnd		vowel
+	28	857	u+	U	U	high central rounded vowel	high central rounded vowel		1	3		6	FALSE	FALSE	0055										high		central	rounded		vowel
+	29	858	u+:	U►	U►	long high central rounded vowel	long high central rounded vowel		2	3		1	FALSE	FALSE	005525BA					long					high		central	rounded		vowel
+	30	859	u+S	U˘	U˘	overshort high central rounded vowel	ovrshort high central rounded vowel		2	3		1	FALSE	FALSE	005502D8					ovrshort					high		central	rounded		vowel
+	31	875	uu	Ū	Ū	high back unrounded vowel	high back unrnd vowel		1	4		41	FALSE	FALSE	016A										high		back	unrnd		vowel
+	32	876	uu:	Ū►	Ū►	long high back unrounded vowel	long high back unrnd vowel		2	4		1	FALSE	FALSE	016A25BA					long					high		back	unrnd		vowel
+	33	879	uuF	Ū»	Ū»	raised high back unrounded lip-compressed vowel	raisd high back unrnd lipcomp vowel		2	4		2	FALSE	FALSE	016A00BB						raisd			lipcomp	high		back	unrnd		vowel
+	34	882	uuh	Ū΄	Ū΄	breathy-voiced high back unrounded vowel	breathy high back unrnd vowel		2	4		3	FALSE	FALSE	016A0384							breathy			high		back	unrnd		vowel
+	35	885	uu~	Ū†	Ū†	nasalized high back unrounded vowel	naszd high back unrnd vowel		2	4		7	FALSE	FALSE	016A2020			naszd							high		back	unrnd		vowel
+	36	531	hu	u°	u°	voiceless high back rounded peripheral vowel	vl high back rounded perif vowel		2	5		3	FALSE	FALSE	007500B0									vl	high		back	rounded	perif	vowel
+	37	855	u	u	u	high back rounded peripheral vowel	high back rounded perif vowel		1	5		369	FALSE	FALSE	0075										high		back	rounded	perif	vowel
+	38	856	u*	u·	u·	creaky-voiced high back rounded peripheral vowel	creaky high back rounded perif vowel		2	5		3	FALSE	FALSE	00750387							creaky			high		back	rounded	perif	vowel
+	39	860	u9	uſ	uſ	pharyngealized high back rounded peripheral vowel	pharzd high back rounded perif vowel		2	5		2	FALSE	FALSE	0075017F				pharzd						high		back	rounded	perif	vowel
+	40	861	u9:	uſ►	uſ►	long pharyngealized high back rounded peripheral vowel	long pharzd high back rounded perif vowel		2	5		1	FALSE	FALSE	0075017F25BA				pharzd	long					high		back	rounded	perif	vowel
+	41	862	u:	u►	u►	long high back rounded peripheral vowel	long high back rounded perif vowel		2	5		36	FALSE	FALSE	007525BA					long					high		back	rounded	perif	vowel
+	42	865	uF	u»	u»	raised high back rounded peripheral vowel	raisd high back rounded perif vowel		2	5		1	FALSE	FALSE	007500BB						raisd				high		back	rounded	perif	vowel
+	43	866	uS	u˘	u˘	overshort high back rounded peripheral vowel	ovrshort high back rounded perif vowel		2	5		2	FALSE	FALSE	007502D8					ovrshort					high		back	rounded	perif	vowel
+	44	870	uh	u΄	u΄	breathy-voiced high back rounded peripheral vowel	breathy high back rounded perif vowel		2	5		5	FALSE	FALSE	00750384							breathy			high		back	rounded	perif	vowel
+	45	886	u~	u†	u†	nasalized high back rounded peripheral vowel	naszd high back rounded perif vowel		2	5		74	FALSE	FALSE	00752020			naszd							high		back	rounded	perif	vowel
+	46	887	u~:	u†►	u†►	long nasalized high back rounded peripheral vowel	long naszd high back rounded perif vowel		2	5		7	FALSE	FALSE	0075202025BA			naszd		long					high		back	rounded	perif	vowel
+	47	993		u¾†	u¾†	nasalized ad-tg-root high back rounded peripheral vowel	naszd atroot high back rounded perif vowel		2	5			FALSE	FALSE	007500BE2020			naszd						atroot	high		back	rounded	perif	vowel
+	48	994		u¾	u¾	ad-tg-root high back rounded peripheral vowel	atroot high back rounded perif vowel		2	5			FALSE	FALSE	007500BE									atroot	high		back	rounded	perif	vowel
+	49	215	I!	I	I	lowered-high front unrounded peripheral vowel	lordhig front unrnd perif vowel		1	6		74	FALSE	FALSE	0049										lordhig		front	unrnd	perif	vowel
+	50	216	I!9	Iſ	Iſ	pharyngealized lowered-high front unrounded peripheral vowel	pharzd lordhig front unrnd perif vowel		2	6		2	FALSE	FALSE	0049017F				pharzd						lordhig		front	unrnd	perif	vowel
+	51	217	I!S	I˘	I˘	overshort lowered-high front unrounded peripheral vowel	ovrshort lordhig front unrnd perif vowel		2	6		1	FALSE	FALSE	004902D8					ovrshort					lordhig		front	unrnd	perif	vowel
+	52	221	I!~	I†	I†	nasalized lowered-high front unrounded peripheral vowel	naszd lordhig front unrnd perif vowel		2	6		10	FALSE	FALSE	00492020			naszd							lordhig		front	unrnd	perif	vowel
+	53	292	Y!	Y	Y	lowered-high front rounded vowel	lordhig front rounded vowel		1	7		4	FALSE	FALSE	0059										lordhig		front	rounded		vowel
+	54	218	I!_	Iˉ	Iˉ	lowered-high central unrounded vowel	lordhig central unrnd vowel		1	8		4	FALSE	FALSE	004902C9										lordhig		central	unrnd		vowel
+	55	219	I!_~	I†ˉ	I†ˉ	nasalized lowered-high central unrounded vowel	naszd lordhig central unrnd vowel		2	8		1	FALSE	FALSE	0049202002C9			naszd							lordhig		central	unrnd		vowel
+	56	274	U!+	Ωº	Ωº	lowered-high central rounded vowel	lordhig central rounded vowel		1	9		1	FALSE	FALSE	03A900BA										lordhig		central	rounded		vowel
+	57	278	U!U	Ū¼	Ū¼	lowered-high back unrounded vowel	lordhig back unrnd vowel		1	10		5	FALSE	FALSE	016A00BC										lordhig		back	unrnd		vowel
+	58	281	UUS	Ū¼˘	Ū¼˘	overshort lowered-high back unrounded vowel	ovrshort lordhig back unrnd vowel		2	10		1	FALSE	FALSE	016A00BC02D8					ovrshort					lordhig		back	unrnd		vowel
+	59	273	U!	Ω	Ω	lowered-high back rounded peripheral vowel	lordhig back rounded perif vowel		1	11		66	FALSE	FALSE	03A9										lordhig		back	rounded	perif	vowel
+	60	275	U!9	Ωſ	Ωſ	pharyngealized lowered-high back rounded peripheral vowel	pharzd lordhig back rounded perif vowel		2	11		2	FALSE	FALSE	03A9017F				pharzd						lordhig		back	rounded	perif	vowel
+	61	276	U!:	Ω►	Ω►	long lowered-high back rounded peripheral vowel	long lordhig back rounded perif vowel		2	11		1	FALSE	FALSE	03A925BA					long					lordhig		back	rounded	perif	vowel
+	62	277	U!S	Ω˘	Ω˘	overshort lowered-high back rounded peripheral vowel	ovrshort lordhig back rounded perif vowel		2	11		1	FALSE	FALSE	03A902D8					ovrshort					lordhig		back	rounded	perif	vowel
+	63	280	U!~	Ω†	Ω†	nasalized lowered-high back rounded peripheral vowel	naszd lordhig back rounded perif vowel		2	11		9	FALSE	FALSE	03A92020			naszd							lordhig		back	rounded	perif	vowel
+	64	32	e9	eſ	eſ	pharyngealized higher-mid front unrounded peripheral vowel	pharzd himid front unrnd perif vowel		2	12		4	FALSE	FALSE	0065017F				pharzd						himid		front	unrnd	perif	vowel
+	65	34	eS	e˘	e˘	overshort higher-mid front unrounded peripheral vowel	ovrshort himid front unrnd perif vowel		2	12		1	FALSE	FALSE	006502D8					ovrshort					himid		front	unrnd	perif	vowel
+	66	37	e~*	e†·	e†·	creaky-voiced nasalized higher-mid front unrounded peripheral vowel	creaky naszd himid front unrnd perif vowel		2	12		1	FALSE	FALSE	006520200387			naszd				creaky			himid		front	unrnd	perif	vowel
+	67	38	he	e°	e°	voiceless higher-mid front unrounded peripheral vowel	vl himid front unrnd perif vowel		2	12		1	FALSE	FALSE	006500B0									vl	himid		front	unrnd	perif	vowel
+	68	420	e	e	e	higher-mid front unrounded peripheral vowel	himid front unrnd perif vowel		1	12		124	FALSE	FALSE	0065										himid		front	unrnd	perif	vowel
+	69	421	e*	e·	e·	creaky-voiced higher-mid front unrounded peripheral vowel	creaky himid front unrnd perif vowel		2	12		2	FALSE	FALSE	00650387							creaky			himid		front	unrnd	perif	vowel
+	70	422	e:	e►	e►	long higher-mid front unrounded peripheral vowel	long himid front unrnd perif vowel		2	12		21	FALSE	FALSE	006525BA					long					himid		front	unrnd	perif	vowel
+	71	424	e_	eˉ	eˉ	higher-mid retracted front unrounded peripheral vowel	himid retactd front unrnd perif vowel		2	12		2	FALSE	FALSE	006502C9		retactd								himid		front	unrnd	perif	vowel
+	72	426	eh	e΄	e΄	breathy-voiced higher-mid front unrounded peripheral vowel	breathy himid front unrnd perif vowel		2	12		5	FALSE	FALSE	00650384							breathy			himid		front	unrnd	perif	vowel
+	73	432	e~	e†	e†	nasalized higher-mid front unrounded peripheral vowel	naszd himid front unrnd perif vowel		2	12		18	FALSE	FALSE	00652020			naszd							himid		front	unrnd	perif	vowel
+	74	433	e~:	e†►	e†►	long nasalized higher-mid front unrounded peripheral vowel	long naszd himid front unrnd perif vowel		2	12		2	FALSE	FALSE	0065202025BA			naszd		long					himid		front	unrnd	perif	vowel
+	75	964		e¾	e¾	ad-tg-root higher-mid front peripheral unrounded vowel	atroot himid front perif unrnd vowel		2	12			FALSE	FALSE	006500BE									atroot	himid		front	unrnd	perif	vowel
+	76	81	o/9	ǿſ	ǿſ	pharyngealized higher-mid front rounded vowel	pharzd himid front rounded vowel		2	13		1	FALSE	FALSE	01FF017F				pharzd						himid		front	rounded		vowel
+	77	701	o/	ǿ	ǿ	higher-mid front rounded vowel	himid front rounded vowel		1	13		12	FALSE	FALSE	01FF										himid		front	rounded		vowel
+	78	702	o/:	ǿ►	ǿ►	long higher-mid front rounded vowel	long himid front rounded vowel		2	13		2	FALSE	FALSE	01FF25BA					long					himid		front	rounded		vowel
+	79	703	o/S	ǿ˘	ǿ˘	overshort higher-mid front rounded vowel	ovrshort himid front rounded vowel		2	13		1	FALSE	FALSE	01FF02D8					ovrshort					himid		front	rounded		vowel
+	80	704	o/_	ǿˉ	ǿˉ	higher-mid retracted front rounded vowel	himid retactd front rounded vowel		2	13		1	FALSE	FALSE	01FF02C9		retactd								himid		front	rounded		vowel
+	81	986		ǿ†	ǿ†	nasalized higher-mid front rounded vowel	naszd himid front rounded vowel		2	13			FALSE	FALSE	01FF2020			naszd							himid		front	rounded		vowel
+	82	180	@:	E►	E►	long higher-mid central unrounded vowel	long himid central unrnd vowel		2	14		2	FALSE	FALSE	004525BA					long					himid		central	unrnd		vowel
+	83	184	@~	E†	E†	nasalized higher-mid central unrounded vowel	naszd himid central unrnd vowel		2	14		2	FALSE	FALSE	00452020			naszd							himid		central	unrnd		vowel
+	84	185	@~:	E†►	E†►	long nasalized higher-mid central unrounded vowel	long naszd himid central unrnd vowel		2	14		1	FALSE	FALSE	0045202025BA			naszd		long					himid		central	unrnd		vowel
+	85	177	E	E	E	higher-mid central unrounded vowel	himid central unrnd vowel		2	14		0	FALSE	FALSE	0045										himid		central	unrnd		vowel
+	86	922		E˘	E˘	overshort higher-mid central unrounded vowel	ovrshort himid central unrnd vowel		2	14			FALSE	FALSE	004502D8					ovrshort					himid		central	unrnd		vowel
+	87	923		E²	E²	retroflexed higher-mid central unrounded vowel	retrfld himid central unrnd vowel		2	14			FALSE	FALSE	004500B2				retrfld						himid		central	unrnd		vowel
+	88	14	@)S	θ˘	θ˘	overshort higher-mid central rounded vowel	ovrshort himid central rounded vowel	14	2	15		2	FALSE	FALSE	03B802D8					ovrshort					himid		central	rounded		vowel
+	89	178	@)	θ	θ	higher-mid central rounded vowel	himid central rounded vowel		1	15		4	FALSE	FALSE	03B8										himid		central	rounded		vowel
+	90	179	@)~	θ†	θ†	nasalized higher-mid central rounded vowel	naszd himid central rounded vowel		2	15		1	FALSE	FALSE	03B82020			naszd							himid		central	rounded		vowel
+	91	943		θ►	θ►	long higher-mid central rounded vowel	long himid central rounded vowel		2	15			FALSE	FALSE	03B825BA					long					himid		central	rounded		vowel
+	92	75	o(+~	ģ†º	ģ†º	nasalized advanced higher-mid back unrounded vowel	naszd advad himid back unrnd vowel		2	9		1	FALSE	FALSE	0123202000BA		advad	naszd							himid		back	unrnd		vowel
+	93	76	o(:	ģ►	ģ►	long higher-mid back unrounded vowel	long himid back unrnd vowel		2	16		1	FALSE	FALSE	012325BA					long					himid		back	unrnd		vowel
+	94	77	o(~	ģ†	ģ†	nasalized higher-mid back unrounded vowel	naszd himid back unrnd vowel		2	16		2	FALSE	FALSE	01232020			naszd							himid		back	unrnd		vowel
+	95	694	o(	ģ	ģ	higher-mid back unrounded vowel	himid back unrnd vowel		1	16		12	FALSE	FALSE	0123										himid		back	unrnd		vowel
+	96	695	o(+	ģº	ģº	advanced higher-mid back unrounded vowel	advad himid back unrnd vowel		2	9		2	FALSE	FALSE	012300BA		advad								himid		back	unrnd		vowel
+	97	696	o(h	ģ΄	ģ΄	breathy-voiced higher-mid back unrounded vowel	breathy himid back unrnd vowel		2	11		3	FALSE	FALSE	01230384							breathy			himid		back	unrnd		vowel
+	98	47	ho	o°	o°	voiceless higher-mid back rounded peripheral vowel	vl himid back rounded perif vowel		2	17		1	FALSE	FALSE	006F00B0									vl	himid		back	rounded	perif	vowel
+	99	83	o9	oſ	oſ	pharyngealized higher-mid back rounded peripheral vowel	pharzd himid back rounded perif vowel		2	17		3	FALSE	FALSE	006F017F				pharzd						himid		back	rounded	perif	vowel
+	100	84	o9:	oſ►	oſ►	long pharyngealized higher-mid back rounded peripheral vowel	long pharzd himid back8 rounded perif vowel		2	17		1	FALSE	FALSE	006F017F25BA				pharzd	long					himid		back	rounded	perif	vowel
+	101	85	o9~	o†ſ	o†ſ	nasalized pharyngealized higher-mid back rounded peripheral vowel	naszd pharzd himid back rounded perif vowel		2	17		1	FALSE	FALSE	006F2020017F			naszd	pharzd						himid		back	rounded	perif	vowel
+	102	89	o~*	o†·	o†·	creaky-voiced nasalized higher-mid back rounded peripheral vowel	creaky naszd himid back rounded perif vowel		2	17		1	FALSE	FALSE	006F20200387			naszd				creaky			himid		back	rounded	perif	vowel
+	103	693	o	o	o	higher-mid back rounded peripheral vowel	himid back rounded perif vowel		1	17		131	FALSE	FALSE	006F										himid		back	rounded	perif	vowel
+	104	699	o*	o·	o·	creaky-voiced higher-mid back rounded peripheral vowel	creaky himid back rounded perif vowel		2	17		2	FALSE	FALSE	006F0387							creaky			himid		back	rounded	perif	vowel
+	105	700	o+	oº	oº	advanced higher-mid back rounded peripheral vowel	advad himid back rounded perif vowel		2	17		1	FALSE	FALSE	006F00BA		advad								himid		back	rounded	perif	vowel
+	106	706	o:	o►	o►	long higher-mid back rounded peripheral vowel	long himid back rounded perif vowel		2	17		24	FALSE	FALSE	006F25BA					long					himid		back	rounded	perif	vowel
+	107	707	oS	o˘	o˘	overshort higher-mid back rounded peripheral vowel	ovrshort himid back rounded perif vowel		2	17		1	FALSE	FALSE	006F02D8					ovrshort					himid		back	rounded	perif	vowel
+	108	713	oh	o΄	o΄	breathy-voiced higher-mid back rounded peripheral vowel	breathy himid back rounded perif vowel		2	17		5	FALSE	FALSE	006F0384							breathy			himid		back	rounded	perif	vowel
+	109	721	o~	o†	o†	nasalized higher-mid back rounded peripheral vowel	naszd himid back rounded perif vowel		2	17		27	FALSE	FALSE	006F2020			naszd							himid		back	rounded	perif	vowel
+	110	722	o~:	o†►	o†►	long nasalized higher-mid back rounded peripheral vowel	long naszd himid back rounded perif vowel		2	17		4	FALSE	FALSE	006F202025BA			naszd		long					himid		back	rounded	perif	vowel
+	111	985		o¾	o¾	ad-tg-root higher-mid back rounded peripheral vowel	atroot himid back rounded perif vowel		2	17			FALSE	FALSE	006F00BE									atroot	himid		back	rounded	perif	vowel
+	112	12	@	∂	∂	mid central unrounded vowel	md central unrnd vowel	14	1	18		76	FALSE	FALSE	2202										04md		central	unrnd		vowel
+	113	15	@.	∂²	∂²	retroflexed mid central unrounded vowel	retrfld md central unrnd vowel	14	2	18		3	FALSE	FALSE	220200B2				retrfld						04md		central	unrnd		vowel
+	114	16	@:	∂►	∂►	long mid central unrounded vowel	long md central unrnd vowel	14	2	18		2	FALSE	FALSE	220225BA					long					04md		central	unrnd		vowel
+	115	17	@S	∂˘	∂˘	overshort mid central unrounded vowel	ovrshort md central unrnd vowel	14	2	18		4	FALSE	FALSE	220202D8					ovrshort					04md		central	unrnd		vowel
+	116	18	@~	∂†	∂†	nasalized mid central unrounded vowel	naszd md central unrnd vowel	14	2	18		12	FALSE	FALSE	22022020			naszd							04md		central	unrnd		vowel
+	117	936		∂¾	∂¾	ad-tg-root mid central unrounded vowel	atroot md central unrnd vowel		2	18			FALSE	FALSE	220200BE									atroot	04md		central	unrnd		vowel
+	118	196	E!	è	è	lower-mid front unrounded peripheral vowel	lomid front unrnd perif vowel		1	19		186	FALSE	FALSE	00E8										lomid		front	unrnd	perif	vowel
+	119	197	E!*	è·	è·	creaky-voiced lower-mid front unrounded peripheral vowel	creaky lomid front unrnd perif vowel		2	19		3	FALSE	FALSE	00E80387							creaky			lomid		front	unrnd	perif	vowel
+	120	198	E!:	è►	è►	long lower-mid front unrounded peripheral vowel	long lomid front unrnd perif vowel		2	19		14	FALSE	FALSE	00E825BA					long					lomid		front	unrnd	perif	vowel
+	121	199	E!h	è΄	è΄	breathy-voiced lower-mid front unrounded peripheral vowel	breathy lomid front unrnd perif vowel		2	19		4	FALSE	FALSE	00E80384							breathy			lomid		front	unrnd	perif	vowel
+	122	202	E!~	è†	è†	nasalized lower-mid front unrounded peripheral vowel	naszd lomid front unrnd perif vowel		2	19		35	FALSE	FALSE	00E82020			naszd							lomid		front	unrnd	perif	vowel
+	123	203	E!~:	è†►	è†►	long nasalized lower-mid front unrounded peripheral vowel	long naszd lomid front unrnd perif vowel		2	19		4	FALSE	FALSE	00E8202025BA			naszd		long					lomid		front	unrnd	perif	vowel
+	124	207	ES	è˘	è˘	overshort lower-mid front unrounded peripheral vowel	ovrshort lomid front unrnd perif vowel		2	19		1	FALSE	FALSE	00E802D8					ovrshort					lomid		front	unrnd	perif	vowel
+	125	204	E)	œ	œ	lower-mid front rounded vowel	lomid front rounded vowel		1	20		8	FALSE	FALSE	0153										lomid		front	rounded		vowel
+	126	205	E)~	œ†	œ†	nasalized lower-mid front rounded vowel	naszd lomid front rounded vowel		2	20		1	FALSE	FALSE	01532020			naszd							lomid		front	rounded		vowel
+	127	155	3	Э	Э	lower-mid central unrounded vowel	lomid central unrnd vowel		1	21		15	FALSE	FALSE	042D										lomid		central	unrnd		vowel
+	128	157	3:	Э►	Э►	long lower-mid central unrounded vowel	long lomid central unrnd vowel		2	21		0	FALSE	FALSE	042D25BA					long					lomid		central	unrnd		vowel
+	129	159	3~	Э†	Э†	nasalized lower-mid central unrounded vowel	naszd lomid central unrnd vowel		2	21		3	FALSE	FALSE	042D2020			naszd							lomid		central	unrnd		vowel
+	130	156	3)	ő	ő	lower-mid central rounded vowel	lomid central rounded vowel		1	22		1	FALSE	FALSE	0151										lomid		central	rounded		vowel
+	131	298	^	Δ	Δ	lower-mid back unrounded vowel	lomid back unrnd vowel		1	23		10	FALSE	FALSE	0394										lomid		back	unrnd		vowel
+	132	299	^h	Δ΄	Δ΄	breathy-voiced lower-mid back unrounded vowel	breathy lomid back unrnd vowel		2	23		1	FALSE	FALSE	03940384							breathy			lomid		back	unrnd		vowel
+	133	300	^~	Δ†	Δ†	nasalized lower-mid back unrounded vowel	naszd lomid back unrnd vowel		2	23		1	FALSE	FALSE	03942020			naszd							lomid		back	unrnd		vowel
+	134	239	O!	O	O	lower-mid back rounded peripheral vowel	lomid back rounded perif vowel		1	24		162	FALSE	FALSE	004F										lomid		back	rounded	perif	vowel
+	135	240	O!*	O·	O·	creaky-voiced lower-mid back rounded peripheral vowel	creaky lomid back rounded perif vowel		2	24		3	FALSE	FALSE	004F0387							creaky			lomid		back	rounded	perif	vowel
+	136	241	O!:	O►	O►	long lower-mid back rounded peripheral vowel	long lomid back rounded perif vowel		2	24		8	FALSE	FALSE	004F25BA					long					lomid		back	rounded	perif	vowel
+	137	242	O!S	O˘	O˘	overshort lower-mid back rounded peripheral vowel	ovrshort lomid back rounded perif vowel		2	24		2	FALSE	FALSE	004F02D8					ovrshort					lomid		back	rounded	perif	vowel
+	138	243	O!h	O΄	O΄	breathy-voiced lower-mid back rounded peripheral vowel	breathy lomid back rounded perif vowel		2	24		4	FALSE	FALSE	004F0384							breathy			lomid		back	rounded	perif	vowel
+	139	247	O!~	O†	O†	nasalized lower-mid back rounded peripheral vowel	naszd lomid back rounded perif vowel		2	24		32	FALSE	FALSE	004F2020			naszd							lomid		back	rounded	perif	vowel
+	140	248	O!~:	O†►	O†►	long nasalized lower-mid back rounded peripheral vowel	long naszd lomid back rounded perif vowel		2	24		2	FALSE	FALSE	004F202025BA			naszd		long					lomid		back	rounded	perif	vowel
+	141	249	O9	Oſ	Oſ	pharyngealized lower-mid back rounded peripheral vowel	pharzd lomid back rounded perif vowel		2	24		2	FALSE	FALSE	004F017F				pharzd						lomid		back	rounded	perif	vowel
+	142	250	O9~:	O†ſ►	O†ſ►	long nasalized pharyngealized lower-mid back rounded peripheral vowel	long naszd pharzd lomid back rounded perif vowel		2	24		1	FALSE	FALSE	004F2020017F25BA			naszd	pharzd	long					lomid		back	rounded	perif	vowel
+	143	326	aa	æ	æ	raised-low front unrounded peripheral vowel	raidlo front unrnd perif vowel		1	25		39	FALSE	FALSE	00E6										raidlo		front	unrnd	perif	vowel
+	144	327	aa9	æſ	æſ	pharyngealized raised-low front unrounded peripheral vowel	pharzd raidlo front unrnd perif vowel		2	25		1	FALSE	FALSE	00E6017F				pharzd						raidlo		front	unrnd	perif	vowel
+	145	328	aa:	æ►	æ►	long raised-low front unrounded peripheral vowel	long raidlo front unrnd perif vowel		2	25		8	FALSE	FALSE	00E625BA					long					raidlo		front	unrnd	perif	vowel
+	146	331	aa~	æ†	æ†	nasalized raised-low front unrounded peripheral vowel	naszd raidlo front unrnd perif vowel		2	25		10	FALSE	FALSE	00E62020			naszd							raidlo		front	unrnd	perif	vowel
+	147	160	4	á	á	raised-low central unrounded vowel	raidlo central unrnd vowel		1	26		14	FALSE	FALSE	00E1										raidlo		central	unrnd		vowel
+	148	163	49	áſ	áſ	pharyngealized raised-low central unrounded vowel	pharzd raidlo central unrnd vowel		2	26		1	FALSE	FALSE	00E1017F				pharzd						raidlo		central	unrnd		vowel
+	149	164	4S	á˘	á˘	overshort raised-low central unrounded vowel	ovrshort raidlo central unrnd vowel		2	26		1	FALSE	FALSE	00E102D8					ovrshort					raidlo		central	unrnd		vowel
+	150	948		á►	á►	long raised-low central unrounded vowel	long raidlo central unrnd vowel		2	26			FALSE	FALSE	00E125BA					long					raidlo		central	unrnd		vowel
+	151	165	4_	A»	A»	raised-low back unrounded vowel	raidlo back unrnd vowel		1	27		1	FALSE	FALSE	004100BB										raidlo		back	unrnd		vowel
+	152	162	4)_	â»	â»	raised-low back rounded peripheral vowel	raidlo back rounded perif vowel		1	28		1	FALSE	FALSE	00E200BB										raidlo		back	rounded	perif	vowel
+	153	303	a+	aº	aº	low front unrounded peripheral vowel	low front unrnd perif vowel		1	29		26	FALSE	FALSE	006100BA										low		front	unrnd	perif	vowel
+	154	304	a+:	aº►	aº►	long low front unrounded peripheral vowel	long low front unrnd perif vowel		2	29		5	FALSE	FALSE	006100BA25BA					long					low		front	unrnd	perif	vowel
+	155	307	a+~	a†º	a†º	nasalized low front unrounded peripheral vowel	naszd low front unrnd perif vowel		2	29		5	FALSE	FALSE	0061202000BA			naszd							low		front	unrnd	perif	vowel
+	156	301	a	a	a	low central peripheral unrounded vowel	low central unrnd perif vowel		1	31		392	FALSE	FALSE	0061										low		central	unrnd	perif	vowel
+	157	302	a*	a·	a·	creaky-voiced low central unrounded peripheral vowel	creaky low central unrnd perif vowel		2	31		4	FALSE	FALSE	00610387							creaky			low		central	unrnd	perif	vowel
+	158	308	a.	a²	a²	retroflexed low central unrounded peripheral vowel	retrfld low central unrnd perif vowel		2	31		1	FALSE	FALSE	006100B2				retrfld						low		central	unrnd	perif	vowel
+	159	309	a9	aſ	aſ	pharyngealized low central unrounded peripheral vowel	pharzd low central unrnd perif vowel		2	31		3	FALSE	FALSE	0061017F				pharzd						low		central	unrnd	perif	vowel
+	160	310	a9:	aſ►	aſ►	long pharyngealized low central unrounded peripheral vowel	long pharzd low central unrnd perif vowel		2	31		2	FALSE	FALSE	0061017F25BA				pharzd	long					low		central	unrnd	perif	vowel
+	161	311	a9~	a†ſ	a†ſ	nasalized pharyngealized low central unrounded peripheral vowel	naszd pharzd low central unrnd perif vowel		2	31		1	FALSE	FALSE	00612020017F			naszd	pharzd						low		central	unrnd	perif	vowel
+	162	312	a9~:	a†ſ►	a†ſ►	long nasalized pharyngealized low central unrounded peripheral vowel	long naszd pharzd low central unrnd perif vowel		2	31		1	FALSE	FALSE	00612020017F25BA			naszd	pharzd	long					low		central	unrnd	perif	vowel
+	163	313	a:	a►	a►	long low central unrounded peripheral vowel	long low central unrnd perif vowel		2	31		34	FALSE	FALSE	006125BA					long					low		central	unrnd	perif	vowel
+	164	315	aS	a˘	a˘	overshort low central unrounded peripheral vowel	ovrshort low central unrnd perif vowel		2	31		3	FALSE	FALSE	006102D8					ovrshort					low		central	unrnd	perif	vowel
+	165	335	ah	a΄	a΄	breathy-voiced low central unrounded peripheral vowel	breathy low central unrnd perif vowel		2	31		5	FALSE	FALSE	00610384							breathy			low		central	unrnd	perif	vowel
+	166	347	a~	a†	a†	nasalized low central unrounded peripheral vowel	naszd low central unrnd perif vowel		2	31		83	FALSE	FALSE	00612020			naszd							low		central	unrnd	perif	vowel
+	167	348	a~*	a†·	a†·	creaky-voiced nasalized low central unrounded peripheral vowel	creaky naszd low central unrnd perif vowel		2	31		1	FALSE	FALSE	006120200387			naszd				creaky			low		central	unrnd	perif	vowel
+	168	349	a~:	a†►	a†►	long nasalized low central unrounded peripheral vowel	long naszd low central unrnd perif vowel		2	31		7	FALSE	FALSE	0061202025BA			naszd		long					low		central	unrnd	perif	vowel
+	169	485	ha	a°	a°	voiceless low central unrounded peripheral vowel	vl low central unrnd perif vowel		2	31		1	FALSE	FALSE	006100B0									vl	low		central	unrnd	perif	vowel
+	170	947		a†¾	a†¾	nasalized ad-tg-root low central unrounded vowel	naszd atroot low central unrnd vowel		2	31			FALSE	FALSE	0061202000BE			naszd						atroot	low		central	unrnd		vowel
+	171	951		a¾	a¾	ad-tg-root low central unrounded peripheral vowel	atroot low central unrnd perif vowel		2	31			FALSE	FALSE	006100BE									atroot	low		central	unrnd	perif	vowel
+	172	316	a_	A	A	low back unrounded peripheral vowel	low back unrnd perif vowel		1	32		25	FALSE	FALSE	0041										low		back	unrnd	perif	vowel
+	173	322	a_:	A►	A►	long low back unrounded peripheral vowel	long low back unrnd perif vowel		2	32		8	FALSE	FALSE	004125BA					long					low		back	unrnd	perif	vowel
+	174	324	a_~	A†	A†	nasalized low back unrounded peripheral vowel	naszd low back unrnd perif vowel		2	32		6	FALSE	FALSE	00412020			naszd							low		back	unrnd	perif	vowel
+	175	325	a_~:	A†►	A†►	long nasalized low back unrounded peripheral vowel	long naszd low back unrnd perif vowel		2	32		2	FALSE	FALSE	0041202025BA			naszd		long					low		back	unrnd	perif	vowel
+	176	317	a_)	â	â	low back rounded peripheral vowel	low back rounded perif vowel		1	33		19	FALSE	FALSE	00E2										low		back	rounded	perif	vowel
+	177	318	a_):	â►	â►	long low back rounded peripheral vowel	long low back rounded perif vowel		2	33		1	FALSE	FALSE	00E225BA					long					low		back	rounded	perif	vowel
+	178	319	a_)S	â˘	â˘	overshort low back rounded peripheral vowel	ovrshort low back rounded perif vowel		2	33		1	FALSE	FALSE	00E202D8					ovrshort					low		back	rounded	perif	vowel
+	179	320	a_)h	â΄	â΄	breathy-voiced low back rounded peripheral vowel	breathy low back rounded perif vowel		2	33		1	FALSE	FALSE	00E20384							breathy			low		back	rounded	perif	vowel
+	180	321	a_)~	â†	â†	nasalized low back rounded peripheral vowel	naszd low back rounded perif vowel		2	33		3	FALSE	FALSE	00E22020			naszd							low		back	rounded	perif	vowel
+	181	953		aw	aw	low central unrounded to labial-velar approximant diphtong	low central unrnd tlva diph						FALSE	FALSE	00610077										low		central	unrnd	tlva	diph
+	182	952		aj	aj	low central unrounded to palatal approximant diphtong	low central unrnd tpa diph						FALSE	FALSE	0061006A										low		central	unrnd	tpa	diph
+	183	564	iu	iu	iu	high front unrounded to high back rounded diphthong	high front unrnd thbr diph					2	FALSE	FALSE	00690075										high		front	unrnd	thbr	diph
+	184	565	iuh	i΄u΄	i΄u΄	breathy-voiced high front unrounded to high back rounded diphthong	breathy high front unrnd thbr diph					1	FALSE	FALSE	0069038400750384							breathy			high		front	unrnd	thbr	diph
+	185	560	ie	ie	ie	high front unrounded to higher-mid front unrounded diphthong	high front unrnd thmfu diph					6	FALSE	FALSE	00690065										high		front	unrnd	thmfu	diph
+	186	561	ie~	i†e†	i†e†	nasalized high front unrounded to higher-mid front unrounded diphthong	naszd high front unrnd thmfu diph					1	FALSE	FALSE	0069202000652020			naszd							high		front	unrnd	thmfu	diph
+	187	563	io	io	io	high front unrounded to higher-mid back rounded diphthong	high front unrnd thmbro diph					1	FALSE	FALSE	0069006F										high		front	unrnd	thmbro	diph
+	188	540	i@	i∂	i∂	high front unrounded to mid central unrounded diphthong	high front unrnd tmcu diph					4	FALSE	FALSE	00692202										high		front	unrnd	tmcu	diph
+	189	541	i@h	i΄∂΄	i΄∂΄	breathy-voiced high front unrounded to mid central unrounded diphthong	breathy high front unrnd tmcu diph					1	FALSE	FALSE	0069038422020384							breathy			high		front	unrnd	tmcu	diph
+	190	542	iE!	iè	iè	high front unrounded to lower-mid front unrounded diphthong	high front unrnd tlmfu diph					1	FALSE	FALSE	006900E8										high		front	unrnd	tlmfu	diph
+	191	543	iEh	i΄è΄	i΄è΄	breathy-voiced high front unrounded to lower-mid front unrounded diphthong	breathy high front unrnd tlmfu diph					1	FALSE	FALSE	0069038400E80384							breathy			high		front	unrnd	tlmfu	diph
+	192	546	i^	iΔ	iΔ	high front unrounded to lower-mid back unrounded diphthong	high front unrnd tlmbu diph					1	FALSE	FALSE	00690394										high		front	unrnd	tlmbu	diph
+	193	558	ia+	iaº	iaº	high front unrounded to low front unrounded diphthong	high front unrnd tlfu diph					1	FALSE	FALSE	0069006100BA										high		front	unrnd	tlfu	diph
+	194	557	ia	ia	ia	high front unrounded to low central unrounded diphthong	high front unrnd tlcu diph					5	FALSE	FALSE	00690061										high		front	unrnd	tlcu	diph
+	195	559	iah	i΄a΄	i΄a΄	breathy-voiced high front unrounded to low central unrounded diphthong	breathy high front unrnd tlcu diph					1	FALSE	FALSE	0069038400610384							breathy			high		front	unrnd	tlcu	diph
+	196	907	yo/	yǿ	yǿ	high front rounded to higher-mid front rounded diphthong	high front rounded thmfr diph					1	FALSE	FALSE	007901FF										high		front	rounded	thmfr	diph
+	197	553	i_i	ïi	ïi	high central unrounded to high front unrounded diphthong	high central unrnd thfu diph					2	FALSE	FALSE	00EF0069										high		central	unrnd	thfu	diph
+	198	554	i_i~	ï†i†	ï†i†	nasalized high central unrounded to high front unrounded diphthong	naszd high central unrnd thfu diph					1	FALSE	FALSE	00EF202000692020			naszd							high		central	unrnd	thfu	diph
+	199	965		ïe	ïe	high central unrounded to higher-mid front unrounded diphtong	high central unrnd thmfu diph						FALSE	FALSE	00EF0065										high		central	unrnd	thmfu	diph
+	200	550	i_@	ï∂	ï∂	high central unrounded to mid central unrounded diphthong	high central unrnd tmcu diph					1	FALSE	FALSE	00EF2202										high		central	unrnd	tmcu	diph
+	201	552	i_a	ïa	ïa	high central unrounded to low central unrounded diphthong	high central unrnd tlcu diph					1	FALSE	FALSE	00EF0061										high		central	unrnd	tlcu	diph
+	202	883	uui	Ūi	Ūi	high back unrounded to high front unrounded diphthong	high back unrnd thfu diph					2	FALSE	FALSE	016A0069										high		back	unrnd	thfu	diph
+	203	884	uuih	Ū΄i΄	Ū΄i΄	breathy-voiced high back unrounded to high front unrounded diphthong	breathy high back unrnd thfu diph					1	FALSE	FALSE	016A038400690384							breathy			high		back	unrnd	thfu	diph
+	204	877	uu@	Ū∂	Ū∂	high back unrounded to mid central unrounded diphthong	high back unrnd tmcu diph					2	FALSE	FALSE	016A2202										high		back	unrnd	tmcu	diph
+	205	878	uu@h	Ū΄∂΄	Ū΄∂΄	breathy-voiced high back unrounded to mid central unrounded diphthong	breathy high back unrnd tmcu diph					1	FALSE	FALSE	016A038422020384							breathy			high		back	unrnd	tmcu	diph
+	206	880	uu^	ŪΔ	ŪΔ	high back unrounded to lower-mid back unrounded diphthong	high back unrnd tlmbu diph					1	FALSE	FALSE	016A0394										high		back	unrnd	tlmbu	diph
+	207	881	uua	Ūa	Ūa	high back unrounded to low central unrounded diphthong	high back unrnd tlcu diph					2	FALSE	FALSE	016A0061										high		back	unrnd	tlcu	diph
+	208	871	ui	ui	ui	high back rounded to high front unrounded diphthong	high back rounded thfu diph					8	FALSE	FALSE	00750069										high		back	rounded	thfu	diph
+	209	872	uih	u΄i΄	u΄i΄	breathy-voiced high back rounded to high front unrounded diphthong	breathy high back rounded thfu diph					1	FALSE	FALSE	0075038400690384							breathy			high		back	rounded	thfu	diph
+	210	873	ui~	u†i†	u†i†	nasalized high back rounded to high front unrounded diphthong	naszd high back rounded thfu diph					2	FALSE	FALSE	0075202000692020			naszd							high		back	rounded	thfu	diph
+	211	874	uo	uo	uo	high back rounded to higher-mid back rounded diphthong	high back rounded thmbro diph					4	FALSE	FALSE	0075006F										high		back	rounded	thmbro	diph
+	212	863	u@	u∂	u∂	high back rounded to mid central unrounded diphthong	high back rounded tmcu diph					5	FALSE	FALSE	00752202										high		back	rounded	tmcu	diph
+	213	864	u@h	u΄∂΄	u΄∂΄	breathy-voiced high back rounded to mid central unrounded diphthong	breathy high back rounded tmcu diph					1	FALSE	FALSE	0075038422020384							breathy			high		back	rounded	tmcu	diph
+	214	867	u^	uΔ	uΔ	high back rounded to lower-mid back unrounded diphthong	high back rounded tlmbu diph					1	FALSE	FALSE	00750394										high		back	rounded	tlmbu	diph
+	215	995		uO	uO	high back rounded to lower-mid back rounded diphtong	high back rounded ltmbr diph						FALSE	FALSE	0075004F										high		back	rounded	ltmbr	diph
+	216	868	ua	ua	ua	high back rounded to low central unrounded diphthong	high back rounded tlcu diph					3	FALSE	FALSE	00750061										high		back	rounded	tlcu	diph
+	217	869	uah	u΄a΄	u΄a΄	breathy-voiced high back rounded to low central unrounded diphthong	breathy high back rounded tlcu diph					1	FALSE	FALSE	0075038400610384							breathy			high		back	rounded	tlcu	diph
+	218	220	I!e	Ie	Ie	lowered-high front unrounded to higher-mid front unrounded diphthong	lordhig front unrnd thmfu diph					1	FALSE	FALSE	00490065										lordhig		front	unrnd	thmfu	diph
+	219	279	U!i	Ωi	Ωi	lowered-high back rounded to high front unrounded diphthong	lordhig back rounded thfu diph					1	FALSE	FALSE	03A90069										lordhig		back	rounded	thfu	diph
+	220	427	ei	ei	ei	higher-mid front unrounded to high front unrounded diphthong	himid front unrnd thfu diph					7	FALSE	FALSE	00650069										himid		front	unrnd	thfu	diph
+	221	428	ei~	e†i†	e†i†	nasalized higher-mid front unrounded to high front unrounded diphthong	naszd himid front unrnd thfu diph					2	FALSE	FALSE	0065202000692020			naszd							himid		front	unrnd	thfu	diph
+	222	430	eu	eu	eu	higher-mid front unrounded to high back rounded diphthong	himid front unrnd thbr diph					3	FALSE	FALSE	00650075										himid		front	unrnd	thbr	diph
+	223	431	eu~	e†u†	e†u†	nasalized higher-mid front unrounded to high back rounded diphthong	naszd himid front unrnd thbr diph					1	FALSE	FALSE	0065202000752020			naszd							himid		front	unrnd	thbr	diph
+	224	423	e@	e∂	e∂	higher-mid front unrounded to mid central unrounded diphthong	himid front unrnd tmcu diph					1	FALSE	FALSE	00652202										himid		front	unrnd	tmcu	diph
+	225	429	eo	eo	eo	higher-mid front unrounded to higher-mid back rounded diphthong	himid front unrnd thmbro diph					3	FALSE	FALSE	0065006F										himid		front	unrnd	thmbro	diph
+	226	425	ea	ea	ea	higher-mid front unrounded to low central unrounded diphthong	himid front unrnd tlcu diph					1	FALSE	FALSE	00650061										himid		front	unrnd	tlcu	diph
+	227	705	o/y	ǿy	ǿy	higher-mid front rounded to high front rounded diphthong	himid front rounded thfr diph					1	FALSE	FALSE	01FF0079										himid		front	rounded	thfr	diph
+	228	181	@i	∂i	∂i	mid central unrounded to high front unrounded diphthong	md central unrnd thfu diph					2	FALSE	FALSE	22020069										md		central	unrnd	thfu	diph
+	229	183	@uu	∂Ū	∂Ū	mid central unrounded to high back unrounded diphthong	md central unrnd thbu diph					1	FALSE	FALSE	2202016A										md		central	unrnd	thbu	diph
+	230	182	@u	∂u	∂u	mid central unrounded to high back rounded diphthong	md central unrnd thbr diph					4	FALSE	FALSE	22020075										md		central	unrnd	thbr	diph
+	231	937		∂è	∂è	mid central unrounded to lower-mid front unrounded diphtong	md central unrnd tlmfu diph						FALSE	FALSE	220200E8										md		central	unrnd	tlmfu	diph
+	232	697	o(i	ģi	ģi	higher-mid back unrounded to high front unrounded diphthong	himid back unrnd thfu diph					1	FALSE	FALSE	01230069										himid		back	unrnd	thfu	diph
+	233	698	o(ih	ģ΄i΄	ģ΄i΄	breathy-voiced higher-mid back unrounded to high front unrounded diphthong	breathy himid back unrnd thfu diph					1	FALSE	FALSE	0123038400690384							breathy			himid		back	unrnd	thfu	diph
+	234	714	oi	oi	oi	higher-mid back rounded to high front unrounded diphthong	himid back rounded thfu diph					6	FALSE	FALSE	006F0069										himid		back	rounded	thfu	diph
+	235	715	oi9	oiſ	oiſ	pharyngealized higher-mid back rounded to high front unrounded diphthong	pharzd himid back rounded thfu diph					1	FALSE	FALSE	006F0069017F				pharzd						himid		back	rounded	thfu	diph
+	236	717	oih	o΄i΄	o΄i΄	breathy-voiced higher-mid back rounded to high front unrounded diphthong	breathy himid back rounded thfu diph					1	FALSE	FALSE	006F038400690384							breathy			himid		back	rounded	thfu	diph
+	237	718	oi~	o†i†	o†i†	nasalized higher-mid back rounded to high front unrounded diphthong	naszd himid back rounded thfu diph					2	FALSE	FALSE	006F202000692020			naszd							himid		back	rounded	thfu	diph
+	238	716	oi9~	o†i†ſ	o†i†ſ	nasalized pharyngealized higher-mid back rounded to high front unrounded diphthong	naszd pharzd himid back rounded thfu diph					1	FALSE	FALSE	006F202000692020017F			naszd	pharzd						himid		back	rounded	thfu	diph
+	239	719	ou	ou	ou	higher-mid back rounded to high back rounded diphthong	himid back rounded thbr diph					5	FALSE	FALSE	006F0075										himid		back	rounded	thbr	diph
+	240	720	ou~	o†u†	o†u†	nasalized higher-mid back rounded to high back rounded diphthong	naszd himid back rounded thbr diph					1	FALSE	FALSE	006F202000752020			naszd							himid		back	rounded	thbr	diph
+	241	712	oe	oe	oe	higher-mid back rounded to higher-mid front unrounded diphthong	himid back rounded thmfu diph					1	FALSE	FALSE	006F0065										himid		back	rounded	thmfu	diph
+	242	708	oa	oa	oa	higher-mid back rounded to low central unrounded diphthong	himid back rounded tlcu diph					2	FALSE	FALSE	006F0061										himid		back	rounded	tlcu	diph
+	243	709	oa9	oaſ	oaſ	pharyngealized higher-mid back rounded to low central unrounded diphthong	pharzd himid back rounded tlcu diph					1	FALSE	FALSE	006F0061017F				pharzd						himid		back	rounded	tlcu	diph
+	244	711	oa~	o†a†	o†a†	nasalized higher-mid back rounded to low central unrounded diphthong	naszd himid back rounded tlcu diph					1	FALSE	FALSE	006F202000612020			naszd							himid		back	rounded	tlcu	diph
+	245	710	oa9~	o†a†ſ	o†a†ſ	nasalized pharyngealized higher-mid back rounded to low central unrounded diphthong	naszd pharzd himid back rounded tlcu diph					1	FALSE	FALSE	006F202000612020017F			naszd	pharzd						himid		back	rounded	tlcu	diph
+	246	200	E!i	èi	èi	lower-mid front unrounded to high front unrounded diphthong	lomid front unrnd thfu diph					3	FALSE	FALSE	00E80069										lomid		front	unrnd	thfu	diph
+	247	208	Euu	èŪ	èŪ	lower-mid front unrounded to high back unrounded diphthong	lomid front unrnd thbu diph					1	FALSE	FALSE	00E8016A										lomid		front	unrnd	thbu	diph
+	248	201	E!o	èo	èo	lower-mid front unrounded to higher-mid back rounded diphthong	lomid front unrnd thmbro diph					1	FALSE	FALSE	00E8006F										lomid		front	unrnd	thmbro	diph
+	249	206	EO~	è†O†	è†O†	nasalized lower-mid front unrounded to lower-mid back rounded diphthong	naszd lomid front unrnd ltmbr diph					1	FALSE	FALSE	00E82020004F2020			naszd							lomid		front	unrnd	ltmbr	diph
+	250	158	3i	Эi	Эi	lower-mid central unrounded to high front unrounded diphthong	lomid central unrnd thfu diph					1	FALSE	FALSE	042D0069										lomid		central	unrnd	thfu	diph
+	251	244	O!i	Oi	Oi	lower-mid back rounded to high front unrounded diphthong	lomid back rounded thfu diph					6	FALSE	FALSE	004F0069										lomid		back	rounded	thfu	diph
+	252	245	O!ih	O΄i΄	O΄i΄	breathy-voiced lower-mid back rounded to high front unrounded diphthong	breathy lomid back rounded thfu diph					1	FALSE	FALSE	004F038400690384							breathy			lomid		back	rounded	thfu	diph
+	253	246	O!i~	O†i†	O†i†	nasalized lower-mid back rounded to high front unrounded diphthong	naszd lomid back rounded thfu diph					2	FALSE	FALSE	004F202000692020			naszd							lomid		back	rounded	thfu	diph
+	254	251	Oy	Oy	Oy	lower-mid back rounded to high front rounded diphthong	lomid back rounded thfr diph					1	FALSE	FALSE	004F0079										lomid		back	rounded	thfr	diph
+	255	329	aai	æi	æi	raised-low front unrounded to high front unrounded diphthong	raidlo front unrnd thfu diph					2	FALSE	FALSE	00E60069										raidlo		front	unrnd	thfu	diph
+	256	330	aau+	æU	æU	raised-low front unrounded to high central rounded diphthong	raidlo front unrnd thcr diph					1	FALSE	FALSE	00E60055										raidlo		front	unrnd	thcr	diph
+	257	305	a+i	aºi	aºi	low front unrounded to high front unrounded diphthong	low front unrnd thfu diph					1	FALSE	FALSE	006100BA0069										low		front	unrnd	thfu	diph
+	258	306	a+i~	aº†i†	aº†i†	nasalized low front unrounded to high front unrounded diphthong	naszd low front unrnd thfu diph					1	FALSE	FALSE	006100BA202000692020			naszd							low		front	unrnd	thfu	diph
+	259	336	ai	ai	ai	low central unrounded to high front unrounded diphthong	low central unrnd thfu diph					19	FALSE	FALSE	00610069										low		central	unrnd	thfu	diph
+	260	338	aih	a΄i΄	a΄i΄	breathy-voiced low central unrounded to high front unrounded diphthong	breathy low central unrnd thfu diph					1	FALSE	FALSE	0061038400690384							breathy			low		central	unrnd	thfu	diph
+	261	339	ai~	a†i†	a†i†	nasalized low central unrounded to high front unrounded diphthong	naszd low central unrnd thfu diph					1	FALSE	FALSE	0061202000692020			naszd							low		central	unrnd	thfu	diph
+	262	949		a►i	a►i	long low central unrounded to high front unrounded diphtong	long low central unrnd thfu diph						FALSE	FALSE	006125BA0069					long					low		central	unrnd	thfu	diph
+	263	337	ai_	aï	aï	low central unrounded to high central unrounded diphthong	low central unrnd thcu diph					2	FALSE	FALSE	006100EF										low		central	unrnd	thcu	diph
+	264	345	auu	aŪ	aŪ	low central unrounded to high back unrounded diphthong	low central unrnd thbu diph					3	FALSE	FALSE	0061016A										low		central	unrnd	thbu	diph
+	265	346	auuh	a΄Ū΄	a΄Ū΄	breathy-voiced low central unrounded to high back unrounded diphthong	breathy low central unrnd thbu diph					1	FALSE	FALSE	00610384016A0384							breathy			low		central	unrnd	thbu	diph
+	266	343	au	au	au	low central unrounded to high back rounded diphthong	low central unrnd thbr diph					18	FALSE	FALSE	00610075										low		central	unrnd	thbr	diph
+	267	344	auh	a΄u΄	a΄u΄	breathy-voiced low central unrounded to high back rounded diphthong	breathy low central unrnd thbr diph					1	FALSE	FALSE	0061038400750384							breathy			low		central	unrnd	thbr	diph
+	268	950		a►u	a►u	long low central unrounded to high back rounded diphtong	long low central unrnd thbr diph						FALSE	FALSE	006125BA0075					long					low		central	unrnd	thbr	diph
+	269	332	ae	ae	ae	low central unrounded to higher-mid front unrounded diphthong	low central unrnd thmfu diph					3	FALSE	FALSE	00610065										low		central	unrnd	thmfu	diph
+	270	333	ae9	aeſ	aeſ	pharyngealized low central unrounded to higher-mid front unrounded diphthong	pharzd low central unrnd thmfu diph					1	FALSE	FALSE	00610065017F				pharzd						low		central	unrnd	thmfu	diph
+	271	334	ae9~	a†e†ſ	a†e†ſ	nasalized pharyngealized low central unrounded to higher-mid front unrounded diphthong	naszd pharzd low central unrnd thmfu diph					1	FALSE	FALSE	0061202000652020017F			naszd	pharzd						low		central	unrnd	thmfu	diph
+	272	340	ao	ao	ao	low central unrounded to higher-mid back rounded diphthong	low central unrnd thmbro diph					4	FALSE	FALSE	0061006F										low		central	unrnd	thmbro	diph
+	273	341	ao9	aoſ	aoſ	pharyngealized low central unrounded to higher-mid back rounded diphthong	pharzd low central unrnd thmbro diph					1	FALSE	FALSE	0061006F017F				pharzd						low		central	unrnd	thmbro	diph
+	274	342	ao9~	a†o†ſ	a†o†ſ	nasalized pharyngealized low central unrounded to higher-mid back rounded diphthong	naszd pharzd low central unrnd thmbro diph					1	FALSE	FALSE	00612020006F2020017F			naszd	pharzd						low		central	unrnd	thmbro	diph
+	275	314	aE!	aè	aè	low central unrounded to lower-mid front unrounded diphthong	low central unrnd tlmfu diph					1	FALSE	FALSE	006100E8										low		central	unrnd	tlmfu	diph
+	276	323	a_O~	A†O†	A†O†	nasalized low back unrounded to lower-mid back rounded diphthong	naszd low back unrnd ltmbr diph					1	FALSE	FALSE	00412020004F2020			naszd							low		back	unrnd	ltmbr	diph
+	277	736	phh	pĤ	pĤ	voiceless bilabial stop with-breathy-release	vl bilabial stp wbr					2	FALSE	FALSE	00700124									vl	bilabial				stp	wbr
+	278	525	hp	ĥp	ĥp	voiceless preaspirated bilabial stop	vl preasp bilabial stp					1	FALSE	FALSE	01250070								preasp	vl	bilabial				stp	
+	279	634	mp	mp	mp	prenasalized voiceless bilabial stop	prenazad vl bilabial stp					6	FALSE	FALSE	006D0070								prenazad	vl	bilabial				stp	
+	280	635	mph	mpĥ	mpĥ	prenasalized voiceless aspirated bilabial stop	prenazad vl aspirate bilabial stp					2	FALSE	FALSE	006D00700125							aspirate	prenazad	vl	bilabial				stp	
+	281	723	p	p	p	voiceless bilabial stop	vl bilabial stp		4	0	0101	375	FALSE	FALSE	0070									vl	bilabial				stp	
+	282	724	p'	p'	p'	voiceless bilabial ejective stop	vl bilabial ejective stp					44	FALSE	FALSE	00700027									vl	bilabial		ejective		stp	
+	283	725	p*	p·	p·	creaky-voiced voiceless bilabial stop	creaky vl bilabial stp					5	FALSE	FALSE	00700387							creaky		vl	bilabial				stp	
+	284	726	p:	p►	p►	long voiceless bilabial stop	long vl bilabial stp					3	FALSE	FALSE	007025BA					long				vl	bilabial				stp	
+	285	728	pJ	pĵ	pĵ	palatalized voiceless bilabial stop	palzd vl bilabial stp					13	FALSE	FALSE	00700135				palzd					vl	bilabial				stp	
+	286	729	pJh	pĵĥ	pĵĥ	palatalized voiceless aspirated bilabial stop	palzd vl aspirate bilabial stp					3	FALSE	FALSE	007001350125				palzd			aspirate		vl	bilabial				stp	
+	287	730	pW	pŵ	pŵ	labialized voiceless bilabial stop	labzd vl bilabial stp					4	FALSE	FALSE	00700175			labzd						vl	bilabial				stp	
+	288	731	pW-h	pĝŵĥ	pĝŵĥ	labialized velarized voiceless aspirated bilabial stop	labzd velzd vl aspirate bilabial stp					1	FALSE	FALSE	0070011D01750125			labzd	velzd			aspirate		vl	bilabial				stp	
+	289	735	ph	pĥ	pĥ	voiceless aspirated bilabial stop	vl aspirate bilabial stp					101	FALSE	FALSE	00700125							aspirate		vl	bilabial				stp	
+	290	987		p►ŵ	p►ŵ	long labialized voiceless bilabial stop	long labzd vl bilabial stp						FALSE	FALSE	007025BA0175			labzd		long				vl	bilabial				stp	
+	291	350	b	b	b	voiced bilabial stop	vd bilabial stp		4	1	0102	287	FALSE	FALSE	0062									vd	bilabial				stp	
+	292	351	b'	b'	b'	voiced bilabial ejective stop	vd bilabial ejective stp					1	FALSE	FALSE	00620027									vd	bilabial		ejective		stp	
+	293	352	b*	b·	b·	creaky-voiced voiced bilabial stop	creaky vd bilabial stp					15	FALSE	FALSE	00620387							creaky		vd	bilabial				stp	
+	294	353	b:	b►	b►	long voiced bilabial stop	long vd bilabial stp					1	FALSE	FALSE	006225BA					long				vd	bilabial				stp	
+	295	356	bJ	bĵ	bĵ	palatalized voiced bilabial stop	palzd vd bilabial stp					8	FALSE	FALSE	00620135				palzd					vd	bilabial				stp	
+	296	359	bW	bŵ	bŵ	labialized voiced bilabial stop	labzd vd bilabial stp					1	FALSE	FALSE	00620175			labzd						vd	bilabial				stp	
+	297	360	bW-	bĝŵ	bĝŵ	labialized velarized voiced bilabial stop	labzd velzd vd bilabial stp					1	FALSE	FALSE	0062011D0175			labzd	velzd					vd	bilabial				stp	
+	298	362	bm	bņ	bņ	nasal-release voiced bilabial stop	nasrel vd bilabial stp					1	FALSE	FALSE	00620146						nasrel			vd	bilabial				stp	
+	299	630	mb	mb	mb	prenasalized voiced bilabial stop	prenazad vd bilabial stp					48	FALSE	FALSE	006D0062								prenazad	vd	bilabial				stp	
+	300	631	mbJ	mbĵ	mbĵ	prenasalized palatalized voiced bilabial stop	prenazad palzd vd bilabial stp					1	FALSE	FALSE	006D00620135				palzd				prenazad	vd	bilabial				stp	
+	301	632	mbW	mbŵ	mbŵ	prenasalized labialized voiced bilabial stop	prenazad labzd vd bilabial stp					2	FALSE	FALSE	006D00620175			labzd					prenazad	vd	bilabial				stp	
+	302	926		?b	?b	preglottalized voiced bilabial stop	pglot vd bilabial stp						FALSE	FALSE	003F0062								pglot	vd	bilabial				stp	
+	303	954		bĥ	bĥ	aspirated voiced bilabial stop	aspirate vd bilabial stp						FALSE	FALSE	00620125							aspirate		vd	bilabial				stp	
+	304	358	bJh	b΄ĵ	b΄ĵ	palatalized breathy-voiced bilabial stop	palzd breathy bilabial stp					1	FALSE	FALSE	006203840135				palzd			breathy			bilabial				stp	
+	305	361	bh	b΄	b΄	breathy-voiced bilabial stop	breathy bilabial stp					9	FALSE	FALSE	00620384							breathy			bilabial				stp	
+	306	924		Ф	Ф	voiceless labiodental stop	vl labdent stp		4	2	0103		FALSE	FALSE	0424									vl	labdent				stp	
+	307	355	bD	ф	ф	voiced labiodental stop	vd labdent stp		4	3	0104	1	FALSE	FALSE	0444									vd	labdent				stp	
+	308	592	kp	kp―	kp―	voiceless labial-velar stop	vl labvel stp		4	4	0107	35	FALSE	FALSE	006B00702015									vl	labvel				stp	
+	309	593	kpW	kp―ŵ	kp―ŵ	labialized voiceless labial-velar stop	labzd vl labvel stp					1	FALSE	FALSE	006B007020150175			labzd						vl	labvel				stp	
+	310	594	kph	kp―ĥ	kp―ĥ	voiceless aspirated labial-velar stop	vl aspirate labvel stp					1	FALSE	FALSE	006B007020150125							aspirate		vl	labvel				stp	
+	311	236	Nmgb	ŋmg―b	ŋmg―b	prenasalized voiced labial-velar stop	prenazad vd labvel stp					6	FALSE	FALSE	014B006D006720150062								prenazad	vd	labvel				stp	
+	312	466	gb	gb―	gb―	voiced labial-velar stop	vd labvel stp		4	5	0108	39	FALSE	FALSE	006700622015									vd	labvel				stp	
+	313	467	gbW	gb―ŵ	gb―ŵ	labialized voiced labial-velar stop	labzd vd labvel stp					1	FALSE	FALSE	0067006220150175			labzd						vd	labvel				stp	
+	314	968		gb―ĥ	gb―ĥ	aspirated voiced labial-velar stop	aspirate vd labvel stp						FALSE	FALSE	0067006220150125							aspirate		vd	labvel				stp	
+	315	823	tDhh	t·Ĥ	t·Ĥ	voiceless dental stop with-breathy-release	vl dental stp wbr					1	FALSE	FALSE	007400B70124									vl	dental				stp	wbr
+	316	682	ntD	n·t·	n·t·	prenasalized voiceless dental stop	prenazad vl dental stp					3	FALSE	FALSE	006E00B7007400B7								prenazad	vl	dental				stp	
+	317	683	ntDh	n·t·ĥ	n·t·ĥ	prenasalized voiceless aspirated dental stop	prenazad vl aspirate dental stp					2	FALSE	FALSE	006E00B7007400B70125							aspirate	prenazad	vl	dental				stp	
+	318	814	tD	t·	t·	voiceless dental stop	vl dental stp		4	6	0109	106	FALSE	FALSE	007400B7									vl	dental				stp	
+	319	815	tD'	t·'	t·'	voiceless dental ejective stop	vl dental ejective stp					16	FALSE	FALSE	007400B70027									vl	dental		ejective		stp	
+	320	816	tD*	t··	t··	creaky-voiced voiceless dental stop	creaky vl dental stp					1	FALSE	FALSE	007400B70387							creaky		vl	dental				stp	
+	321	820	tD9	t·ſ	t·ſ	pharyngealized voiceless dental stop	pharzd vl dental stp					2	FALSE	FALSE	007400B7017F				pharzd					vl	dental				stp	
+	322	821	tDJ	t·ĵ	t·ĵ	palatalized voiceless dental stop	palzd vl dental stp					2	FALSE	FALSE	007400B70135				palzd					vl	dental				stp	
+	323	822	tDh	t·ĥ	t·ĥ	voiceless aspirated dental stop	vl aspirate dental stp					30	FALSE	FALSE	007400B70125							aspirate		vl	dental				stp	
+	324	386	dD	d·	d·	voiced dental stop	vd dental stp		4	7	0110	80	FALSE	FALSE	006400B7									vd	dental				stp	
+	325	387	dD*	d··	d··	creaky-voiced voiced dental stop	creaky vd dental stp					1	FALSE	FALSE	006400B70387							creaky		vd	dental				stp	
+	326	389	dD9	d·ſ	d·ſ	pharyngealized voiced dental stop	pharzd vd dental stp					2	FALSE	FALSE	006400B7017F				pharzd					vd	dental				stp	
+	327	391	dDJ	d·ĵ	d·ĵ	palatalized voiced dental stop	palzd vd dental stp					2	FALSE	FALSE	006400B70135				palzd					vd	dental				stp	
+	328	393	dDn	d·ņ	d·ņ	nasal-release voiced dental stop	nasrel vd dental stp					1	FALSE	FALSE	006400B70146						nasrel			vd	dental				stp	
+	329	664	ndD	n·d·	n·d·	prenasalized voiced dental stop	prenazad vd dental stp					6	FALSE	FALSE	006E00B7006400B7								prenazad	vd	dental				stp	
+	330	392	dDh	d·΄	d·΄	breathy-voiced dental stop	breathy dental stp					5	FALSE	FALSE	006400B70384							breathy			dental				stp	
+	331	845	thh	tĤ	tĤ	voiceless alveolar stop with-breathy-release	vl alveolar stp wbr					1	FALSE	FALSE	00740124									vl	alveolar				stp	wbr
+	332	111	t*	t·	t·	creaky-voiced voiceless alveolar stop	creaky vl alveolar stp					2	FALSE	FALSE	00740387							creaky		vl	alveolar				stp	
+	333	112	t-h	tĝĥ	tĝĥ	velarized voiceless aspirated alveolar stop	velzd vl aspirate alveolar stp					1	FALSE	FALSE	0074011D0125				velzd			aspirate		vl	alveolar				stp	
+	334	113	t9	tſ	tſ	pharyngealized voiceless alveolar stop	pharzd vl alveolar stp					1	FALSE	FALSE	0074017F				pharzd					vl	alveolar				stp	
+	335	116	tJh	tĵĥ	tĵĥ	palatalized voiceless aspirated alveolar stop	palzd vl aspirate alveolar stp					1	FALSE	FALSE	007401350125				palzd			aspirate		vl	alveolar				stp	
+	336	117	tW	tŵ	tŵ	labialized voiceless alveolar stop	labzd vl alveolar stp					2	FALSE	FALSE	00740175			labzd						vl	alveolar				stp	
+	337	118	tWh	tŵĥ	tŵĥ	labialized voiceless aspirated alveolar stop	labzd vl aspirate alveolar stp					1	FALSE	FALSE	007401750125			labzd				aspirate		vl	alveolar				stp	
+	338	529	ht	ĥt	ĥt	voiceless preaspirated alveolar stop	vl preasp alveolar stp					1	FALSE	FALSE	01250074								preasp	vl	alveolar				stp	
+	339	678	nt	nt	nt	prenasalized voiceless alveolar stop	prenazad vl alveolar stp					3	FALSE	FALSE	006E0074								prenazad	vl	alveolar				stp	
+	340	799	t	t	t	voiceless alveolar stop	vl alveolar stp		4	8	0111	181	FALSE	FALSE	0074									vl	alveolar				stp	
+	341	800	t'	t'	t'	voiceless alveolar ejective stop	vl alveolar ejective stp					24	FALSE	FALSE	00740027									vl	alveolar		ejective		stp	
+	342	801	t-	tĝ	tĝ	velarized voiceless alveolar stop	velzd vl alveolar stp					1	FALSE	FALSE	0074011D				velzd					vl	alveolar				stp	
+	343	812	t:	t►	t►	long voiceless alveolar stop	long vl alveolar stp					1	FALSE	FALSE	007425BA					long				vl	alveolar				stp	
+	344	828	tJ	tĵ	tĵ	palatalized voiceless alveolar stop	palzd vl alveolar stp					3	FALSE	FALSE	00740135				palzd					vl	alveolar				stp	
+	345	844	th	tĥ	tĥ	voiceless aspirated alveolar stop	vl aspirate alveolar stp					34	FALSE	FALSE	00740125							aspirate		vl	alveolar				stp	
+	346	991		tĵ'	tĵ'	palatalized voiceless alveolar ejective stop	palzd vl alveolar ejective stp						FALSE	FALSE	007401350027				palzd					vl	alveolar		ejective		stp	
+	347	21	d9	dſ	dſ	pharyngealized voiced alveolar stop	pharzd vd alveolar stp					1	FALSE	FALSE	0064017F				pharzd					vd	alveolar				stp	
+	348	24	dW	dŵ	dŵ	labialized voiced alveolar stop	labzd vd alveolar stp					1	FALSE	FALSE	00640175			labzd						vd	alveolar				stp	
+	349	67	ndW	ndŵ	ndŵ	prenasalized labialized voiced alveolar stop	prenazad labzd vd alveolar stp					1	FALSE	FALSE	006E00640175			labzd					prenazad	vd	alveolar				stp	
+	350	374	d	d	d	voiced alveolar stop	vd alveolar stp		4	9	0112	120	FALSE	FALSE	0064									vd	alveolar				stp	
+	351	375	d'	d'	d'	voiced alveolar ejective stop	vd alveolar ejective stp					1	FALSE	FALSE	00640027									vd	alveolar		ejective		stp	
+	352	376	d*	d·	d·	creaky-voiced voiced alveolar stop	creaky vd alveolar stp					7	FALSE	FALSE	00640387							creaky		vd	alveolar				stp	
+	353	377	d-	dĝ	dĝ	velarized voiced alveolar stop	velzd vd alveolar stp					1	FALSE	FALSE	0064011D				velzd					vd	alveolar				stp	
+	354	395	dJ!	dĵ	dĵ	palatalized voiced alveolar stop	palzd vd alveolar stp					2	FALSE	FALSE	00640135				palzd					vd	alveolar				stp	
+	355	415	dn	dņ	dņ	nasal-release voiced alveolar stop	nasrel vd alveolar stp					1	FALSE	FALSE	00640146						nasrel			vd	alveolar				stp	
+	356	661	nd	nd	nd	prenasalized voiced alveolar stop	prenazad vd alveolar stp					26	FALSE	FALSE	006E0064								prenazad	vd	alveolar				stp	
+	357	666	ndJ!	ndĵ	ndĵ	prenasalized palatalized voiced alveolar stop	prenazad palzd vd alveolar stp					1	FALSE	FALSE	006E00640135				palzd				prenazad	vd	alveolar				stp	
+	358	927		?d	?d	preglottalized voiced alveolar stop	pglot vd alveolar stp						FALSE	FALSE	003F0064								pglot	vd	alveolar				stp	
+	359	959		dĥ	dĥ	aspirated voiced alveolar stop	aspirate vd alveolar stp						FALSE	FALSE	00640125							aspirate		vd	alveolar				stp	
+	360	25	dh	d΄	d΄	breathy-voiced alveolar stop	breathy alveolar stp					4	FALSE	FALSE	00640384							breathy			alveolar				stp	
+	361	688	nt_	nˉtˉ	nˉtˉ	prenasalized voiceless postalveolar stop	prenazad vl postalveol stp					1	FALSE	FALSE	006E02C9007402C9								prenazad	vl	postalveol				stp	
+	362	842	t_	tˉ	tˉ	voiceless postalveolar stop	vl postalveol stp		4	10	0113	20	FALSE	FALSE	007402C9									vl	postalveol				stp	
+	363	843	t_h	tˉĥ	tˉĥ	voiceless aspirated postalveolar stop	vl aspirate postalveol stp					1	FALSE	FALSE	007402C90125							aspirate		vl	postalveol				stp	
+	364	402	d_	dˉ	dˉ	voiced postalveolar stop	vd postalveol stp		4	11	0114	6	FALSE	FALSE	006402C9									vd	postalveol				stp	
+	365	403	d_*	d·ˉ	d·ˉ	creaky-voiced voiced postalveolar stop	creaky vd postalveol stp					1	FALSE	FALSE	0064038702C9							creaky		vd	postalveol				stp	
+	366	405	d_n	dˉņ	dˉņ	nasal-release voiced postalveolar stop	nasrel vd postalveol stp					1	FALSE	FALSE	006402C90146						nasrel			vd	postalveol				stp	
+	367	668	nd_	nˉdˉ	nˉdˉ	prenasalized voiced postalveolar stop	prenazad vd postalveol stp					4	FALSE	FALSE	006E02C9006402C9								prenazad	vd	postalveol				stp	
+	368	679	nt.	ńT	ńT	prenasalized voiceless retroflex stop	prenazad vl retro stp					2	FALSE	FALSE	01440054								prenazad	vl	retro				stp	
+	369	802	t.	T	T	voiceless retroflex stop	vl retro stp		4	12	0115	34	FALSE	FALSE	0054									vl	retro				stp	
+	370	803	t.*	T·	T·	creaky-voiced voiceless retroflex stop	creaky vl retro stp					1	FALSE	FALSE	00540387							creaky		vl	retro				stp	
+	371	805	t.h	Tĥ	Tĥ	voiceless aspirated retroflex stop	vl aspirate retro stp					10	FALSE	FALSE	00540125							aspirate		vl	retro				stp	
+	372	961		T'	T'	voiceless retroflex ejective stop	vl retro ejective stp						FALSE	FALSE	00540027									vl	retro		ejective		stp	
+	373	962		T►	T►	long voiceless retroflex stop	long vl retro stp						FALSE	FALSE	005425BA					long				vl	retro				stp	
+	374	378	d.	D	D	voiced retroflex stop	vd retro stp		4	13	0116	27	FALSE	FALSE	0044									vd	retro				stp	
+	375	379	d.*	D·	D·	creaky-voiced voiced retroflex stop	creaky vd retro stp					1	FALSE	FALSE	00440387							creaky		vd	retro				stp	
+	376	382	d.n	Dņ	Dņ	nasal-release voiced retroflex stop	nasrel vd retro stp					1	FALSE	FALSE	00440146						nasrel			vd	retro				stp	
+	377	662	nd.	ńD	ńD	prenasalized voiced retroflex stop	prenazad vd retro stp					1	FALSE	FALSE	01440044								prenazad	vd	retro				stp	
+	378	381	d.h	D΄	D΄	breathy-voiced retroflex stop	breathy retro stp					9	FALSE	FALSE	00440384							breathy			retro				stp	
+	379	958		c˙	c˙	voiceless palatal retroflex stop	vl palatal retro stp						FALSE	FALSE	006302D9									vl	retro				stp	
+	380	364	c	c	c	voiceless palatal stop	vl palatal stp		4	14	0117	54	FALSE	FALSE	0063									vl	palatal				stp	
+	381	365	c'	c'	c'	voiceless palatal ejective stop	vl palatal ejective stp					9	FALSE	FALSE	00630027									vl	palatal		ejective		stp	
+	382	366	c:	c►	c►	long voiceless palatal stop	long vl palatal stp					1	FALSE	FALSE	006325BA					long				vl	palatal				stp	
+	383	373	ch	cĥ	cĥ	voiceless aspirated palatal stop	vl aspirate palatal stp					17	FALSE	FALSE	00630125							aspirate		vl	palatal				stp	
+	384	659	nc	Ņc	Ņc	prenasalized voiceless palatal stop	prenazad vl palatal stp					1	FALSE	FALSE	01450063								prenazad	vl	palatal				stp	
+	385	406	dj	J	J	voiced palatal stop	vd palatal stp		4	15	0118	43	FALSE	FALSE	004A									vd	palatal				stp	
+	386	407	dj*	J·	J·	creaky-voiced voiced palatal stop	creaky vd palatal stp					1	FALSE	FALSE	004A0387							creaky		vd	palatal				stp	
+	387	408	dj:	J►	J►	long voiced palatal stop	long vd palatal stp					1	FALSE	FALSE	004A25BA					long				vd	palatal				stp	
+	388	669	ndj	ŅJ	ŅJ	prenasalized voiced palatal stop	prenazad vd palatal stp					6	FALSE	FALSE	0145004A								prenazad	vd	palatal				stp	
+	389	944		ŅJŵ	ŅJŵ	prenasalized labialized voiced palatal stop	prenazad labzd vd palatal stp						FALSE	FALSE	0145004A0175			labzd					prenazad	vd	palatal				stp	
+	390	589	khh	kĤ	kĤ	voiceless velar stop with-breathy-release	vl velar stp wbr					2	FALSE	FALSE	006B0124									vl	velar				stp	wbr
+	391	231	Nk	ŋk	ŋk	prenasalized voiceless velar stop	prenazad vl velar stp					6	FALSE	FALSE	014B006B								prenazad	vl	velar				stp	
+	392	232	NkJ	ŋkĵ	ŋkĵ	prenasalized palatalized voiceless velar stop	prenazad palzd vl velar stp					1	FALSE	FALSE	014B006B0135				palzd				prenazad	vl	velar				stp	
+	393	233	NkW	ŋkŵ	ŋkŵ	prenasalized labialized voiceless velar stop	prenazad labzd vl velar stp					1	FALSE	FALSE	014B006B0175			labzd					prenazad	vl	velar				stp	
+	394	234	Nkh	ŋkĥ	ŋkĥ	prenasalized voiceless aspirated velar stop	prenazad vl aspirate velar stp					1	FALSE	FALSE	014B006B0125							aspirate	prenazad	vl	velar				stp	
+	395	489	hk	ĥk	ĥk	voiceless preaspirated velar stop	vl preasp velar stp					1	FALSE	FALSE	0125006B								preasp	vl	velar				stp	
+	396	575	k	k	k	voiceless velar stop	vl velar stp		4	16	0119	403	FALSE	FALSE	006B									vl	velar				stp	
+	397	576	k'	k'	k'	voiceless velar ejective stop	vl velar ejective stp					63	FALSE	FALSE	006B0027									vl	velar		ejective		stp	
+	398	577	k*	k·	k·	creaky-voiced voiceless velar stop	creaky vl velar stp					6	FALSE	FALSE	006B0387							creaky		vl	velar				stp	
+	399	578	k9	kſ	kſ	pharyngealized voiceless velar stop	pharzd vl velar stp					1	FALSE	FALSE	006B017F				pharzd					vl	velar				stp	
+	400	579	k:	k►	k►	long voiceless velar stop	long vl velar stp					3	FALSE	FALSE	006B25BA					long				vl	velar				stp	
+	401	580	kJ	kĵ	kĵ	palatalized voiceless velar stop	palzd vl velar stp					13	FALSE	FALSE	006B0135				palzd					vl	velar				stp	
+	402	581	kJ'	kĵ'	kĵ'	palatalized voiceless velar ejective stop	palzd vl velar ejective stp					3	FALSE	FALSE	006B01350027				palzd					vl	velar		ejective		stp	
+	403	582	kJh	kĵĥ	kĵĥ	palatalized voiceless aspirated velar stop	palzd vl aspirate velar stp					3	FALSE	FALSE	006B01350125				palzd			aspirate		vl	velar				stp	
+	404	583	kW	kŵ	kŵ	labialized voiceless velar stop	labzd vl velar stp					60	FALSE	FALSE	006B0175			labzd						vl	velar				stp	
+	405	584	kW'	kŵ'	kŵ'	labialized voiceless velar ejective stop	labzd vl velar ejective stp					23	FALSE	FALSE	006B01750027			labzd						vl	velar		ejective		stp	
+	406	585	kW*	k·ŵ	k·ŵ	creaky-voiced labialized voiceless velar stop	creaky labzd vl velar stp					2	FALSE	FALSE	006B03870175			labzd				creaky		vl	velar				stp	
+	407	586	kW:	kŵ►	kŵ►	long labialized voiceless velar stop	long labzd vl velar stp					2	FALSE	FALSE	006B017525BA			labzd		long				vl	velar				stp	
+	408	587	kWh	kŵĥ	kŵĥ	labialized voiceless aspirated velar stop	labzd vl aspirate velar stp					21	FALSE	FALSE	006B01750125			labzd				aspirate		vl	velar				stp	
+	409	588	kh	kĥ	kĥ	voiceless aspirated velar stop	vl aspirate velar stp					103	FALSE	FALSE	006B0125							aspirate		vl	velar				stp	
+	410	975		kĵŵ	kĵŵ	palatalized labialized voiceless velar stop	palzd labzd vl velar stp						FALSE	FALSE	006B01350175			labzd	palzd					vl	velar				stp	
+	411	228	Ng	ŋg	ŋg	prenasalized voiced velar stop	prenazad vd velar stp					44	FALSE	FALSE	014B0067								prenazad	vd	velar				stp	
+	412	229	NgW	ŋgŵ	ŋgŵ	prenasalized labialized voiced velar stop	prenazad labzd vd velar stp					10	FALSE	FALSE	014B00670175			labzd					prenazad	vd	velar				stp	
+	413	439	g	g	g	voiced velar stop	vd velar stp		4	17	0120	253	FALSE	FALSE	0067									vd	velar				stp	
+	414	446	g'	g'	g'	voiced velar ejective stop	vd velar ejective stp					1	FALSE	FALSE	00670027									vd	velar		ejective		stp	
+	415	462	gJ	gĵ	gĵ	palatalized voiced velar stop	palzd vd velar stp					7	FALSE	FALSE	00670135				palzd					vd	velar				stp	
+	416	463	gL	gļ	gļ	lateral-release voiced velar stop	latrel vd velar stp					1	FALSE	FALSE	0067013C						latrel			vd	velar				stp	
+	417	464	gW	gŵ	gŵ	labialized voiced velar stop	labzd vd velar stp					24	FALSE	FALSE	00670175			labzd						vd	velar				stp	
+	418	469	gn	gņ	gņ	nasal-release voiced velar stop	nasrel vd velar stp					1	FALSE	FALSE	00670146						nasrel			vd	velar				stp	
+	419	966		gĵŵ	gĵŵ	palatalized labialized voiced velar stop	palzd labzd vd velar stp						FALSE	FALSE	006701350175			labzd	palzd					vd	velar				stp	
+	420	969		gĥ	gĥ	aspirated voiced velar stop	aspirate vd velar stp						FALSE	FALSE	00670125							aspirate		vd	velar				stp	
+	421	970		gĥŵ	gĥŵ	aspirated labialized voiced velar stop	aspirate labzd vd velar stp						FALSE	FALSE	006701250175			labzd				aspirate		vd	velar				stp	
+	422	465	gWh	g΄ŵ	g΄ŵ	labialized breathy-voiced velar stop	labzd breathy velar stp					1	FALSE	FALSE	006703840175			labzd				breathy			velar				stp	
+	423	468	gh	g΄	g΄	breathy-voiced velar stop	breathy velar stp					10	FALSE	FALSE	00670384							breathy			velar				stp	
+	424	237	Nq	Nq	Nq	prenasalized voiceless uvular stop	prenazad vl uvular stp					1	FALSE	FALSE	004E0071								prenazad	vl	uvular				stp	
+	425	238	Nqh	Nqĥ	Nqĥ	prenasalized voiceless aspirated uvular stop	prenazad vl aspirate uvular stp					1	FALSE	FALSE	004E00710125							aspirate	prenazad	vl	uvular				stp	
+	426	737	q	q	q	voiceless uvular stop	vl uvular stp		4	18	0123	52	FALSE	FALSE	0071									vl	uvular				stp	
+	427	738	q'	q'	q'	voiceless uvular ejective stop	vl uvular ejective stp					26	FALSE	FALSE	00710027									vl	uvular		ejective		stp	
+	428	739	q*	q·	q·	creaky-voiced voiceless uvular stop	creaky vl uvular stp					1	FALSE	FALSE	00710387							creaky		vl	uvular				stp	
+	429	740	q9'	qſ'	qſ'	pharyngealized voiceless uvular ejective stop	pharzd vl uvular ejective stp					1	FALSE	FALSE	0071017F0027				pharzd					vl	uvular		ejective		stp	
+	430	741	q9h	qſĥ	qſĥ	pharyngealized voiceless aspirated uvular stop	pharzd vl aspirate uvular stp					1	FALSE	FALSE	0071017F0125				pharzd			aspirate		vl	uvular				stp	
+	431	742	q:	q►	q►	long voiceless uvular stop	long vl uvular stp					1	FALSE	FALSE	007125BA					long				vl	uvular				stp	
+	432	744	qW	qŵ	qŵ	labialized voiceless uvular stop	labzd vl uvular stp					12	FALSE	FALSE	00710175			labzd						vl	uvular				stp	
+	433	745	qW'	qŵ'	qŵ'	labialized voiceless uvular ejective stop	labzd vl uvular ejective stp					11	FALSE	FALSE	007101750027			labzd						vl	uvular		ejective		stp	
+	434	746	qW*	q·ŵ	q·ŵ	creaky-voiced labialized voiceless uvular stop	creaky labzd vl uvular stp					1	FALSE	FALSE	007103870175			labzd				creaky		vl	uvular				stp	
+	435	747	qW9'	qŵſ'	qŵſ'	labialized pharyngealized voiceless uvular ejective stop	labzd pharzd vl uvular ejective stp					1	FALSE	FALSE	00710175017F0027			labzd	pharzd					vl	uvular		ejective		stp	
+	436	748	qW9h	qŵſĥ	qŵſĥ	labialized pharyngealized voiceless aspirated uvular stop	labzd pharzd vl aspirate uvular stp					1	FALSE	FALSE	00710175017F0125			labzd	pharzd			aspirate		vl	uvular				stp	
+	437	749	qW:	qŵ►	qŵ►	long labialized voiceless uvular stop	long labzd vl uvular stp					1	FALSE	FALSE	0071017525BA			labzd		long				vl	uvular				stp	
+	438	750	qWh	qŵĥ	qŵĥ	labialized voiceless aspirated uvular stop	labzd vl aspirate uvular stp					4	FALSE	FALSE	007101750125			labzd				aspirate		vl	uvular				stp	
+	439	762	qh	qĥ	qĥ	voiceless aspirated uvular stop	vl aspirate uvular stp					17	FALSE	FALSE	00710125							aspirate		vl	uvular				stp	
+	440	209	G!1	G	G	voiced uvular stop	vd uvular stp		4	19	0124	18	FALSE	FALSE	0047									vd	uvular				stp	
+	441	211	G!W	Gŵ	Gŵ	labialized voiced uvular stop	labzd vd uvular stp					1	FALSE	FALSE	00470175			labzd						vd	uvular				stp	
+	442	212	G9	Gſ	Gſ	pharyngealized voiced uvular stop	pharzd vd uvular stp					1	FALSE	FALSE	0047017F				pharzd					vd	uvular				stp	
+	443	213	GW9	Gŵſ	Gŵſ	labialized pharyngealized voiced uvular stop	labzd pharzd vd uvular stp					1	FALSE	FALSE	00470175017F			labzd	pharzd					vd	uvular				stp	
+	444	172	99	ß	ß	voiced epiglottal stop	vd epiglott stp		4	21	0130	3	FALSE	FALSE	00DF									vd	epiglott				stp	
+	445	175	??	?ˇ	?ˇ	voiced glottal stop	vd glottal stp		4	23	0132	1	FALSE	FALSE	003F02C7									vd	glottal				stp	
+	446	173	?	?	?	voiceless glottal stop	vl glottal stp		4	22	0131	216	FALSE	FALSE	003F									vl	glottal				stp	
+	447	174	?9	?ſ	?ſ	pharyngealized voiceless glottal stop	pharzd vl glottal stp					2	FALSE	FALSE	003F017F				pharzd					vl	glottal				stp	
+	448	176	?W	?ŵ	?ŵ	labialized voiceless glottal stop	labzd vl glottal stp					1	FALSE	FALSE	003F0175			labzd						vl	glottal				stp	
+	449	727	p<	Β°	Β°	voiceless bilabial implosive	vl bilabial implosiv		4	24	0201	2	FALSE	FALSE	039200B0									vl	bilabial				implosiv	
+	450	354	b<	Β	Β	voiced bilabial implosive	vd bilabial implosiv		4	25	0202	49	FALSE	FALSE	0392									vd	bilabial				implosiv	
+	451	357	bJ<	Βĵ	Βĵ	palatalized voiced bilabial implosive	palzd vd bilabial implosiv					1	FALSE	FALSE	03920135				palzd					vd	bilabial				implosiv	
+	452	967		ğΒ―	ğΒ―	voiced labial-velar implosive	vd labvel implosiv		4	27	0208		FALSE	FALSE	011F03922015									vd	labvel				implosiv	
+	453	390	dD<	đ··	đ··	voiced dental implosive	vd dental implosiv					3	FALSE	FALSE	011100B700B7									vd	dental				implosiv	
+	454	813	t<	đ°	đ°	voiceless alveolar implosive	vl alveolar implosiv		4	28	0211	2	FALSE	FALSE	011100B0									vl	alveolar				implosiv	
+	455	385	d<	đ	đ	voiced alveolar implosive	vd alveolar implosiv		4	29	0212	23	FALSE	FALSE	0111									vd	alveolar				implosiv	
+	456	404	d_<	đˉ	đˉ	voiced postalveolar implosive	vd postalveol implosiv					1	FALSE	FALSE	011102C9									vd	postalveol				implosiv	
+	457	380	d.<	Đ	Đ	voiced retroflex implosive	vd retro implosiv		4	31	0216	1	FALSE	FALSE	0110									vd	retro				implosiv	
+	458	409	dj<	ƒ	ƒ	voiced palatal implosive	vd palatal implosiv		4	33	0218	10	FALSE	FALSE	0192									vd	palatal				implosiv	
+	459	455	g<	ğ	ğ	voiced velar implosive	vd velar implosiv		4	35	0220	5	FALSE	FALSE	011F									vd	velar				implosiv	
+	460	743	q<	Ğ°	Ğ°	voiceless uvular implosive	vl uvular implosiv		4	36	0223	1	FALSE	FALSE	011E00B0									vl	uvular				implosiv	
+	461	210	G!<	Ğ	Ğ	voiced uvular implosive	vd uvular implosiv		4	37	0224	0	FALSE	FALSE	011E									vd	uvular				implosiv	
+	462	501	hm	m°	m°	voiceless bilabial nasal	vl bilabial nasal		4	118	1101	17	FALSE	FALSE	006D00B0									vl	bilabial				nasal	
+	463	623	m	m	m	voiced bilabial nasal	vd bilabial nasal		4	119	1102	425	FALSE	FALSE	006D									vd	bilabial				nasal	
+	464	624	m*	m·	m·	creaky-voiced voiced bilabial nasal	creaky vd bilabial nasal					14	FALSE	FALSE	006D0387							creaky		vd	bilabial				nasal	
+	465	625	m:	m►	m►	long voiced bilabial nasal	long vd bilabial nasal					3	FALSE	FALSE	006D25BA					long				vd	bilabial				nasal	
+	466	627	mJ	mĵ	mĵ	palatalized voiced bilabial nasal	palzd vd bilabial nasal					10	FALSE	FALSE	006D0135				palzd					vd	bilabial				nasal	
+	467	628	mW	mŵ	mŵ	labialized voiced bilabial nasal	labzd vd bilabial nasal					5	FALSE	FALSE	006D0175			labzd						vd	bilabial				nasal	
+	468	629	mW-	mĝŵ	mĝŵ	labialized velarized voiced bilabial nasal	labzd velzd vd bilabial nasal					1	FALSE	FALSE	006D011D0175			labzd	velzd					vd	bilabial				nasal	
+	469	930		?m	?m	preglottalized voiced bilabial nasal	pglot vd bilabial nasal						FALSE	FALSE	003F006D								pglot	vd	bilabial				nasal	
+	470	978		m'	m'	voiced bilabial ejective nasal	vd bilabial ejective nasal						FALSE	FALSE	006D0027									vd	bilabial		ejective		nasal	
+	471	979		mĝ	mĝ	velarized voiced bilabial nasal	velzd vd bilabial nasal						FALSE	FALSE	006D011D				velzd					vd	bilabial				nasal	
+	472	980		mĥ	mĥ	aspirated voiced bilabial nasal	aspirate vd bilabial nasal						FALSE	FALSE	006D0125							aspirate		vd	bilabial				nasal	
+	473	981		mŵ'	mŵ'	labialized voiced bilabial ejective nasal	labzd vd bilabial ejective nasal						FALSE	FALSE	006D01750027			labzd						vd	bilabial		ejective		nasal	
+	474	633	mh	m΄	m΄	breathy-voiced bilabial nasal	breathy bilabial nasal					4	FALSE	FALSE	006D0384							breathy			bilabial				nasal	
+	475	626	mD	M	M	voiced labiodental nasal	vd labdent nasal		4	121	1104	1	FALSE	FALSE	004D									vd	labdent				nasal	
+	476	482	hNm	ŋ°m°―	ŋ°m°―	voiceless labial-velar nasal	vl labvel nasal		4	122	1107	1	FALSE	FALSE	014B00B0006D00B02015									vl	labvel				nasal	
+	477	235	Nm	ŋm―	ŋm―	voiced labial-velar nasal	vd labvel nasal		4	123	1108	7	FALSE	FALSE	014B006D2015									vd	labvel				nasal	
+	478	518	hnD	n·°	n·°	voiceless dental nasal	vl dental nasal		4	124	1109	2	FALSE	FALSE	006E00B700B0									vl	dental				nasal	
+	479	650	nD!	n·	n·	voiced dental nasal	vd dental nasal		4	125	1110	83	FALSE	FALSE	006E00B7									vd	dental				nasal	
+	480	651	nD!J	n·ĵ	n·ĵ	palatalized voiced dental nasal	palzd vd dental nasal					1	FALSE	FALSE	006E00B70135				palzd					vd	dental				nasal	
+	481	652	nD*	n··	n··	creaky-voiced voiced dental nasal	creaky vd dental nasal					2	FALSE	FALSE	006E00B70387							creaky		vd	dental				nasal	
+	482	653	nDh	n·΄	n·΄	breathy-voiced dental nasal	breathy dental nasal					1	FALSE	FALSE	006E00B70384							breathy			dental				nasal	
+	483	502	hn	n°	n°	voiceless alveolar nasal	vl alveolar nasal		4	126	1111	4	FALSE	FALSE	006E00B0									vl	alveolar				nasal	
+	484	510	hn-	n°ĝ	n°ĝ	velarized voiceless alveolar nasal	velzd vl alveolar nasal					1	FALSE	FALSE	006E00B0011D				velzd					vl	alveolar				nasal	
+	485	519	hnJ!	ŋ°ĵ	ŋ°ĵ	palatalized voiceless alveolar nasal	palzd vl alveolar nasal					1	FALSE	FALSE	014B00B00135				palzd					vl	alveolar				nasal	
+	486	64	nW	nŵ	nŵ	labialized voiced alveolar nasal	labzd vd alveolar nasal					2	FALSE	FALSE	006E0175			labzd						vd	alveolar				nasal	
+	487	637	n	n	n	voiced alveolar nasal	vd alveolar nasal		4	127	1112	202	FALSE	FALSE	006E									vd	alveolar				nasal	
+	488	642	n*	n·	n·	creaky-voiced voiced alveolar nasal	creaky vd alveolar nasal					4	FALSE	FALSE	006E0387							creaky		vd	alveolar				nasal	
+	489	643	n-	nĝ	nĝ	velarized voiced alveolar nasal	velzd vd alveolar nasal					1	FALSE	FALSE	006E011D				velzd					vd	alveolar				nasal	
+	490	649	n:	n►	n►	long voiced alveolar nasal	long vd alveolar nasal					2	FALSE	FALSE	006E25BA					long				vd	alveolar				nasal	
+	491	654	nJ!	nĵ	nĵ	palatalized voiced alveolar nasal	palzd vd alveolar nasal					4	FALSE	FALSE	006E0135				palzd					vd	alveolar				nasal	
+	492	931		?n	?n	preglottalized voiced alveolar nasal	pglot vd alveolar nasal						FALSE	FALSE	003F006E								pglot	vd	alveolar				nasal	
+	493	982		n'	n'	voiced alveolar ejective nasal	vd alveolar ejective nasal						FALSE	FALSE	006E0027									vd	alveolar		ejective		nasal	
+	494	68	nh	n΄	n΄	breathy-voiced alveolar nasal	breathy alveolar nasal					2	FALSE	FALSE	006E0384							breathy			alveolar				nasal	
+	495	520	hn_	n°ˉ	n°ˉ	voiceless postalveolar nasal	vl postalveol nasal					2	FALSE	FALSE	006E00B002C9									vl	postalveol				nasal	
+	496	657	n_	nˉ	nˉ	voiced postalveolar nasal	vd postalveol nasal		4	129	1114	45	FALSE	FALSE	006E02C9									vd	postalveol				nasal	
+	497	658	n_h	nˉ΄	nˉ΄	breathy-voiced postalveolar nasal	breathy postalveol nasal					1	FALSE	FALSE	006E02C90384							breathy			postalveol				nasal	
+	498	511	hn.	ń°	ń°	voiceless retroflex nasal	vl retro nasal		4	130	1115	1	FALSE	FALSE	014400B0									vl	retro				nasal	
+	499	644	n.	ń	ń	voiced retroflex nasal	vd retro nasal		4	131	1116	24	FALSE	FALSE	0144									vd	retro				nasal	
+	500	521	hnj	Ņ°	Ņ°	voiceless palatal nasal	vl palatal nasal		4	132	1117	8	FALSE	FALSE	014500B0									vl	palatal				nasal	
+	501	673	nj	Ņ	Ņ	voiced palatal nasal	vd palatal nasal		4	133	1118	141	FALSE	FALSE	0145									vd	palatal				nasal	
+	502	674	nj*	Ņ·	Ņ·	creaky-voiced voiced palatal nasal	creaky vd palatal nasal					3	FALSE	FALSE	01450387							creaky		vd	palatal				nasal	
+	503	675	nj:	Ņ►	Ņ►	long voiced palatal nasal	long vd palatal nasal					1	FALSE	FALSE	014525BA					long				vd	palatal				nasal	
+	504	676	njW	Ņŵ	Ņŵ	labialized voiced palatal nasal	labzd vd palatal nasal					1	FALSE	FALSE	01450175			labzd						vd	palatal				nasal	
+	505	925		?Ņ	?Ņ	preglottalized voiced palatal nasal	pglot vd palatal nasal						FALSE	FALSE	003F0145								pglot	vd	palatal				nasal	
+	506	479	hN!	ŋ°	ŋ°	voiceless velar nasal	vl velar nasal		4	134	1119	9	FALSE	FALSE	014B00B0									vl	velar				nasal	
+	507	480	hN!J	ŋ°ĵ	ŋ°ĵ	palatalized voiceless velar nasal	palzd vl velar nasal					1	FALSE	FALSE	014B00B00135				palzd					vl	velar				nasal	
+	508	481	hNW	ŋ°ŵ	ŋ°ŵ	labialized voiceless velar nasal	labzd vl velar nasal					2	FALSE	FALSE	014B00B00175			labzd						vl	velar				nasal	
+	509	223	N!*	ŋ·	ŋ·	creaky-voiced voiced velar nasal	creaky vd velar nasal					3	FALSE	FALSE	014B0387							creaky		vd	velar				nasal	
+	510	224	N!1	ŋ	ŋ	voiced velar nasal	vd velar nasal		4	135	1120	238	FALSE	FALSE	014B									vd	velar				nasal	
+	511	225	N!J	ŋĵ	ŋĵ	palatalized voiced velar nasal	palzd vd velar nasal					4	FALSE	FALSE	014B0135				palzd					vd	velar				nasal	
+	512	226	N9	ŋſ	ŋſ	pharyngealized voiced velar nasal	pharzd vd velar nasal					1	FALSE	FALSE	014B017F				pharzd					vd	velar				nasal	
+	513	227	NW	ŋŵ	ŋŵ	labialized voiced velar nasal	labzd vd velar nasal					17	FALSE	FALSE	014B0175			labzd						vd	velar				nasal	
+	514	932		?ŋ	?ŋ	preglottalized voiced velar nasal	pglot vd velar nasal						FALSE	FALSE	003F014B								pglot	vd	velar				nasal	
+	515	946		ŋ►	ŋ►	long voiced velar nasal	long vd velar nasal						FALSE	FALSE	014B25BA					long				vd	velar				nasal	
+	516	983		ŋ'	ŋ'	voiced velar ejective nasal	vd velar ejective nasal						FALSE	FALSE	014B0027									vd	velar		ejective		nasal	
+	517	984		ŋŵ'	ŋŵ'	labialized voiced velar ejective nasal	labzd vd velar ejective nasal						FALSE	FALSE	014B01750027			labzd						vd	velar		ejective		nasal	
+	518	230	Nh	ŋ΄	ŋ΄	breathy-voiced velar nasal	breathy velar nasal					1	FALSE	FALSE	014B0384							breathy			velar				nasal	
+	519	655	nU	Ж	Ж	voiced uvular nasal	vd uvular nasal		4	137	1124	1	FALSE	FALSE	0416									vd	uvular				nasal	
+	520	769	rD	r·	r·	voiced dental trill	vd dental trill		4	44	0410	9	FALSE	FALSE	007200B7									vd	dental			trill		
+	521	770	rDJ	r·ĵ	r·ĵ	palatalized voiced dental trill	palzd vd dental trill					1	FALSE	FALSE	007200B70135				palzd					vd	dental			trill		
+	522	526	hr	r°	r°	voiceless alveolar trill	vl alveolar trill					2	FALSE	FALSE	007200B0									vl	alveolar			trill		
+	523	91	r*	r·	r·	creaky-voiced voiced alveolar trill	creaky vd alveolar trill					1	FALSE	FALSE	00720387							creaky		vd	alveolar			trill		
+	524	92	r-	rĝ	rĝ	velarized voiced alveolar trill	velzd vd alveolar trill					1	FALSE	FALSE	0072011D				velzd					vd	alveolar			trill		
+	525	93	r9	rſ	rſ	pharyngealized voiced alveolar trill	pharzd vd alveolar trill					1	FALSE	FALSE	0072017F				pharzd					vd	alveolar			trill		
+	526	95	rF	r»	r»	voiced alveolar fricative trill	vd alveolar fricative trill					1	FALSE	FALSE	007200BB									vd	alveolar			trill	fricative	
+	527	677	nr	nr	nr	prenasalized voiced alveolar trill	prenazad vd alveolar trill					1	FALSE	FALSE	006E0072								prenazad	vd	alveolar			trill		
+	528	763	r	r	r	voiced alveolar trill	vd alveolar trill		4	45	0412	95	FALSE	FALSE	0072									vd	alveolar			trill		
+	529	774	rJ!	rĵ	rĵ	palatalized voiced alveolar trill	palzd vd alveolar trill					2	FALSE	FALSE	00720135				palzd					vd	alveolar			trill		
+	530	933		?r	?r	preglottalized voiced alveolar trill	pglot vd alveolar trill						FALSE	FALSE	003F0072								pglot	vd	alveolar			trill		
+	531	988		r'	r'	voiced alveolar ejective trill	vd alveolar ejective trill						FALSE	FALSE	00720027									vd	alveolar		ejective	trill		
+	532	989		r►	r►	long voiced alveolar trill	long vd alveolar trill						FALSE	FALSE	007225BA					long				vd	alveolar			trill		
+	533	764	r.	r˙	r˙	voiced retroflex trill	vd retro trill		4	46	0416	1	FALSE	FALSE	007202D9									vd	retro			trill		
+	534	782	rj	rˉ	rˉ	voiced palatal trill	vd palatal trill					1	FALSE	FALSE	007202C9									vd	palatal			trill		
+	535	258	R!	R	R	voiced uvular trill	vd uvular trill		4	47	0424	4	FALSE	FALSE	0052									vd	uvular			trill		
+	536	771	rDT	ŗ·	ŗ·	voiced dental tap	vd dental tap		4	48	0510	1	FALSE	FALSE	015700B7									vd	dental				tap	
+	537	772	rDT*	ŗ··	ŗ··	creaky-voiced voiced dental tap	creaky vd dental tap					1	FALSE	FALSE	015700B70387							creaky		vd	dental				tap	
+	538	775	rT	ŗ	ŗ	voiced alveolar tap	vd alveolar tap		4	49	0512	7	FALSE	FALSE	0157									vd	alveolar				tap	
+	539	892	v[	V	V	voiced labiodental flap	vd labdent flap		4	52	0604	1	FALSE	FALSE	0056									vd	labdent				flap	
+	540	773	rD[	Ŗ·	Ŗ·	voiced dental flap	vd dental flap		4	53	0610	1	FALSE	FALSE	015600B7									vd	dental				flap	
+	541	527	hr[-	Ŗ°ĝ	Ŗ°ĝ	velarized voiceless alveolar flap	velzd vl alveolar flap					1	FALSE	FALSE	015600B0011D				velzd					vl	alveolar				flap	
+	542	528	hr[J	Ŗ°ĵ	Ŗ°ĵ	palatalized voiceless alveolar flap	palzd vl alveolar flap					1	FALSE	FALSE	015600B00135				palzd					vl	alveolar				flap	
+	543	617	l[	Ř	Ř	voiced alveolar lateral flap	vd alveolar lateral flap					9	FALSE	FALSE	0158									vd	alveolar			lateral	flap	
+	544	618	l[J	Řĵ	Řĵ	palatalized voiced alveolar lateral flap	palzd vd alveolar lateral flap					1	FALSE	FALSE	01580135				palzd					vd	alveolar			lateral	flap	
+	545	776	r[	Ŗ	Ŗ	voiced alveolar flap	vd alveolar flap		4	54	0612	91	FALSE	FALSE	0156									vd	alveolar				flap	
+	546	777	r[*	Ŗ'	Ŗ'	voiced alveolar ejective flap	vd alveolar ejective flap					1	FALSE	FALSE	01560027									vd	alveolar		ejective		flap	
+	547	778	r[-	Ŗĝ	Ŗĝ	velarized voiced alveolar flap	velzd vd alveolar flap					1	FALSE	FALSE	0156011D				velzd					vd	alveolar				flap	
+	548	779	r[F	Ŗ»	Ŗ»	voiced alveolar fricative flap	vd alveolar fricative flap					1	FALSE	FALSE	015600BB									vd	alveolar				flap	
+	549	780	r[J	Ŗĵ	Ŗĵ	palatalized voiced alveolar flap	palzd vd alveolar flap					1	FALSE	FALSE	01560135				palzd					vd	alveolar				flap	
+	550	781	r_[	Ŗˉ	Ŗˉ	voiced postalveolar flap	vd postalveol flap		4	55	0614	1	FALSE	FALSE	015602C9									vd	postalveol				flap	
+	551	605	l.[	Ř˙	Ř˙	voiced retroflex lateral flap	vd retro lateral flap					8	FALSE	FALSE	015802D9									vd	retro			lateral	flap	
+	552	606	l.[*	Ř˙·	Ř˙·	creaky-voiced voiced retroflex lateral flap	creaky vd retro lateral flap					1	FALSE	FALSE	015802D90387							creaky		vd	retro			lateral	flap	
+	553	766	r.[	Ŗ°	Ŗ°	voiced retroflex flap	vd retro flap					14	FALSE	FALSE	015600B0									vd	retro				flap	
+	554	767	r.[~	Ŗ°†	Ŗ°†	nasalized voiced retroflex flap	naszd vd retro flap					1	FALSE	FALSE	015600B02020			naszd						vd	retro				flap	
+	555	784	rrD	r·r·	r·r·	voiced dental r-sound	vd dental rsound					1	FALSE	FALSE	007200B7007200B7									vd	dental				rsound	
+	556	50	hrr	r°r	r°r	voiceless alveolar r-sound	vl alveolar rsound					1	FALSE	FALSE	007200B00072									vl	alveolar				rsound	
+	557	100	rr*	r·r	r·r	creaky-voiced voiced alveolar r-sound	creaky vd alveolar rsound					3	FALSE	FALSE	007203870072							creaky		vd	alveolar				rsound	
+	558	783	rr	rr	rr	voiced alveolar r-sound	vd alveolar rsound					10	FALSE	FALSE	00720072									vd	alveolar				rsound	
+	559	785	rrJ	rrĵ	rrĵ	palatalized voiced alveolar r-sound	palzd vd alveolar rsound					1	FALSE	FALSE	007200720135				palzd					vd	alveolar				rsound	
+	560	252	P!	F	F	voiceless bilabial fricative	vl bilabial fricative		4	57	0701	39	FALSE	FALSE	0046									vl	bilabial				fricative	
+	561	253	P!'	F'	F'	voiceless bilabial ejective fricative	vl bilabial ejective fricative					1	FALSE	FALSE	00460027									vl	bilabial		ejective		fricative	
+	562	254	P!J	Fĵ	Fĵ	palatalized voiceless bilabial fricative	palzd vl bilabial fricative					2	FALSE	FALSE	00460135				palzd					vl	bilabial				fricative	
+	563	255	P!W	Fŵ	Fŵ	labialized voiceless bilabial fricative	labzd vl bilabial fricative					1	FALSE	FALSE	00460175			labzd						vl	bilabial				fricative	
+	564	257	PW-	Fĝŵ	Fĝŵ	labialized velarized voiceless bilabial fricative	labzd velzd vl bilabial fricative					1	FALSE	FALSE	0046011D0175			labzd	velzd					vl	bilabial				fricative	
+	565	186	B!	β	β	voiced bilabial fricative	vd bilabial fricative		4	58	0702	54	FALSE	FALSE	03B2									vd	bilabial				fricative	
+	566	187	B!J	βĵ	βĵ	palatalized voiced bilabial fricative	palzd vd bilabial fricative					1	FALSE	FALSE	03B20135				palzd					vd	bilabial				fricative	
+	567	434	f	f	f	voiceless labiodental fricative	vl labdent fricative		4	59	0703	180	FALSE	FALSE	0066									vl	labdent				fricative	
+	568	435	f'	f'	f'	voiceless labiodental ejective fricative	vl labdent ejective fricative					1	FALSE	FALSE	00660027									vl	labdent		ejective		fricative	
+	569	436	f:	f►	f►	long voiceless labiodental fricative	long vl labdent fricative					1	FALSE	FALSE	006625BA					long				vl	labdent				fricative	
+	570	437	fJ	fĵ	fĵ	palatalized voiceless labiodental fricative	palzd vl labdent fricative					3	FALSE	FALSE	00660135				palzd					vl	labdent				fricative	
+	571	438	fW	fŵ	fŵ	labialized voiceless labiodental fricative	labzd vl labdent fricative					1	FALSE	FALSE	00660175			labzd						vl	labdent				fricative	
+	572	636	mv	Mv	Mv	prenasalized voiced labiodental fricative	prenazad vd labdent fricative					4	FALSE	FALSE	004D0076								prenazad	vd	labdent				fricative	
+	573	888	v	v	v	voiced labiodental fricative	vd labdent fricative		4	60	0704	95	FALSE	FALSE	0076									vd	labdent				fricative	
+	574	890	vJ	vĵ	vĵ	palatalized voiced labiodental fricative	palzd vd labdent fricative					5	FALSE	FALSE	00760135				palzd					vd	labdent				fricative	
+	575	891	vW	vŵ	vŵ	labialized voiced labiodental fricative	labzd vd labdent fricative					1	FALSE	FALSE	00760175			labzd						vd	labdent				fricative	
+	576	893	vh	v΄	v΄	breathy-voiced labiodental fricative	breathy labdent fricative					2	FALSE	FALSE	00760384							breathy			labdent				fricative	
+	577	793	sD	s·	s·	voiceless dental sibilant fricative	vl dental sib fricative		4	61	0709	42	FALSE	FALSE	007300B7									vl	dental	sib			fricative	
+	578	794	sD'	s·'	s·'	voiceless dental sibilant ejective fricative	vl dental sib ejective fricative					1	FALSE	FALSE	007300B70027									vl	dental	sib	ejective		fricative	
+	579	795	sD*	s··	s··	creaky-voiced voiceless dental sibilant fricative	creaky vl dental sib fricative					1	FALSE	FALSE	007300B70387							creaky		vl	dental	sib			fricative	
+	580	796	sD9	s·ſ	s·ſ	pharyngealized voiceless dental sibilant fricative	pharzd vl dental sib fricative					1	FALSE	FALSE	007300B7017F				pharzd					vl	dental	sib			fricative	
+	581	797	sDJ	s·ĵ	s·ĵ	palatalized voiceless dental sibilant fricative	palzd vl dental sib fricative					2	FALSE	FALSE	007300B70135				palzd					vl	dental	sib			fricative	
+	582	153	0D	Ǿ·	Ǿ·	voiceless dental fricative	vl dental fricative		4	82	0809	18	FALSE	FALSE	01FE00B7									vl	dental				fricative	
+	583	990		Ǿ·'	Ǿ·'	voiceless dental ejective fricative	vl dental ejective fricative						FALSE	FALSE	01FE00B70027									vl	dental		ejective		fricative	
+	584	690	nzD	n·Z·	n·Z·	prenasalized voiced dental sibilant fricative	prenazad vd dental sib fricative					1	FALSE	FALSE	006E00B7005A00B7								prenazad	vd	dental	sib			fricative	
+	585	913	zD	Z·	Z·	voiced dental sibilant fricative	vd dental sib fricative		4	62	0710	17	FALSE	FALSE	005A00B7									vd	dental	sib			fricative	
+	586	914	zD9	Z·ſ	Z·ſ	pharyngealized voiced dental sibilant fricative	pharzd vd dental sib fricative					2	FALSE	FALSE	005A00B7017F				pharzd					vd	dental	sib			fricative	
+	587	915	zDJ	Z·ĵ	Z·ĵ	palatalized voiced sibilant dental fricative	palzd vd sib dental fricative					2	FALSE	FALSE	005A00B70135				palzd					vd	dental	sib			fricative	
+	588	168	6D	ď·	ď·	voiced dental fricative	vd dental fricative		4	83	0810	22	FALSE	FALSE	010F00B7									vd	dental				fricative	
+	589	169	6DJ	ď·ĵ	ď·ĵ	palatalized voiced dental fricative	palzd vd dental fricative					1	FALSE	FALSE	010F00B70135				palzd					vd	dental				fricative	
+	590	956		ď·'	ď·'	voiced dental ejective fricative	vd dental ejective fricative						FALSE	FALSE	010F00B70027									vd	dental		ejective		fricative	
+	591	51	hs	ĥs	ĥs	voiceless preaspirated alveolar sibilant fricative	vl preasp alveolar sib fricative					1	FALSE	FALSE	01250073								preasp	vl	alveolar	sib			fricative	
+	592	69	ns	ns	ns	prenasalized voiceless alveolar sibilant fricative	prenazad vl alveolar sib fricative					1	FALSE	FALSE	006E0073								prenazad	vl	alveolar	sib			fricative	
+	593	106	sW	sŵ	sŵ	labialized voiceless alveolar sibilant fricative	labzd vl alveolar sib fricative					3	FALSE	FALSE	00730175			labzd						vl	alveolar	sib			fricative	
+	594	107	sW:	sŵ►	sŵ►	long labialized voiceless alveolar sibilant fricative	long labzd vl alveolar sib fricative					1	FALSE	FALSE	0073017525BA			labzd		long				vl	alveolar	sib			fricative	
+	595	108	sh	sĥ	sĥ	voiceless aspirated alveolar sibilant fricative	vl aspirate alveolar sib fricative					3	FALSE	FALSE	00730125							aspirate		vl	alveolar	sib			fricative	
+	596	786	s	s	s	voiceless alveolar sibilant fricative	vl alveolar sib fricative		4	63	0711	196	FALSE	FALSE	0073									vl	alveolar	sib			fricative	
+	597	787	s'	s'	s'	voiceless alveolar sibilant ejective fricative	vl alveolar sib ejective fricative					1	FALSE	FALSE	00730027									vl	alveolar	sib	ejective		fricative	
+	598	788	s*	s·	s·	creaky-voiced voiceless alveolar sibilant fricative	creaky vl alveolar sib fricative					3	FALSE	FALSE	00730387							creaky		vl	alveolar	sib			fricative	
+	599	791	s9	sſ	sſ	pharyngealized voiceless alveolar sibilant fricative	pharzd vl alveolar sib fricative					1	FALSE	FALSE	0073017F				pharzd					vl	alveolar	sib			fricative	
+	600	792	s:	s►	s►	long voiceless alveolar sibilant fricative	long vl alveolar sib fricative					1	FALSE	FALSE	007325BA					long				vl	alveolar	sib			fricative	
+	601	798	sJ	sĵ	sĵ	palatalized voiceless alveolar sibilant fricative	palzd vl alveolar sib fricative					2	FALSE	FALSE	00730135				palzd					vl	alveolar	sib			fricative	
+	602	141	z9	Zſ	Zſ	pharyngealized voiced alveolar sibilant fricative	pharzd vd alveolar sib fricative					1	FALSE	FALSE	005A017F				pharzd					vd	alveolar	sib			fricative	
+	603	142	zJ	Zĵ	Zĵ	palatalized voiced alveolar sibilant fricative	palzd vd alveolar sib fricative					1	FALSE	FALSE	005A0135				palzd					vd	alveolar	sib			fricative	
+	604	143	zW	Zŵ	Zŵ	labialized voiced alveolar sibilant fricative	labzd vd alveolar sib fricative					1	FALSE	FALSE	005A0175			labzd						vd	alveolar	sib			fricative	
+	605	689	nz	nZ	nZ	prenasalized voiced alveolar sibilant fricative	prenazad vd alveolar sib fricative					1	FALSE	FALSE	006E005A								prenazad	vd	alveolar	sib			fricative	
+	606	909	z	Z	Z	voiced alveolar sibilant fricative	vd alveolar sib fricative		4	64	0712	62	FALSE	FALSE	005A									vd	alveolar	sib			fricative	
+	607	1000		Z'	Z'	voiced alveolar sibilant ejective fricative	vd alveolar sib ejective fricative						FALSE	FALSE	005A0027									vd	alveolar	sib	ejective		fricative	
+	608	166	6	ď	ď	voiced alveolar fricative	vd alveolar fricative		4	85	0812	1	FALSE	FALSE	010F									vd	alveolar				fricative	
+	609	266	S!	∫	∫	voiceless postalveolar sibilant fricative	vl postalveol sib fricative		4	65	0713	187	FALSE	FALSE	222B									vl	postalveol	sib			fricative	
+	610	267	S!'	∫'	∫'	voiceless postalveolar sibilant ejective fricative	vl postalveol sib ejective fricative					4	FALSE	FALSE	222B0027									vl	postalveol	sib	ejective		fricative	
+	611	268	S!:	∫►	∫►	long voiceless postalveolar sibilant fricative	long vl postalveol sib fricative					3	FALSE	FALSE	222B25BA					long				vl	postalveol	sib			fricative	
+	612	269	S!J	∫ĵ	∫ĵ	palatalized voiceless postalveolar sibilant fricative	palzd vl postalveol sib fricative					3	FALSE	FALSE	222B0135				palzd					vl	postalveol	sib			fricative	
+	613	270	S-	∫ĝ	∫ĝ	velarized voiceless postalveolar sibilant fricative	velzd vl postalveol sib fricative					1	FALSE	FALSE	222B011D				velzd					vl	postalveol	sib			fricative	
+	614	271	SW	∫ŵ	∫ŵ	labialized voiceless postalveolar sibilant fricative	labzd vl postalveol sib fricative					3	FALSE	FALSE	222B0175			labzd						vl	postalveol	sib			fricative	
+	615	272	SW:	∫ŵ►	∫ŵ►	long labialized voiceless postalveolar sibilant fricative	long labzd vl postalveol sib fricative					2	FALSE	FALSE	222B017525BA			labzd		long				vl	postalveol	sib			fricative	
+	616	483	hS	ĥ∫	ĥ∫	voiceless preaspirated postalveolar sibilant fricative	vl preasp postalveol sib fricative					1	FALSE	FALSE	0125222B								preasp	vl	postalveol	sib			fricative	
+	617	154	0_	Ǿˉ	Ǿˉ	voiceless postalveolar fricative	vl postalveol fricative		4	86	0813	1	FALSE	FALSE	01FE02C9									vl	postalveol				fricative	
+	618	170	6_	ďˉ	ďˉ	voiced postalveolar fricative	vd postalveol fricative		4	87	0814	1	FALSE	FALSE	010F02C9									vd	postalveol				fricative	
+	619	293	Z!	z	z	voiced postalveolar sibilant fricative	vd postalveol sib fricative		4	66	0714	61	FALSE	FALSE	007A									vd	postalveol	sib			fricative	
+	620	294	Z-	zĝ	zĝ	velarized voiced postalveolar sibilant fricative	velzd vd postalveol sib fricative					1	FALSE	FALSE	007A011D				velzd					vd	postalveol	sib			fricative	
+	621	295	ZJ	zĵ	zĵ	palatalized voiced postalveolar sibilant fricative	palzd vd postalveol sib fricative					1	FALSE	FALSE	007A0135				palzd					vd	postalveol	sib			fricative	
+	622	296	ZW	zŵ	zŵ	labialized voiced postalveolar sibilant fricative	labzd vd postalveol sib fricative					1	FALSE	FALSE	007A0175			labzd						vd	postalveol	sib			fricative	
+	623	656	nZ!	nz	nz	prenasalized voiced postalveolar sibilant fricative	prenazad vd postalveol sib fricative					3	FALSE	FALSE	006E007A								prenazad	vd	postalveol	sib			fricative	
+	624	1001		z'	z'	voiced postalveolar sibilant ejective fricative	vd postalveol sib ejective fricative						FALSE	FALSE	007A0027									vd	postalveol	sib	ejective		fricative	
+	625	297	Zh	z΄	z΄	breathy-voiced postalveolar sibilant fricative	breathy postalveol sib fricative					1	FALSE	FALSE	007A0384							breathy			postalveol	sib			fricative	
+	626	789	s.	S	S	voiceless retroflex sibilant fricative	vl retro sib fricative		4	67	0715	23	FALSE	FALSE	0053									vl	retro	sib			fricative	
+	627	790	s.'	S'	S'	voiceless retroflex sibilant ejective fricative	vl retro sib ejective fricative					1	FALSE	FALSE	00530027									vl	retro	sib	ejective		fricative	
+	628	152	0.	Ǿ˙	Ǿ˙	voiceless retroflex fricative	vl retro fricative		4	88	0815	1	FALSE	FALSE	01FE02D9									vl	retro				fricative	
+	629	911	z.	ź	ź	voiced retroflex sibilant fricative	vd retro sib fricative		4	68	0716	9	FALSE	FALSE	017A									vd	retro	sib			fricative	
+	630	912	z.*	ź·	ź·	creaky-voiced voiced retroflex sibilant fricative	creaky vd retro sib fricative					1	FALSE	FALSE	017A0387							creaky		vd	retro	sib			fricative	
+	631	167	6.	ď˙	ď˙	voiced retroflex fricative	vd retro fricative		4	89	0816	4	FALSE	FALSE	010F02D9									vd	retro				fricative	
+	632	193	C,	Ć	Ć	voiceless palatal sibilant fricative	vl palatal sib fricative		4	69	0717	9	FALSE	FALSE	0106									vl	palatal	sib			fricative	
+	633	194	C,'	Ć'	Ć'	voiceless palatal sibilant ejective fricative	vl palatal sib ejective fricative					1	FALSE	FALSE	01060027									vl	palatal	sib	ejective		fricative	
+	634	192	C!	ç	ç	voiceless palatal fricative	vl palatal fricative		4	90	0817	11	FALSE	FALSE	00E7									vl	palatal				fricative	
+	635	195	CW	çŵ	çŵ	labialized voiceless palatal fricative	labzd vl palatal fricative					1	FALSE	FALSE	00E70175			labzd						vl	palatal				fricative	
+	636	910	z,	Ź	Ź	voiced palatal sibilant fricative	vd palatal sib fricative		4	70	0718	7	FALSE	FALSE	0179									vd	palatal	sib			fricative	
+	637	572	jF	Ĵ	Ĵ	voiced palatal fricative	vd palatal fricative		4	91	0818	12	FALSE	FALSE	0134									vd	palatal				fricative	
+	638	898	x	x	x	voiceless velar fricative	vl velar fricative		4	71	0719	94	FALSE	FALSE	0078									vl	velar				fricative	
+	639	899	x'	x'	x'	voiceless velar ejective fricative	vl velar ejective fricative					2	FALSE	FALSE	00780027									vl	velar		ejective		fricative	
+	640	900	x:	x►	x►	long voiceless velar fricative	long vl velar fricative					4	FALSE	FALSE	007825BA					long				vl	velar				fricative	
+	641	901	xJ	xĵ	xĵ	palatalized voiceless velar fricative	palzd vl velar fricative					1	FALSE	FALSE	00780135				palzd					vl	velar				fricative	
+	642	902	xW	xŵ	xŵ	labialized voiceless velar fricative	labzd vl velar fricative					25	FALSE	FALSE	00780175			labzd						vl	velar				fricative	
+	643	903	xW'	xŵ'	xŵ'	labialized voiceless velar ejective fricative	labzd vl velar ejective fricative					1	FALSE	FALSE	007801750027			labzd						vl	velar		ejective		fricative	
+	644	904	xW:	xŵ►	xŵ►	long labialized voiceless velar fricative	long labzd vl velar fricative					1	FALSE	FALSE	0078017525BA			labzd		long				vl	velar				fricative	
+	645	998		xĵŵ	xĵŵ	palatalized labialized voiceless velar fricative	palzd labzd vl velar fricative						FALSE	FALSE	007801350175			labzd	palzd					vl	velar				fricative	
+	646	458	gF	Ġ	Ġ	voiced velar fricative	vd velar fricative		4	72	0720	55	FALSE	FALSE	0120									vd	velar				fricative	
+	647	459	gF*	Ġ·	Ġ·	creaky-voiced voiced velar fricative	creaky vd velar fricative					1	FALSE	FALSE	01200387							creaky		vd	velar				fricative	
+	648	460	gFJ	Ġĵ	Ġĵ	palatalized voiced velar fricative	palzd vd velar fricative					1	FALSE	FALSE	01200135				palzd					vd	velar				fricative	
+	649	461	gFW	Ġŵ	Ġŵ	labialized voiced velar fricative	labzd vd velar fricative					6	FALSE	FALSE	01200175			labzd						vd	velar				fricative	
+	650	282	X!	X	X	voiceless uvular fricative	vl uvular fricative		4	73	0723	44	FALSE	FALSE	0058									vl	uvular				fricative	
+	651	283	X!'	X'	X'	voiceless uvular ejective fricative	vl uvular ejective fricative					1	FALSE	FALSE	00580027									vl	uvular		ejective		fricative	
+	652	284	X!:	X►	X►	long voiceless uvular fricative	long vl uvular fricative					4	FALSE	FALSE	005825BA					long				vl	uvular				fricative	
+	653	285	X!W	Xŵ	Xŵ	labialized voiceless uvular fricative	labzd vl uvular fricative					14	FALSE	FALSE	00580175			labzd						vl	uvular				fricative	
+	654	286	X!W'	Xŵ'	Xŵ'	labialized voiceless uvular ejective fricative	labzd vl uvular ejective fricative					1	FALSE	FALSE	005801750027			labzd						vl	uvular		ejective		fricative	
+	655	287	X!W:	Xŵ►	Xŵ►	long labialized voiceless uvular fricative	long labzd vl uvular fricative					2	FALSE	FALSE	0058017525BA			labzd		long				vl	uvular				fricative	
+	656	288	X9	Xſ	Xſ	pharyngealized voiceless uvular fricative	pharzd vl uvular fricative					2	FALSE	FALSE	0058017F				pharzd					vl	uvular				fricative	
+	657	289	X9:	Xſ►	Xſ►	long pharyngealized voiceless uvular fricative	long pharzd vl uvular fricative					1	FALSE	FALSE	0058017F25BA				pharzd	long				vl	uvular				fricative	
+	658	290	XW9	Xŵſ	Xŵſ	labialized pharyngealized voiceless uvular fricative	labzd pharzd vl uvular fricative					2	FALSE	FALSE	00580175017F			labzd	pharzd					vl	uvular				fricative	
+	659	291	XW9:	Xŵſ►	Xŵſ►	long labialized pharyngealized voiceless uvular fricative	long labzd pharzd vl uvular fricative					1	FALSE	FALSE	00580175017F25BA			labzd	pharzd	long				vl	uvular				fricative	
+	660	262	RF	Я	Я	voiced uvular fricative	vd uvular fricative		4	74	0724	22	FALSE	FALSE	042F									vd	uvular				fricative	
+	661	263	RF9	Яſ	Яſ	pharyngealized voiced uvular fricative	pharzd vd uvular fricative					2	FALSE	FALSE	042F017F				pharzd					vd	uvular				fricative	
+	662	264	RFW	Яŵ	Яŵ	labialized voiced uvular fricative	labzd vd uvular fricative					4	FALSE	FALSE	042F0175			labzd						vd	uvular				fricative	
+	663	265	RFW9	Яŵſ	Яŵſ	labialized pharyngealized voiced uvular fricative	labzd pharzd vd uvular fricative					2	FALSE	FALSE	042F0175017F			labzd	pharzd					vd	uvular				fricative	
+	664	214	H!	ħ	ħ	voiceless pharyngeal fricative	vl phary fricative		4	75	0725	19	FALSE	FALSE	0127									vl	phary				fricative	
+	665	171	9	¿	¿	voiced pharyngeal fricative	vd phary fricative		4	76	0726	10	FALSE	FALSE	00BF									vd	phary				fricative	
+	666	934		¿'	¿'	voiced pharyngeal ejective fricative	vd phary ejective fricative						FALSE	FALSE	00BF0027									vd	phary		ejective		fricative	
+	667	474	h	h	h	voiceless glottal fricative	vl glottal fricative		4	80	0731	279	FALSE	FALSE	0068									vl	glottal				fricative	
+	668	475	h*	h·	h·	creaky-voiced voiceless glottal fricative	creaky vl glottal fricative					1	FALSE	FALSE	00680387							creaky		vl	glottal				fricative	
+	669	477	hJ!	hĵ	hĵ	palatalized voiceless glottal fricative	palzd vl glottal fricative					1	FALSE	FALSE	00680135				palzd					vl	glottal				fricative	
+	670	484	hW!	hŵ	hŵ	labialized voiceless glottal fricative	labzd vl glottal fricative					5	FALSE	FALSE	00680175			labzd						vl	glottal				fricative	
+	671	486	hh	Ħ	Ħ	voiced glottal fricative	vd glottal fricative		4	81	0732	16	FALSE	FALSE	0126									vd	glottal				fricative	
+	672	945		ħh―	ħh―	voiceless laryngeal fricative	vl lary fricative		4	77	0727		FALSE	FALSE	012700682015									vl	lary				fricative	
+	673	935		¿Ħ―	¿Ħ―	voiced laryngeal fricative	vd lary fricative		4	78	0728		FALSE	FALSE	00BF01262015									vd	lary				fricative	
+	674	732	pf	Фf―	Фf―	voiceless labiodental affricate	vl labdent affricate		4	92	0903	3	FALSE	FALSE	042400662015									vl	labdent				affricate	
+	675	733	pf'	Фf―'	Фf―'	voiceless labiodental ejective affricate	vl labdent ejective affricate					1	FALSE	FALSE	0424006620150027									vl	labdent		ejective		affricate	
+	676	734	pfh	Фf―ĥ	Фf―ĥ	voiceless aspirated labiodental affricate	vl aspirate labdent affricate					1	FALSE	FALSE	0424006620150125							aspirate		vl	labdent				affricate	
+	677	363	bv	фv―	фv―	voiced labiodental affricate	vd labdent affricate		4	93	0904	3	FALSE	FALSE	044400762015									vd	labdent				affricate	
+	678	684	ntDs	n·t·s―·	n·t·s―·	prenasalized voiceless dental sibilant affricate	prenazad vl dental sib affricate					1	FALSE	FALSE	006E00B7007400B70073201500B7								prenazad	vl	dental	sib			affricate	
+	679	685	ntDsh	n·t·s―·ĥ	n·t·s―·ĥ	prenasalized voiceless aspirated dental sibilant affricate	prenazad vl aspirate dental sib affricate					1	FALSE	FALSE	006E00B7007400B70073201500B70125							aspirate	prenazad	vl	dental	sib			affricate	
+	680	824	tDs	t·s―·	t·s―·	voiceless dental sibilant affricate	vl dental sib affricate		4	94	0909	16	FALSE	FALSE	007400B70073201500B7									vl	dental	sib			affricate	
+	681	825	tDs'	t·s―·'	t·s―·'	voiceless dental sibilant ejective affricate	vl dental sib ejective affricate					6	FALSE	FALSE	007400B70073201500B70027									vl	dental	sib	ejective		affricate	
+	682	826	tDsJ	t·s―·ĵ	t·s―·ĵ	voiceless palatalized dental sibilant affricate	vl palzd dental sib affricate					1	FALSE	FALSE	007400B70073201500B70135				palzd					vl	dental	sib			affricate	
+	683	827	tDsh	t·s―·ĥ	t·s―·ĥ	voiceless aspirated dental sibilant affricate	vl aspirate dental sib affricate					8	FALSE	FALSE	007400B70073201500B70125							aspirate		vl	dental	sib			affricate	
+	684	817	tD0	t·Ǿ―·	t·Ǿ―·	voiceless dental affricate	vl dental affricate		4	108	1009	2	FALSE	FALSE	007400B701FE201500B7									vl	dental				affricate	
+	685	818	tD0'	t·Ǿ―·'	t·Ǿ―·'	voiceless dental ejective affricate	vl dental ejective affricate					2	FALSE	FALSE	007400B701FE201500B70027									vl	dental		ejective		affricate	
+	686	819	tD0h	t·Ǿ―·ĥ	t·Ǿ―·ĥ	voiceless aspirated dental affricate	vl aspirate dental affricate					1	FALSE	FALSE	007400B701FE201500B70125							aspirate		vl	dental				affricate	
+	687	394	dDz	d·Z―·	d·Z―·	voiced dental sibilant affricate	vd dental sib affricate		4	95	0910	10	FALSE	FALSE	006400B7005A201500B7									vd	dental	sib			affricate	
+	688	665	ndDz	n·d·Z―·	n·d·Z―·	prenasalized voiced dental sibilant affricate	prenazad vd dental sib affricate					2	FALSE	FALSE	006E00B7006400B7005A201500B7								prenazad	vd	dental	sib			affricate	
+	689	388	dD6	d·ď―·	d·ď―·	voiced dental affricate	vd dental affricate		4	109	1010	1	FALSE	FALSE	006400B7010F201500B7									vd	dental				affricate	
+	690	854	tshh	ts―Ĥ	ts―Ĥ	voiceless alveolar sibilant affricate with-breathy-release	vl alveolar sib affricate wbr					1	FALSE	FALSE	0074007320150124									vl	alveolar	sib			affricate	wbr
+	691	71	nts	nts―	nts―	prenasalized voiceless alveolar sibilant affricate	prenazad vl alveolar sib affricate					1	FALSE	FALSE	006E007400732015								prenazad	vl	alveolar	sib			affricate	
+	692	131	ts':	ts―'►	ts―'►	long voiceless alveolar sibilant ejective affricate	long vl alveolar sib ejective affricate					2	FALSE	FALSE	007400732015002725BA					long				vl	alveolar	sib	ejective		affricate	
+	693	133	ts:	ts―►	ts―►	long voiceless alveolar sibilant affricate	long vl alveolar sib affricate					3	FALSE	FALSE	00740073201525BA					long				vl	alveolar	sib			affricate	
+	694	134	tsJ	ts―ĵ	ts―ĵ	palatalized voiceless alveolar sibilant affricate	palzd vl alveolar sib affricate					3	FALSE	FALSE	0074007320150135				palzd					vl	alveolar	sib			affricate	
+	695	135	tsW'	ts―ŵ'	ts―ŵ'	labialized voiceless alveolar sibilant ejective affricate	labzd vl alveolar sib ejective affricate					3	FALSE	FALSE	00740073201501750027			labzd						vl	alveolar	sib	ejective		affricate	
+	696	136	tsW:	ts―ŵ►	ts―ŵ►	long labialized voiceless alveolar sibilant affricate	long labzd vl alveolar sib affricate					1	FALSE	FALSE	007400732015017525BA			labzd		long				vl	alveolar	sib			affricate	
+	697	137	tsWh	ts―ŵĥ	ts―ŵĥ	labialized voiceless aspirated alveolar sibilant affricate	labzd vl aspirate alveolar sib affricate					3	FALSE	FALSE	00740073201501750125			labzd				aspirate		vl	alveolar	sib			affricate	
+	698	849	ts	ts―	ts―	voiceless alveolar sibilant affricate	vl alveolar sib affricate		4	96	0911	62	FALSE	FALSE	007400732015									vl	alveolar	sib			affricate	
+	699	850	ts'	ts―'	ts―'	voiceless alveolar sibilant ejective affricate	vl alveolar sib ejective affricate					26	FALSE	FALSE	0074007320150027									vl	alveolar	sib	ejective		affricate	
+	700	851	ts*	t·s―·	t·s―·	creaky-voiced voiceless alveolar sibilant affricate	creaky vl alveolar sib affricate					1	FALSE	FALSE	00740387007320150387							creaky		vl	alveolar	sib			affricate	
+	701	852	ts-	ts―ĝ	ts―ĝ	velarized voiceless alveolar sibilant affricate	velzd vl alveolar sib affricate					1	FALSE	FALSE	007400732015011D				velzd					vl	alveolar	sib			affricate	
+	702	853	tsh	ts―ĥ	ts―ĥ	voiceless aspirated alveolar sibilant affricate	vl aspirate alveolar sib affricate					17	FALSE	FALSE	0074007320150125							aspirate		vl	alveolar	sib			affricate	
+	703	810	t0	tǾ―	tǾ―	voiceless alveolar affricate	vl alveolar affricate		4	110	1011	2	FALSE	FALSE	007401FE2015									vl	alveolar				affricate	
+	704	811	t0h	tǾ―ĥ	tǾ―ĥ	voiceless aspirated alveolar affricate	vl aspirate alveolar affricate					1	FALSE	FALSE	007401FE20150125							aspirate		vl	alveolar				affricate	
+	705	28	dzJ	dZ―ĵ	dZ―ĵ	palatalized voiced alveolar sibilant affricate	palzd vd alveolar sib affricate					1	FALSE	FALSE	0064005A20150135				palzd					vd	alveolar	sib			affricate	
+	706	416	dz	dZ―	dZ―	voiced alveolar sibilant affricate	vd alveolar sib affricate		4	97	0912	24	FALSE	FALSE	0064005A2015									vd	alveolar	sib			affricate	
+	707	417	dz'	dZ―'	dZ―'	voiced alveolar sibilant ejective affricate	vd alveolar sib ejective affricate					1	FALSE	FALSE	0064005A20150027									vd	alveolar	sib	ejective		affricate	
+	708	418	dz-	dZ―ĝ	dZ―ĝ	velarized voiced alveolar sibilant affricate	velzd vd alveolar sib affricate					1	FALSE	FALSE	0064005A2015011D				velzd					vd	alveolar	sib			affricate	
+	709	672	ndz	ndZ―	ndZ―	prenasalized voiced alveolar sibilant affricate	prenazad vd alveolar sib affricate					5	FALSE	FALSE	006E0064005A2015								prenazad	vd	alveolar	sib			affricate	
+	710	419	dzh	d΄Z―΄	d΄Z―΄	breathy-voiced alveolar sibilant affricate	breathy alveolar sib affricate					2	FALSE	FALSE	00640384005A20150384							breathy			alveolar	sib			affricate	
+	711	530	htS	ĥt¯∫―	ĥt¯∫―	voiceless preaspirated postalveolar sibilant affricate	vl preasp postalveol sib affricate					1	FALSE	FALSE	0125007400AF222B2015								preasp	vl	postalveol	sib			affricate	
+	712	686	ntS	nˉtˉ∫―	nˉtˉ∫―	prenasalized voiceless postalveolar sibilant affricate	prenazad vl postalveol sib affricate					3	FALSE	FALSE	006E02C9007402C9222B2015								prenazad	vl	postalveol	sib			affricate	
+	713	687	ntSh	nˉtˉ∫―ĥ	nˉtˉ∫―ĥ	prenasalized voiceless aspirated postalveolar sibilant affricate	prenazad vl aspirate postalveol sib affricate					1	FALSE	FALSE	006E02C9007402C9222B20150125							aspirate	prenazad	vl	postalveol	sib			affricate	
+	714	829	tS!	t¯∫―	t¯∫―	voiceless postalveolar sibilant affricate	vl postalveol sib affricate		4	98	0913	188	FALSE	FALSE	007400AF222B2015									vl	postalveol	sib			affricate	
+	715	830	tS!'	t¯∫―'	t¯∫―'	voiceless postalveolar sibilant ejective affricate	vl postalveol sib ejective affricate					44	FALSE	FALSE	007400AF222B20150027									vl	postalveol	sib	ejective		affricate	
+	716	831	tS!*	t¯·∫―·	t¯·∫―·	creaky-voiced voiceless postalveolar sibilant affricate	creaky vl postalveol sib affricate					3	FALSE	FALSE	007400AF0387222B20150387							creaky		vl	postalveol	sib			affricate	
+	717	832	tS!-	t¯∫―ĝ	t¯∫―ĝ	velarized voiceless postalveolar sibilant affricate	velzd vl postalveol sib affricate					1	FALSE	FALSE	007400AF222B2015011D				velzd					vl	postalveol	sib			affricate	
+	718	833	tS!h	t¯∫―ĥ	t¯∫―ĥ	voiceless aspirated postalveolar sibilant affricate	vl aspirate postalveol sib affricate					51	FALSE	FALSE	007400AF222B20150125							aspirate		vl	postalveol	sib			affricate	
+	719	834	tS':	t¯∫―'►	t¯∫―'►	long voiceless postalveolar sibilant ejective affricate	long vl postalveol sib ejective affricate					2	FALSE	FALSE	007400AF222B2015002725BA					long				vl	postalveol	sib	ejective		affricate	
+	720	835	tS:	t¯∫―►	t¯∫―►	long voiceless postalveolar sibilant affricate	long vl postalveol sib affricate					2	FALSE	FALSE	007400AF222B201525BA					long				vl	postalveol	sib			affricate	
+	721	836	tSJ	t¯∫―ĵ	t¯∫―ĵ	palatalized voiceless postalveolar sibilant affricate	palzd vl postalveol sib affricate					1	FALSE	FALSE	007400AF222B20150135				palzd					vl	postalveol	sib			affricate	
+	722	837	tSJh	t¯∫―ĵĥ	t¯∫―ĵĥ	palatalized voiceless aspirated postalveolar sibilant affricate	palzd vl aspirate postalveol sib affricate					2	FALSE	FALSE	007400AF222B201501350125				palzd			aspirate		vl	postalveol	sib			affricate	
+	723	838	tSW	t¯∫―ŵ	t¯∫―ŵ	labialized voiceless postalveolar sibilant affricate	labzd vl postalveol sib affricate					1	FALSE	FALSE	007400AF222B20150175			labzd						vl	postalveol	sib			affricate	
+	724	839	tSW'	t¯∫―ŵ'	t¯∫―ŵ'	labialized voiceless postalveolar sibilant ejective affricate	labzd vl postalveol sib ejective affricate					3	FALSE	FALSE	007400AF222B201501750027			labzd						vl	postalveol	sib	ejective		affricate	
+	725	840	tSW:	t¯∫―ŵ►	t¯∫―ŵ►	long labialized voiceless postalveolar sibilant affricate	long labzd vl postalveol sib affricate					1	FALSE	FALSE	007400AF222B2015017525BA			labzd		long				vl	postalveol	sib			affricate	
+	726	841	tSWh	t¯∫―ŵĥ	t¯∫―ŵĥ	labialized voiceless aspirated postalveolar sibilant affricate	labzd vl aspirate postalveol sib affricate					3	FALSE	FALSE	007400AF222B201501750125			labzd				aspirate		vl	postalveol	sib			affricate	
+	727	396	dZ!	dz―	dz―	voiced postalveolar sibilant affricate	vd postalveol sib affricate		4	99	0914	113	FALSE	FALSE	0064007A2015									vd	postalveol	sib			affricate	
+	728	397	dZ!'	dz―'	dz―'	voiced postalveolar sibilant ejective affricate	vd postalveol sib ejective affricate					1	FALSE	FALSE	0064007A20150027									vd	postalveol	sib	ejective		affricate	
+	729	398	dZ!-	dz―ĝ	dz―ĝ	velarized voiced postalveolar sibilant affricate	velzd vd postalveol sib affricate					1	FALSE	FALSE	0064007A2015011D				velzd					vd	postalveol	sib			affricate	
+	730	400	dZJ	dz―ĵ	dz―ĵ	palatalized voiced postalveolar sibilant affricate	palzd vd postalveol sib affricate					1	FALSE	FALSE	0064007A20150135				palzd					vd	postalveol	sib			affricate	
+	731	401	dZW	dz―ŵ	dz―ŵ	labialized voiced postalveolar sibilant affricate	labzd vd postalveol sib affricate					2	FALSE	FALSE	0064007A20150175			labzd						vd	postalveol	sib			affricate	
+	732	667	ndZ!	nˉdˉz―	nˉdˉz―	prenasalized voiced postalveolar sibilant affricate	prenazad vd postalveol sib affricate					10	FALSE	FALSE	006E02C9006402C9007A2015								prenazad	vd	postalveol	sib			affricate	
+	733	399	dZ!h	d΄z―΄	d΄z―΄	breathy-voiced postalveolar sibilant affricate	breathy postalveol sib affricate					7	FALSE	FALSE	00640384007A20150384							breathy			postalveol	sib			affricate	
+	734	680	nt.s	ńtS―	ńtS―	prenasalized voiceless retroflex sibilant affricate	prenazad vl retro sib affricate					1	FALSE	FALSE	0144007400532015								prenazad	vl	retro	sib			affricate	
+	735	681	nt.sh	ńtS―ĥ	ńtS―ĥ	prenasalized voiceless aspirated retroflex sibilant affricate	prenazad vl aspirate retro sib affricate					1	FALSE	FALSE	01440074005320150125							aspirate	prenazad	vl	retro	sib			affricate	
+	736	807	t.s	TS―	TS―	voiceless retroflex sibilant affricate	vl retro sib affricate		4	100	0915	16	FALSE	FALSE	005400532015									vl	retro	sib			affricate	
+	737	808	t.s'	TS―'	TS―'	voiceless retroflex sibilant ejective affricate	vl retro sib ejective affricate					3	FALSE	FALSE	0054005320150027									vl	retro	sib	ejective		affricate	
+	738	809	t.sh	TS―˙ĥ	TS―˙ĥ	voiceless aspirated retroflex sibilant affricate	vl aspirate retro sib affricate					9	FALSE	FALSE	00540053201502D90125							aspirate		vl	retro	sib			affricate	
+	739	804	t.0	TǾ―˙	TǾ―˙	voiceless retroflex affricate	vl retro affricate					1	FALSE	FALSE	005401FE201502D9									vl	retro				affricate	
+	740	384	d.z	DZ―˙	DZ―˙	voiced retroflex sibilant affricate	vd retro sib affricate		4	101	0916	1	FALSE	FALSE	0044005A201502D9									vd	retro	sib			affricate	
+	741	663	nd.z	ńDź―	ńDź―	prenasalized voiced retroflex sibilant affricate	prenazad vd retro sib affricate					2	FALSE	FALSE	01440044017A2015								prenazad	vd	retro	sib			affricate	
+	742	368	cC,	cĆ―	cĆ―	voiceless palatal sibilant affricate	vl palatal sib affricate		4	102	0917	7	FALSE	FALSE	006301062015									vl	palatal	sib			affricate	
+	743	369	cC,'	cĆ―'	cĆ―'	voiceless palatal sibilant ejective affricate	vl palatal sib ejective affricate					1	FALSE	FALSE	0063010620150027									vl	palatal	sib	ejective		affricate	
+	744	370	cC,h	cĆ―ĥ	cĆ―ĥ	voiceless aspirated palatal sibilant affricate	vl aspirate palatal sib affricate					3	FALSE	FALSE	0063010620150125							aspirate		vl	palatal	sib			affricate	
+	745	660	ncC,	ŅcĆ―	ŅcĆ―	prenasalized voiceless palatal sibilant affricate	prenazad vl palatal sib affricate					1	FALSE	FALSE	0145006301062015								prenazad	vl	palatal	sib			affricate	
+	746	367	cC	cç―	cç―	voiceless palatal affricate	vl palatal affricate		4	116	1017	12	FALSE	FALSE	006300E72015									vl	palatal				affricate	
+	747	371	cCW	cç―ŵ	cç―ŵ	labialized voiceless palatal affricate	labzd vl palatal affricate					1	FALSE	FALSE	006300E720150175			labzd						vl	palatal				affricate	
+	748	372	cCh	cç―ĥ	cç―ĥ	voiceless aspirated palatal affricate	vl aspirate palatal affricate					1	FALSE	FALSE	006300E720150125							aspirate		vl	palatal				affricate	
+	749	955		cç'	cç'	voiceless palatal ejective affricate	vl palatal ejective affricate						FALSE	FALSE	006300E70027									vl	palatal		ejective		affricate	
+	750	412	djz,	JŹ―	JŹ―	voiced sibilant palatal affricate	vd sib palatal affricate		4	103	0918	2	FALSE	FALSE	004A01792015									vd	palatal	sib			affricate	
+	751	671	ndjz,	ŅJŹ―	ŅJŹ―	prenasalized voiced palatal sibilant affricate	prenazad vd palatal sib affricate					1	FALSE	FALSE	0145004A01792015								prenazad	vd	palatal	sib			affricate	
+	752	410	djjF	JĴ―	JĴ―	voiced palatal affricate	vd palatal affricate		4	117	1018	8	FALSE	FALSE	004A01342015									vd	palatal				affricate	
+	753	411	djjFW	JĴ―ŵ	JĴ―ŵ	labialized voiced palatal affricate	labzd vd palatal affricate					1	FALSE	FALSE	004A013420150175			labzd						vd	palatal				affricate	
+	754	670	ndjjF	ŅJĴ―	ŅJĴ―	prenasalized voiced palatal affricate	prenazad vd palatal affricate					1	FALSE	FALSE	0145004A01342015								prenazad	vd	palatal				affricate	
+	755	123	tlF':	tĽ―'►	tĽ―'►	long voiceless alveolar ejective affricate lateral	long vl alveolar ejective affricate lateral					1	FALSE	FALSE	0074013D2015002725BA					long				vl	alveolar		ejective	lateral	affricate	
+	756	124	tlF*	t·Ľ―·	t·Ľ―·	creaky-voiced voiceless alveolar affricate lateral	creaky vl alveolar affricate lateral					1	FALSE	FALSE	00740387013D20150387							creaky		vl	alveolar			lateral	affricate	
+	757	125	tlF:	tĽ―►	tĽ―►	long voiceless alveolar affricate lateral	long vl alveolar affricate lateral					1	FALSE	FALSE	0074013D201525BA					long				vl	alveolar			lateral	affricate	
+	758	126	tlFW'	tĽ―ŵ'	tĽ―ŵ'	labialized voiceless alveolar ejective affricate lateral	labzd vl alveolar ejective affricate lateral					1	FALSE	FALSE	0074013D201501750027			labzd						vl	alveolar		ejective	lateral	affricate	
+	759	127	tlFWh	tĽ―ŵĥ	tĽ―ŵĥ	labialized voiceless aspirated alveolar affricate lateral	labzd vl aspirate alveolar affricate lateral					1	FALSE	FALSE	0074013D201501750125			labzd				aspirate		vl	alveolar			lateral	affricate	
+	760	846	tlF	tĽ―	tĽ―	voiceless alveolar affricate lateral	vl alveolar affricate lateral					5	FALSE	FALSE	0074013D2015									vl	alveolar			lateral	affricate	
+	761	847	tlF'	tĽ―'	tĽ―'	voiceless alveolar ejective affricate lateral	vl alveolar ejective affricate lateral					9	FALSE	FALSE	0074013D20150027									vl	alveolar		ejective	lateral	affricate	
+	762	848	tlFh	tĽ―ĥ	tĽ―ĥ	voiceless aspirated alveolar affricate lateral	vl aspirate alveolar affricate lateral					3	FALSE	FALSE	0074013D20150125							aspirate		vl	alveolar			lateral	affricate	
+	763	414	dlF	dŁ―	dŁ―	voiced alveolar affricate lateral	vd alveolar affricate lateral					3	FALSE	FALSE	006401412015									vd	alveolar			lateral	affricate	
+	764	590	kL!	kĽ―	kĽ―	voiceless velar affricate lateral	vl velar affricate lateral					1	FALSE	FALSE	006B013D2015									vl	velar			lateral	affricate	
+	765	591	kL!'	kĽ―'	kĽ―'	voiceless velar affricate lateral ejective	vl velar affricate lateral ejective					1	FALSE	FALSE	006B013D20150027									vl	velar		ejective	lateral	affricate	
+	766	595	kx	kx―	kx―	voiceless velar affricate	vl velar affricate		4	104	0919	1	FALSE	FALSE	006B00782015									vl	velar				affricate	
+	767	596	kx':	kx―'►	kx―'►	long voiceless velar ejective affricate	long vl velar ejective affricate					1	FALSE	FALSE	006B00782015002725BA					long				vl	velar		ejective		affricate	
+	768	597	kx:	kx―►	kx―►	long voiceless velar affricate	long vl velar affricate					1	FALSE	FALSE	006B0078201525BA					long				vl	velar				affricate	
+	769	598	kxWh	kx―ŵĥ	kx―ŵĥ	labialized voiceless aspirated velar affricate	labzd vl aspirate velar affricate					1	FALSE	FALSE	006B0078201501750125			labzd				aspirate		vl	velar				affricate	
+	770	599	kxh	kx―ĥ	kx―ĥ	voiceless aspirated velar affricate	vl aspirate velar affricate					2	FALSE	FALSE	006B007820150125							aspirate		vl	velar				affricate	
+	771	751	qX	qX―	qX―	voiceless uvular affricate	vl uvular affricate		4	106	0923	4	FALSE	FALSE	007100582015									vl	uvular				affricate	
+	772	752	qX'	qX―'	qX―'	voiceless uvular ejective affricate	vl uvular ejective affricate					1	FALSE	FALSE	0071005820150027									vl	uvular		ejective		affricate	
+	773	753	qX':	qX―'►	qX―'►	long voiceless uvular ejective affricate	long vl uvular ejective affricate					2	FALSE	FALSE	007100582015002725BA					long				vl	uvular		ejective		affricate	
+	774	754	qX9	qX―ſ	qX―ſ	pharyngealized voiceless uvular affricate	pharzd vl uvular affricate					1	FALSE	FALSE	007100582015017F				pharzd					vl	uvular				affricate	
+	775	755	qX9'	qX―ſ'	qX―ſ'	pharyngealized voiceless uvular ejective affricate	pharzd vl uvular ejective affricate					1	FALSE	FALSE	007100582015017F0027				pharzd					vl	uvular		ejective		affricate	
+	776	756	qX9':	qX―ſ'►	qX―ſ'►	long pharyngealized voiceless uvular ejective affricate	long pharzd vl uvular ejective affricate					1	FALSE	FALSE	007100582015017F002725BA				pharzd	long				vl	uvular		ejective		affricate	
+	777	757	qX:	qX―►	qX―►	long voiceless uvular affricate	long vl uvular affricate					1	FALSE	FALSE	00710058201525BA					long				vl	uvular				affricate	
+	778	758	qXW	qX―ŵ	qX―ŵ	labialized voiceless uvular affricate	labzd vl uvular affricate					2	FALSE	FALSE	0071005820150175			labzd						vl	uvular				affricate	
+	779	759	qXW'	qX―ŵ'	qX―ŵ'	labialized voiceless uvular ejective affricate	labzd vl uvular ejective affricate					1	FALSE	FALSE	00710058201501750027			labzd						vl	uvular		ejective		affricate	
+	780	760	qXW9	qX―ŵſ	qX―ŵſ	labialized pharyngealized voiceless uvular affricate	labzd pharzd vl uvular affricate					1	FALSE	FALSE	0071005820150175017F			labzd	pharzd					vl	uvular				affricate	
+	781	761	qXW9'	qX―ŵſ'	qX―ŵſ'	labialized pharyngealized voiceless uvular ejective affricate	labzd pharzd vl uvular ejective affricate					1	FALSE	FALSE	0071005820150175017F0027			labzd	pharzd					vl	uvular		ejective		affricate	
+	782	992		tr―	tr―	voiceless alveolar affricate trill	vl alveolar affricate trill						FALSE	FALSE	007400722015									vl	alveolar			trill	affricate	
+	783	957		ndr―	ndr―	prenasalized voiced alveolar affricate trill	prenazad vd alveolar affricate trill						FALSE	FALSE	006E006400722015								prenazad	vd	alveolar			trill	affricate	
+	784	960		dr―	dr―	voiced alveolar affricate trill	vd alveolar affricate trill						FALSE	FALSE	006400722015									vd	alveolar			trill	affricate	
+	785	806	t.r	Tr―˙	Tr―˙	voiceless retroflex affricate trill	vl retro affricate trill					1	FALSE	FALSE	00540072201502D9									vl	retro			trill	affricate	
+	786	383	d.r	Dr―˙	Dr―˙	voiced retroflex affricate trill	vd retro affricate trill					1	FALSE	FALSE	00440072201502D9									vd	retro			trill	affricate	
+	787	494	hlDF	Ľ·	Ľ·	voiceless dental lateral-fricative	vl dental laterfricativ		4	138	1209	1	FALSE	FALSE	013D00B7									vl	dental				laterfricativ	
+	788	495	hlDF:	Ľ·►	Ľ·►	long voiceless dental lateral-fricative	long vl dental laterfricativ					1	FALSE	FALSE	013D00B725BA					long				vl	dental				laterfricativ	
+	789	496	hlDFJ	Ľ·ĵ	Ľ·ĵ	palatalized voiceless dental lateral-fricative	palzd vl dental laterfricativ					1	FALSE	FALSE	013D00B70135				palzd					vl	dental				laterfricativ	
+	790	497	hlDFJ'	Ľ·ĵ'	Ľ·ĵ'	palatalized voiceless dental lateral-fricative ejective	palzd vl dental laterfricativ ejective					1	FALSE	FALSE	013D00B701350027				palzd					vl	dental		ejective		laterfricativ	
+	791	611	lDF	Ł·	Ł·	voiced dental lateral-fricative	vd dental laterfricativ		4	139	1210	1	FALSE	FALSE	014100B7									vd	dental				laterfricativ	
+	792	612	lDFJ	Ł·ĵ	Ł·ĵ	palatalized voiced dental lateral-fricative	palzd vd dental laterfricativ					1	FALSE	FALSE	014100B70135				palzd					vd	dental				laterfricativ	
+	793	41	hlF'	Ľ'	Ľ'	voiceless alveolar lateral-fricative ejective	vl alveolar laterfricativ ejective					2	FALSE	FALSE	013D0027									vl	alveolar		ejective		laterfricativ	
+	794	42	hlF:	Ľ►	Ľ►	long voiceless alveolar lateral-fricative	long vl alveolar laterfricativ					2	FALSE	FALSE	013D25BA					long				vl	alveolar				laterfricativ	
+	795	44	hlFW	Ľŵ	Ľŵ	labialized voiceless alveolar lateral-fricative	labzd vl alveolar laterfricativ					1	FALSE	FALSE	013D0175			labzd						vl	alveolar				laterfricativ	
+	796	45	hlFW:	Ľŵ►	Ľŵ►	long labialized voiceless alveolar lateral-fricative	long labzd vl alveolar laterfricativ					1	FALSE	FALSE	013D017525BA			labzd		long				vl	alveolar				laterfricativ	
+	797	498	hlF	Ľ	Ľ	voiceless alveolar lateral-fricative	vl alveolar laterfricativ		4	140	1211	22	FALSE	FALSE	013D									vl	alveolar				laterfricativ	
+	798	499	hlFJ	Ľĵ	Ľĵ	palatalized voiceless alveolar lateral-fricative	palzd vl alveolar laterfricativ					1	FALSE	FALSE	013D0135				palzd					vl	alveolar				laterfricativ	
+	799	614	lF	Ł	Ł	voiced alveolar lateral-fricative	vd alveolar laterfricativ		4	141	1212	8	FALSE	FALSE	0141									vd	alveolar				laterfricativ	
+	800	615	lFJ	Łĵ	Łĵ	palatalized voiced alveolar lateral-fricative	palzd vd alveolar laterfricativ					1	FALSE	FALSE	01410135				palzd					vd	alveolar				laterfricativ	
+	801	604	l.F	Ł˙	Ł˙	voiced retroflex lateral-fricative	vd retro laterfricativ		4	143	1216	1	FALSE	FALSE	014102D9									vd	retro				laterfricativ	
+	802	478	hL!F	L°»	L°»	voiceless velar lateral-fricative	vl velar laterfricativ		4	144	1219	1	FALSE	FALSE	004C00B000BB									vl	velar				laterfricativ	
+	803	533	hxlF	xĽ―	xĽ―	voiceless velar-alveolar lateral-fricative	vl velalveo laterfricativ		4	145	1221	1	FALSE	FALSE	0078013D2015									vl	velalveo				laterfricativ	
+	804	493	hlD	l·°	l·°	voiceless dental lateral-approximant	vl dental laterapprox		4	146	1309	1	FALSE	FALSE	006C00B700B0									vl	dental				laterapprox	
+	805	413	dlD	d·l―·	d·l―·	voiced prestopped dental lateral-approximant	vd pstop dental laterapprox					1	FALSE	FALSE	006400B7006C201500B7								pstop	vd	dental				laterapprox	
+	806	608	lD	l·	l·	voiced dental lateral-approximant	vd dental laterapprox		4	147	1310	34	FALSE	FALSE	006C00B7									vd	dental				laterapprox	
+	807	609	lD-	l·ĝ	l·ĝ	velarized voiced dental lateral-approximant	velzd vd dental laterapprox					3	FALSE	FALSE	006C00B7011D				velzd					vd	dental				laterapprox	
+	808	610	lD:	l·►	l·►	long voiced dental lateral-approximant	long vd dental laterapprox					1	FALSE	FALSE	006C00B725BA					long				vd	dental				laterapprox	
+	809	613	lDJ	l·ĵ	l·ĵ	palatalized voiced dental lateral-approximant	palzd vd dental laterapprox					2	FALSE	FALSE	006C00B70135				palzd					vd	dental				laterapprox	
+	810	490	hl	l°	l°	voiceless alveolar lateral-approximant	vl alveolar laterapprox		4	148	1311	2	FALSE	FALSE	006C00B0									vl	alveolar				laterapprox	
+	811	491	hl-	l°ĝ	l°ĝ	velarized voiceless alveolar lateral-approximant	velzd vl alveolar laterapprox					1	FALSE	FALSE	006C00B0011D				velzd					vl	alveolar				laterapprox	
+	812	500	hlJ	l°ĵ	l°ĵ	palatalized voiceless alveolar lateral-approximant	palzd vl alveolar laterapprox					1	FALSE	FALSE	006C00B00135				palzd					vl	alveolar				laterapprox	
+	813	600	l	l	l	voiced alveolar lateral-approximant	vd alveolar laterapprox		4	149	1312	174	FALSE	FALSE	006C									vd	alveolar				laterapprox	
+	814	601	l*	l·	l·	creaky-voiced voiced alveolar lateral-approximant	creaky vd alveolar laterapprox					5	FALSE	FALSE	006C0387							creaky		vd	alveolar				laterapprox	
+	815	602	l-	lĝ	lĝ	velarized voiced alveolar lateral-approximant	velzd vd alveolar laterapprox					2	FALSE	FALSE	006C011D				velzd					vd	alveolar				laterapprox	
+	816	607	l9	lſ	lſ	pharyngealized voiced alveolar lateral-approximant	pharzd vd alveolar laterapprox					1	FALSE	FALSE	006C017F				pharzd					vd	alveolar				laterapprox	
+	817	616	lJ!	lĵ	lĵ	palatalized voiced alveolar lateral-approximant	palzd vd alveolar laterapprox					4	FALSE	FALSE	006C0135				palzd					vd	alveolar				laterapprox	
+	818	622	l~	l†	l†	nasalized voiced alveolar lateral-approximant	naszd vd alveolar laterapprox					1	FALSE	FALSE	006C2020			naszd						vd	alveolar				laterapprox	
+	819	929		?l	?l	preglottalized voiced alveolar lateral-approximant	pglot vd alveolar laterapprox						FALSE	FALSE	003F006C								pglot	vd	alveolar				laterapprox	
+	820	976		l'	l'	voiced alveolar ejective lateral-approximant	vd alveolar ejective laterapprox						FALSE	FALSE	006C0027									vd	alveolar		ejective		laterapprox	
+	821	977		l►	l►	long voiced alveolar lateral-approximant	long vd alveolar laterapprox						FALSE	FALSE	006C25BA					long				vd	alveolar				laterapprox	
+	822	59	lh	l΄	l΄	breathy-voiced alveolar lateral-approximant	breathy alveolar laterapprox					3	FALSE	FALSE	006C0384							breathy			alveolar				laterapprox	
+	823	619	l_	lˉ	lˉ	voiced postalveolar lateral-approximant	vd postalveol laterapprox		4	151	1314	12	FALSE	FALSE	006C02C9									vd	postalveol				laterapprox	
+	824	620	l_h	lˉ΄	lˉ΄	breathy-voiced postalveolar lateral-approximant	breathy postalveol laterapprox					1	FALSE	FALSE	006C02C90384							breathy			postalveol				laterapprox	
+	825	492	hl.	Ļ°	Ļ°	voiceless retroflex lateral-approximant	vl retro laterapprox		4	152	1315	1	FALSE	FALSE	013B00B0									vl	retro				laterapprox	
+	826	603	l.	Ļ	Ļ	voiced retroflex lateral-approximant	vd retro laterapprox		4	153	1316	27	FALSE	FALSE	013B									vd	retro				laterapprox	
+	827	621	lj	λ	λ	voiced palatal lateral-approximant	vd palatal laterapprox		4	155	1318	20	FALSE	FALSE	03BB									vd	palatal				laterapprox	
+	828	222	L!	L	L	voiced velar lateral-approximant	vd velar laterapprox		4	157	1320	1	FALSE	FALSE	004C									vd	velar				laterapprox	
+	829	256	PA	F¼	F¼	voiceless bilabial approximant	vl bilabial approxi		4	158	1401	1	FALSE	FALSE	004600BC									vl	bilabial				approxi	
+	830	188	BA	β¼	β¼	voiced bilabial approximant	vd bilabial approxi		4	159	1402	19	FALSE	FALSE	03B200BC									vd	bilabial				approxi	
+	831	189	BA-	β¼ĝ	β¼ĝ	velarized voiced bilabial approximant	velzd vd bilabial approxi					1	FALSE	FALSE	03B200BC011D				velzd					vd	bilabial				approxi	
+	832	190	BA:	β¼►	β¼►	long voiced bilabial approximant	long vd bilabial approxi					1	FALSE	FALSE	03B200BC25BA					long				vd	bilabial				approxi	
+	833	191	BAJ	β¼ĵ	β¼ĵ	palatalized voiced bilabial approximant	palzd vd bilabial approxi					1	FALSE	FALSE	03B200BC0135				palzd					vd	bilabial				approxi	
+	834	889	vA	ų	ų	voiced labiodental approximant	vd labdent approxi		4	160	1404	6	FALSE	FALSE	0173									vd	labdent				approxi	
+	835	896	wj	Ÿ	Ÿ	voiced labial-palatal approximant	vd labpal approxi		4	161	1406	6	FALSE	FALSE	0178									vd	labpal				approxi	
+	836	532	hw	W	W	voiceless labial-velar approximant	vl labvel approxi		4	162	1407	15	FALSE	FALSE	0057									vl	labvel				approxi	
+	837	894	w	w	w	voiced labial-velar approximant	vd labvel approxi		4	163	1408	332	FALSE	FALSE	0077									vd	labvel				approxi	
+	838	895	w*	w·	w·	creaky-voiced voiced labial-velar approximant	creaky vd labvel approxi					17	FALSE	FALSE	00770387							creaky		vd	labvel				approxi	
+	839	897	w~	w†	w†	nasalized voiced labial-velar approximant	naszd vd labvel approxi					2	FALSE	FALSE	00772020			naszd						vd	labvel				approxi	
+	840	996		w'	w'	voiced labial-velar ejective approximant	vd labvel ejective approxi						FALSE	FALSE	00770027									vd	labvel		ejective		approxi	
+	841	997		w►	w►	long voiced labial-velar approximant	long vd labvel approxi						FALSE	FALSE	007725BA					long				vd	labvel				approxi	
+	842	49	hrA	ŕ°	ŕ°	voiceless alveolar approximant	vl alveolar approxi					1	FALSE	FALSE	015500B0									vl	alveolar				approxi	
+	843	768	rA	ŕ	ŕ	voiced alveolar approximant	vd alveolar approxi		4	164	1412	11	FALSE	FALSE	0155									vd	alveolar				approxi	
+	844	573	j_	ŕ¯	ŕ¯	voiced postalveolar approximant	vd postalveol approxi		4	165	1414	1	FALSE	FALSE	015500AF									vd	postalveol				approxi	
+	845	765	r.A	ř	ř	voiced retroflex approximant	vd retro approxi		4	166	1416	17	FALSE	FALSE	0159									vd	retro				approxi	
+	846	488	hj	j°	j°	voiceless palatal approximant	vl palatal approxi					9	FALSE	FALSE	006A00B0									vl	palatal				approxi	
+	847	570	j	j	j	voiced palatal approximant	vd palatal approxi		4	167	1418	378	FALSE	FALSE	006A									vd	palatal				approxi	
+	848	571	j*	j·	j·	creaky-voiced voiced palatal approximant	creaky vd palatal approxi					17	FALSE	FALSE	006A0387							creaky		vd	palatal				approxi	
+	849	574	j~	j†	j†	nasalized voiced palatal approximant	naszd vd palatal approxi					2	FALSE	FALSE	006A2020			naszd						vd	palatal				approxi	
+	850	928		?j	?j	preglottalized voiced palatal approximant	pglot vd palatal approxi						FALSE	FALSE	003F006A								pglot	vd	palatal				approxi	
+	851	973		j'	j'	voiced palatal ejective approximant	vd palatal ejective approxi						FALSE	FALSE	006A0027									vd	palatal		ejective		approxi	
+	852	974		j►	j►	long voiced palatal approximant	long vd palatal approxi						FALSE	FALSE	006A25BA					long				vd	palatal				approxi	
+	853	456	gA	Щ	Щ	voiced velar approximant	vd velar approxi		4	168	1420	12	FALSE	FALSE	0429									vd	velar				approxi	
+	854	457	gA*	Щ·	Щ·	creaky-voiced voiced velar approximant	creaky vd velar approxi					2	FALSE	FALSE	04290387							creaky		vd	velar				approxi	
+	855	940		Щ'	Щ'	voiced velar ejective approximant	vd velar ejective approxi						FALSE	FALSE	04290027									vd	velar		ejective		approxi	
+	856	941		Щŵ	Щŵ	labialized voiced velar approximant	labzd vd velar approxi						FALSE	FALSE	04290175			labzd						vd	velar				approxi	
+	857	942		Щ'ŵ	Щ'ŵ	labialized voiced velar ejective approximant	labzd vd velar ejective approxi						FALSE	FALSE	042900270175			labzd						vd	velar		ejective		approxi	
+	858	259	R!A	Я¼	Я¼	voiced uvular approximant	vd uvular approxi		4	169	1424	2	FALSE	FALSE	042F00BC									vd	uvular				approxi	
+	859	260	RAW	Я¼ŵ	Я¼ŵ	labialized voiced uvular approximant	labzd vd uvular approxi					1	FALSE	FALSE	042F00BC0175			labzd						vd	uvular				approxi	
+	860	261	RAW*	Я¼·ŵ	Я¼·ŵ	creaky-voiced labialized voiced uvular approximant	creaky labzd vd uvular approxi					1	FALSE	FALSE	042F00BC03870175			labzd				creaky		vd	uvular				approxi	
+	861	4	#	║	║	voiceless alveolar affricate-lateral click	vl alveolar afrilat click	8				4	FALSE	FALSE	2551									vl	alveolar			afrilat	click	
+	862	5	#?	║?	║?	glottalized voiceless alveolar affricate-lateral click	glotazed vl alveolar afrilat click	8				1	FALSE	FALSE	2551003F	glotazed								vl	alveolar			afrilat	click	
+	863	6	#h	║ĥ	║ĥ	voiceless aspirated alveolar affricate-lateral click	vl aspirate alveolar afrilat click	8				2	FALSE	FALSE	25510125							aspirate		vl	alveolar			afrilat	click	
+	864	10	#xh	║xĥ	║xĥ	velar-fricated voiceless aspirated alveolar affricate-lateral click	velfricd vl aspirate alveolar afrilat click	8				1	FALSE	FALSE	255100780125							aspirate		vl	alveolar		velfricd	afrilat	click	
+	865	505	hn#?	ŋ°║?	ŋ°║?	glottalized nasalized voiceless alveolar affricate-lateral click	glotazed naszd vl alveolar afrilat click					2	FALSE	FALSE	014B00B02551003F	glotazed		naszd						vl	alveolar			afrilat	click	
+	866	506	hn#h	ŋ°║ĥ	ŋ°║ĥ	nasalized voiceless aspirated alveolar affricate-lateral click	naszd vl aspirate alveolar afrilat click					1	FALSE	FALSE	014B00B025510125			naszd				aspirate		vl	alveolar			afrilat	click	
+	867	939		║º	║º	voiceless advanced alveolar affricate-lateral click	vl advad alveolar afrilat click						FALSE	FALSE	255100BA		advad							vl	alveolar			afrilat	click	
+	868	441	g#	g║	g║	voiced alveolar affricate-lateral click	vd alveolar afrilat click					1	FALSE	FALSE	00672551									vd	alveolar			afrilat	click	
+	869	639	n#	Ņ║	Ņ║	nasalized voiced alveolar affricate-lateral click	naszd vd alveolar afrilat click					3	FALSE	FALSE	01452551			naszd						vd	alveolar			afrilat	click	
+	870	7	#j	║ˉ	║ˉ	voiceless palatal affricate-lateral click	vl palatal afrilat click	8				1	FALSE	FALSE	255102C9									vl	palatal			afrilat	click	
+	871	8	#jh	║ˉĥ	║ˉĥ	voiceless aspirated palatal affricate-lateral click	vl aspirate palatal afrilat click	8				1	FALSE	FALSE	255102C90125							aspirate		vl	palatal			afrilat	click	
+	872	9	#jx	║ˉx	║ˉx	velar-fricated voiceless palatal affricate-lateral click	velfricd vl palatal afrilat click	8				1	FALSE	FALSE	255102C90078									vl	palatal		velfricd	afrilat	click	
+	873	507	hn#j?	ŋ║ˉ?	ŋ║ˉ?	glottalized nasalized voiceless palatal affricate-lateral click	glotazed naszd vl palatal afrilat click					1	FALSE	FALSE	014B255102C9003F	glotazed		naszd						vl	palatal			afrilat	click	
+	874	508	hn#jh	ŋ°║ˉĥ	ŋ°║ˉĥ	nasalized voiceless aspirated palatal affricate-lateral click	naszd vl aspirate palatal afrilat click					1	FALSE	FALSE	014B00B0255102C90125			naszd				aspirate		vl	palatal			afrilat	click	
+	875	509	hn#jx?	ŋ║ˉx?	ŋ║ˉx?	glottalized nasalized velar-fricated voiceless palatal affricate-lateral click	glotazed naszd velfricd vl palatal afrilat click					1	FALSE	FALSE	014B255102C90078003F	glotazed		naszd						vl	palatal		velfricd	afrilat	click	
+	876	442	g#j	g║ˉ	g║ˉ	voiced palatal affricate-lateral click	vd palatal afrilat click					1	FALSE	FALSE	0067255102C9									vd	palatal			afrilat	click	
+	877	444	g#jx	g║ˉx	g║ˉx	velar-fricated voiced palatal affricate-lateral click	velfricd vd palatal afrilat click					1	FALSE	FALSE	0067255102C90078									vd	palatal		velfricd	afrilat	click	
+	878	445	g#jx?	g║ˉx?	g║ˉx?	glottalized velar-fricated voiced palatal affricate-lateral click	glotazed velfricd vd palatal afrilat click					1	FALSE	FALSE	0067255102C90078003F	glotazed								vd	palatal		velfricd	afrilat	click	
+	879	640	n#j	ŋ║ˉ	ŋ║ˉ	nasalized voiced palatal affricate-lateral click	naszd vd palatal afrilat click					1	FALSE	FALSE	014B255102C9			naszd						vd	palatal			afrilat	click	
+	880	443	g#jh	g΄║ˉ	g΄║ˉ	breathy-voiced palatal affricate-lateral click	breathy palatal afrilat click					1	FALSE	FALSE	00670384255102C9							breathy			palatal			afrilat	click	
+	881	641	n#jh	ŋ΄║ˉ	ŋ΄║ˉ	nasalized breathy-voiced palatal affricate-lateral click	naszd breathy palatal afrilat click					1	FALSE	FALSE	014B0384255102C9			naszd				breathy			palatal			afrilat	click	
+	882	522	hn|?	ŋ°|Ǿ―?	ŋ°|Ǿ―?	glottalized nasalized voiceless dental affricate click	glotazed naszd vl dental affricate click					3	FALSE	FALSE	014B00B0007C01FE2015003F	glotazed		naszd						vl	dental				click	
+	883	523	hn|h	ŋ°|Ǿ―ĥ	ŋ°|Ǿ―ĥ	nasalized voiceless aspirated dental affricate click	naszd vl aspirate dental affricate click					2	FALSE	FALSE	014B00B0007C01FE20150125			naszd				aspirate		vl	dental				click	
+	884	524	hn|x?	ŋ°|Ǿ―x?	ŋ°|Ǿ―x?	glottalized nasalized velar-fricated voiceless dental affricate click	glotazed naszd velfricd vl dental affricate click					1	FALSE	FALSE	014B00B0007C01FE20150078003F	glotazed		naszd						vl	dental		velfricd		click	
+	885	916	|	|Ǿ―	|Ǿ―	voiceless dental affricate click	vl dental affricate click					5	FALSE	FALSE	007C01FE2015									vl	dental				click	
+	886	917	|?	|Ǿ―?	|Ǿ―?	glottalized voiceless affricate dental click	glotazed vl affricate dental click					1	FALSE	FALSE	007C01FE2015003F	glotazed								vl	dental				click	
+	887	918	|h	|Ǿ―ĥ	|Ǿ―ĥ	voiceless aspirated dental affricate click	vl aspirate dental affricate click					3	FALSE	FALSE	007C01FE20150125							aspirate		vl	dental				click	
+	888	919	|x	|Ǿ―x	|Ǿ―x	velar-fricated voiceless dental affricate click	velfricd vl dental affricate click					1	FALSE	FALSE	007C01FE20150078									vl	dental		velfricd		click	
+	889	920	|xh	|Ǿ―xĥ	|Ǿ―xĥ	velarized voiceless aspirated dental affricate click	velzd vl aspirate dental affricate click					1	FALSE	FALSE	007C01FE201500780125				velzd			aspirate		vl	dental				click	
+	890	470	g|	g΄|Ǿ―	g΄|Ǿ―	voiced dental affricate click	vd dental affricate click					2	FALSE	FALSE	00670384007C01FE2015									vd	dental				click	
+	891	472	g|x	g|Ǿ―x	g|Ǿ―x	velar-fricated voiced dental affricate click	velfricd vd dental affricate click					1	FALSE	FALSE	0067007C01FE20150078									vd	dental		velfricd		click	
+	892	473	g|x?	g|Ǿ―x?	g|Ǿ―x?	glottalized velar-fricated voiced dental affricate click	glotazed velfricd vd dental affricate click					1	FALSE	FALSE	0067007C01FE20150078003F	glotazed								vd	dental		velfricd		click	
+	893	691	n|	ŋ|Ǿ―	ŋ|Ǿ―	nasalized voiced dental affricate click	naszd vd dental affricate click					5	FALSE	FALSE	014B007C01FE2015			naszd						vd	dental				click	
+	894	471	g|h	g|Ǿ―	g|Ǿ―	breathy-voiced dental affricate click	breathy dental affricate click					1	FALSE	FALSE	0067007C01FE2015							breathy			dental				click	
+	895	692	n|h	ŋ΄|Ǿ―΄	ŋ΄|Ǿ―΄	nasalized breathy-voiced dental affricate click	naszd breathy dental affricate click					1	FALSE	FALSE	014B0384007C01FE20150384			naszd				breathy			dental				click	
+	896	144	/	|	|	voiceless alveolar click	vl alveolar click		4	39	0311	2	FALSE	FALSE	007C									vl	alveolar				click	
+	897	148	/h	|ĥ	|ĥ	voiceless aspirated alveolar click	vl aspirate alveolar click					1	FALSE	FALSE	007C0125							aspirate		vl	alveolar				click	
+	898	149	/s	|s	|s	voiceless alveolar affricate click	vl alveolar affricate click					1	FALSE	FALSE	007C0073									vl	alveolar				click	
+	899	150	/x	|x	|x	velar-fricated voiceless alveolar click	velfricd vl alveolar click					1	FALSE	FALSE	007C0078									vl	alveolar		velfricd		click	
+	900	151	/xh	|xĥ	|xĥ	velar-fricated voiceless aspirated alveolar click	velfricd vl aspirate alveolar click					1	FALSE	FALSE	007C00780125							aspirate		vl	alveolar		velfricd		click	
+	901	515	hn/?	ŋ°|?	ŋ°|?	glottalized nasalized voiceless alveolar click	glotazed naszd vl alveolar click					2	FALSE	FALSE	014B00B0007C003F	glotazed		naszd						vl	alveolar				click	
+	902	516	hn/h	ŋ°|ĥ	ŋ°|ĥ	nasalized voiceless aspirated alveolar click	naszd vl aspirate alveolar click					2	FALSE	FALSE	014B00B0007C0125			naszd				aspirate		vl	alveolar				click	
+	903	517	hn/x?	ŋ°|x?	ŋ°|x?	glottalized nasalized velarized voiceless alveolar click	glotazed naszd velzd vl alveolar click					1	FALSE	FALSE	014B00B0007C0078003F	glotazed		naszd	velzd					vl	alveolar				click	
+	904	447	g/	g|	g|	voiced alveolar click	vd alveolar click					1	FALSE	FALSE	0067007C									vd	alveolar				click	
+	905	453	g/x	g|x	g|x	velar-fricated voiced alveolar click	velfricd vd alveolar click					1	FALSE	FALSE	0067007C0078									vd	alveolar		velfricd		click	
+	906	454	g/x?	g|x?	g|x?	glottalized velar-fricated voiced alveolar click	glotazed velfricd vd alveolar click					1	FALSE	FALSE	0067007C0078003F	glotazed								vd	alveolar		velfricd		click	
+	907	645	n/	ŋ|	ŋ|	nasalized voiced alveolar click	naszd vd alveolar click					2	FALSE	FALSE	014B007C			naszd						vd	alveolar				click	
+	908	452	g/h	g΄|	g΄|	breathy-voiced alveolar click	breathy alveolar click					1	FALSE	FALSE	00670384007C							breathy			alveolar				click	
+	909	648	n/h	ŋ΄|	ŋ΄|	nasalized breathy-voiced alveolar click	naszd breathy alveolar click					1	FALSE	FALSE	014B0384007C			naszd				breathy			alveolar				click	
+	910	0	!	!	!	voiceless postalveolar click	vl postalveol click	4	4	40	0313	5	FALSE	FALSE	0021									vl	postalveol				click	
+	911	1	!?	!?	!?	glottalized voiceless postalveolar click	glotazed vl postalveol click	4				1	FALSE	FALSE	0021003F	glotazed								vl	postalveol				click	
+	912	2	!h	!ĥ	!ĥ	voiceless aspirated postalveolar click	vl aspirate postalveol click	4				2	FALSE	FALSE	00210125							aspirate		vl	postalveol				click	
+	913	3	!xh	!xĥ	!xĥ	velar-fricated voiceless aspirated postalveolar click	velfricd vl aspirate postalveol click	4				1	FALSE	FALSE	002100780125							aspirate		vl	postalveol		velfricd		click	
+	914	503	hn!?	ŋ°│?	ŋ°│?	glottalized nasalized voiceless postalveolar click	glotazed naszd vl postalveol click					2	FALSE	FALSE	014B00B02502003F	glotazed		naszd						vl	postalveol				click	
+	915	504	hn!h	ŋ°│ĥ	ŋ°│ĥ	nasalized voiceless aspirated postalveolar click	naszd vl aspirate postalveol click					1	FALSE	FALSE	014B00B025020125			naszd				aspirate		vl	postalveol				click	
+	916	440	g!	g!	g!	voiced postalveolar click	vd postalveol click					1	FALSE	FALSE	00670021									vd	postalveol				click	
+	917	638	n!	ŋ!	ŋ!	nasalized voiced postalveolar click	naszd vd postalveol click					3	FALSE	FALSE	014B0021			naszd						vd	postalveol				click	
+	918	938		│˙	│˙	voiceless retroflex click	vl retro click						FALSE	FALSE	250202D9									vl	retro				click	
+	919	145	/=	╪	╪	voiceless palatal click	vl palatal click		4	42	0317	1	FALSE	FALSE	256A									vl	palatal				click	
+	920	146	/=h	╪ĥ	╪ĥ	voiceless aspirated palatal click	vl aspirate palatal click					1	FALSE	FALSE	256A0125							aspirate		vl	palatal				click	
+	921	147	/=x	╪x	╪x	velar-fricated voiceless palatal click	velfricd vl palatal click					1	FALSE	FALSE	256A0078									vl	palatal		velfricd		click	
+	922	512	hn/=?	ŋ°╪?	ŋ°╪?	glottalized nasalized voiceless palatal click	glotazed naszd vl palatal click					1	FALSE	FALSE	014B00B0256A003F	glotazed		naszd						vl	palatal				click	
+	923	513	hn/=h	ŋ°╪ĥ	ŋ°╪ĥ	nasalized voiceless aspirated palatal click	naszd vl aspirate palatal click					1	FALSE	FALSE	014B00B0256A0125			naszd				aspirate		vl	palatal				click	
+	924	514	hn/=x?	ŋ°╪x?	ŋ°╪x?	glottalized nasalized velar-fricated voiceless palatal click	glotazed naszd velfricd vl palatal click					1	FALSE	FALSE	014B00B0256A0078003F	glotazed		naszd						vl	palatal		velfricd		click	
+	925	448	g/=	g╪	g╪	voiced palatal click	vd palatal click					1	FALSE	FALSE	0067256A									vd	palatal				click	
+	926	450	g/=x	g╪x	g╪x	velar-fricated voiced palatal click	velfricd vd palatal click					1	FALSE	FALSE	0067256A0078									vd	palatal		velfricd		click	
+	927	451	g/=x?	g╪x?	g╪x?	glottalized velar-fricated voiced palatal click	glotazed velfricd vd palatal click					1	FALSE	FALSE	0067256A0078003F	glotazed								vd	palatal		velfricd		click	
+	928	646	n/=	ŋ╪	ŋ╪	nasalized voiced palatal click	naszd vd palatal click					1	FALSE	FALSE	014B256A			naszd						vd	palatal				click	
+	929	449	g/=h	g΄╪	g΄╪	breathy-voiced palatal click	breathy palatal click					1	FALSE	FALSE	00670384256A							breathy			palatal				click	
+	930	647	n/=h	ŋ΄╪	ŋ΄╪	nasalized breathy-voiced palatal click	naszd breathy palatal click					1	FALSE	FALSE	014B0384256A			naszd				breathy			palatal				click	

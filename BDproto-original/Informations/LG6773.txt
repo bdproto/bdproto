@@ -1,0 +1,13 @@
+Language name: UPPER CHEHALIS
+
+Language number: 6773
+
+Alternate names: 
+
+Classification: N. American, Almosan
+
+Comments:
+Upper Chehalis was formerly spoken in an area of South-western Washington state, U.S.A. Vowel length is phonemic. There may be a series of contrastively laryngealized nasals and approximants, but Kinkade's (1963) subject was not consistent in using them.
+
+Sources: 
+Kinkade, M.D. 1963. Phonology and morphology of Upper Chehalis: I. International Journal of American Linguistics XXIX/3: 181-195.

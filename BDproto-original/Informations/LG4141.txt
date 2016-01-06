@@ -1,0 +1,17 @@
+Language name: EWONDO
+
+Language number: 4141
+
+Alternate names: 
+
+Classification: Niger-Kordofanian, Bantoid
+
+Comments:
+Ewondo has 3 level tones. The high vowels /i,u/ are "so high...that loud friction usually occurs with these vowels" (Redden 1979: 8). Prenasalized obstruents contrast with syllabic nasal + C sequences and according to Nnomo and Mbezele syllable boundary falls before them. The intuition of these native speakers that these are single segments is followed here.
+
+Sources: 
+Abega, P. 1970. Grammaire Ewondo. Universite Federale du Cameroun, Departement des langues africaines et linguistiques.
+
+Nnomo, T.A. and Mbezele, L.E. 1982. Elements de Grammaire Ewondo. College Liberman, Donala.
+
+Redden, J.E. 1979. A Descriptive Grammar of Ewando. SIU Department of Linguistics, Carbindale (?), Illinois.

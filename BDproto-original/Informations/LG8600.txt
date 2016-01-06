@@ -1,0 +1,14 @@
+Language name: ANDAMANESE
+
+Language number: 8600
+
+Alternate names: 
+
+Classification: Papuan, Andamanese
+
+Comments: 
+
+Sources: 
+Radcliffe-Brown, A. 1914. Notes on the languages of the Andaman Islands. Anthropos 9: 36-52.
+
+Voegelin, C.F. and Voegelin, F.M. 1966. [Andamanese]. Languages of the World: Indo-Pacific Fascicle 8 (Anthropological Linguistics 8/4): 10-13.

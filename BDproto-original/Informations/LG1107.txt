@@ -1,0 +1,17 @@
+Language name: MICRONESIAN
+
+Language number: 1107
+
+Classification: Austro-Tai, Austronesian, East-Malayo-Polynesian
+
+Depth: 
+
+Author: Marck
+
+Date: 1977
+
+Comments: 
+
+
+Sources: 
+Byron, W. Bender, Judith W. Wang, 19, ‘The status of proto micronesian’, Australian Linguistics at the 15th Pacific Science Congress, Pacific Linguistics, Series C, n°88

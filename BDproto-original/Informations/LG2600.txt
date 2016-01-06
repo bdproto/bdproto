@@ -1,0 +1,24 @@
+Language name: GEORGIAN
+
+Language number: 2600
+
+Alternate names: Kartvelian
+
+Classification: Caucasian
+
+Comments: 
+
+Sources: 
+Neisser, F. 1953. Studien zur Georgischen Wortbildung. Deutsche Morgenlandische Gesellschaft, Wiesbaden.
+
+Robins, R.H. and Waterson, N. 1952. Notes on the phonetics of the Georgian word. Bulletin of the School of Oriental and African Studies 15: 55-72.
+
+Selmer, E.W. 1935. Georgische Experimentalstudien. Jacob Dybwad, Osol.
+
+Tschenkeli, K. 1958. Einfuhrung in die Georgische Sprache I. Amirani, Zurich.
+
+Vogt, H. 1938. Esquisse d'une grammaire du georgien moderne. Norsk Tidsskrift for Sprogvidenskap 9: 5-114.
+
+Vogt, H. 1958. Structure phonemique du georgien. Norsk Tidsskrift for Sprogvidenskap 18: 5-90.
+
+Vogt, H. 1971. Grammaire de la langue georgienne. Institutet for Sammlignende Kulturforskning. Universitetsforlaget, Oslo.

@@ -1,0 +1,15 @@
+Language name: NYAH KUR
+
+Language number: 2315
+
+Alternate names: Chao Bon
+
+Classification: Austro-Asiatic, Mon
+
+Comments:
+Nyah Kur is spoken in Thailand in some communities along the eastern margin of the Central Plain (Chao Praya basin). It has a "register" system involving primarily phonation contrasts, represented here as a plain/breathy distinction in vowels. All vowels may appear long and short. A final consonant described by Diffloth (1984) as "an s-like sound" and transcribed as a voiceless palatal approximant has been interpreted as a palatal fricative. Thongkum (1984) transcribes it as a devoiced palatal stop, but it contrasts with /-c/.
+
+Sources: 
+Diffloth, G. 1984. The Dvaravati Old Mon Language and Nyah Kur. Chulalongkorn University Printing House, Bangkok.
+
+Thongkum, T. 1984. Nyah Kur (Chao Bon)-Thai-English Dictionary. Chulalongkorn University Printing House, Bangkok.

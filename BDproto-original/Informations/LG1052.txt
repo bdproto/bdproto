@@ -1,0 +1,17 @@
+Language name: KARTVELIAN
+
+Language number: 1052
+
+Classification: Caucasian
+
+Depth: 
+
+Author: Gamkrelidze and Macavariani
+
+Date: 1982
+
+Comments: 
+
+
+Sources: 
+A. R. Bomhard, 1990, ‘Comparative study of the ‘Nostratic’ languages’, Trends in Linguistics, Studies and Monographs 45, Linguistic change and reconstruction methodology, P. Baldi, ed.

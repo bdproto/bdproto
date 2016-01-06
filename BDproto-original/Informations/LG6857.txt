@@ -1,0 +1,13 @@
+Language name: CUNA
+
+Language number: 6857
+
+Alternate names: Kuna
+
+Classification: South American, Chibchan
+
+Comments:
+Cuna is spoken on San Blas Island, Panama, and on the Caribbean coast astride the Panama/Colombia border. All vowels may occur long.  The voiceless stops and the affricate are, from a morphological point of view, geminates.  Other consonants, except /w/, actually occur geminated.  Syllable canon is (C)V(C), i.e. no more than two adjacent medial consonants can occur.
+
+Sources: 
+Sherzer, J.  1983.  Kuna Ways of Speaking: An Ethnographic Perspective.  University of Texas Press, Austin.

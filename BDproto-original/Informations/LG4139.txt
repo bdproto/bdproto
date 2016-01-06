@@ -1,0 +1,13 @@
+Language name: NONI
+
+Language number: 4139
+
+Alternate names: 
+
+Classification: Niger-Kordofanian, Bantoid
+
+Comments:
+Noni has 3 level tones.  All two-tone sequences apart from MH also occur on monosyllables. Short /U/ conditions a labio-dental fricative offglide from a preceding stop.
+
+Sources: 
+Hyman, L.M. 1981. Noni Grammatical Structure, with special rreference to verb morphology. Southern California Occasional Papers in Linguistics no.9

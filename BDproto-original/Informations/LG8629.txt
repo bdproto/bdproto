@@ -1,0 +1,13 @@
+Language name: YAWA
+
+Language number: 8629
+
+Alternate names: Yava
+
+Classification: Papuan, Geelvink Bay
+
+Comments:
+Yawa is spoken on Yapen island, Irian Jaya, Indonesia. Stress placement is unpredictable. After /u/ the palato-alveolar affricate has the allophone [g]. Nasal + obstruent clusters occur but Jones (1986) reports that they are not homorganic if the obstruent is velar or palato-alveolar, and are phonetically heterosyllabic where intervocalic; hence, even initial cases are analyzed as sequences. Many two-vowel sequences occur.
+
+Sources: 
+Jones, L.K. 1986. Yawa phonology. Papers in New Guinea linguistics, no. 25, 1-30. Pacific Linguistics, Series A, No. 74.  Australian National University, Canberra.

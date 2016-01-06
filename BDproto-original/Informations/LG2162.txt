@@ -1,0 +1,15 @@
+Language name: KIRGHIZ
+
+Language number: 2162
+
+Alternate names: 
+
+Classification: Ural-Altaic, Turkic
+
+Comments:
+Kirghiz is spoken in Kirghiz ASSR, mountains of southern Soviet middle Asia.
+
+Sources: 
+Herbert, R.J. and Poppe, N. 1963. Kirghiz Manual (Indiana University Publications, Uralic and Altaic Series 33). Indiana University, Bloomington.
+
+Junusaliev, B.M. 1966. Kirgizskij Jazyk, in V.V. Vinogradov (ed.), Jazyki Narodov SSSR: Vol 2. Tjurkskie Jazyki.  Nauka, Moscow and Leningrad.

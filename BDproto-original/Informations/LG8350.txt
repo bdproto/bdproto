@@ -1,0 +1,13 @@
+Language name: Maung
+
+Language number: 8350
+
+Alternate names: 
+
+Classification: Australian, Yiwaidjan
+
+Comments:
+Maung plosives are "voiceless lenes". They "tend to be voiced in the pre-stop position and voiceless in the post-stop and word-final position.  Following the nasals they are voiced, and elsewhere they freely vary between voiced and voiceless."  (Capell and Hinch, 1970:21).
+
+Sources: 
+Capell, C. and Hinch, H.E. 1970. Maung Grammar. Mouton, The Hague.

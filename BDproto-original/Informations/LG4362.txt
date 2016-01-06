@@ -1,0 +1,13 @@
+Language name: Kullo
+
+Language number: 4362
+
+Alternate names: 
+
+Classification: Afro-Asiatic, Omotic
+
+Comments:
+Allen reports several areas of uncertainty in the phonology of Kullo, including vowel and consonant length and pitch/stress features.
+
+Sources: 
+Allen, E.J. 1976a. Kullo. In M.L. Bender (ed.), The Non-Semitic Languages of Ethiopia. African Studies Center, Michigan State University, East Lansing: 324-50.

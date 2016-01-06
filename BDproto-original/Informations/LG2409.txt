@@ -1,0 +1,19 @@
+Language name: JAVANESE
+
+Language number: 2409
+
+Alternate names: 
+
+Classification: Austro-Tai, W. Malayo-Polynesian
+
+Comments:
+Javanese is spoken primarily in Java, Indonesia. 
+
+Sources: 
+Fagan, J.L. 1988. Javanese intervocalic stop phonemes: the light/heavy distinction. From: Studies in Austronesian Linguistics. ed. Richard McGinn. Ohio University Center for International Studies, Center for Southeast Asia Studies. Athens, Ohio. 
+
+Horne, E.C. 1961. Beginning Javanese. Yale University Press, New Haven.
+
+Herrfurth, H. 1964. Lehrbuch des Modernen Djawanisch. Verlag Enzyklopadie, Leipzig.
+
+Uhlenbeck. 1963. Review of Horne, E.C. Beginning Javanese. Lingua 12: 69-76.

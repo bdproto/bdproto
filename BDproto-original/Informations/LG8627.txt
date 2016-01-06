@@ -1,0 +1,17 @@
+Language name: ANGAATIHA
+
+Language number: 8627
+
+Alternate names: 
+
+Classification: Papuan, Trans-New Guinea
+
+Comments:
+Angaatiha is analyzed as having 3 tones - high, low, and falling.  Huisman et al. treat nj as a cluster, but it is the only Cj cluster. /w/ clusters with /p,m,k,?/ - these are treated as two-consonant clusters.
+
+Sources: 
+Huisman, R. 1973. Angaataha verb morphology. Linguistics 110:43-54.
+
+Huisman, R., Huisman, R., Lloyd, J. 1981. Angaatiha syllable patterns. In P.M. Healey (ed.), Angan Languages are Different: Four Phonologies.  Language Data, Asian-Pacific Series 12, Summer Institute of Linguistics, Huntington Beach: 51-62.
+
+Huisman, R., Lloyd, J. 1981. Angaatiha tone, stress, and length. In P.M Healey (ed.), Angan Languages are Different: Four Phonologies. Language Data, Asian-Pacific Series 12, Summer Institute of Linguistics, Huntington Beach: 63-82.

@@ -1,0 +1,12 @@
+Language name: CHANGZHOU
+
+Language number: 2503
+
+Alternate names: 
+
+Classification: Sino-Tibetan, Sinitic
+
+Comments: 
+
+Sources: 
+Chao, Y-R. 1970. The Changchow dialect. Journal of the American Oriental Society 90: 45-59.

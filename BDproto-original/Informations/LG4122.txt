@@ -1,0 +1,15 @@
+Language name: Amo
+
+Language number: 4122
+
+Alternate names: 
+
+Classification: Niger-Kordofanian, Plateau
+
+Comments:
+Di Luzio (1972) reports a two-level tone system with rising and falling combinations.  Anderson (1980) notes downstep, and "extra high" on a few items.  A larger vowel inventory than either author reports is assumed on the basis of field work by L. Hyman and analysis of tape recordings.
+
+Sources: 
+Anderson, S.C. 1980. The noun class sytem of Amo.  In L.M. Hyman (ed), Noun Classes in the Grassfields Bantu Borderland.  Southern California Occasional Papers in Linguistics 8:155-178.  University of Southern California: Los Angeles.
+
+Di Luzio, A. 1972. Preliminary description of the Amo language. Afrika und Ubersee 56: 3-60.

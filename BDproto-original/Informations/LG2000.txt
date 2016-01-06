@@ -1,0 +1,17 @@
+Language name: GREEK
+
+Language number: 2000
+
+Alternate names: 
+
+Classification: Indo-European, Greek
+
+Comments:
+Greek is spoken primarily in Greece but also in parts of Cyprus, Italy, Albania and Turkey.
+
+Sources: 
+Householder, F.W., Kazazis, K. and Koutsoudas, A. 1964. Reference Grammar of Literary Dhimotiki (IJAL 30/2 Part II, Publications of the Indiana University Research Center in Anthropology, Folklore and Linguistics, 31). Indiana University, Bloomington.
+
+Newton, B. 1972. The Generative Interpretation of Dialect: A Study of Modern Greek Phonology. Cambridge University Press, Cambridge.
+
+Pring, J.T. 1950. A Grammar of Modern Greek on a Phonetic Basis.  Hodder & Stoughton, London.

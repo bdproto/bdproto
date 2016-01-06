@@ -1,0 +1,17 @@
+Language name: CHIBCHA
+
+Language number: 1111
+
+Classification: South-American, Chibchan
+
+Depth: 
+
+Author: 
+
+Date: 
+
+Comments: 
+2 tones (high, low)
+
+Sources: 
+A. Constenla Umaña, 1993, ‘La famiglia chibcha’, in Estado actual de la classificacion de las lenguas indigenas de Colombia, Ponencias presentadas en el seminario-Taller realizado en el instituto caro y cuervo (Febrero 10, 11 y 12 de 1988), Santafé de Bogota

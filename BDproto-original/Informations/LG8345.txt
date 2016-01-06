@@ -1,0 +1,13 @@
+Language name: GARAWA
+
+Language number: 8345
+
+Alternate names: 
+
+Classification: Australian, Garawan
+
+Comments:
+Garawa is spoken in the northeast of Northern Territory and an adjoining area of Queensland. The segments labelled palatal stop and nasal in UPSID are described as "lamino-velar" by Furby (1974). They have lengthened vowels with an [-i] offglide preceding them and do not occur word-initially.  A considerable number of medial consonant clusters occur.  Vowels have considerable allophonic variation.  Stress falls on the first syllable of the (phonological) word.
+
+Sources: 
+Furby, C.E.  1974.  Garawa Phonology.  Pacific Linguistics, Series A, No. 37:1-11.  Australian National University, Canberra.

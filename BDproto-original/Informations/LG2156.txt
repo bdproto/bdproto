@@ -1,0 +1,23 @@
+Language name: NENETS
+
+Language number: 2156
+
+Alternate names: Yurak
+
+Classification: Ural-Altaic, Samoyed
+
+Comments:
+Nenets is spoken in the northwest Siberia, USSR. The areas  include Tundra area from mouth of northen Dvinain northeastern Europe to delta of Yenisei in Asia, a scatering on the Kola Peninsula 
+
+Sources: 
+Decsy, G. 1966. Yurak Chrestomathy (Indiana University Publications, Uralic and Altaic Series 50). Indiana University, Bloomington.
+
+Hajdu, P. 1963. The Samoyed Peoples and Languages (Indiana University Publications, Uralic and Altaic Series 14). Indiana University, Bloomington.
+
+Katz, H. 1975a. Generative phonologie und phonologische sprachbunde des ostjakischen und samojedischen. Munchener Universitats-Schriften, Finnisch-ugrische Bibliothek 1, Munich.
+
+Ristinen, E.K. 1965. On the phonemes of Nenets. Ural-Altaische Jahrbucher 40: 22-44.
+
+Restinen, E.K. 1968. Problems concerning vowel length in Nenets. Ural-Altaische Journal 40: 22-44.
+
+Tereshchenko, N.M. 1966. Enetskij Jazyk. In V.V. Vinogradov  (ed.), Jazyki Narodov SSSR, Vol. 3. Nauka, Moscow and Leningrad: 438-457.

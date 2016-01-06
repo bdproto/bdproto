@@ -1,0 +1,22 @@
+Language name: Igbo
+
+Language number: 4116
+
+Alternate names: 
+
+Classification: Niger-Kordofanian, Kwa
+
+Comments: 
+
+Sources: 
+Carnochan, J. 1948. A study on the phonology of an Igbo speaker. Bulletin of the School of Oriental and African Studies 22: 416-27.
+
+Ladefoged, P. 1964. A Phonetic Study of Western African Languages. Cambridge University Press.
+
+Ladefoged, P. 1976. The stops of Owerri Igbo. Studies in African Linguistics Supplement 6: 147-163.
+
+Swift, L.B., Ahaghota, A., and Ugorji, E. 1962. Igbo Basic Course. Foreign Service Institute, Washington, D.C.
+
+Ward, I.C. 1935. An Introduction to the Igbo Language. W. Heffer and Sons, Ltd., Cambridge.
+
+Williamson, K. 1969. Igbo. In E. Dunstan (ed.), Twelve Nigerian Languages. Longmans, London, 85-96.

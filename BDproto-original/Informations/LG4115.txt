@@ -1,0 +1,21 @@
+Language name: AKAN
+
+Language number: 4115
+
+Alternate names: Twi, Asante, Fante
+
+Classification: Niger-Kordofanian, Kwa
+
+Comments:
+Labialized palatals appear as labialized velars before back vowels.  Velar stops and palatal affricates are largely complementary in distribution but show contrast before /a/.
+
+Sources: 
+Dolphyne, F.A. 1988. The Akan (Twi-Fante) Language: Its Sound Systems and Tonal Structure. Ghana Universities Press, Accra.
+
+Ladefoged, P. 1964. A Phonetic Study of West African Languages. Cambridge University Press.
+
+Schachter, P. and Fromkin, V.A. 1968. A Phonology of Akan: Akuapem, Asante, Fante (UCLA Working Papers in Phonetics 9). Phonetics Laboratory, University of California, Los Angeles.
+
+Stewart, J.M. 1967. Tongue root position in Akan vowel harmony. Phonetica 16: 185-204.
+
+Welmers, W.E. 1946. A Descriptive Grammar of Fanti (Language Dissertation 39). Linguistic Society of America, Philadelphia.

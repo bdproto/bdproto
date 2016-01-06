@@ -1,0 +1,20 @@
+Language name: NIVKH
+
+Language number: 2700
+
+Alternate names: Gilyak
+
+Classification: Paleo-Siberian
+
+Comments: 
+
+Sources: 
+Austerlitz, R. 1956. Gilyak nursery words. Word 12: 260-5.
+
+Kreinovich, E.A. 1937. Fonetika Nivkhskogo (gilyatskogo) Jazyka.  Gosudarstvennoe Uchebno-pedagogicheskoeIzdatel'stvo, Moscow and Leningrad.
+
+Panfilov, V.Z. 1962. Grammatika Nivkhskogo Jazyka, I. Akademia Nauk, Moscow and Leningrad.
+
+Panfilov, V.Z. 1968. Nivkhskij jazyk. In V.V. Vinogradov (ed.), Jazyki Narodov SSSR, Vol. 5. Nauka, Moscow and Leningrad: 408-34.
+
+Zinder, L.R., Matusevich, M.I. 1937. Eksperimental'noe issledovanie fonem nivkhskogo iazyka.  Appendix to Kreinovich, E.A., 1937, Fonetika nivkhskogo (gilyatskogo) iazyka.  Gosudarstvennoe Uchebno-pedagogicheskoe Izdatel'stvo, Moscow and Leningrad.

@@ -1,0 +1,13 @@
+Language name: QAWASQAR
+
+Language number: 6859
+
+Alternate names: Alakaluf
+
+Classification: South American, Andean
+
+Comments:
+Qawasqar is spoken by a small number of survivors (47 in 1977) on Wellington island near the Straits of Magellen, Chile. Sounds described as 'glottalized' have been interpreted as ejectives; Clairis remarks that they are 'unstable'. 'Apical' has been interpreted as alveolar. The vowels are described as being highly variable, apparently in an unconditioned way. Some words vary markedly in their vocalization. Stress is normally penultimate.
+
+Sources: 
+Clairis, C. 1977. Premiere approche du Qawasqar:Identification et phonologie. La Linguistique vol. 13, fasc. 1.

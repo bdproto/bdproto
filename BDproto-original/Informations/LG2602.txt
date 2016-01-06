@@ -1,0 +1,16 @@
+Language name: LAK
+
+Language number: 2602
+
+Alternate names: 
+
+Classification: Caucasian
+
+Comments: 
+
+Sources: 
+Khaidakov, S.M. 1966. Ocherki po Lakskoj Dialektologii. Nauka, Moscow.
+
+Murkelinskij, G.B. 1967. Lakskij jazyk. In V.V. Vinogradov (ed.), Jazyki Narodov SSSR, Vol. 4. Nauka, Moscow and Leningrad: 489-507.
+
+Zhirkov, L.I. 1955. Lakskij jazyk: fonetika i morfologija. Akademia Nauk, Moscow.

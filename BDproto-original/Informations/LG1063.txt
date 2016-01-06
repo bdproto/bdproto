@@ -1,0 +1,17 @@
+Language name: LOWER SEPIK
+
+Language number: 1063
+
+Classification: Papuan, Sepik-Ramu
+
+Depth: 
+
+Author: Foley
+
+Date: 1986
+
+Comments: 
+
+
+Sources: 
+A. W. Foley, 1986, ‘The papuan languages of New Guinea’, Cambridge language survey

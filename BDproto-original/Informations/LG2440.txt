@@ -1,0 +1,13 @@
+Language name: IRARUTU
+
+Language number: 2440
+
+Alternate names: Irutu
+
+Classification: Austro-Tai, Eastern Malayo-Polynesian
+
+Comments:
+Fruata dialect.  Irarutu is spoken in the center of the Bomberai peninsula, Irian Jaya, Indonesia. Voorhoeve (1989) reports that "stress is phonemic" but "usually is on the last vowel" of a word.  A /p/ occurs only in a few clearly recognizable Indonesian loans, hence is not included in the inventory.  A predictable schwa vowel occurs after utterance-final consonants and between adjoining consonants not separated by a lexical vowel. Prenasalized stops or the bilabial fricative before /r/ do not require insertion of schwa.
+
+Sources: 
+Voorhoeve, C.L.  1989.  Notes on Irarutu (an Austronesian language spoken in the centre of the Bomberai Peninsula, Southwest Irian Jaya).  IRIAN, vol. XVII: 107-119.

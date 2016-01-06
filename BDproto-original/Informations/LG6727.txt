@@ -1,0 +1,16 @@
+Language name: MAZATEC
+
+Language number: 6727
+
+Alternate names: 
+
+Classification: N. American, Oto-Manguean
+
+Comments: 
+
+Sources: 
+Jamieson, A.R. 1977. Chiquihuitlan Mazatec phonology. In Merrifield, W.R. (ed.) Studies in Otomanguean Phonology. Summer Institute of Linguistics Publications in Linguistics 54: 93-106.
+
+Jamieson, A.R. 1977. Chiquihuitlan Mazatec tone. in Merrifield, W.R. (ed.) Studies in Otomanguean Phonology. Summer Institute of Linguistics Publications in Linguistics 54: 107-136.
+
+Pike, K.L. and Pike, E.V. 1947. Immediate constituents of Mazateco syllables. International Journal of American Linguistics 13: 78-91.

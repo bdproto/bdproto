@@ -1,0 +1,13 @@
+Language name: NORWEGIAN
+
+Language number: 2006
+
+Alternate names: 
+
+Classification: Indo-European, Germanic, North
+
+Comments:
+Norwegian is spoken in Norway.
+ 
+Sources: 
+Vanvik, A. 1972. A phonetic-phonemic analysis of Standard Eastern Norwegian. Norwegian Journal of Linguistics 26: 119-64.

@@ -1,0 +1,13 @@
+Language name: SALIBA
+
+Language number: 6861
+
+Alternate names: Saliva
+
+Classification: South American, Equatorial
+
+Comments:
+Saliba is spoken mainly along the river Meta in Colombia. The language seems to have a pitch accent system. Voiced bilabial fricative is realised as [w] next to a rounded vowel.
+
+Sources: 
+Benaissa, T. 1979. Fonologia del Saliba. Sistemas Fonologicos de Idiomas Colombianos 4: 89-98.

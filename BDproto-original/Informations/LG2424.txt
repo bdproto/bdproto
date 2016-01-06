@@ -1,0 +1,17 @@
+Language name: Hawaiian
+
+Language number: 2424
+
+Alternate names: 
+
+Classification: Austro-Tai, Austronesian, E. Malayo-Polynesian, Oceanic, Polynesian.
+
+Comments:
+Hawaian is spoken in Hawai, USA. 
+
+Sources: 
+Pukui, M.K. and Elbert, S.H. 1965. Hawaiian-English Dictionary, 6th ed. University of Hawaii Press, Honolulu.
+
+Pukui, M.K. and Elbert, S.H. 1979. Hawaiian Grammar. University Press of Hawaii, Honolulu.
+
+Schutz, A.J. 1981. A reanalysis of the Hawaiian vowel system. Oceanic Linguistics 20/1: 1-43.

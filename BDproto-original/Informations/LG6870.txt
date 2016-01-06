@@ -1,0 +1,13 @@
+Language name: IATE
+
+Language number: 6870
+
+Alternate names: Fulnio
+
+Classification: South American, Macro-Ge
+
+Comments:
+Iate is spoken in Pernambuco, Brazil. It is not clear from Lapenda's description whether more of the complex consonants could be analyzed as sequences.
+
+Sources: 
+Lapenda, G. 1968. Estrutura da Lingua Iate: Falada pelos indios Fulnios em Pernambuco. Universidade Federal de Pernambuco, Recife.

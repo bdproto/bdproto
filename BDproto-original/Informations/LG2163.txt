@@ -1,0 +1,13 @@
+Language name: BASHKIR
+
+Language number: 2163
+
+Alternate names: 
+
+Classification: Ural-Altaic, Turkic
+
+Comments:
+Bashir is spoken in Bashir ASSR between the Volga River and Uralmountains, and beyond the Urals in USSR.
+
+Sources: 
+Poppe, N. 1964. Bashkir Manual (Indiana University Publications, Uralic and Altaic Series 36). Indiana University, Bloomington.

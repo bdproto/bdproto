@@ -1,0 +1,13 @@
+Language name: SEBEI
+
+Language number: 4209
+
+Alternate names: Sapiny, Kupsapiny
+
+Classification: Nilo-Saharan, E. Sudanic
+
+Comments:
+The overshort vowels are described as reduced and centralized.  They do not occur word-finally but are contrastive elsewhere.
+
+Sources: 
+Montgomery, C. 1970. Problems in the development of an orthography for the Sebei language of Uganda. Journal of the Language Association of East Africa 1: 48-55.

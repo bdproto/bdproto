@@ -1,0 +1,13 @@
+Language name: FE?FE?
+
+Language number: 4148
+
+Alternate names: 
+
+Classification: Niger-Kordofanian, Bantoid
+
+Comments:
+Fe?fe? is spoken in the Haut-Nkam department of Cameroun. The inventory given corresponds to the underlying segments proposed by Hyman (1972). Voiced stops only appear as such following nasal prefixes; elsewhere they are voiceless stops or voiced sonorants (/d/->[l]). Vowels have generally more open variants in closed syllables. As with segments, the tones of Fe?fe? show considerable surface variation which can be reduced to a small number of underlying contrast, essentially high and low levels.
+
+Sources: 
+Hyman, L.M. 1972. A Phonological Study of Fe?fe? - Bamileke (Studies in African Linguistics, Supplement 4). University of California, Los Angeles.

@@ -1,0 +1,13 @@
+Language name: Sa'ban
+
+Language number: 2415
+
+Alternate names: 
+
+Classification: Austro-Tai, W. Malayo-Polynesian
+
+Comments:
+Sa'ban is spoken in the northeast on Sarawak border, South of Lundayeh in Kalimantan, Indonesia. All vowels have long and short forms, which contrast in closed syllables. Except for /a/ long vowels are usually pronounced with an offglide to schwa. Morphological patterns suggest that the quite large number of complex syllable onsets (hm, bw, mb, etc.) should be treated as sequences.
+
+Sources: 
+Clayre, I.F.C.S. 1973. The phonesmes of Sa'ban: a language of Highland Borneo. Linguistics 100: 26-46.

@@ -1,0 +1,12 @@
+Language name: TZELTAL
+
+Language number: 6712
+
+Alternate names: 
+
+Classification: N. American, Penutian
+
+Comments: 
+
+Sources: 
+Kaufman, T. 1971. Tzeltal Phonology and Morphology. University of California Press, Berkeley and Los Angeles.

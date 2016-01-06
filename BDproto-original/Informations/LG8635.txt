@@ -1,0 +1,13 @@
+Language name: AMELE
+
+Language number: 8635
+
+Alternate names: 
+
+Classification: Papuan, Trans-New Guinea
+
+Comments:
+Amele is spoken between the Gum and Gogol rivers, just south of Madang, Papua New Guinea. All V + V sequences occur but some under limited conditions; the six sequences beginning with a nonhigh vowel and ending with a high vowel are monosyllabic, the others bisyllabic. Stress on monomorphemic words falls on the first closed syllable (usually the final one) or, failing that, on the first syllable. In inflected verbs and possessed nouns stress placement is grammatically or lexically determined.
+
+Sources: 
+Roberts, J.R.  1987.  Amele.  Croom Helm, London.

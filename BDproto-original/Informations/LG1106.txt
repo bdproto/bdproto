@@ -1,0 +1,17 @@
+Language name: COPTIC
+
+Language number: 1106
+
+Classification: Afro-Asiatic, Ancient-Egyptian
+
+Depth: 
+
+Author: Kasser
+
+Date: 19
+
+Comments: 
+
+
+Sources: 
+R. Kasser, ‘Phonology’, in The Coptic Encyclopedia, Editor in chief Aziz S. Atiya, vol. 8

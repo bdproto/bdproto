@@ -1,0 +1,17 @@
+Language name: EARLY PROTO FINNIC
+
+Language number: 1065
+
+Classification: Ural-Altaic, Finno-Ugric
+
+Depth: 1500-1000 BC
+
+Author: Korhonen
+
+Date: 1988
+
+Comments: 
+
+
+Sources: 
+M. Korhonen, 1988, ‘The history of the lapp language’, The uralic languages, description, history and foreign influences, edited by Denis Sinor, E. J. Brill, Leiden, New York, Kobenhaun, Köln

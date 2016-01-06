@@ -1,0 +1,15 @@
+Language name: BOBO-FING
+
+Language number: 4138
+
+Alternate names: Sya, Bobo
+
+Classification: Niger-Kordofanian, Mande
+
+Comments:
+Bobo is spoken in western Burkina-Faso (formerly Upper Volta). The language has 3 level tones, which combine into four contours (HL, ML, LH, LM).
+
+Sources: 
+le Bris, P. and Prost, A. 1981. Dictionnaire Bobo-Fing (precedee d'une introduction grammaticale et suivi d'un lexique francais). SELAF, Paris.
+
+Morse, M.L.A. 1976. A Sketch of the Phonology and Morphology of Bobo (Upper Volta). PhD thesis, Columbia University, New York.

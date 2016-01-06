@@ -1,0 +1,12 @@
+Language name: MIXTEC
+
+Language number: 6728
+
+Alternate names: 
+
+Classification: N. American, Oto-Manguean
+
+Comments: 
+
+Sources: 
+Hunter, G.G. and Pike, E.V. 1969. The phonology and tone sandhi of Molinos Mixtec. Linguistics 47: 24-40.

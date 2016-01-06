@@ -1,0 +1,13 @@
+Language name: KPAN
+
+Language number: 4135
+
+Alternate names: 
+
+Classification: Niger-Kordofanian, Jukunoid
+
+Comments:
+A number of consonants analyzed by Shimizu as Cw and Cj clusters have been included as single segments here since they are phonetically single segments.  Prenasalized stops occur only before oral vowels; plain nasals occur before nasalized vowels and these are regarded as allophones of the prenasalized stops.  Kpan has 3 level tones.
+
+Sources: 
+Shimizu, K. 1971. The Kente dialect of Kpan (chapter 1). Research Notes (Dept. of Linguistics and Nigerian Languages, University of Ibadan) 4.2/3: 1-36.

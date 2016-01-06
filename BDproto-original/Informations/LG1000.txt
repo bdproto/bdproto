@@ -1,0 +1,17 @@
+Language name: PRE BASQUE
+
+Language number: 1000
+
+Classification: Isolates, Basque
+
+Depth: -2000
+
+Author: Michelena
+
+Date: 1977
+
+Comments: 
+
+
+Sources: 
+R. L. Trask, 19, ‘The history of Basque’, Routledge, London, New York

@@ -1,0 +1,15 @@
+Language name: IBAN
+
+Language number: 2435
+
+Alternate names: Sea Dayak
+
+Classification: Austro-Tai, W. Malayo-Polynesian
+
+Comments:
+Iban is spoken along all the main river routes of Sarawak, Malaysia. Voiced stops, the affricates and the palatal nasal only occur syllable initially. Many two-vowel sequences occur.
+
+Sources:
+Omar, A.H. 1981. The Iban Language of Sarawak: a Grammatical Description. Dewan Bahasa dan Pustaka, Kementerian Pelajaran Malaysia, Kuala Lumpur.
+
+Scott, N.C. 1957. Notes on the pronunciation of Sea Dayak. Bulletin of the School of Oriental and African Studies 20: 509-512.

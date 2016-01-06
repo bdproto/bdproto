@@ -1,0 +1,15 @@
+Language name: MURSI
+
+Language number: 4214
+
+Alternate names: Murle
+
+Classification: Nilo-Saharan, E. Sudanic
+
+Comments:
+The language is tonal but the system is not well understood.
+
+Sources: 
+Arensen,  J. 1982. Murle Grammar. Occasional Papers in the Study of Sudanese Languages, no. 2.
+
+Turton, D. and Bender, M.L. 1976. Mursi. In M.L. Bender (ed.), The Non-Semitic Languages of Ethiopia. African Studies Center, Michigan State University, East Lansing: 533-62.

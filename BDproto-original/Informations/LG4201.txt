@@ -1,0 +1,17 @@
+Language name: KANURI
+
+Language number: 4201
+
+Alternate names: 
+
+Classification: Nilo-Saharan, Saharan
+
+Comments:
+Kanuri has a two-level tone system.  Hutchison lists prenasalized stops as unit phonemes but does not justify this assumption, however Awoboluyi gives an example suggesting that closed syllable allophones of mid vowels appear before N + C clusters.
+
+Sources: 
+Awobuluyi, O. 1971. The phonology of Yerwa Kanuri. Research Notes, Department of Linguistics and Nigerian Languages 4/1. University of Ibadan, Nigeria: 1-21.
+
+Hutchison, J.P. and Skinner, A.N. 1981. A Reference Grammar of the Kanuri Language. University of Wisconsin - Madison African Studies Program; Boston University African Studies Center.
+
+Lukas, J. 1937. A Study of the Kanuri Language. Oxford University Press, London.

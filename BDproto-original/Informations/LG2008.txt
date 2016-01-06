@@ -1,0 +1,15 @@
+Language name: RUSSIAN
+
+Language number: 2008
+
+Alternate names: 
+
+Classification: Indo-European, Slavic
+
+Comments:
+Russian is spoken in the USSR.
+ 
+Sources: 
+Halle, M. 1959. The Sound Pattern of Russian. Mouton, The Hague.
+
+Jones, D. and Ward, D. 1969. The Phonetics of Russian. Cambridge University Press, Cambridge.

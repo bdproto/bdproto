@@ -1,0 +1,13 @@
+Language name: WAHGI
+
+Language number: 8628
+
+Alternate names: 
+
+Classification: Papuan, Trans-New Guinea
+
+Comments:
+Wahgi is spoken in the Central Highlands of Papua New Guinea. It is analyzed as having word-level high, low and rising tone patterns and also stress (Phillips 1976). The i/I contrast seems marginal and may depend on tone. Laterals do not occur word-initially and are voiceless fricatives or affricates finally; Phillips reports them as varying with voiced fricatives medially. Ladefoged, Cochran and Disner (1977) report voiced lateral approximants in medial position.
+
+Sources: 
+Phillips, D.J. 1976. Wahgi Phonology and Morphology. Pacific Linguistics series B, no. 36.

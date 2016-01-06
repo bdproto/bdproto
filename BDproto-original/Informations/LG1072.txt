@@ -1,0 +1,17 @@
+Language name: CHIAPANEC MANGUEAN
+
+Language number: 1072
+
+Classification: North-American, Oto-Manguean
+
+Depth: 
+
+Author: M-T. Fernandez Miranda and R. Weitlaner
+
+Date: 
+
+Comments: 
+
+
+Sources: 
+R. Longacre, 1967, ‘Systemic comparison and reconstruction’, Handbook of middle american indians, vol. 5 : linguistics, R. Wachope editor, N. Mc Quown, volume editor, University of Texas Press, Austin

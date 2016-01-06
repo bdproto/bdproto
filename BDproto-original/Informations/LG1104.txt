@@ -1,0 +1,17 @@
+Language name: ATTIC
+
+Language number: 1104
+
+Classification: Indo-European, Greek
+
+Depth: 400 BC
+
+Author: Teodorsson
+
+Date: 
+
+Comments: 
+
+
+Sources: 
+Sven-Tage, Teodorsson, 19, ‘The phonemic system of the attic dialect, 400-340 BC’, Studia Graeca et Latina Gothoburgensia, XXXII, Acta Universitatis Gothoburgensis

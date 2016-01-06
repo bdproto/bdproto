@@ -1,0 +1,13 @@
+Language name: KLAO
+
+Language number: 4133
+
+Alternate names: 
+
+Classification: Niger-Kordofanian, Kru
+
+Comments:
+Nasal consonants surface as the allophones of voiced plosives before nasalized vowels.  [l] is the non-initial allophone of /d/.  "e", "o", and a and their nasalized counterparts are [-ATR] according to Singler.
+
+Sources: 
+Singler, J.V. 1979. The segmental phonology of verb suffixes in Talo Klao (Kru).  M.A. Thesis.  University of California, Los Angeles.

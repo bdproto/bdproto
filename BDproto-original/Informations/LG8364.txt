@@ -1,0 +1,16 @@
+Language name: GUGU-YALANJI
+
+Language number: 8364
+
+Alternate names: 
+
+Classification: Australian, Pama-Nyungan
+
+Comments: 
+
+Sources: 
+Oates, L.F. 1964. Distribution of phonemes and syllables in Gugu-Yalanji. Anthropological Linguistics 6\1: 23-6.
+
+Oates, W. and Oates, L.F. 1964. Gugu-Yalanji and Wik-Munkan Language Studies (Occasional Papers in Aboriginal Studies 2). Australian Institute of Aboriginal Studies, Canberra.
+
+Wurm, S. 1972a. Languages of Australia and Tasmania. Mouton, The Hague.

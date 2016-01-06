@@ -1,0 +1,14 @@
+Language name: Mien
+
+Language number: 2517
+
+Alternate names: Yao
+
+Classification: Sino-Tibetan, Hmong-Mien
+
+Comments: 
+
+Sources: 
+Mao, Zongwu, Meng, Chaoji, Zheng, Zorgze ed. A Study of the Yao Minority Language. Institute of Cultural Minorities Language Series.
+
+Purnell, H.C. 1965. Phonology of a Yao Dialect. Hartford Seminary Foundation, Hartford.

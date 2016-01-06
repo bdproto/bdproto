@@ -1,0 +1,19 @@
+Language name: LAI
+
+Language number: 2432
+
+Alternate names: Li
+
+Classification: Austro-Tai, Li-Kam-Tai
+
+Comments:
+The dialect reported here is spoken in Lunglin County Guangxi Province, China and described by Liang (1984 a,b). Ouyang and Zheng (1985) describe the variety of Lai spoken in southern Yunnan. It is sometimes unclear if the differences in reported consonant and vowel systems reflect different interpretations or real differences between the dialects. Liang's "?j, ?v, hj, hv" have been interpreted as laryngealized and voiceless approximants but these could indicate secondary features accompanying glottal stop and h. Liang's palatalized forms contrast before front vowels. All vowels can be long or short including in cases where there is an [i] or [u] offglide. These glides are interpreted as final allophones of initial (laryngealized) /j, w/, and the vowels are interpreted as geminate when long, i.e. [o:u] = /oow/, [a:i} = /aaj/. However [a] in closed syllables appears in three lengths, hence is assumed to have underlying length contrast. The three lengths are therefore single /a/ long /a:/and geminate /aa/, Liang reports 6 tones - 3 levels, high falling, low falling, low rising.
+
+Sources: 
+Liang, Min. 1984a. Laiyu gaikuang (A Brief Description of the Lai Language).  Minzu Yuwen 1984/4:64-79.
+
+Liang, Min.  1984b. Laihua yuanyinde duanchang (Long and Short Vowels in the Lai Dialect).  Yuyan Yanjiu 1984/2: 57-62.
+
+Ouyang, Jueya and Zheng, Yiqing, eds. 1980. Liyu Jianzhi (A Brief Guide to the Li Language). National Institute of Minorities, Beijing.
+
+Ouyang, Jueya and Zheng, Yiqing. 1963. Laiyu Gaikuang (A Brief Description of Lai).  Zhongkuo Yuwen 1963/5:432-433.

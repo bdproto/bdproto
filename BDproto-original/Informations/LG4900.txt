@@ -1,0 +1,14 @@
+Language name: HADZA
+
+Language number: 4900
+
+Alternate names: Kindiga
+
+Classification: Khoisan, Hadza
+
+Comments: 
+
+Sources: 
+Dempwolff, O. Beitraege zur Kenntnis der Sprachen in Deutsch-Ostafrika. Zeitschrift fuer Kolonialsprachen, Band VII.
+
+Tucker, A.N., Bryan, M.A., Woodburn, J. 1977. The East African click languages: a phonetic comparison. In W. Moehlig, F. Rottland, B. Heine (eds.), Zur Sprachgeschichte und Ethnohistorie in Afrika. Neue Beitraege afrikanistischer Forschungen.  Berlin: Dietrich Reimer.

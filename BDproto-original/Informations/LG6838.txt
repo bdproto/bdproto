@@ -1,0 +1,13 @@
+Language name: RESIGARO
+
+Language number: 6838
+
+Alternate names: 
+
+Classification: S. American, Macro-Arawakan
+
+Comments:
+Resigaro has a two level tone system. Sequences of like or unlike vowels may bear differing tones. Only /?/ may appear syllable finally. Voiced plosives but not not affricates have optional prenasalization "particularly in initial position or for emphasis". /w/ and /j/ have voiced fricative allophones.
+
+Sources: 
+Allin, T.R. 1976. A Grammar of Resigaro. Summer Institute of Linguistics, Horsleys Green, High Wycombe, Buckinghamshire, England.

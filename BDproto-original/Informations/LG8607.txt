@@ -1,0 +1,14 @@
+Language name: SELEPET
+
+Language number: 8607
+
+Alternate names: 
+
+Classification: Papuan, Trans-New Guinea
+
+Comments: 
+
+Sources: 
+McElhanon, K.A. 1970. Selepet Phonology (Pacific Linguistics, Series B, 14). Australian National University, Canberra.
+
+McElhanon, K.A. 1970. Stops and fricatives: non-unique solution in Selepet. Linguistics, An International Review 60. Mouton, The Hague.

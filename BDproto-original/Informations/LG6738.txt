@@ -1,0 +1,16 @@
+Language name: HOPI
+
+Language number: 6738
+
+Alternate names: 
+
+Classification: N. American, Uto-Aztecan
+
+Comments: 
+
+Sources: 
+Kluckhohn, C. and MacLeish, K. Moencopi Variations from Whorf's Second Mesa Hopi. International Journal of American Linguistics 21: 150-156.
+
+Voegelin, C.F. 1956. Phonemicizing for dialect study with reference to Hopi Language 32: 116-35.
+
+Whorf, B.L. 1946. The Hopi language, Toreva dialect. In H. Hoijer (ed.), Linguistic Structures of Native America. Wenner-Gren Foundation, New York: 158-83.

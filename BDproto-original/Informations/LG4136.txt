@@ -1,0 +1,13 @@
+Language name: KOHUMONO
+
+Language number: 4136
+
+Alternate names: 
+
+Classification: Niger-Kordofanian, Cross River
+
+Comments:
+Kohumono is tentatively analyzed as having three level tones.  /i,e,@,o,u/ form one vowel harmony set in opposition to the other vowels.  Vowel harmony appears to be based on tongue root position.
+
+Sources: 
+Cook, T.L. 1969. Some tentative notes on the KoHumono language.  Rsearch Notes (Dept. of Linguistics and Nigerian Languages, University of Ibadan) 2.3:1-49.

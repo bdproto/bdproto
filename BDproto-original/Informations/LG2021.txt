@@ -1,0 +1,12 @@
+Language name: ALBANIAN
+
+Language number: 2021
+
+Alternate names: 
+
+Classification: Indo-European, Albanian
+
+Comments: 
+
+Sources: 
+Newmark, L. 1957. Structural Grammar of Albanian (IJAL 23/4 Part II, Indiana University Research Center in Anthropology, Folklore and Linguistics, Publication 4). Indiana university, Bloomington.

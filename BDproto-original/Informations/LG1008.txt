@@ -1,0 +1,17 @@
+Language name: YOKUTS
+
+Language number: 1008
+
+Classification: North-American, Penutian
+
+Depth: 
+
+Author: V. K. Golla
+
+Date: 1964
+
+Comments: 
+
+
+Sources: 
+V. K. Golla, 1964, ‘Comparative Yokuts phonology’, Studies in Californian Linguistics, vol.34

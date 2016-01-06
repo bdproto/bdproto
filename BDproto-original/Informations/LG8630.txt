@@ -1,0 +1,13 @@
+Language name: USAN
+
+Language number: 8630
+
+Alternate names: Wanuma
+
+Classification: Papuan, Trans-New Guinea
+
+Comments:
+Usan is spoken in the Adelbert Ranges, Madang Province, Papua New Guinea. Plain and prenasalized voiced plosives only contrast in medial and final position., /d/ is [d] initially but an alveolar flap elsewhere. A considerable number of vowel sequences "with one mora timing" occur; these are interpreted nonetheless as vowel sequences.
+
+Sources: 
+Reesink, G.P. 1987. Structures and their functions in Usan: A Papuan language of Papua New Guinea. John Benjamins.

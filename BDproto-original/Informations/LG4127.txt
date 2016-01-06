@@ -1,0 +1,13 @@
+Language name: TEKE
+
+Language number: 4127
+
+Alternate names: Kukuya
+
+Classification: Niger-Kordofanian, Bantoid
+
+Comments:
+Stops and affricates also occur prenasalized but many of these occurrences result from prefixation, so all are analyzed as biphonemic; /g/ only occurs with a preceding nasal.  The highest vowels /i, u/ occur distinctively only as first vowel in a CVV sequence and introduce fricative transitions on the preceding C.
+
+Sources: 
+Paulian, C. 1975. Le Kukya, Langue Teke du Congo (Bibliotheque de la SELAF 49-50). SELAF, Paris.

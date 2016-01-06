@@ -1,0 +1,15 @@
+Language name: GUAMBIANO
+
+Language number: 6862
+
+Alternate names: 
+
+Classification: South American, Paezan
+
+Comments:
+Guambiano is spoken around Silvia, department of Cauca, Colombia. Caudmont (1954) treats affricates as stop + fricative sequences but no other syllable-initial clusters occur; however, affricates do not occur syllable-finally as all other consonants except /kw/ do.
+
+Sources: 
+Branks, T. and Branks, J. 1973. Fonologia del Guambiano. Sistemas Fonologicos de Idiomas Colombianos, II. (SIL, Loma Linda, Colombia).
+
+Caudmont, J. 1954. Fonologia del Guambiano. Revista Colombiana de Antropologia 5: 189-206.

@@ -1,0 +1,13 @@
+Language name: XIAMEN
+
+Language number: 2504
+
+Alternate names: Amoy
+
+Classification: Sino-Tibetan, Sinitic
+
+Comments:
+Xiamen is spoken in the southern Fujian, Guang-Dong, south Hainan Island, southern Zheijiang in China.
+
+Sources: 
+(Hanyu Fangyan Gaiyao) 1960. [Outline of Chinese Dialects]. Wenzi Gaige Chubanshe, Beijing.

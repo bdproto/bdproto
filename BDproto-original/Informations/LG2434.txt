@@ -1,0 +1,15 @@
+Language name: PAIWAN
+
+Language number: 2434
+
+Alternate names: 
+
+Classification: Austro-Tai, Paiwanic
+
+Comments:
+Kulalao dialect. Paiwan is spoken in upland areas of Pingtung and Taitung counties in Southern Taiwan. /v/ is [w] in syllable-final position but a fricative when prevocalic. It may be bilabial rather than labio-dental.
+
+Sources: 
+Ferrel, R. 1982. Paiwan dictionary. Canberra: Dept. of Linguistics nad Research School of Pacific Studies, Australian National University.
+
+Ho, Dah-an, 1977 The phonological system of Butonglu: a Paiwan dialect. (Paiwanyu danlu Fangyan de yinyun xitong) BIHP 48/4: 595-618.

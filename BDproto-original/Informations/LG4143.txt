@@ -1,0 +1,15 @@
+Language name: SANGO
+
+Language number: 4143
+
+Alternate names: 
+
+Classification: Niger-Kordofanian, Adamawa.
+
+Comments:
+Sango has 3 level tones. The segments analyzed here as palato-alveolars are described as "similar to but not identical with" English palato-alveolars.
+
+Sources: 
+Samarin. 1967. Basic course in Sango.
+
+Samarin. 1967b. A grammar of Sango.

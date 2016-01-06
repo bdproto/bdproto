@@ -1,0 +1,13 @@
+Language name: KONYAGI
+
+Language number: 4145
+
+Alternate names: Basari
+
+Classification: Niger-Kordofanian, West Atlantic
+
+Comments:
+Konyagi has two level tones and contours derived from their combination. 'Schwa' and 'ash' are weak vowels after which consonants are lengthened; the remaining vowels may appear long under predictable conditions.
+
+Sources: 
+Santos, R. 1977. Phonologie et Morphotonologie de la Langue W~ey~ (Konyagi). Les Langues Africaines au Senegal no. 69. Centre de Linguistique Appliquee de Dakar.

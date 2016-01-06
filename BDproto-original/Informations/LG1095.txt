@@ -1,0 +1,17 @@
+Language name: GOROKAN
+
+Language number: 1095
+
+Classification: Papuan, Gorokan
+
+Depth: 
+
+Author: Foley
+
+Date: 
+
+Comments: 
+
+
+Sources: 
+William, A. Foley, 19, ‘The papuan languages of New Guinea’,

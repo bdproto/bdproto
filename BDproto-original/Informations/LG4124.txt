@@ -1,0 +1,15 @@
+Language name: OGBIA
+
+Language number: 4124
+
+Alternate names: 
+
+Classification: Niger-Kordofanian, Cross River
+
+Comments:
+Ogbia is spoken in the Rivers State, Nigeria. The language has two level tones.  Vowel harmony requires all words to contain vowels from the 'raised' set (i,e,o,u, and the raised low vowel 4) or from the 'lowered' set (the remainder).  The palatal and labialized dental/alveolar nasals surface as nasalization of the vowel when followed by high front and back vowels respectively.
+
+Sources: 
+Williamson, K. 1972. Assimilation in Ogbia. Research Notes 5/2-3: 1-5. Dept. of Linguistics and Nigerian Languages, University of Ibadan.
+
+Williamson, K. 1970. Reading and Writing Ogbia. Rivers Readers Project, Institute of African Studies, University of Ibadan.

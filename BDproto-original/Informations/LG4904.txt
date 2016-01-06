@@ -1,0 +1,14 @@
+Language name: !XU
+
+Language number: 4904
+
+Alternate names: 
+
+Classification: Khoisan, Northern Khoisan
+
+Comments: 
+
+Sources: 
+Snyman, J.W. 1969. An Introduction to the !Xu Language. Balkema, Cape Town.
+
+Snyman, J.W. 1975. Zu|'hoasi fonologie en Woordeboek. Balkema, Cape Town.

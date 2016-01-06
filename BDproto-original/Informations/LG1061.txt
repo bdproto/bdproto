@@ -1,0 +1,17 @@
+Language name: AFROASIATIC
+
+Language number: 1061
+
+Classification: Afro-Asiatic
+
+Depth: 
+
+Author: C. Ehret
+
+Date: 1995
+
+Comments: 
+minimum two tones (^,þ) plus a third possible but unprove toneme (¯)
+
+Sources: 
+C. Ehret, 1995, ‘Reconstructing proto afroasiatic : vowels, tones, consonants and vocabulary’, UC Press

@@ -1,0 +1,17 @@
+Language name: COMMON BERBER
+
+Language number: 1081
+
+Classification: Afro-Asiatic, Berber
+
+Depth: 
+
+Author: Basset
+
+Date: 1952
+
+Comments: 
+
+
+Sources: 
+A. Basset, 1952, ‘La langue berbère’, Handbook of African Languages, University Press, Oxford

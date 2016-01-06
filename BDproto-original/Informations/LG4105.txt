@@ -1,0 +1,13 @@
+Language name: Bambara
+
+Language number: 4105
+
+Alternate names: Mandekan
+
+Classification: Niger-Kordofanian, Mande
+
+Comments:
+All vowels also appear long.
+
+Sources: 
+Bird, C., Hutchinson, J., and Kante, M. 1977. An Ka Bamanankan Kalan: Beginning Bambara. Indiana University Press, Bloomington.

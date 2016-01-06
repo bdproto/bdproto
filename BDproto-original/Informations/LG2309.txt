@@ -1,0 +1,17 @@
+Language name: PARAUK
+
+Language number: 2309
+
+Alternate names: Wa, Praok, Kawa, Burao(k)
+
+Classification: Austro-Asiatic, Palaungic
+
+Comments:
+Parawk is spoken in Shan state, Upper Salween River area in Burma and also in China. According to Qui et al (1980) in the Yanshi dialect of Parauk the lax (breathy) vowels and diphthongs may occur with aspirated or breathy consonants but plain vowels only occur with plain voiced and voiceless consonants.  No clear data is available to determine the mono- or bisegmental nature of consonants.
+
+Sources: 
+Diffloth, G.  1980.  The Wa Languages.  Linguistics of the Tibeto-Burman Area, vol. 5, no. 2.
+
+Maddieson, I., Ladefoged, P.  1985.  "Tense" and "lax" in four minority languages of China.  Journal of Phonetics 13:433-454.
+
+Qiu Efeng, Li Daoyong, Nie Xizhen.  1980.  Wayu gaikuang (A brief description of the Va/Wa language).  Minzu Yuwen, 1 (Feb): 58-69.

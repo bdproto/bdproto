@@ -1,0 +1,17 @@
+Language name: PLANG
+
+Language number: 1017
+
+Classification: Austro-Asiatic, Khmer
+
+Depth: 
+
+Author: Debbie Paulsen
+
+Date: 19
+
+Comments: 
+
+
+Sources: 
+Debbie Paulsen, 19, ‘A phonological reconstruction of proto-plang’, Mon-Khmer Studies 18-19

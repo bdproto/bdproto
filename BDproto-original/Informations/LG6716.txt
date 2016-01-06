@@ -1,0 +1,15 @@
+Language name: HUAVE
+
+Language number: 6716
+
+Alternate names: 
+
+Classification: North American, Penutian
+
+Comments:
+San Francisco del Mar dialect.  Huave is spoken in southeastern coastal areas of Oaxaca, Mexico.  "Dental" consonants are palatalized before front vowels or glides; word-final palato-alveolars are analyzed by Suarez (1975) as followed by a semi-vowel.  Huave has a two-level tone system with little functional load.  Vowels can be long and short.
+
+Sources: 
+Kreger, G.A.S. and Scharfe de Stairs, E.F. 1981. Diccionario Huave de San Mateo del Mar. Serie de Vocabularios y Diccionarios Indigenas "Mariano Silva y Aceves", Num. 24.  Instituto Linguistico de Verano, Mexico, D.F.
+
+Suarez, J.A. 1975. Estudios Huaves. Coleccion cientifica: Linguistica 22. Instituto Nacional de Antropologia e Historia, Mexico.

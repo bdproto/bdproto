@@ -1,0 +1,13 @@
+Language name: YUCATEC
+
+Language number: 6777
+
+Alternate names: 
+
+Classification: N. American, Penutian
+
+Comments:
+Yucatec is spoken in parts of the Yucatan peninsula of Mexico. The version of Yucatec represented here is an extremely 'nonhispanicized' one, lacking loan segments found in other varieties. Yucatec has a two level tone system. Straight posits two laterals and two 'n's based on different behavior in word-final position; only one of each is included here.
+
+Sources: 
+Straight, H.S. 1976. The Acquisition of Maya Phonology, Variation in Yucatec Child Language. Garland Publishing, Inc., New York and London.

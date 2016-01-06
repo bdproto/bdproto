@@ -1,0 +1,13 @@
+Language name: MAMBILA
+
+Language number: 4153
+
+Alternate names: 
+
+Classification: Niger-Kordofanian, Bantoid
+
+Comments:
+Atta dialect. Mambila is spoken on and near the Mambila plateau straddling the Nigeria-Cameroon border. Perrin & Hill (1969) analyze the tone system as consisting of four level tones which can combine to form two rising, two falling, and one rise-fall contour on monosyllables. A form of vowel harmony restricts sequences of vowels in disyllables.  Any vowel except /a/ can follow itself; only /e/ follows /a/.  Also /a/ can follow /i,e,u/, /e/ can follow /i,u/ and /i/ can follow /u/.  Vowels are nasalized after /h/.
+
+Sources: 
+Perrin, M.J., Hill, M.V. 1969. Mambila (parler d'Atta): Description Phonologique. Universite Federale du Cameroun, Section de Linguistique Appliquee.
