@@ -119,6 +119,8 @@ BdprotoID	LanguageName	GlottologID	GlottologNotes	LanguageFamilyRoot	Family	Clas
 1008	YOKUTS	yoku1255		calp	North-American	"North-American, Penutian"			-3000		http://www.diadm.ish-lyon.cnrs.fr/upsid/index.php?set_db=BDPROTO&view=lang&code=1008	LG1008.txt		"no squib"	golla1964	jones2007california	
 1076	ZAPOTECAN	zapo1436		otma	North-American	"North-American, Oto-Manguean"			-2400		http://www.diadm.ish-lyon.cnrs.fr/upsid/index.php?set_db=BDPROTO&view=lang&code=1076	LG1076.txt			longacre1967	evans2013archaeology	
 1078	ZOQUEAN	mixe1284		calp	North-American	"North-American, Penutian"			-1500		http://www.diadm.ish-lyon.cnrs.fr/upsid/index.php?set_db=BDPROTO&view=lang&code=1078	LG1078.txt			longacre1967		
+1	PROTO-Berber	berb1260		afas	Afro-Asiatic	"Afro-Asiatic, Berber"			-7000			LG1081.txt		"no squib"	basset1952	louali2003protoberberes	
+2	PROTO-Kartvelian	kart1248		cauc	Caucasian	Caucasian		-5000	-5000			LG1052.txt		"p.804 fn 28"	bomhard1990	gamkrelidze1995indo	
 3	PROTO-BALTO-SLAVIC	balt1263						"between 1500 and 1000 B.C."	-3000						kortlandt1979_phon	novotna2011glottochronology	
 4	PROTO-SLAVIC	slav1255						"around 500 AD split of daughter languages"	-1500	"Eastern Poland and Wester Ukraine"					schenker1993proto	andersen2003language	andersen2003language
 5	PROTO-CELTIC	celt1248							-3000						schrijver1995studies	gosden2014celtic	
