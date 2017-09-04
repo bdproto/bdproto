@@ -1,0 +1,13 @@
+Language name: KORYAK
+
+Language number: 2709
+
+Alternate names: 
+
+Classification: Chukchi-Kamchatkan
+
+Comments:
+Koryak is spoken by a few hundred people on the Kamchatka peninsula in the USSR.  A vowel harmony process requires vowels in a word to belong to set 1 (i,u,e) or set 2 (e,o,a).  Many transcriptions are given with a schwa vowel in Zhukova (1980) but their origin is not explained. Palatal laterals occur before most vowels but are described as "palatalized variants" of /l/.  From the data available they appear contrastive.  All consonants except /?/ can appear geminated.
+
+Sources: 
+Zhukova, A.N.  1980.  Jazyk palanskikh Korjakov.  Nauka, Leningrad.

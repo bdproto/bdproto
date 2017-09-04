@@ -1,0 +1,18 @@
+Language name: KAINGANG
+
+Language number: 6808
+
+Alternate names: 
+
+Classification: South American, Macro-Ge
+
+Comments:
+Kaingang is spoken in Parana state, Brazil. The series given here as prenasalized stops are pronounced as such in (1) word-medial syllable-initial position unless a nasalized vowel precedes, and (2) in syllable-final position unless a nasalized vowel precedes. In these positions with a preceding nasalized vowel and word-initially with a following nasalized vowel, simple nasalized consonants occur.  Medially between oral vowels an oral stop onset occurs (i.e. VbmbV etc.).
+
+Sources: 
+Henry, J. 1935. A Kaingang text.  International Journal of American Linguistics 8.3-4:172-218.
+
+Kindell, G. 1972. Kaingang phonemics.  Appendix to Wiesemann, U. 1972. Die phonologische und grammatische Struktur der Kaingang-Sprache.  Mouton: The Hague, Paris.
+
+Wiesemann, U. 1972. Die phonologische und grammatische Struktur der Kaingang-Sprache.  Mouton: The Hague, Paris.
+

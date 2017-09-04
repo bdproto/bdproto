@@ -1,0 +1,15 @@
+Language name: BELLA COOLA
+
+Language number: 6771
+
+Alternate names: 
+
+Classification: N. American, Almosan
+
+Comments:
+Bella Coola is spoken by perhaps 75 remaining fluent speakers in Bella Coola on the central coast of British Columbia. Reduplication rules that copy a single consonant clarify that the ejectives and affricates listed are not clusters. High vowels alternate with /w,j/. Syllabic instances of /m,n,l/ (phonetically shwa before sonorant) are largely predictable from phonological and morphological context.
+
+Sources: 
+Nater, H.F. 1984. The Bella Coola Language. National Museum of Man Mercury Series, Canadian Ethnology Service Paper No. 92. National Museums of Canada, Ottawa.
+
+Newman, S. 1947. Bella Coola I: Phonology. International Journal of American Linguistics 13/3: 129-134.

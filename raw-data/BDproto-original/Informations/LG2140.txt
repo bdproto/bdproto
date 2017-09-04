@@ -1,0 +1,15 @@
+Language name: AINU
+
+Language number: 2140
+
+Alternate names: 
+
+Classification: Ural-Altaic, Ainu
+
+Comments:
+Ainu is spoken rpimarily in Japan, but th ere are a few speakers in USSR. /j,w/ can precede or follow most vowels.
+
+Sources: 
+Patrie, J. 1982. The genetic relationship of the Ainu Language.  University Press of Hawaii.
+
+Simeon, G. 1969. Hokkaido Ainu phonemics. Journal of the American Oriental Society 89: 751-7.

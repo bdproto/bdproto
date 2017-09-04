@@ -1,0 +1,13 @@
+Language name: DANGALEAT
+
+Language number: 4374
+
+Alternate names: Dangla
+
+Classification: Afro-Asiatic, Chadic
+
+Comments:
+Dangaleat is spoken in a mountainous area of central Chad near Mongo. There are 2 level tones. Vowels appear both long and short in the first syllable of words. All consonants can be geminated.
+
+Sources: 
+Fedry, J. 1977. Apercu sur la phonologie et la tonologie de quatre langues du groupe "Mubi-Karbo" (Guera) (Dangaleat-est, Dangaleat-ouest, Bidiyo, Dyongor). Etudes Phonologiques Chadiennes, Caprile.

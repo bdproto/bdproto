@@ -1,0 +1,15 @@
+Language name: AMUZGO
+
+Language number: 6770
+
+Alternate names: 
+
+Classification: N. American, Oto-Manguean
+
+Comments:
+Amuzgo contrasts ballistic and controlled syllables.  Ballistic syllables have sharply falling pitch and amplitude contours.  It also has three level tones and high-low, mid-high and low-mid contour tones. The prenasalized stops are described as occluded (post-stopped) nasals with a "lenis" homorganic stop. They contrast with nasal + stop sequences.  A possible analysis (not among those suggested by Bauernschmidt) is to treat these as allophones of the plain nasals before oral vowels since the oral/nasalized vowel contrast is neutralized after a nasal.  This would mean that a velar nasal would only occur before an oral vowel, so it is not accepted here.  Bilabials and t,n are described as velarized.
+
+Sources: 
+Bauernschmidt, A. 1965. Amuzgo syllable dynamics. Language 41: 471-483.
+
+Longacre, R.E. 1966. On linguistic affinities of Amuzgo. International Journal of American Linguistics 32: 46-49.

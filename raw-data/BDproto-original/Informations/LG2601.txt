@@ -1,0 +1,12 @@
+Language name: KABARDIAN
+
+Language number: 2601
+
+Alternate names: 
+
+Classification: Caucasian
+
+Comments: 
+
+Sources: 
+Kuipers, A.H. 1960. Phoneme and Morpheme in Kabardian. Mouton, The Hague.

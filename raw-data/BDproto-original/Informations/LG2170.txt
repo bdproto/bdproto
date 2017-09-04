@@ -1,0 +1,23 @@
+Language name: Korean
+
+Language number: 2170
+
+Alternate names: 
+
+Classification: Ural-Altaic, Korean
+
+Comments:
+Korena is spoken  primarily in Korea. /l/ alternates with initial /r/.  Vowel length can be derived through combinations of vowels. Approximants /j,w/ precede (some) non-homorganic vowels.
+
+Sources: 
+Cho, S-B. 1967. A Phonological Study of Korean (Acta Universitatis Upsaliensis, Studia Uralica et Altaica Upsaliensia 2). Almqvist and Wiksells, Uppsala.
+
+Kim, C-W. 1972. Two Phonological Notes: A-Sharp and B-Flat. In M.K. Braume (ed.), Contributions to Generative Phonology.  University of Texas Press, Austin: 155-170.
+
+Kim, J. 1986. Phonology and Syntax of Korean Morphology. Ph.D. Dissertation, University of Southern California.
+
+Martin, S.E. 1951. Korean Phonemics. Language 27: 519-33.
+
+Martin, S.E. 1954. Korean Morphophonemics. Linguistic Society of America, Baltimore.
+
+Martin, S.E. and Lee, Y-S.C. 1969. Beginning Korean. Yale University Press, New Haven.

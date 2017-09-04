@@ -1,0 +1,16 @@
+Language name: TLINGIT
+
+Language number: 6102
+
+Alternate names: 
+
+Classification: Na-Dene, Tlingit
+
+Comments: 
+
+Sources: 
+Story, G.L. and Naish, C.M. 1973. Tlingit Verb Dictionary. Alaska Native Language Center, University of Alaska, Fairbanks.
+
+Swanton, J.R. 1909. Tlingit Myths and Texts (Bureau of American Ethnology Bulletin 39). Smithsonian Institution, Washington, D.C.
+
+Swanton, J.R. 1911. Tlingit. In F. Boas (ed.), Handbook of American Indian Language, Part 1 (Bureau of American Ethnology Bulletin 40). Smithsonian Institution, Washington, D.C.: 425-559.

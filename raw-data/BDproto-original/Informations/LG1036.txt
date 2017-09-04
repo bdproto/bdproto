@@ -1,0 +1,17 @@
+Language name: VOLTA
+
+Language number: 1036
+
+Classification: Niger-Kordofanian, Voltaic
+
+Depth: 
+
+Author: Stewart
+
+Date: 1983
+
+Comments: 
+
+
+Sources: 
+Kay Williamson, 19, ‘Niger Congo overview’, in “The Niger Congo Languages “, SIL, University Press of America, Lanham, New York, London

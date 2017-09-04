@@ -1,0 +1,13 @@
+Language name: SOUTHERN KIWAI
+
+Language number: 8636
+
+Alternate names: 
+
+Classification: Papuan, Trans-New Guinea
+
+Comments:
+Island Kiwai dialect. Island Kiwai is spoken on Kiwai Island and some nearby areas in the Fly River delta, Western Province, Papua New Guinea. Wurm (1977) reports that vowel length is absent but that VV and V + diphthong clusters occur. A vowel harmony system is present which "affects the vowels of affixes, especially prefixes" but no details are given. There is a complex stress system and two tones but the functional load of the tonal contrast is low. All syllables are open and no consonant clusters occur.
+
+Sources: 
+Wurm, S.A. 1977. Missionary lingue franche: Kiwai. In S.A. Wurm (ed.), Language, Culture, Society, and the Modern World, fascicle 2. New Guinea Area Languages and Language Study, vol. 3. Pacific Linguistics, Series C, No. 40. Australian National University, Canberra.

@@ -1,0 +1,13 @@
+Language name: Diyari
+
+Language number: 8367
+
+Alternate names: 
+
+Classification: Australian, Pama-Nyungan
+
+Comments:
+Austin (1981) analyzes the alveolar trill /r/ as a stop /d/.  This phoneme does not occur initially; intervocalically it is a trill; in post-nasal and post-lateral position it is a voiced stop with trilled release [dr].  This stop is considered epenthetic here.
+
+Sources: 
+Austin, P.A. 1981. A Grammar of Diyari, South Australia. Cambridge University Press, Cambridge, New York.

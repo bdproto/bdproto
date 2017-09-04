@@ -1,0 +1,17 @@
+Language name: PROTO-VIETNAMESE
+
+Language number: 1105
+
+Classification: Austro-Asiatic, Vietmuong
+
+Depth: 
+
+Author: 
+
+Date: 
+
+Comments: 
+
+
+Sources: 
+M. Ferlus, 19, ‘Histoire abrégée de l’évolution des consonnes initiales du vietnamien et du sino-vietnamien’, Mon-Khmer Studies, n° 20

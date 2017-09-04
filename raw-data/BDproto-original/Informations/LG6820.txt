@@ -1,0 +1,14 @@
+Language name: JAQARU
+
+Language number: 6820
+
+Alternate names: (Aymara d.)
+
+Classification: S. American, Andean
+
+Comments: 
+
+Sources: 
+Hardman, M.J. 1966. Jaqaru: Outline of Phonological and Morphological Structure. Mouton, The Hague.
+
+Hardman, M.J. 1983. Jaqaru: Compendio de estructura fonologica y morfologica. Instituto de Estudios Peruanos: Instituto Indigenista Interamericano, Lima.

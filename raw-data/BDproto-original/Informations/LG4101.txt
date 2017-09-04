@@ -1,0 +1,15 @@
+Language name: Moro
+
+Language number: 4101
+
+Alternate names: 
+
+Classification: Niger-Kordofanian, Kordofanian
+
+Comments:
+The Blacks consider a number of syllable-initial nasal+stop and liquid+stop clusters to be unit phonemes. Voiced dental and retroflex stops seem to be limited to occurrence in these clusters.  Schadeberg treats [6D] as an allophone of /dD/.
+
+Sources: 
+Black, Mr. and Mrs. K. 1971. The Moro Language: Grammar and Dictionary (Linguistic Monograph Series 6). Sudan Research Unit, University of Khartoum, Khartoum.
+
+Schadeberg, 1981. A Survey of Kordofanian, vol. 1. H. Buske, Hamburg.

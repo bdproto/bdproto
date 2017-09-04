@@ -1,0 +1,16 @@
+Language name: Nez Perce
+
+Language number: 6706
+
+Alternate names: 
+
+Classification: N. American, Penutian
+
+Comments: 
+
+Sources: 
+Aoki, H. 1966. Nez Perce vowel harmony and Proto-Sahaptian vowels. Language 42: 759-67.
+
+Aoki, H. 1970. Nez Perce Grammar. University of California Press, Berkeley and Los Angeles.
+
+Aoki, H. 1970. A note on glottalized consonants. Phonetica 21: 65-74.

@@ -1,0 +1,13 @@
+Language name: LUO
+
+Language number: 4205
+
+Alternate names: 
+
+Classification: Nilo-Saharan, E. Sudanic
+
+Comments:
+? occurs principally as a predictable prevocalic element.  Luo has vowel harmony opposing i,e,o,u to the remaining vowels.  Gregersen posits three level tones but two basic tones are more likely.
+
+Sources: 
+Gregersen, E.A. 1961. Luo: A Grammar. Ph. D. Dissertation. Yale University, New Haven.

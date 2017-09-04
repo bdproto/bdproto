@@ -1,0 +1,12 @@
+Language name: BURUSHASKI
+
+Language number: 2715
+
+Alternate names: 
+
+Classification: Burushaski
+
+Comments: 
+
+Sources: 
+Morgenstierne, G. 1945. Notes on Burushaski phonology. norsk Tidsskrift for Sprogvidenskap 13: 61-95.

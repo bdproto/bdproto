@@ -1,0 +1,17 @@
+Language name: PROTO-JAPANESE
+
+Language number: 1101
+
+Classification: Ural-Altaic, Japanese
+
+Depth: 
+
+Author: Martin
+
+Date: 
+
+Comments: 
+
+
+Sources: 
+Samuel E. Martin, 19, ‘The japanese language through time’, Yale University Press, New Haven, London

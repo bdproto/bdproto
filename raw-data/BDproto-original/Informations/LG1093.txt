@@ -1,0 +1,17 @@
+Language name: GBAYA
+
+Language number: 1093
+
+Classification: Niger-Kordofanian, Ubangi
+
+Depth: 
+
+Author: 
+
+Date: 
+
+Comments: 
+4 tones (high, low, high low, low high)
+
+Sources: 
+

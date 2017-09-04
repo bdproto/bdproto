@@ -1,0 +1,13 @@
+Language name: HAMER
+
+Language number: 4365
+
+Alternate names: 
+
+Classification: Afro-Asiatic, Omotic
+
+Comments:
+Plain and pharyngealized (possibly [-ATR]) vowels form vowel harmony sets.  Plain vowels dominate in assimilation.  Hamer is possibly tonal.
+
+Sources: 
+Lydall, J. 1976. Hamer. In M.L. Bender (ed.), The Non-Semitic Languages of Ethiopia. African Studies Center, Michigan State University, East Lansing: 393-438.

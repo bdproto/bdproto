@@ -1,0 +1,17 @@
+Language name: URALO-SIBERIAN
+
+Language number: 1114
+
+Classification: Macro-Family
+
+Depth: 
+
+Author: Michael Fortescue
+
+Date: 1998
+
+Comments: 
+t’, n’, l’ are said to belong to a palatal serie and NOT an ejective one.Symbols in parentheses are “tentative”.
+
+Sources: 
+Michael Fortescue, 1998, “Language relations across Bering Strait. Reappraising the archaeological and linguistic evidence”, Cassell, London and New York

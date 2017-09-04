@@ -1,0 +1,17 @@
+Language name: PROTO-KAREN
+
+Language number: 1013
+
+Classification: Sino-Tibetan, Karenic
+
+Depth: 
+
+Author: R. B. Jones, jr.
+
+Date: 1961
+
+Comments: 
+2 tones (high, low)
+
+Sources: 
+R. B. Jones, jr., 1961, ‘Karen linguistic studies, description, comparison and texts’, University of California publication in linguistics, vol 25, University of California Press, Berkeley and Los Angeles

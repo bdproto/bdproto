@@ -1,0 +1,13 @@
+Language name: Manchu
+
+Language number: 2169
+
+Alternate names: 
+
+Classification: Ural-Altaic, Tungus
+
+Comments:
+Manchu is spoken in few villagers in Aihui and Fuyu counties in HeilonJiang, Jilin and Liaoning Provinces in Beijing in China.
+
+Sources: 
+Austin, W. 1962. The phonemics and morphophonemics of Manchu. In N. Poppe (ed.), American Studies in Altaic Linguistics (Indiana University Publications, Uralic and Altaic Series 13). Indiana University, Bloomington: 15-22.

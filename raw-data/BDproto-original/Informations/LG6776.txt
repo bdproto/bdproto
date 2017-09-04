@@ -1,0 +1,15 @@
+Language name: HUASTECO
+
+Language number: 6776
+
+Alternate names: 
+
+Classification: N. American, Penutian
+
+Comments:
+Huastec is spoken primarily in Veracruz and San Luis Potosi states, Mexico, some distance from other Mayan languages. It has stress but no tone. Vowels may occur long and short. Labialized velars do not occur before rounded vowels. Additional segments are found in Spanish loans.
+
+Sources: 
+Larsen, R.S. and Pike, E.V. 1949. Huasteco intonations and phonemes. Language 25: 268-277.
+
+Peralta, M-A.O. 1984. El Idioma Huasteco de Xiloxuchil, Veracruz. Instituto Nacional de Antropologia e Historia.

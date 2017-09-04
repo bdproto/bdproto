@@ -1,0 +1,13 @@
+Language name: WOISIKA
+
+Language number: 8633
+
+Alternate names: 
+
+Classification: Papuan, Trans-New Guinea
+
+Comments:
+Woisika is spoken in the center of the island of Alor, Nusa Tenggara Timur, Indonesia. Because Stokhof (1979) places 'w' on his chart of symbols in the labiodental column it is assumed the sound is labiodental. The vowels are described by Stokhof as divided into "tense" and "lax" sets. The "tense" vowels are usually lower, more peripheral and longer than the "lax" vowels and also are lower in pitch. "Lax" vowels, except for /a/, are more common than their nearest "tense" counterparts. The features available in UPSID require some compromises in vowel representation. Retracted front high and fronted back high vowels are represented here as central, although Stokhof marks them as halfway between center and periphery. Similarly, a retracted central low unrounded vowel is shown as back here. Palatograms included in the book show clearly dental articulation for /t, d, n/ etc. but Stokhof indicates variation to alveolar place.
+
+Sources: 
+Stokhof, W.A.L. 1979. Woisika II: Phonemics. (Pacific Linguistics, Series B, No. 59). Australian National University, Canberra.

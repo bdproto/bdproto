@@ -1,0 +1,16 @@
+Language name: CHIPEWYAN
+
+Language number: 6106
+
+Alternate names: 
+
+Classification: Na-Dene, Athabaskan
+
+Comments: 
+
+Sources: 
+Li, F-K. 1932. A list of Chipewyan stems. International Journal of American Linguistics 7: 122-51.
+
+Li, F-K. 1933. Chipewyan consonants. Bulletin of the Institute of History and Philology, Academia Sinica Ts'ai Yuan P'ei Anniversary Volume, (Supplementary Volume 1): 429-67.
+
+Li, F-K. 1946. Chipewyan. In H. Hoijer (ed.), Linguistic Structures of native America. Wenner-Gren Foundation, New York: 394-423.

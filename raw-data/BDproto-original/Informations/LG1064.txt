@@ -1,0 +1,17 @@
+Language name: TAKANAN
+
+Language number: 1064
+
+Classification: South-American, Panoan
+
+Depth: 
+
+Author: Girard
+
+Date: 1971
+
+Comments: 
+
+
+Sources: 
+V. Girard, 1971, ‘Proto takanan phonology’, University of California Publications, Linguistics, vol. 70

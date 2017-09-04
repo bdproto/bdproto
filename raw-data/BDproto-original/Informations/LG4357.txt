@@ -1,0 +1,13 @@
+Language name: Tamasheq
+
+Language number: 4357
+
+Alternate names: Tuareg
+
+Classification: Afro-Asiatic, Berber
+
+Comments:
+All consonants may appear long (geminate). Prasse's description indicates that there are five long/short vowel pairs and two vowels that only occur short, but details are unclear.
+
+Sources: 
+Prasse, K-G. 1972. Manuel de Grammaire Touaregue. Akademisk Forlag, Copenhagen.

@@ -1,0 +1,17 @@
+Language name: PROTO-HAUSA
+
+Language number: 1016
+
+Classification: Afro-Asiatic, Chadic
+
+Depth: 
+
+Author: Paul Newman
+
+Date: 1979
+
+Comments: 
+
+
+Sources: 
+Paul Newman, 1979, ‘The historical development of medial /ee/ and /oo/ in Hausa’, Journal of African Languages and Linguistics, vol 1, n° 2

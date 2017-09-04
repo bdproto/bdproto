@@ -1,0 +1,15 @@
+Language name: AVAR
+
+Language number: 2606
+
+Alternate names: 
+
+Classification: Caucasian
+
+Comments:
+Khunza dialect. Avar is spoken in mountainous areas of the southern Dagestan ASSR in the USSR, and by exile communities alongside the Sea of Marmora, Turkey. Long affricates lengthen the fricative portion rather than the closure portion.
+
+Sources: 
+Charachidze, G. 1981. Grammaire de la langue Avar (langue du Caucase Nord-Est). Document de Linguistique Quantitative, no. 38. Saint-Sulpice Favieres: editions Jean-Favard.
+
+Zhirkov, L.I. 1936. Avarsko-Russkij Slovar' (s kratkim grammaticheskim ocherkom Avarskogo jazyka), Moscow.

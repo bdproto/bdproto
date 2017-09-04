@@ -1,0 +1,13 @@
+Language name: BAI
+
+Language number: 2506
+
+Alternate names: Minkia, Minjia
+
+Classification: Sino-Tibetan, Sinitic
+
+Comments:
+Bai is spoken primarily in the Dali Bai autonomous county in western Yunnan, China.  Dell (1981) notes 8 tones: high, mid and low level, high falling and low falling, mid rising and low fall-rise -- the 8th tone is very high with a final glottal stop which shortens the vowel.  Since no initial glottal stops occur this feature is analyzed as part of an extra high tone.  There are no final consonants.  /j,w/ can appear after some consonants, as well as initially.  /w/ has a labial-palatal variant before /i/.  The labio-dental fricative vowel does not occur after bilabials.
+
+Sources: 
+Dell, F.  1981.  La Langue Bai: Phonologie et Lexique.  Etudes Linguistiques No. 2, Editions de l'Ecole des Hautes Etudes en Sciences Sociales, Paris.

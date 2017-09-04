@@ -1,0 +1,17 @@
+Language name: Lithuanian
+
+Language number: 2007
+
+Alternate names: 
+
+Classification: Indo-European, Baltic
+
+Comments:
+Lithuanian is spoken in USSR.  E and O occur as short vowels but appear predictable from stress.
+
+Sources: 
+Ambrazas, V., Vajtkavichjute, V., Valjatskene, A., Morkunas, K., Sabaljauskas, A., and Ul'vidas, K. 1966. Litovskij jazyk.  In V.V. Vinogradov (ed.), Jazyki Narodov SSSR, Vol.1. Nauka, Leningrad and Moscow: 500-27. 
+
+Augustitis, D. 1964. Das Lithauische Phonationssystem. Sagner, Munich.
+
+Senn, A. 1966. Handbuch der Litauischen Sprache, Band 1: Grammatik. Winter, Heidelberg.

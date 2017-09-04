@@ -1,0 +1,13 @@
+Language name: BURMESE
+
+Language number: 2509
+
+Alternate names: 
+
+Classification: Sino-Tibetan, Lolo-Burmese
+
+Comments:
+Burmese is spoken in Burma.
+
+Sources: 
+Okell, J. 1969. A Reference Grammar of Colloquial Burmese. Oxford University Press, London.

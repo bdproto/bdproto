@@ -1,0 +1,17 @@
+Language name: KHANTY
+
+Language number: 2150
+
+Alternate names: Ostyak
+
+Classification: Ural-Altaic, Finno-Ugric, Ugric
+
+Comments:
+/i, e/ are rounded in labial and velar environments.
+
+Sources: 
+Gulya, J. 1966. Eastern Ostyak Chrestomathy (Indiana University Publications, Uralic and Altaic Series 51). Indiana University, Bloomington.
+
+Katz, H. 1975a. Generative phonologie und phonologische Sprachbunde des ostjakischen und samojedischen. Munchener Universitats-Schriften, Finnisch-ugrische Bibliothek 1, Munich.
+
+Steinitz, W. 1950 Geschichte des Ostjakischen Vokalismus. Akademic-Verlag, Berlin.

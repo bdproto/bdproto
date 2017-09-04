@@ -1,0 +1,13 @@
+Language name: YESSAN-MAYO
+
+Language number: 8632
+
+Alternate names: 
+
+Classification: Papuan, Sepik-Ramu
+
+Comments:
+Yessan-Mayo is spoken upriver from Ambunti, East Sepik Province, Papua New Guinea. Stress is initial except when /a/ occurs in a subsequent syllable and attracts stress to that syllable. Vowel allophones are very variable. Rounded allophones of central vowels occur before and after /w/ and after labialized velars. Fronted allophones occur contiguous to /i/ and, often, with bilabials.
+
+Sources: 
+Foreman, Velma and Helen Marten. 1973. Yessan-Mayo phonemes. In Phonologies of Three Papua New Guinea Languages (Workpapers in Papua New Guinea Languages 2).Summer Institute of Linguistics, Ukarumpa.

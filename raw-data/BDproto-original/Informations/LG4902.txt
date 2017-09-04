@@ -1,0 +1,17 @@
+Language name: SANDAWE
+
+Language number: 4902
+
+Alternate names: 
+
+Classification: Khoisan, Sandawe
+
+Comments:
+Sandawe is spoken around Sanzawa and Mtoro in north-central Tanzania. The language has two level tones plus a falling tone combining these two tones. Voiceless vowels occur only in final syllables after a limited set of consonan ts and are almost always low-toned, however not all occurrences are predictgable. Velar nasal occurs syllable finally; -nasal homorganic to a medial stop or affricate is analyzed as an allophone of the velar nasal. Clusters of /w/ with most other consonants apart from labials are frequent.
+
+Sources: 
+Dempwolff, O. 1916. Die Sandawe: Linguistisches und ethnographisches Material aus Deutsch-Ostafrika. (Abhandlungen des Hamburgischen Kolonialinstituts vol. 34.) L. Friederichsen & Co., Hamburg.
+
+Elderkin, E.D. 1982. Tanzanian and Ugandan isolates. Nilotic Studies. Proceedings of the International Symposium on Languages and History of the Nilotic Peoples, Cologne, R. Vossen and M. Bechhaus-Gerst, editors. (Kolner Beitrage zur Afrikanistik, vol. 10): 499-521.
+
+Tucker, A.N., Bryan, M.A. and Woodburn, J. 1977. The East African click languages: a phonetic comparison. From: Zur Sprachgeschichte und Ethnohistorie in Afrika. (Neue Beitrage afrikanistischer forschungen, ed. W. Mohlig, F. Rottland, B. Heine) Dietrich Reimer Verlag, Berlin.

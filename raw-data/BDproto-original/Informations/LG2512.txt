@@ -1,0 +1,15 @@
+Language name: AO
+
+Language number: 2512
+
+Alternate names: 
+
+Classification: Sino-Tibetan, Kuki-Naga
+
+Comments:
+Ao is spoken in northestern Nagaland central, Mokochung, Assam in India.
+
+Sources: 
+Gowda, K.S.G. 1972. Ao-Naga Phonetic Reader. Central Institute of Indian Languages, Mysore.
+
+Gowda, K.S.G. 1975. Ao Grammar. Central Institute of Indian Languages, Mysore.

@@ -1,0 +1,17 @@
+Language name: MIXTECAN
+
+Language number: 1070
+
+Classification: North-American, Oto-Manguean
+
+Depth: -1000
+
+Author: Longacre
+
+Date: 1967
+
+Comments: 
+4 tones (high, mid high, mid low, low)
+
+Sources: 
+R. Longacre, 1967, ‘Systemic comparison and reconstruction’, Handbook of middle american indians, vol. 5 : linguistics, R. Wachope editor, N. Mc Quown, volume editor, University of Texas Press, Austin

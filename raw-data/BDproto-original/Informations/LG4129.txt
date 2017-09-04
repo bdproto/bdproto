@@ -1,0 +1,14 @@
+Language name: GBEYA
+
+Language number: 4129
+
+Alternate names: 
+
+Classification: Niger-Kordofanian, Ubangi (Eastern)
+
+Comments: 
+
+Sources: 
+Monino, Y. and Roulon, P. 1972. Phonologie du Gbaya Kara 'Bodoe de Ndongue Bongowen. SELAF, Paris.
+
+Samarin, W.J. 1966. The Gbeya Language. University of California Press, Berkeley and Los Angeles.

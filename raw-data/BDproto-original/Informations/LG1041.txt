@@ -1,0 +1,17 @@
+Language name: AUSTRONESIAN
+
+Language number: 1041
+
+Classification: Austro-Tai, Austronesian
+
+Depth: -5000-6000
+
+Author: Ross
+
+Date: 1995
+
+Comments: 
+
+
+Sources: 
+Malcom D. Ross, 1995, ‘Some current issues in Austronesian linguistics’, in “Comparative Austronesian dictionary. An introduction to Austronesian Studies, Part 1 : Fascicle 1”, Trends in Linguistics, Documentation 10, Darrell T. Tryon, ed., Mouton de Gryuter, Berlin, New York

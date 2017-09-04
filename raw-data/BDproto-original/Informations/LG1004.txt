@@ -1,0 +1,17 @@
+Language name: MALAYO POLYNESIAN
+
+Language number: 1004
+
+Classification: Austro-Tai, Austronesian
+
+Depth: -4000 BC
+
+Author: R. Blust
+
+Date: 1980
+
+Comments: 
+
+
+Sources: 
+L. C. Hogan, 1993, ‘A comparison of reconstructed Austronesian, Old Chinese and Austro-Thai, Linguistics of the Tibeto-Burman area, vol. 16:2

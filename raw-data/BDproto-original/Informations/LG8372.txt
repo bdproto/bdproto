@@ -1,0 +1,13 @@
+Language name: NGIYAMBAA
+
+Language number: 8372
+
+Alternate names: 
+
+Classification: Australian, Pama-Nyungan
+
+Comments:
+Vowels occur both long and short. Long mid vowels occur but are analyzed as vowel-glide-vowel, /aji/ -> [e:] etc. Stops are "occasionally voiced medially". Initially alveolar stops and nasals don't occur, and dental and palatal stops and nasals (the "laminals") are largely predictable variants (dental initially, medially mostly predictable from vowel environment).
+
+Sources: 
+Donaldson, T. 1980. Ngiyambaa, The Language of the Wangaaybuwan. Cambridge University Press, Cambridge, London, New York.

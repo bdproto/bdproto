@@ -1,0 +1,13 @@
+Language name: NICOBARESE
+
+Language number: 2313
+
+Alternate names: 
+
+Classification: Austro-Asiatic, Nicobarese
+
+Comments:
+Nicobasrese is spoken in Nicobar Islands, Katchall, Camoita, Nancoury and Trinkat Islands in India. Vowels appear long and short but long vowels are pronounced "so that it seems that two short vowels are pronounced side by side" (Das, 1977: 4). Das also lists many "diphthongs" which seem best regarded as vowel sequences.
+
+Sources: 
+Das, A.R. 1977. A Study on the Nicobarese Language. Anthropological Survey of India, Government of India, Calcutta.

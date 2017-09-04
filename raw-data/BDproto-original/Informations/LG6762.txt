@@ -1,0 +1,17 @@
+Language name: NAHUATL
+
+Language number: 6762
+
+Alternate names: Aztec
+
+Classification: N. American, Uto-Aztecan
+
+Comments:
+North Puebla dialect.  Vowels appear both long and short.
+
+Sources: 
+Brockway, E. 1963. The phonemes of North Puebla Nahuatl. Anthropological Linguistics 5.3:14-18.
+
+Law, H. 1955. The phonemes of Isthmus Nahuat.  El Mexico Antiguo 8:267-278.
+
+Schumann, O., Garcia de Leon, A. 1966. El dialecto nahual de Almomoloa.  Tlalocan 5:178-192.

@@ -1,0 +1,14 @@
+Language name: CARIB
+
+Language number: 6807
+
+Alternate names: Galibi
+
+Classification: S. American, Macro-Carib
+
+Comments: 
+
+Sources: 
+Hoff, B.J. 1968. The Carib Language (Verhandelingen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde 55). Nijhoff, The Hague.
+
+Peasgood, E.T. 1972. Carib phonology. In J.E. Grimes (ed.), Languages of the Guianas. Summer Institute of Linguistics, University of Oklahoma, Norman: 35-41.

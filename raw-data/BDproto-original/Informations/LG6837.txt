@@ -1,0 +1,14 @@
+Language name: Mapudungu
+
+Language number: 6837
+
+Alternate names: Araucanian
+
+Classification: S. American, Andean
+
+Comments: 
+
+Sources: 
+Echeverria, M.S. and Contreras, H. 1965. Araucanian phonemics. International Journal of American Linguistics 31: 132-5.
+
+Kay, M.R. 1978. Linguistica comparativa Araucana. VICUS Cuadernos, Linguistica II: 45-56.

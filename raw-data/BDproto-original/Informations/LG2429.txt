@@ -1,0 +1,13 @@
+Language name: MOR
+
+Language number: 2429
+
+Alternate names: 
+
+Classification: Austro-Tai, Eastern Malayo-Polynesian
+
+Comments:
+Mor is spoken on the Mor and Mamboor islands in the Southwest of Geelvink Bay, Inan Jaya, Indonesia. The prenasalized stops shown here only occur medially and at least some instances derive from a nasal + /v/, /r/ or /t/, and /?/, but other words seem to have basic prenasalized stops. Because clusters are otherwise absent, a case can be made for considering these as unit phonemes. Laycock reports there is a tonal system "which has not been fully analyzed". He notes high and low tones and leaves some syllables unmarked implying possibly a third (mid) level.
+
+Sources: 
+Laycock, D. 1978. A little Mor. Second International Conference on Austronesian Linguistics: Proceeding, Fasc.1 (Wurm, S.A. and Carrington, L. editors) Department of Linguistics and Research School of Pacific Studies, A.N.U., Canberra.: 285-291.

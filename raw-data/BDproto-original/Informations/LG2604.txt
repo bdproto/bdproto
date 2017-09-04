@@ -1,0 +1,13 @@
+Language name: BATS
+
+Language number: 2604
+
+Alternate names: Batsbij
+
+Classification: Caucasian, Caucasian
+
+Comments:
+Bats is spoken in the Akhmetsk region of northern Georgia, USSR. Nasalized vowels only occur in a few inflectional endings but contrast with vowel + nasal. Desheriev (1953) also notes 3 long vowels but at least some examples are clearly just juxtapositions of two separate vowels. Similarly the diphthongs he reports seem to be a sequence of two adjacent vowels. Especially restricted are the "nasalized diphthongs" which all end in nasalized 'i' and occur only in inflectional endings.
+
+Sources: 
+Desheriev, J.D. 1953. Batsbijskij Jazyk. Izdatel'stvo Akademii Nauk SSSR, Moscow.

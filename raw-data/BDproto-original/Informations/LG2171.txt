@@ -1,0 +1,19 @@
+Language name: Japanese
+
+Language number: 2171
+
+Alternate names: 
+
+Classification: Ural-Altaic, Japanese
+
+Comments:
+Japanese is spoken primarily in Japan. All vowels may appear long, as may all obstruents  - long vowels accent placement may be on either element.  Shibatani (1990) reports final nasals as uvulars, varying with the nasalized counterpart of the preceding vowel.  /t, d, s, z/ are replaced by palato-alveolar affricates or fricatives before /i, e/. /t, d/ are [ts, dz] before /u/.  Some analyses regard these sibilant variants as phonemic because of a residue of problematic cases.  Bloch (1950) and Horne (1963) both report that /t, d, n, s/ are dental before /a/; this variant is taken as underlying.
+
+Sources: 
+Bloch, B. 1950. Studies in colloquial Japanese, IV: Phonemics. Language 26: 86-125.
+
+Jorden, E.H. 1963. Beginning Japanese, Part I. Yale University Press, New Haven.
+
+Martin, S.E. 1952. Morphophonemics of Standard Colloquial Japanese (Language Dissertation 47). Linguistic Society of America, Baltimore.
+
+Shibatani, M.  1990.  The languages of Japan.  Cambridge University Press, Cambridge.

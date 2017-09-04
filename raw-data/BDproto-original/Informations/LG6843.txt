@@ -1,0 +1,13 @@
+Language name: YUCUNA
+
+Language number: 6843
+
+Alternate names: 
+
+Classification: S. American, Macro-Arawakan
+
+Comments:
+/s/ and /h/ are in free variation in most words. /w/ may be a bilabial approximant. Nasalization of vowels seems to be associated with /h/.
+
+Sources: 
+Schauer, S. and J. 1967. Yucuna phonemics. Phonemic Systems of Colombian Languages. Summer Institute of Linguistics, Norman. 

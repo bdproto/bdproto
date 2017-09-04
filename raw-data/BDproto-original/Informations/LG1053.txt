@@ -1,0 +1,17 @@
+Language name: ALTAIC
+
+Language number: 1053
+
+Classification: Ural-Altaic, Altaic
+
+Depth: 
+
+Author: Poppe
+
+Date: 1960
+
+Comments: 
+
+
+Sources: 
+A. R. Bomhard, 1990, ‘Comparative study of the ‘Nostratic’ languages’, Trends in Linguistics, Studies and Monographs 45, Linguistic change and reconstruction methodology, P. Baldi, ed.

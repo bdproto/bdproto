@@ -1,0 +1,13 @@
+Language name: KWAIO
+
+Language number: 2433
+
+Alternate names: 
+
+Classification: Austro-Tai, East Malayo-Polynesian
+
+Comments:
+Kwaio is spoken in the central mountains on Malaita, Solomon Islands. Stress is usually penultimate. Labialized velars only contrast before unrounded vowels. /l/ is an alveolar flap before high vowels. /w/ only occurs morpheme-initially and is in almost complementary distribution with the labialized velar nasal.
+
+Sources: 
+Keesing, R.M. 1985. Kwaio Grammar. Pacific Linguistics series B, no. 88. Department of Linguistics Research School of Pacific Studies, The Australian National University.

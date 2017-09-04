@@ -1,0 +1,14 @@
+Language name: AMUESHA
+
+Language number: 6824
+
+Alternate names: 
+
+Classification: S. American, Macro-Arawakan
+
+Comments: 
+
+Sources: 
+Fast, P.W. 1953. Amuesha (Arawak) phonemes. International Journal of American Linguistics 19: 191-4.
+
+Wise, M.R. 1958. Diverse points of articulation of allophones in Amuesha (Arawak). Miscellanea Phonetica III: 15-21.

@@ -1,0 +1,13 @@
+Language name: WARAO
+
+Language number: 6852
+
+Alternate names: 
+
+Classification: S. American, Paezan
+
+Comments:
+Warao is spoken principally along the Venezuelan coast from the Orinoco delta to the Guyana border. Osborn (1966) lists /p/ rather /b/ as the bilabial stop phoneme, but reports that "the voiced allopyhone [b] is heard more frequently than the voiceless [p]". /t/ "has the allophone [t] in all positions". The alveolar lateral flap occurs as [d] word-initially and as a nonlateral flap before /a/ when preceded by /i,a/. Nasalized vowels occur mostly. Nasality spreads from a nasal consonant to all following vowels and glides between the nasal and a following obstruent or word-boundary but a number of words also have unconditioned nasalized vowels.
+
+Sources: 
+Osborn, H.A. 1966. Warao I: phonology and morphophonemics. International Journal of American Linguistics 32/2: 108-123.

@@ -1,0 +1,17 @@
+Language name: COMMON NORDIC
+
+Language number: 1045
+
+Classification: Indo-European, Germanic, North
+
+Depth: 6th century
+
+Author: Antonsen
+
+Date: 1967
+
+Comments: 
+
+
+Sources: 
+Elmer H. Antonsen, Proto scandinavian and common nordic’, Scandinavian Studies, vol. 39, feb. 1967, pp 16-39

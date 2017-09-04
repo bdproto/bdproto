@@ -1,0 +1,554 @@
+							
+	Nom	Famille	Code	NbSegment	Selecte	Selecte1	CodeBase
+	!XU	Khoisan, North-Khoisan	4904	141	FALSE	FALSE	10
+	ABIPON	South-American, Macro-Panoan	6815	20	FALSE	FALSE	10
+	ACHE	South-American, Equatorial	6866	21	FALSE	FALSE	10
+	ACHUMAWI	North-American, Hokan	6744	23	FALSE	FALSE	10
+	ACOMA	North-American, Keresiouan	6749	51	FALSE	FALSE	10
+	ADZERA	Austro-Tai, Austronesian, East-Malayo-Polynesian	2419	25	FALSE	FALSE	10
+	AFRO-ASIATIC	Afro-Asiatic	1061	50	FALSE	FALSE	20
+	AGHEM	Niger-Kordofanian, Bantoid	4134	35	FALSE	FALSE	10
+	AHTNA	Na-Dene, Athabaskan	6108	35	FALSE	FALSE	10
+	AINU	Ural-Altaic, Ainu	2140	16	FALSE	FALSE	10
+	AIZI	Niger-Kordofanian, Kru	4131	33	FALSE	FALSE	10
+	AKAN	Niger-Kordofanian, Kwa	4115	35	FALSE	FALSE	10
+	AKAWAIO	South-American, Macro-Carib	6853	23	FALSE	FALSE	10
+	ALABAMA	North-American, Penutian	6759	17	FALSE	FALSE	10
+	ALAMBLAK	Papuan, Sepik-Ramu	8634	25	FALSE	FALSE	10
+	ALAWA	Australian, Maran	8354	26	FALSE	FALSE	10
+	ALBANIAN	Indo-European, Albanian	2021	35	FALSE	FALSE	10
+	ALEUT	Eskimo-Aleut, Aleut	6900	27	FALSE	FALSE	10
+	ALGONQUIAN	North-American, Almosan	1097	20	FALSE	FALSE	20
+	ALLADIAN	Niger-Kordofanian, Kwa	4152	36	FALSE	FALSE	10
+	ALTAIC	Ural-Altaic, Altaic	1053	36	FALSE	FALSE	20
+	AMAHUACA	South-American, Macro-Panoan	6810	22	FALSE	FALSE	10
+	AMELE	Papuan, Trans-New-Guinea	8635	20	FALSE	FALSE	10
+	AMHARIC	Afro-Asiatic, Semitic	4352	37	FALSE	FALSE	10
+	AMO	Niger-Kordofanian, Plateau	4122	35	FALSE	FALSE	10
+	AMUESHA	South-American, Macro-Arawakan	6824	26	FALSE	FALSE	10
+	AMUZGO	North-American, Oto-Manguean	6770	37	FALSE	FALSE	10
+	ANATOLIAN	Indo-European, Anatolian	1018	33	FALSE	FALSE	20
+	ANDAMANESE	Papuan, Andamanese	8600	24	FALSE	FALSE	10
+	ANDOKE	South-American, Macro-Carib	6851	26	FALSE	FALSE	10
+	ANGAATIHA	Papuan, Trans-New-Guinea	8627	21	FALSE	FALSE	10
+	ANGAS	Afro-Asiatic, Chadic	4367	43	FALSE	FALSE	10
+	AO	Sino-Tibetan, Kuki-Naga	2512	20	FALSE	FALSE	10
+	APINAYE	South-American, Macro-Ge	6809	30	FALSE	FALSE	10
+	ARABELA	South-American, Andean	6817	18	FALSE	FALSE	10
+	ARABIC	Afro-Asiatic, Semitic	4350	35	FALSE	FALSE	10
+	ARAUCANIAN	South-American, Andean	6837	26	FALSE	FALSE	10
+	ARAWAKAN	South-American, Macro-Arawakan	1116	34	FALSE	FALSE	20
+	ARCHI	Caucasian	2605	91	FALSE	FALSE	10
+	ARMENIAN	Indo-European, Armenian	2022	36	FALSE	FALSE	10
+	ARRERNTE	Australian, Pama-Nyungan	8362	30	FALSE	FALSE	10
+	ASHUSLAY	South-American, Macro-Panoan	6814	28	FALSE	FALSE	10
+	ASMAT	Papuan, Trans-New-Guinea	8601	17	FALSE	FALSE	10
+	ATAYAL	Austro-Tai, Atayalic	2407	26	FALSE	FALSE	10
+	ATHAPASKAN	Na-Dene, Athabaskan	1110	43	FALSE	FALSE	20
+	ATTIC	Indo-European, Greek	1104	24	FALSE	FALSE	20
+	AUCA	South-American, Andean	6818	21	FALSE	FALSE	10
+	AUSTRALIAN	Australian	1059	20	FALSE	FALSE	20
+	AUSTRONESIAN	Austro-Tai, Austronesian	1041	28	FALSE	FALSE	20
+	AVAR	Caucasian	2606	49	FALSE	FALSE	10
+	AWIYA	Afro-Asiatic, Cushitic	4359	35	FALSE	FALSE	10
+	AZANDE	Niger-Kordofanian, Ubangi-East	4130	35	FALSE	FALSE	10
+	AZERBAIJANI	Ural-Altaic, Turkic	2159	33	FALSE	FALSE	10
+	BAI	Sino-Tibetan, Sinitic	2506	29	FALSE	FALSE	10
+	BAINING	Papuan, East-Papuan	8631	22	FALSE	FALSE	10
+	BAKAIRI	South-American, Macro-Carib	6856	29	FALSE	FALSE	10
+	BAMBARA	Niger-Kordofanian, Mande	4105	35	FALSE	FALSE	10
+	BANDJALANG	Australian, Pama-Nyungan	8368	16	FALSE	FALSE	10
+	BANTU	Niger-Kordofanian, Bantoid	1094	18	FALSE	FALSE	20
+	BARASANO	South-American, Macro-Tucanoan	6832	23	FALSE	FALSE	10
+	BARDI	Australian, Nyulnyulan	8357	24	FALSE	FALSE	10
+	BARIBA	Niger-Kordofanian, Voltaic	4113	30	FALSE	FALSE	10
+	BASHKIR	Ural-Altaic, Turkic	2163	38	FALSE	FALSE	10
+	BASQUE	Isolates, Basque	2714	28	FALSE	FALSE	10
+	BATAK	Austro-Tai, Austronesian, West-Malayo-Polynesian	2413	21	FALSE	FALSE	10
+	BATS	Caucasian, Caucasian	2604	45	FALSE	FALSE	10
+	BEEMBE	Niger-Kordofanian, Bantoid	4123	26	FALSE	FALSE	10
+	BEJA	Afro-Asiatic, Cushitic	4361	26	FALSE	FALSE	10
+	BELLA COOLA	North-American, Almosan	6771	31	FALSE	FALSE	10
+	BENGALI	Indo-European, Indic	2017	43	FALSE	FALSE	10
+	BERTA	Nilo-Saharan, Berta	4218	29	FALSE	FALSE	10
+	BETE	Niger-Kordofanian, Kru	4144	37	FALSE	FALSE	10
+	BIROM	Niger-Kordofanian, Plateau	4120	29	FALSE	FALSE	10
+	BISA	Niger-Kordofanian, Mande	4104	24	FALSE	FALSE	10
+	BOBO-FING	Niger-Kordofanian, Mande	4138	33	FALSE	FALSE	10
+	BODO	Sino-Tibetan, Baric	2515	21	FALSE	FALSE	10
+	BORORO	South-American, Macro-Ge	6850	20	FALSE	FALSE	10
+	BRAHUI	Dravidian, Brahui	2917	33	FALSE	FALSE	10
+	BRAO	Austro-Asiatic, Bahnaric	2311	31	FALSE	FALSE	10
+	BRETON	Indo-European, Celtic, Brythonic	2002	45	FALSE	FALSE	10
+	BRIBRI	South-American, Chibchan	6801	27	FALSE	FALSE	10
+	BRUU	Austro-Asiatic, Katuic	2316	42	FALSE	FALSE	10
+	BULGARIAN	Indo-European, Slavic	2009	42	FALSE	FALSE	10
+	BURARRA	Australian, Burarran	8352	21	FALSE	FALSE	10
+	BURMESE	Sino-Tibetan, Lolo-Burmese	2509	46	FALSE	FALSE	10
+	BURUSHASKI	Isolates, Burushaski	2715	43	FALSE	FALSE	10
+	CACUA	South-American, Macro-Tucanoan	6864	22	FALSE	FALSE	10
+	CADDO	North-American, Keresiouan	6775	23	FALSE	FALSE	10
+	CAMPA	South-American, Macro-Arawakan	6825	19	FALSE	FALSE	10
+	CAMSA	South-American, Equatorial	6863	28	FALSE	FALSE	10
+	CARIB	South-American, Macro-Carib	6807	22	FALSE	FALSE	10
+	CAYAPA	South-American, Paezan	6803	28	FALSE	FALSE	10
+	CAYUVAVA	South-American, Equatorial	6840	33	FALSE	FALSE	10
+	CENTRAL GUR	Niger-Kordofanian, Voltaic	1038	34	FALSE	FALSE	20
+	CENTRAL-KHOISAN	Khoisan, Central-Khoisan	1056	39	FALSE	FALSE	20
+	CHADIC	Afro-Asiatic, Chadic	1083	33	FALSE	FALSE	20
+	CHAM	Austro-Tai, Austronesian, West-Malayo-Polynesian	2411	32	FALSE	FALSE	10
+	CHAMORRO	Austro-Tai, Austronesian, West-Malayo-Polynesian	2416	26	FALSE	FALSE	10
+	CHANGZHOU	Sino-Tibetan, Sinitic	2503	34	FALSE	FALSE	10
+	CHATINO	North-American, Oto-Manguean	6729	25	FALSE	FALSE	10
+	CHEROKEE	North-American, Keresiouan, Iroquoian	6781	17	FALSE	FALSE	10
+	CHIAPANEC MANGUEAN	North-American, Oto-Manguean	1072	23	FALSE	FALSE	20
+	CHIBCHA	South-American, Chibchan	1111	26	FALSE	FALSE	20
+	CHIMAKUAN	North-American, Almosan	1099	39	FALSE	FALSE	20
+	CHINANTECAN	North-American, Oto-Manguean	1077	28	FALSE	FALSE	20
+	CHIPEWYAN	Na-Dene, Athabaskan	6106	52	FALSE	FALSE	10
+	CHUAVE	Papuan, Trans-New-Guinea	8611	17	FALSE	FALSE	10
+	CHUKCHI	Chukchi-Kamchatkan	2708	22	FALSE	FALSE	10
+	CHUKOTKO-KAMCHATKAN	Chukchi-Kamchatkan	1113	25	FALSE	FALSE	20
+	CHUVASH	Ural-Altaic, Turkic	2160	30	FALSE	FALSE	10
+	COFAN	South-American, Equatorial	6836	35	FALSE	FALSE	10
+	COMMON BERBER	Afro-Asiatic, Berber	1081	20	FALSE	FALSE	22
+	COMMON NORDIC	Indo-European, Germanic, North	1045	42	FALSE	FALSE	20
+	COPTIC	Afro-Asiatic, Ancient-Egyptian	1106	27	FALSE	FALSE	20
+	CUBEO	South-American, Macro-Tucanoan	6846	23	FALSE	FALSE	10
+	CUNA	South-American, Chibchan	6857	21	FALSE	FALSE	10
+	CUSHITIC	Afro-Asiatic, Cushitic	1062	50	FALSE	FALSE	20
+	DADIBI	Papuan, Trans-New-Guinea	8616	23	FALSE	FALSE	10
+	DAFLA	Sino-Tibetan, Himalayic	2508	24	FALSE	FALSE	10
+	DAGBANI	Niger-Kordofanian, Voltaic	4110	29	FALSE	FALSE	10
+	DAGUR	Ural-Altaic, Mongolian	2176	29	FALSE	FALSE	10
+	DAHALO	Afro-Asiatic, Cushitic	4372	59	FALSE	FALSE	10
+	DAJU	Nilo-Saharan, East-Sudanic	4225	30	FALSE	FALSE	10
+	DAKOTA	North-American, Keresiouan	6756	36	FALSE	FALSE	10
+	DAN	Niger-Kordofanian, Mande	4106	39	FALSE	FALSE	10
+	DANGALEAT	Afro-Asiatic, Chadic	4374	28	FALSE	FALSE	10
+	DANI	Papuan, Trans-New-Guinea	8613	24	FALSE	FALSE	10
+	DERA	Papuan, Trans-New-Guinea	8619	17	FALSE	FALSE	10
+	DIEGUENO	North-American, Hokan	6743	34	FALSE	FALSE	10
+	DINKA	Nilo-Saharan, East-Sudanic, Nilotic, Dinka-Nuer	4226	32	FALSE	FALSE	10
+	DIOLA	Niger-Kordofanian, West-Atlantic	4108	29	FALSE	FALSE	10
+	DIYARI	Australian, Pama-Nyungan	8367	25	FALSE	FALSE	10
+	DIZI	Afro-Asiatic, Omotic	4363	30	FALSE	FALSE	10
+	DOAYO	Niger-Kordofanian, Adamawa	4128	34	FALSE	FALSE	10
+	DOGON	Niger-Kordofanian, Dogon	4170	28	FALSE	FALSE	10
+	DRAVIDIAN	Dravidian	1012	26	FALSE	FALSE	20
+	DYIRBAL	Australian, Pama-Nyungan	8371	16	FALSE	FALSE	10
+	EARLY PROTO FINNIC	Ural-Altaic, Finno-Ugric	1065	29	FALSE	FALSE	20
+	EAST TARIKU	Papuan, Geelvink-Bay	1031	12	FALSE	FALSE	20
+	EDOID	Niger-Kordofanian, Kwa	1060	42	FALSE	FALSE	20
+	EFIK	Niger-Kordofanian, Cross-River	4119	20	FALSE	FALSE	10
+	EJAGHAM	Niger-Kordofanian, Bantoid	4125	27	FALSE	FALSE	10
+	EKARI	Papuan, Trans-New-Guinea	8650	15	FALSE	FALSE	10
+	EPENA PEDEE	South-American, Paezan	6811	31	FALSE	FALSE	10
+	ESKIMO	Eskimo-Aleut, Eskimo	1007	19	FALSE	FALSE	20
+	ESKIMO-ALEUT	Eskimo-Aleut	1112	22	FALSE	FALSE	20
+	EVEN	Ural-Altaic, Tungus	2167	27	FALSE	FALSE	10
+	EWE	Niger-Kordofanian, Kwa	4114	40	FALSE	FALSE	10
+	EWONDO	Niger-Kordofanian, Bantoid	4141	34	FALSE	FALSE	10
+	EYAK	Na-Dene, Eyak	6109	45	FALSE	FALSE	10
+	FARSI	Indo-European, Iranian	2013	30	FALSE	FALSE	10
+	FASU	Papuan, Trans-New-Guinea	8617	21	FALSE	FALSE	10
+	FE?FE?	Niger-Kordofanian, Bantoid	4148	25	FALSE	FALSE	10
+	FIJIAN	Austro-Tai, Austronesian, East-Malayo-Polynesian	2439	30	FALSE	FALSE	10
+	FINNISH	Ural-Altaic, Finno-Ugric, Finnic	2153	25	FALSE	FALSE	10
+	FINNO-PERMIC	Ural-Altaic, Finno-Ugric	1090	32	FALSE	FALSE	20
+	FINNO-UGRIC	Ural-Altaic, Finno-Ugric	1068	33	FALSE	FALSE	20
+	FRENCH	Indo-European, Romance	2010	37	FALSE	FALSE	10
+	FUR	Nilo-Saharan, Fur	4203	30	FALSE	FALSE	10
+	FUZHOU	Sino-Tibetan, Sinitic	2505	21	FALSE	FALSE	10
+	GA	Niger-Kordofanian, Kwa	4117	41	FALSE	FALSE	10
+	GADSUP	Papuan, Trans-New-Guinea	8608	15	FALSE	FALSE	10
+	GARAWA	Australian, Garawan	8345	22	FALSE	FALSE	10
+	GBAYA	Niger-Kordofanian, Ubangi	1093	42	FALSE	FALSE	20
+	GBEYA	Niger-Kordofanian, Ubangi-East	4129	43	FALSE	FALSE	10
+	GELAO	Austro-Tai, Lati-Gelao	2436	43	FALSE	FALSE	10
+	GEORGIAN	Caucasian	2600	34	FALSE	FALSE	10
+	GERMAN	Indo-European, Germanic, West	2004	41	FALSE	FALSE	10
+	GERMANIC	Indo-European, Germanic	1046	9	FALSE	FALSE	21
+	GOROKAN	Papuan, Trans-New-Guinea	1095	13	FALSE	FALSE	20
+	GREEK	Indo-European, Greek	2000	26	FALSE	FALSE	10
+	GUAHIBAN	South-American, Macro-Arawakan	1118	22	FALSE	FALSE	20
+	GUAHIBO	South-American, Macro-Arawakan	6830	29	FALSE	FALSE	10
+	GUAJIRO	South-American, Macro-Arawakan	6826	26	FALSE	FALSE	10
+	GUAMBIANO	South-American, Paezan	6862	24	FALSE	FALSE	10
+	GUANG	Niger-Kordofanian, Voltaic	1103	31	FALSE	FALSE	20
+	GUARANI	South-American, Equatorial	6828	36	FALSE	FALSE	10
+	GUGU-YALANDYI	Australian, Pama-Nyungan	8364	16	FALSE	FALSE	10
+	GWARI	Niger-Kordofanian, Kwa	4140	26	FALSE	FALSE	10
+	HADZA	Khoisan, Hadza	4900	62	FALSE	FALSE	10
+	HAIDA	Na-Dene, Haida	6100	49	FALSE	FALSE	10
+	HAKKA	Sino-Tibetan, Sinitic	2502	22	FALSE	FALSE	10
+	HAMER	Afro-Asiatic, Omotic	4365	35	FALSE	FALSE	10
+	HAUSA	Afro-Asiatic, Chadic	4366	38	FALSE	FALSE	10
+	HAWAIIAN	Austro-Tai, Austronesian, East-Malayo-Polynesian, Oceanic, Polynesian	2424	13	FALSE	FALSE	10
+	HIGHLAND CHINANTEC	North-American, Oto-Manguean	6786	41	FALSE	FALSE	10
+	HINDI-URDU	Indo-European, Indic	2016	61	FALSE	FALSE	10
+	HIXKARYANA	South-American, Macro-Carib	6842	23	FALSE	FALSE	10
+	HMONG	Sino-Tibetan, Hmong-Mien	2519	56	FALSE	FALSE	10
+	HOPI	North-American, Uto-Aztecan	6738	28	FALSE	FALSE	10
+	HUARI	South-American, Macro-Tucanoan	6841	32	FALSE	FALSE	10
+	HUASTECO	North-American, Penutian	6776	26	FALSE	FALSE	10
+	HUAVE	North-American, Penutian	6716	29	FALSE	FALSE	10
+	HUNGARIAN	Ural-Altaic, Finno-Ugric, Ugric	2154	40	FALSE	FALSE	10
+	HUON GULF	Austro-Tai, Austronesian, East-Malayo-Polynesian	1026	21	FALSE	FALSE	22
+	HUPA	Na-Dene, Athabaskan	6105	35	FALSE	FALSE	10
+	IAI	Austro-Tai, Austronesian, East-Malayo-Polynesian	2422	52	FALSE	FALSE	10
+	IATE	South-American, Macro-Ge	6870	30	FALSE	FALSE	10
+	IBAN	Austro-Tai, Austronesian, West-Malayo-Polynesian	2435	25	FALSE	FALSE	10
+	IGBO	Niger-Kordofanian, Kwa	4116	59	FALSE	FALSE	10
+	IJO	Niger-Kordofanian, Kwa	1015	30	FALSE	FALSE	20
+	IK	Nilo-Saharan, East-Sudanic	4208	44	FALSE	FALSE	10
+	INDO-EUROPEAN	Indo-European	1051	38	FALSE	FALSE	20
+	INUIT	Eskimo-Aleut, Eskimo	6901	22	FALSE	FALSE	10
+	IRANXE	South-American, Macro-Tucanoan	6845	39	FALSE	FALSE	10
+	IRAQW	Afro-Asiatic, Cushitic	4360	45	FALSE	FALSE	10
+	IRARUTU	Austro-Tai, Austronesian, East-Malayo-Polynesian	2440	19	FALSE	FALSE	10
+	IRISH	Indo-European, Celtic, Goidelic	2001	69	FALSE	FALSE	10
+	ISLAND CARIB	South-American, Macro-Arawakan	6823	27	FALSE	FALSE	10
+	ISOKO	Niger-Kordofanian, Kwa	4147	37	FALSE	FALSE	10
+	ITELMEN	Chukchi-Kamchatkan	2710	32	FALSE	FALSE	10
+	ITONAMA	South-American, Paezan	6800	25	FALSE	FALSE	10
+	IVATAN	Austro-Tai, Austronesian, West-Malayo-Polynesian	2428	23	FALSE	FALSE	10
+	IWAM	Papuan, Sepik-Ramu	8605	17	FALSE	FALSE	10
+	JACALTEC	North-American, Penutian	6780	32	FALSE	FALSE	10
+	JAPANESE	Ural-Altaic, Japanese	2171	20	FALSE	FALSE	10
+	JAPRERIA	South-American, Macro-Carib	6848	24	FALSE	FALSE	10
+	JAQARU	South-American, Andean	6820	39	FALSE	FALSE	10
+	JAVANESE	Austro-Tai, Austronesian, West-Malayo-Polynesian	2409	29	FALSE	FALSE	10
+	JEBERO	South-American, Andean	6844	23	FALSE	FALSE	10
+	JINGPHO	Sino-Tibetan, Kachin	2511	30	FALSE	FALSE	10
+	JIVARO	South-American, Equatorial	6835	23	FALSE	FALSE	10
+	JOMANG	Niger-Kordofanian, Kordofanian	4142	21	FALSE	FALSE	10
+	K EKCHI	North-American, Penutian	6714	26	FALSE	FALSE	10
+	KABARDIAN	Caucasian	2601	56	FALSE	FALSE	10
+	KADUGLI	Niger-Kordofanian, Kordofanian	4102	27	FALSE	FALSE	10
+	KAINGANG	South-American, Macro-Ge	6808	27	FALSE	FALSE	10
+	KALA LAGAW YA	Australian, Pama-Nyungan	8365	24	FALSE	FALSE	10
+	KALIAI	Austro-Tai, Austronesian, East-Malayo-Polynesian	2421	21	FALSE	FALSE	10
+	KALKATUNGU	Australian, Pama-Nyungan	8369	23	FALSE	FALSE	10
+	KAM	Austro-Tai, Li-Kam-Tai	2404	27	FALSE	FALSE	10
+	KANAKURU	Afro-Asiatic, Chadic	4370	35	FALSE	FALSE	10
+	KANURI	Nilo-Saharan, Saharan	4201	29	FALSE	FALSE	10
+	KAREN	Sino-Tibetan, Karenic	2516	36	FALSE	FALSE	10
+	KAROK	North-American, Hokan	6741	27	FALSE	FALSE	10
+	KARTVELIAN	Caucasian	1052	46	FALSE	FALSE	20
+	KASHMIRI	Indo-European, Indic	2018	55	FALSE	FALSE	10
+	KATUIC	Austro-Asiatic, Katuic	1058	36	FALSE	FALSE	22
+	KAWAIISU	North-American, Uto-Aztecan	6763	31	FALSE	FALSE	10
+	KEFA	Afro-Asiatic, Omotic	4364	27	FALSE	FALSE	10
+	KERA	Afro-Asiatic, Chadic	4371	30	FALSE	FALSE	10
+	KERESAN	North-American, Keresiouan	1109	49	FALSE	FALSE	20
+	KET	Isolates, Ket	2706	25	FALSE	FALSE	10
+	KEWA	Papuan, Trans-New-Guinea	8610	20	FALSE	FALSE	10
+	KHALKHA	Ural-Altaic, Mongolian	2166	33	FALSE	FALSE	10
+	KHANTY	Ural-Altaic, Finno-Ugric, Ugric	2150	32	FALSE	FALSE	10
+	KHARIA	Austro-Asiatic, Munda	2301	36	FALSE	FALSE	10
+	KHASI	Austro-Asiatic, Khasi	2302	29	FALSE	FALSE	10
+	KHMER	Austro-Asiatic, Khmer	2306	42	FALSE	FALSE	10
+	KHMU?	Austro-Asiatic, Palaungic	2312	41	FALSE	FALSE	10
+	KIMBE	Austro-Tai, Austronesian, East-Malayo-Polynesian	1039	19	FALSE	FALSE	20
+	KIOWA	North-American, Kiowa-Tanoan	6785	42	FALSE	FALSE	10
+	KIRGHIZ	Ural-Altaic, Turkic	2162	30	FALSE	FALSE	10
+	KLAMATH	North-American, Penutian	6707	37	FALSE	FALSE	10
+	KLAO	Niger-Kordofanian, Kru	4133	27	FALSE	FALSE	10
+	KOHUMONO	Niger-Kordofanian, Cross-River	4136	38	FALSE	FALSE	10
+	KOIARI	Papuan, Trans-New-Guinea	8622	16	FALSE	FALSE	10
+	KOLOKUMA IJO	Niger-Kordofanian, Kwa	4150	37	FALSE	FALSE	10
+	KOMA	Nilo-Saharan, Koman	4220	31	FALSE	FALSE	10
+	KOMI	Ural-Altaic, Finno-Ugric, Finnic	2152	33	FALSE	FALSE	10
+	KONKANI	Indo-European, Indic	2024	37	FALSE	FALSE	10
+	KONYAGI	Niger-Kordofanian, West-Atlantic	4145	46	FALSE	FALSE	10
+	KOREAN	Ural-Altaic, Korean	2170	32	FALSE	FALSE	10
+	KORYAK	Chukchi-Kamchatkan	2709	21	FALSE	FALSE	10
+	KOTA	Dravidian, Dravidian	2903	28	FALSE	FALSE	10
+	KOTOKO	Afro-Asiatic, Chadic	4373	36	FALSE	FALSE	10
+	KOYA	Dravidian, Dravidian	2905	24	FALSE	FALSE	10
+	KPAN	Niger-Kordofanian, Jukunoid	4135	34	FALSE	FALSE	10
+	KPELLE	Niger-Kordofanian, Mande	4103	34	FALSE	FALSE	10
+	KULLO	Afro-Asiatic, Omotic	4362	29	FALSE	FALSE	10
+	KUNAMA	Nilo-Saharan, Kunama	4219	26	FALSE	FALSE	10
+	KUNIMAIPA	Papuan, Trans-New-Guinea	8620	20	FALSE	FALSE	10
+	KURDISH	Indo-European, Iranian	2015	47	FALSE	FALSE	10
+	KURUKH	Dravidian, Dravidian	2904	32	FALSE	FALSE	10
+	KWAIO	Austro-Tai, Austronesian, East-Malayo-Polynesian	2433	21	FALSE	FALSE	10
+	KWAKW ALA	North-American, Almosan	6731	48	FALSE	FALSE	10
+	KWOMA	Papuan, Sepik-Ramu	8602	31	FALSE	FALSE	10
+	LAHU	Sino-Tibetan, Lolo-Burmese	2510	35	FALSE	FALSE	10
+	LAI	Austro-Tai, Li-Kam-Tai	2432	52	FALSE	FALSE	10
+	LAK	Caucasian	2602	69	FALSE	FALSE	10
+	LAKES PLAIN	Papuan, Geelvink-Bay	1028	12	FALSE	FALSE	20
+	LAKKIA	Austro-Tai, Li-Kam-Tai	2401	55	FALSE	FALSE	10
+	LAME	Afro-Asiatic, Chadic	4376	38	FALSE	FALSE	10
+	LAPP	Ural-Altaic, Finno-Ugric	1066	9	FALSE	FALSE	21
+	LELEMI	Niger-Kordofanian, Togo-Remnant	4118	34	FALSE	FALSE	10
+	LENAKEL	Austro-Tai, Austronesian, East-Malayo-Polynesian	2426	21	FALSE	FALSE	10
+	LITHUANIAN	Indo-European, Baltic	2007	52	FALSE	FALSE	10
+	LOLO-BURMESE	Sino-Tibetan, Lolo-Burmese	1082	37	FALSE	FALSE	20
+	LOWER CROSS	Niger-Kordofanian, Cross-River	1014	14	FALSE	FALSE	22
+	LOWER SEPIK	Papuan, Sepik-Ramu	1063	27	FALSE	FALSE	20
+	LUA	Niger-Kordofanian, Adamawa	4151	36	FALSE	FALSE	10
+	LUE	Austro-Tai, Li-Kam-Tai	2427	31	FALSE	FALSE	10
+	LUGBARA	Nilo-Saharan, Central-Sudanic	4215	36	FALSE	FALSE	10
+	LUISENO	North-American, Uto-Aztecan	6737	26	FALSE	FALSE	10
+	LUNGCHOW	Austro-Tai, Li-Kam-Tai	2406	32	FALSE	FALSE	10
+	LUO	Nilo-Saharan, East-Sudanic	4205	32	FALSE	FALSE	10
+	LUSHOOTSEED	North-American, Almosan	6734	37	FALSE	FALSE	10
+	MAASAI	Nilo-Saharan, East-Sudanic	4204	28	FALSE	FALSE	10
+	MABA	Nilo-Saharan, Maban	4202	29	FALSE	FALSE	10
+	MAIDU	North-American, Penutian	6708	23	FALSE	FALSE	10
+	MAIDUN	North-American, Penutian	1108	29	FALSE	FALSE	20
+	MALAGASY	Austro-Tai, Austronesian, West-Malayo-Polynesian	2410	25	FALSE	FALSE	10
+	MALAKMALAK	Australian, Daly	8356	19	FALSE	FALSE	10
+	MALAYO POLYNESIAN	Austro-Tai, Austronesian	1004	30	FALSE	FALSE	20
+	MAMBILA	Niger-Kordofanian, Bantoid	4153	25	FALSE	FALSE	10
+	MANCHU	Ural-Altaic, Tungus	2169	25	FALSE	FALSE	10
+	MANDARIN	Sino-Tibetan, Sinitic	2500	32	FALSE	FALSE	10
+	MANDE	Niger-Kordofanian, Mande	1037	16	FALSE	FALSE	22
+	MANDEKAN	Niger-Kordofanian, Mande	1025	23	FALSE	FALSE	20
+	MARANAO	Austro-Tai, Austronesian, West-Malayo-Polynesian	2445	17	FALSE	FALSE	10
+	MARGI	Afro-Asiatic, Chadic	4368	34	FALSE	FALSE	10
+	MARI	Ural-Altaic, Finno-Ugric, Finnic	2151	33	FALSE	FALSE	10
+	MARKHAM	Austro-Tai, Austronesian, East-Malayo-Polynesian	1027	23	FALSE	FALSE	20
+	MAUNG	Australian, Yiwaidjan	8350	22	FALSE	FALSE	10
+	MAXAKALI	South-American, Macro-Ge	6858	20	FALSE	FALSE	10
+	MAYAN	North-American, Penutian	1057	32	FALSE	FALSE	20
+	MAZAHUA	North-American, Oto-Manguean	6717	60	FALSE	FALSE	10
+	MAZATEC	North-American, Oto-Manguean	6727	33	FALSE	FALSE	10
+	MBABARAM	Australian, Pama-Nyungan	8373	24	FALSE	FALSE	10
+	MBA-NE	Niger-Kordofanian, Ubangi-East	4160	31	FALSE	FALSE	10
+	MBUM	Niger-Kordofanian, Adamawa	4146	38	FALSE	FALSE	10
+	MICRONESIAN	Austro-Tai, Austronesian, East-Malayo-Polynesian	1107	21	FALSE	FALSE	20
+	MIDDLE ENGLISH	Indo-European, Germanic, West	1049	6	FALSE	FALSE	21
+	MIEN	Sino-Tibetan, Hmong-Mien	2517	41	FALSE	FALSE	10
+	MIXE	North-American, Penutian	6715	23	FALSE	FALSE	10
+	MIXTEC	North-American, Oto-Manguean	6728	25	FALSE	FALSE	10
+	MIXTECAN	North-American, Oto-Manguean	1070	20	FALSE	FALSE	20
+	MOGHOL	Ural-Altaic, Mongolian	2174	29	FALSE	FALSE	10
+	MON	Austro-Asiatic, Mon	1020	35	FALSE	FALSE	20
+	MONGUOR	Ural-Altaic, Mongolian	2173	28	FALSE	FALSE	10
+	MOR	Austro-Tai, Austronesian, East-Malayo-Polynesian	2429	19	FALSE	FALSE	10
+	MORO	Niger-Kordofanian, Kordofanian	4101	29	FALSE	FALSE	10
+	MOVIMA	South-American, Macro-Tucanoan	6860	23	FALSE	FALSE	10
+	MOXO	South-American, Macro-Arawakan	6827	25	FALSE	FALSE	10
+	MUINANE	South-American, Macro-Carib	6806	28	FALSE	FALSE	10
+	MUMUYE	Niger-Kordofanian, Adamawa	4132	34	FALSE	FALSE	10
+	MUNDARI	Austro-Asiatic, Munda	2300	37	FALSE	FALSE	10
+	MURINHPATHA	Australian, Ungrouped	8349	25	FALSE	FALSE	10
+	MURSI	Nilo-Saharan, East-Sudanic	4214	26	FALSE	FALSE	10
+	NAHUATL	North-American, Uto-Aztecan	6762	20	FALSE	FALSE	10
+	NAMA	Khoisan, Central-Khoisan	4906	41	FALSE	FALSE	10
+	NAMBAKAENGO	Papuan, East-Papuan	8626	47	FALSE	FALSE	10
+	NANAI	Ural-Altaic, Tungus	2168	24	FALSE	FALSE	10
+	NASIOI	Papuan, East-Papuan	8624	13	FALSE	FALSE	10
+	NAVAJO	Na-Dene, Athabaskan	6104	47	FALSE	FALSE	10
+	NAXI	Sino-Tibetan, Lolo-Burmese	2525	49	FALSE	FALSE	10
+	NDUT	Niger-Kordofanian, West-Atlantic	4149	34	FALSE	FALSE	10
+	NENETS	Ural-Altaic, Samoyed	2156	35	FALSE	FALSE	10
+	NEO-ARAMAIC	Afro-Asiatic, Semitic	4355	40	FALSE	FALSE	10
+	NEPALI	Indo-European, Indic	2023	39	FALSE	FALSE	10
+	NERA	Nilo-Saharan, East-Sudanic	4212	22	FALSE	FALSE	10
+	NEW CALEDONIAN	Austro-Tai, Austronesian, East-Malayo-Polynesian	1021	29	FALSE	FALSE	22
+	NEWARI	Sino-Tibetan, Himalayic	2518	32	FALSE	FALSE	10
+	NEZ PERCE	North-American, Penutian	6706	30	FALSE	FALSE	10
+	NGANASAN	Ural-Altaic, Samoyed	2157	29	FALSE	FALSE	10
+	NGARINJIN	Australian, Wororan	8374	24	FALSE	FALSE	10
+	NGIYAMBAA	Australian, Pama-Nyungan	8372	18	FALSE	FALSE	10
+	NGIZIM	Afro-Asiatic, Chadic	4369	40	FALSE	FALSE	10
+	NICOBARESE	Austro-Asiatic, Nicobarese	2313	25	FALSE	FALSE	10
+	NIMBORAN	Papuan, Trans-New-Guinea	8604	18	FALSE	FALSE	10
+	NIVKH	Isolates	2700	35	FALSE	FALSE	10
+	NONI	Niger-Kordofanian, Bantoid	4139	33	FALSE	FALSE	10
+	NORWEGIAN	Indo-European, Germanic, North	2006	46	FALSE	FALSE	10
+	NOSTRATIC	Macro-Family, Nostratic	1055	48	FALSE	FALSE	20
+	NUBIAN	Nilo-Saharan, East-Sudanic	4206	21	FALSE	FALSE	10
+	NUNGGUBUYU	Australian, Ungrouped	8353	23	FALSE	FALSE	10
+	NYAH KUR	Austro-Asiatic, Mon	2315	50	FALSE	FALSE	10
+	NYANGI	Nilo-Saharan, East-Sudanic	4207	25	FALSE	FALSE	10
+	NYIMANG	Nilo-Saharan, East-Sudanic	4227	25	FALSE	FALSE	10
+	OB UGRIC	Ural-Altaic, Finno-Ugric	1089	40	FALSE	FALSE	20
+	OCAINA	South-American, Macro-Carib	6805	34	FALSE	FALSE	10
+	OGBIA	Niger-Kordofanian, Cross-River	4124	34	FALSE	FALSE	10
+	OJIBWA	North-American, Almosan	6750	27	FALSE	FALSE	10
+	OLD CHINESE	Sino-Tibetan, Sinitic	1006	35	FALSE	FALSE	20
+	OLD TELUGU	Dravidian, Dravidian	1011	33	FALSE	FALSE	20
+	ONGAMO MAA	Nilo-Saharan, East-Sudanic, Nilotic	1043	29	FALSE	FALSE	20
+	ORMURI	Indo-European, Iranian	2025	31	FALSE	FALSE	10
+	OTO-MANGUEAN	North-American, Oto-Manguean	1096	11	FALSE	FALSE	20
+	OTOMI	North-American, Oto-Manguean	1073	30	FALSE	FALSE	20
+	PACOH	Austro-Asiatic, Katuic	2314	33	FALSE	FALSE	10
+	PAEZ	South-American, Paezan	6804	37	FALSE	FALSE	10
+	PAIWAN	Austro-Tai, Paiwanic	2434	26	FALSE	FALSE	10
+	PAMAN	Australian, Pama-Nyungan	1100	19	FALSE	FALSE	20
+	PANARE	South-American, Macro-Carib	6849	25	FALSE	FALSE	10
+	PAPAGO	North-American, Uto-Aztecan	6736	24	FALSE	FALSE	10
+	PARAUK	Austro-Asiatic, Palaungic	2309	77	FALSE	FALSE	10
+	PASHTO	Indo-European, Iranian	2014	38	FALSE	FALSE	10
+	PAYA	South-American, Chibchan	6854	28	FALSE	FALSE	10
+	PHILIPPINE	Austro-Tai, Austronesian, West-Malayo-Polynesian	1022	24	FALSE	FALSE	20
+	PHLONG	Sino-Tibetan, Karenic	2520	37	FALSE	FALSE	10
+	PICURIS	North-American, Kiowa-Tanoan	6740	38	FALSE	FALSE	10
+	PIRAHA	South-American, Paezan	6802	11	FALSE	FALSE	10
+	PLANG	Austro-Asiatic, Khmer	1017	40	FALSE	FALSE	20
+	PO-AI	Austro-Tai, Li-Kam-Tai	2405	35	FALSE	FALSE	10
+	POHNPEIAN	Austro-Tai, Austronesian, East-Malayo-Polynesian	2430	20	FALSE	FALSE	10
+	POLYNESIAN	Austro-Tai, Austronesian, East-Malayo-Polynesian	1002	18	FALSE	FALSE	20
+	POMO	North-American, Hokan	6742	32	FALSE	FALSE	10
+	POPOLOCAN	North-American, Oto-Manguean	1071	22	FALSE	FALSE	20
+	PRE BASQUE	Isolates	1000	27	FALSE	FALSE	20
+	PRE NIZAA	Niger-Kordofanian, Bantoid	1102	33	FALSE	FALSE	20
+	PROTO-AINU	Ural-Altaic, Ainu	1035	31	FALSE	FALSE	20
+	PROTO-JAPANESE	Ural-Altaic, Japanese	1101	4	FALSE	FALSE	21
+	PROTO-KAREN	Sino-Tibetan, Karenic	1013	29	FALSE	FALSE	20
+	PROTO-LAKKIA	Austro-Tai, Li-Kam-Tai	1003	66	FALSE	FALSE	20
+	PROTO-MABA	Nilo-Saharan, Maban	1023	21	FALSE	FALSE	22
+	PROTO-NUBIAN	Nilo-Saharan, East-Sudanic	1044	26	FALSE	FALSE	20
+	PROTO-POMO	North-American, Hokan	1115	40	FALSE	FALSE	20
+	PROTO-VIETNAMESE	Austro-Asiatic, Vietmuong	1105	28	FALSE	FALSE	22
+	QAWASQAR	South-American, Andean	6859	19	FALSE	FALSE	10
+	QUECHUA	South-American, Andean	6819	36	FALSE	FALSE	10
+	QUICHEAN	North-American, Penutian	1010	34	FALSE	FALSE	20
+	QUILEUTE	North-American, Almosan	6732	37	FALSE	FALSE	10
+	RESIGARO	South-American, Macro-Arawakan	6838	35	FALSE	FALSE	10
+	ROMANIAN	Indo-European, Romance	2012	32	FALSE	FALSE	10
+	RORO	Austro-Tai, Austronesian, East-Malayo-Polynesian	2420	14	FALSE	FALSE	10
+	ROTOKAS	Papuan, East-Papuan	8625	11	FALSE	FALSE	10
+	RUKAI	Austro-Tai, Tsouic	2417	27	FALSE	FALSE	10
+	RUSSIAN	Indo-European, Slavic	2008	38	FALSE	FALSE	10
+	RUTUL	Caucasian, Northwest	2603	64	FALSE	FALSE	10
+	SA BAN	Austro-Tai, Austronesian, West-Malayo-Polynesian	2415	26	FALSE	FALSE	10
+	SAAMI	Ural-Altaic, Finno-Ugric, Finnic	2155	45	FALSE	FALSE	10
+	SABAKI	Niger-Kordofanian, Bantoid	1019	35	FALSE	FALSE	20
+	SALIBA	South-American, Equatorial	6861	32	FALSE	FALSE	10
+	SALISH	North-American, Almosan	1098	48	FALSE	FALSE	20
+	SAMA	Austro-Tai, Austronesian, West-Malayo-Polynesian	2412	32	FALSE	FALSE	10
+	SAMOYED	Ural-Altaic, Samoyed	1085	25	FALSE	FALSE	20
+	SANDAWE	Khoisan, Sandawe	4902	54	FALSE	FALSE	10
+	SANGIRIC	Austro-Tai, Austronesian, West-Malayo-Polynesian	1001	21	FALSE	FALSE	20
+	SANGO	Niger-Kordofanian, Adamawa	4143	37	FALSE	FALSE	10
+	SARA BONGO BAGUIRMIAN	Nilo-Saharan, Central-Sudanic	1092	33	FALSE	FALSE	22
+	SAVOSAVO	Papuan, East-Papuan	8645	22	FALSE	FALSE	10
+	SEBEI	Nilo-Saharan, East-Sudanic	4209	26	FALSE	FALSE	10
+	SEDANG	Austro-Asiatic, Bahnaric	2304	55	FALSE	FALSE	10
+	SELEPET	Papuan, Trans-New-Guinea	8607	21	FALSE	FALSE	10
+	SELKUP	Ural-Altaic, Samoyed	2164	34	FALSE	FALSE	10
+	SEMITIC	Afro-Asiatic, Semitic	1080	35	FALSE	FALSE	20
+	SENADI	Niger-Kordofanian, Voltaic	4111	36	FALSE	FALSE	10
+	SENECA	North-American, Keresiouan	6754	19	FALSE	FALSE	10
+	SENTANI	Papuan, Trans-New-Guinea	8603	17	FALSE	FALSE	10
+	SHASTA	North-American, Hokan	6746	21	FALSE	FALSE	10
+	SHILHA	Afro-Asiatic, Berber	4356	31	FALSE	FALSE	10
+	SHIRIANA	South-American, Chibchan	6855	25	FALSE	FALSE	10
+	SHUSWAP	North-American, Almosan	6778	44	FALSE	FALSE	10
+	SIERRA MIWOK	North-American, Penutian	6779	21	FALSE	FALSE	10
+	SINHALESE	Indo-European, Indic	2020	36	FALSE	FALSE	10
+	SIONA	South-American, Macro-Tucanoan	6833	30	FALSE	FALSE	10
+	SIRIONO	South-American, Equatorial	6829	28	FALSE	FALSE	10
+	SOCOTRI	Afro-Asiatic, Semitic	4354	34	FALSE	FALSE	10
+	SOMALI	Afro-Asiatic, Cushitic	4358	32	FALSE	FALSE	10
+	SONGHAI	Nilo-Saharan, Songhai	4200	24	FALSE	FALSE	10
+	SOUTHERN KIWAI	Papuan, Trans-New-Guinea	8636	19	FALSE	FALSE	10
+	SOUTHERN NAMBIQUARA	South-American, Macro-Tucanoan	6816	43	FALSE	FALSE	10
+	SPANISH	Indo-European, Romance	2011	25	FALSE	FALSE	10
+	SRE	Austro-Asiatic, Bahnaric	2310	37	FALSE	FALSE	10
+	SUENA	Papuan, Trans-New-Guinea	8618	18	FALSE	FALSE	10
+	SUI	Austro-Tai, Li-Kam-Tai	2403	54	FALSE	FALSE	10
+	SUMERIAN	Isolates	1054	26	FALSE	FALSE	20
+	TABI	Nilo-Saharan, East-Sudanic	4213	33	FALSE	FALSE	10
+	TACANA	South-American, Macro-Panoan	6812	22	FALSE	FALSE	10
+	TAGALOG	Austro-Tai, Austronesian, West-Malayo-Polynesian	2414	23	FALSE	FALSE	10
+	TAI	Austro-Tai, Li-Kam-Tai	1067	49	FALSE	FALSE	20
+	TAISHAN	Sino-Tibetan, Sinitic	2501	25	FALSE	FALSE	10
+	TAKANAN	South-American, Macro-Panoan	1064	21	FALSE	FALSE	20
+	TAMA	Nilo-Saharan, East-Sudanic	4210	30	FALSE	FALSE	10
+	TAMANG	Sino-Tibetan, Himalayic	2507	29	FALSE	FALSE	10
+	TAMASHEQ	Afro-Asiatic, Berber	4357	37	FALSE	FALSE	10
+	TAMPULMA	Niger-Kordofanian, Voltaic	4112	33	FALSE	FALSE	10
+	TANO CONGO	Niger-Kordofanian, Kwa	1009	14	FALSE	FALSE	21
+	TAORIPI	Papuan, Trans-New-Guinea	8623	14	FALSE	FALSE	10
+	TARASCAN	South-American, Chibchan	6847	39	FALSE	FALSE	10
+	TAROK	Niger-Kordofanian, Plateau	4121	32	FALSE	FALSE	10
+	TEHUELCHE	South-American, Andean	6821	35	FALSE	FALSE	10
+	TEKE	Niger-Kordofanian, Bantoid	4127	28	FALSE	FALSE	10
+	TELUGU	Dravidian, Dravidian	2902	43	FALSE	FALSE	10
+	TEMEIN	Nilo-Saharan, East-Sudanic	4211	25	FALSE	FALSE	10
+	TEMNE	Niger-Kordofanian, West-Atlantic	4109	25	FALSE	FALSE	10
+	TERA	Afro-Asiatic, Chadic	4375	48	FALSE	FALSE	10
+	TETUN	Austro-Tai, Austronesian, Central-Malayo-Polynesian	2437	19	FALSE	FALSE	10
+	THAI	Austro-Tai, Li-Kam-Tai	2400	30	FALSE	FALSE	10
+	TICUNA	South-American, Macro-Tucanoan	6831	29	FALSE	FALSE	10
+	TIDDIM CHIN	Sino-Tibetan, Kuki-Naga	2513	26	FALSE	FALSE	10
+	TIGAK	Austro-Tai, Austronesian, East-Malayo-Polynesian	2425	17	FALSE	FALSE	10
+	TIGRE	Afro-Asiatic, Semitic	4351	33	FALSE	FALSE	10
+	TIRURAY	Austro-Tai, Austronesian, West-Malayo-Polynesian	2431	22	FALSE	FALSE	10
+	TIWI	Australian, Ungrouped	8351	26	FALSE	FALSE	10
+	TLAPANEC	North-American, Oto-Manguean	6772	30	FALSE	FALSE	10
+	TLINGIT	Na-Dene, Tlingit	6102	48	FALSE	FALSE	10
+	TOL	North-American, Hokan	6747	28	FALSE	FALSE	10
+	TONKAWA	North-American, Hokan	6752	25	FALSE	FALSE	10
+	TOTONAC	North-American, Penutian	6713	22	FALSE	FALSE	10
+	TOTONOCAN	North-American, Penutian	1079	23	FALSE	FALSE	20
+	TRUMAI	South-American, Equatorial	6865	24	FALSE	FALSE	10
+	TSESHAHT	North-American, Almosan	6730	42	FALSE	FALSE	10
+	TSIMSHIAN	North-American, Penutian	6774	41	FALSE	FALSE	10
+	TSOU	Austro-Tai, Tsouic	2418	21	FALSE	FALSE	10
+	TUCANOAN	South-American, Macro-Tucanoan	1117	33	FALSE	FALSE	20
+	TULU	Dravidian, South-Dravidian	2906	37	FALSE	FALSE	10
+	TUNICA	North-American, Penutian	6758	24	FALSE	FALSE	10
+	TUPI-GUARANI	South-American, Equatorial	1119	25	FALSE	FALSE	20
+	TURKISH	Ural-Altaic, Turkic	2158	33	FALSE	FALSE	10
+	TUVA	Ural-Altaic, Turkic	2165	29	FALSE	FALSE	10
+	TZELTAL	North-American, Penutian	6712	28	FALSE	FALSE	10
+	UPPER CHEHALIS	North-American, Almosan	6773	34	FALSE	FALSE	10
+	URALIC	Ural-Altaic, Uralic	1084	25	FALSE	FALSE	20
+	URALO-SIBERIAN	Macro-Family, Uralo-Siberian	1114	29	FALSE	FALSE	20
+	USAN	Papuan, Trans-New-Guinea	8630	20	FALSE	FALSE	10
+	UTO-AZTECAN	North-American, Uto-Aztecan	1069	17	FALSE	FALSE	20
+	UZBEK	Ural-Altaic, Turkic	2175	30	FALSE	FALSE	10
+	VANIMO	Papuan, Sko	8640	28	FALSE	FALSE	10
+	VIETNAMESE	Austro-Asiatic, Vietmuong	2303	36	FALSE	FALSE	10
+	WAHGI	Papuan, Trans-New-Guinea	8628	23	FALSE	FALSE	10
+	WANTOAT	Papuan, Trans-New-Guinea	8615	21	FALSE	FALSE	10
+	WAPISHANA	South-American, Macro-Arawakan	6822	25	FALSE	FALSE	10
+	WAPPO	North-American, Penutian	6760	35	FALSE	FALSE	10
+	WARAO	South-American, Paezan	6852	21	FALSE	FALSE	10
+	WARAY	Australian, Ungrouped	8348	21	FALSE	FALSE	10
+	WARIS	Papuan, Trans-New-Guinea	8637	22	FALSE	FALSE	10
+	WEST MAKIAN	Papuan, West-Papuan	8647	23	FALSE	FALSE	10
+	WEST TARIKU	Papuan, Geelvink-Bay	1032	12	FALSE	FALSE	20
+	WESTERN DESERT	Australian, Pama-Nyungan	8360	20	FALSE	FALSE	10
+	WICHITA	North-American, Keresiouan	6755	29	FALSE	FALSE	10
+	WIK-MUNKAN	Australian, Pama-Nyungan	8358	18	FALSE	FALSE	10
+	WINTU	Isolates	6709	35	FALSE	FALSE	10
+	WIYOT	North-American, Almosan	6753	29	FALSE	FALSE	10
+	WOISIKA	Papuan, Trans-New-Guinea	8633	28	FALSE	FALSE	10
+	WOLOF	Niger-Kordofanian, West-Atlantic	4107	40	FALSE	FALSE	10
+	XIAMEN	Sino-Tibetan, Sinitic	2504	25	FALSE	FALSE	10
+	YAGARIA	Papuan, Trans-New-Guinea	8609	23	FALSE	FALSE	10
+	YAGUA	South-American, Macro-Carib	6839	23	FALSE	FALSE	10
+	YAKUT	Ural-Altaic, Turkic	2161	34	FALSE	FALSE	10
+	YANA	North-American, Hokan	6745	30	FALSE	FALSE	10
+	YANYUWA	Australian, Ungrouped	8347	32	FALSE	FALSE	10
+	YAQUI	Isolates	6739	22	FALSE	FALSE	10
+	YAREBA	Papuan, Trans-New-Guinea	8621	18	FALSE	FALSE	10
+	YAWA	Papuan, Geelvink-Bay	8629	19	FALSE	FALSE	10
+	YAY	Austro-Tai, Li-Kam-Tai	2402	34	FALSE	FALSE	10
+	YESSAN-MAYO	Papuan, Sepik-Ramu	8632	20	FALSE	FALSE	10
+	YIDINY	Australian, Pama-Nyungan	8370	16	FALSE	FALSE	10
+	YOKUTS	North-American, Penutian	1008	39	FALSE	FALSE	20
+	YOLNGU	Australian, Pama-Nyungan	8375	23	FALSE	FALSE	10
+	YORUBA	Niger-Kordofanian, Kwa	4137	29	FALSE	FALSE	10
+	YUCATEC	North-American, Penutian	6777	30	FALSE	FALSE	10
+	YUCHI	North-American, Keresiouan	6757	46	FALSE	FALSE	10
+	YUCUNA	South-American, Macro-Arawakan	6843	21	FALSE	FALSE	10
+	YUKAGHIR	Ural-Altaic, Yukaghir	2172	26	FALSE	FALSE	10
+	YULU	Nilo-Saharan, Central-Sudanic	4216	42	FALSE	FALSE	10
+	YUPIK	Eskimo-Aleut, Eskimo	6902	36	FALSE	FALSE	10
+	ZAPOTECAN	North-American, Oto-Manguean	1076	20	FALSE	FALSE	20
+	ZOQUE	North-American, Penutian	6711	22	FALSE	FALSE	10
+	ZOQUEAN	North-American, Penutian	1078	20	FALSE	FALSE	20
+	ZULU	Niger-Kordofanian, Bantoid	4126	37	FALSE	FALSE	10
+	ZUNI	North-American, Penutian	6748	25	FALSE	FALSE	10

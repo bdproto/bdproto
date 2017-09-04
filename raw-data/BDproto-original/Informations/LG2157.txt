@@ -1,0 +1,17 @@
+Language name: Nganasan
+
+Language number: 2157
+
+Alternate names: Tavgy
+
+Classification: Ural-Altaic, Samoyed
+
+Comments:
+Nganasan is spoken in Taymyr eninsula, Siberia, USSR.  Northenmost people ini th eUSSR near Yakut, Dolgan and Evenki people. Tereshchenko (1979) notes a large number of diphthongs.  At least some of these result from joining stem vowel and suffix vowel together.  For this reason they have been treated here as sequences.
+
+Sources: 
+Castren, M.A. 1966. Grammatik der Samojedischen Sprachen (Indiana University Publications, Uralic and Altaic Series 53 [Reprint of 1854 edition, St. Petersburg]). Indiana University, Bloomington.
+
+Tereshchenko, N.M. 1966. Nganasanskij jazyk. In V.V. Vinogradov (ed.), Jazyki Narodov SSSR, Vol. 3. Nauka, Moscow and Leningrad: 438-57.
+
+Tereshchenko, N.M. 1979. Nganasanskij Jazyk. Nauka, Leningrad.

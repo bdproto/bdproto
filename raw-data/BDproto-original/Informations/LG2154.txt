@@ -1,0 +1,18 @@
+Language name: Hungarian
+
+Language number: 2154
+
+Alternate names: 
+
+Classification: Ural-Altaic, Finno-Ugric, Ugric
+
+Comments: 
+
+Sources: 
+Banhidi, Z., Jokay, A. and Szabo, D. 1965. Lehrbuch der Ungarischen Sprache. Publishing House for Textbooks, Budapest.
+
+Hall, R.A. 1938. An Analytical Grammar of the Hungarian Language (Language Monograph 18). Linguistic Society of America, Philadelphia.
+
+Hall, R.A. 1944. Hungarian Grammar (Language Monograph 21). Linguistic Society of America, Baltimore.
+
+Kalman, B. 1972. Hungarian historical phonology. In L. Benko and S. Imre (eds.), The Hungarian Language. Mouton, The Hague.

@@ -1,0 +1,17 @@
+Language name: SALISH
+
+Language number: 1098
+
+Classification: North-American, Almosa
+
+Depth: 
+
+Author: Boas and Hoeberlin
+
+Date: 1927
+
+Comments: 
+
+
+Sources: 
+L. Campbell and M. Mithun, 19, ‘The languages of native American....

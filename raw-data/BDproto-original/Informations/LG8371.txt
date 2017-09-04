@@ -1,0 +1,13 @@
+Language name: DYIRBAL
+
+Language number: 8371
+
+Alternate names: 
+
+Classification: Australian, Pama-Nyungan
+
+Comments:
+Dixon does not specify that stops are actually phonetically voiced in all positions.
+
+Sources: 
+Dixon, R.M.W. 1972. The Dyirbal Language of North Queensland. Cambridge University Press, Cambridge.

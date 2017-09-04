@@ -1,0 +1,12 @@
+Language name: FUZHOU
+
+Language number: 2505
+
+Alternate names: 
+
+Classification: Sino-Tibetan, Sinitic
+
+Comments: 
+
+Sources: 
+(Hanyu Fangyan Gaiyao) 1960. [Outline of Chinese Dialects]. Wenzi Gaige Chubanshe, Beijing.

@@ -1,0 +1,13 @@
+Language name: Burarra
+
+Language number: 8352
+
+Alternate names: Burera
+
+Classification: Australian, Burarran
+
+Comments:
+Glasgow and Glasgow do not list a retroflex series but note that alveolars "have retroflexed variants ... word initially and in consonant clusters following /r/" (the approximant).  The final and medial consonant clusters make more sense if a retroflex consonant series is assumed (including approximant /r/) which does not occur word-initially.
+
+Sources: 
+Glasgow, D. and Glasgow, K. 1967. The phonemes of Burera. Papers in Australian Linguistics 1 (Pacific Linguistics, Series A, 10): 1-14. 

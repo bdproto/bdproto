@@ -1,0 +1,15 @@
+Language name: Tagalog
+
+Language number: 2414
+
+Alternate names: 
+
+Classification: Austro-Tai, W. Malayo-Polynesian
+
+Comments:
+Tagalog is spoken in Manila, most of Luzon and Mindoro in the Philipines. /o/ and /e/ were in predictable alternation with /i/ and /u/ in native vocabulary but loanwords from Spanish and English have added contrastive function to the mid vowels.
+
+Sources: 
+Bloomfield, L. 1917. Tagalog Texts with Grammatical Analysis (University of Illinois Studies in Language and Literature 3/2-3). University of Illinois, Urbana.
+
+Schachter, P. and Otanes, F.T. 1972. Tagalog Reference Grammar. University of California Press, Berkeley and Los Angeles.

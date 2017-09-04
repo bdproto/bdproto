@@ -1,0 +1,17 @@
+Language name: URALIC
+
+Language number: 1084
+
+Classification: Ural-Altaic, Uralic
+
+Depth: mesolithic age
+
+Author: Janhunen
+
+Date: 1981b
+
+Comments: 
+
+
+Sources: 
+P. Sammallahti, 1988, ‘Historical phonology of the uralic languages’, The uralic languages, description, history and foreign influences, edited by Denis Sinor, E. J. Brill, Leiden, New York, Kobenhaun, Köln

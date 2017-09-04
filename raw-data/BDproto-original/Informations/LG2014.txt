@@ -1,0 +1,19 @@
+Language name: PASHTO
+
+Language number: 2014
+
+Alternate names:  Pushto
+
+Classification: Indo-European, Iranian
+
+Comments:
+Pashto is spoken primarily in Afganistan. Kandahar dialect (Penzl 1955).
+
+Sources:
+Penzl 1955
+
+Grjunberg, A.L. 1987. Ocherk Grammatiki Afganskogo Jazyka (Pashto). Nauka, Leningrad.
+
+Penzl, H. 1955. A Grammar of Pashto, a Descriptive Study of the Dialect of Kandahar Afghanistan. American Council of Learned Societies, Washington, D.C. 
+
+Shafeev, D.A. 1964. A Short Grammatical Outline of Pashto (translated and edited by H.H. Paper). Indiana University, Bloomington. 

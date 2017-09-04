@@ -1,0 +1,12 @@
+Language name: BENGALI
+
+Language number: 2017
+
+Alternate names: 
+
+Classification: Indo-European, Indic
+
+Comments: 
+
+Sources: 
+Ferguson, C.A. and Chowdhury, M. 1960. The phonemes of Bengali. Language 36: 22-59.

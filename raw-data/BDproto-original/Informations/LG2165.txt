@@ -1,0 +1,17 @@
+Language name: TUVA
+
+Language number: 2165
+
+Alternate names: 
+
+Classification: Ural-Altaic, Turkic
+
+Comments:
+Tuva is spoken primarily in Tuva ASSR in USSR. Accounts of the Tuva vowel system differ widely. The system given here is that of Song (1982) since this makes the basis of vowel harmony clear: front and back vowels belong to different sets.  All vowels occur long and maybe nasalized.  Song mentions that older speakers distinguish a series of vowels with tense phonation. Place of articulation is based on Seglenmej (1979).
+
+Sources: 
+Sat, S.C. 1966. Tuvinskij jazyk. In V.V. Vinogradov (ed.), Jazyki Narodov SSSR, Vol 2. Nauka, Moscow and Leningrad: 387-402. 
+
+Seglenmej, S.F. 1979. Tuvinskie perednejazychnye v tverdorjadnykh slovoformakh.  In V.M. Nadeljaev (ed.), Fonetika Sibirskikh Jazykov.  Akademija Nauk SSSR, Sibirskoe Otdelenie, Institut Istorii, Filologii i Filosofii, Novosibirsk, pp. 35-44.
+
+Song, Z. 1982. Woguo tuwayu yinxi chutan (A Preliminary Study of the Phonological System of the Tuva Language in China).  Minzu Yuwen, 1982.6 (December), 58-65.

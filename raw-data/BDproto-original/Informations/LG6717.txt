@@ -1,0 +1,14 @@
+Language name: MAZAHUA
+
+Language number: 6717
+
+Alternate names: 
+
+Classification: N. American, Oto-Manguean
+
+Comments: 
+
+Sources: 
+Pike, E.V. Tonemic-intonemic correlation in Mazahua (Otomi). International Journal of American Linguistics 17: 37-41.
+
+Spotts, H. 1953. Vowel harmony and consonant sequences in Mazahua (Otomi). International Journal of American Linguistics 19: 253-8.

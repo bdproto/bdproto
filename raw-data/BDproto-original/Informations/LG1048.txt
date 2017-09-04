@@ -1,0 +1,17 @@
+Language name: WEST SAXON
+
+Language number: 1048
+
+Classification: Indo-European, Germanic, West
+
+Depth: 
+
+Author: Antonsen
+
+Date: 1961
+
+Comments: 
+
+
+Sources: 
+Elmer H. Antonsen, 1961, ‘Germanic umlaut anew’, Language, Journal of the Linguistic Society of America, vol. 37, 1961, pp 215-230

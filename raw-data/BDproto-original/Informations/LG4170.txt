@@ -1,0 +1,13 @@
+Language name: DOGON
+
+Language number: 4170
+
+Alternate names: 
+
+Classification: Niger-Kordofanian, Dogon
+
+Comments:
+Toro Soo dialect.  Dogon is spoken in an area straddling the Mali-Burkina Faso border to the east of Mopti.  Higher and lower mid vowels do not co-occur in a stem.  Dogon has been analyzed as a tone language with two level tones but words have only LH or HL basic patterns and the pitch could be predicted from accent.
+
+Sources: 
+Bendor-Samuel, J., Olsen, E.J., and White, A.R. 1989. Dogon.  In J. Bendor-Samuel (ed.), The Niger-Congo Languages, pp. 169-177.  University Press of America and Summer Institute of Linguistics, Lanham.

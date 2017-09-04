@@ -1,0 +1,20 @@
+Language name: TELUGU
+
+Language number: 2902
+
+Alternate names: 
+
+Classification: Dravidian, Dravidian
+
+Comments: 
+
+Sources: 
+Kelley, G. 1963. Vowel phonemes and external vocalic sandhi in Telugu. Journal of the American Oriental Society 83: 67-73.
+
+Kostic, D., Mitter, A., and Krishnamurti, B. 1977. A Short Outline of Telugu Phonetics. Indian Statistical Institute, Calcutta.
+
+Krishnamurti, B. 1961. Telugu Verbal Bases. University of California Press, Berkeley and Los Angeles.
+
+Lisker, L. 1963. Introduction to Spoken Telugu. American Council of Learned Societies, New York.
+
+Sastry, J.V. 1972. Telugu Phonetic Reader. Central Institute of Indian Languages, Mysore.

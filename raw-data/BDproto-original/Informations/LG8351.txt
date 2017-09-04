@@ -1,0 +1,17 @@
+Language name: TIWI
+
+Language number: 8351
+
+Alternate names: 
+
+Classification: Australian, ungrouped
+
+Comments:
+Retroflex consonants (except the rhotic) do not occur initially.  Lee (1984) suggests that labialization of consonants can be predicted from occurrence of the vowel /o/.  Other analyses have proposed distinctive labialized bilabial and velar consonants.
+
+Sources: 
+Osborne, C.R. 1974. The Tiwi Language (Australian Aboriginal Studies 55). Australian Institute for Aboriginal Studies, Canberra.
+
+Lee, J.R. 1983. Tiwi Today: a study of language change in a contact situation.  Ph.D. Dissertation, Australian National University, Canberra.
+
+Lee, J.R. 1984. Changes in the roundedness feature in Tiwi. Australian Linguistics Society.

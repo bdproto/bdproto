@@ -1,0 +1,15 @@
+Language name: MBABARAM
+
+Language number: 8373
+
+Alternate names: 
+
+Classification: Australian, Pama-Nyungan
+
+Comments:
+Mbabaram was spoken between the Walsh and Herbert rivers in northern Queensland, Australia. Dixon's descriptions (1966 a,b) are long on formalisms but short of phonetic detail. The simple stops are interpreted as voiced on the basis of symbols chosen by Dixon.
+
+Sources: 
+Dixon, R.M.W. 1966a. Mbabaram: a dying Australian language. Bulletin of the School of Oriental and African Languages (London) 29: 97-121.
+
+Dixon, R.M.W. 1966b. Mbarabam Phonology. Stephen Austin and Sons, Ltd., Hertford.

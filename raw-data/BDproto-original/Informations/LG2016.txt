@@ -1,0 +1,21 @@
+Language name: HINDI-URDU
+
+Language number: 2016
+
+Alternate names: 
+
+Classification: Indo-European, Indic
+
+Comments:
+All (or almost all) consonants appear geminate. Long nasalized vowels occur only with a following nasal segment when a voiced obstruent follows.
+
+Sources: 
+Kelkar, A.R. 1968. Studies in Hindi-Urdu I: Introduction and Word Phonology. Postgraduate and Research Institute, Deccan College, Poona.
+
+Ohala, M. 1983. Aspects of Hindi Phonology. Motilal Banarsidass, Delhi, Varanasi, Patna.
+
+Pinnow, H-J. 1953. Zeitschrift fur Phonetik und Allgemeine Sprachwissenschaft 7: 43-53.
+
+Srivastava, N. 1969. Review of Kelkar, A.R. Studies in Hindi-Urdu I.  Language 45: 913-927.
+
+Vermeer, H.J. and Sharma, A. 1966. Hindi-Lautlehre. Groos, Heidelberg.

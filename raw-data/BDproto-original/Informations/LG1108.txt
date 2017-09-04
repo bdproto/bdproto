@@ -1,0 +1,17 @@
+Language name: MAIDUN
+
+Language number: 1108
+
+Classification: North-American, Penutian
+
+Depth: 
+
+Author: Russel Ultan
+
+Date: 1964
+
+Comments: 
+
+
+Sources: 
+R. Ultan, 1964, ‘Proto maidun phonology’, IJAL, vol.30, n° 4, pp 355-370

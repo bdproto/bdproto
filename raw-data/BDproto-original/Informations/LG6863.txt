@@ -1,0 +1,17 @@
+Language name: CAMSA
+
+Language number: 6863
+
+Alternate names: Kamentza
+
+Classification: South American, Equatorial
+
+Comments:
+Camsa is spoken in the Sibundoy valley, Putumayo region, Colombia. Influence of Spanish has introduced a pattern of voiced stop laxing in medial position and has resulted in clearly establishing /f/ as a separate phoneme.
+
+Sources: 
+Howard, L. 1967. Camsa phonology. Phonemic systems of Colombian languages, pp. 73-87. Summer Institute of Linguistics and University of Oklahoma, Norman.
+
+Howard, L. 1979. Fonologia del Camsa. Sistemos Fonologicos de Idiomas Colombianos, I. SIL, Loma Linda, Colombia.
+
+Mongui Sanchez, J.R. 1981. La Lengua Kame.ntza. Fonetica-fonologia-textos. Publicaciones del Instituto Caro y Cuervo LIX, Bogota.

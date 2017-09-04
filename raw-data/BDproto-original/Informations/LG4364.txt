@@ -1,0 +1,13 @@
+Language name: KEFA
+
+Language number: 4364
+
+Alternate names: Gonga
+
+Classification: Afro-Asiatic, Omotic
+
+Comments:
+Fleming states "Two or three tones are phonemic but unimportant in comparison to features of length and stress."  Vowels may appear both long and short.
+
+Sources: 
+Fleming, H.C. 1976. Kefa (Gonga) Languages. In M.L. Bender (ed.), The Non-Semitic Languages of Ethiopia. African Studies Center, Michigan State University, East Lansing: 351-76.

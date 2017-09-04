@@ -1,0 +1,13 @@
+Language name: TEMEIN
+
+Language number: 4211
+
+Alternate names: 
+
+Classification: Nilo-Saharan, E. Sudanic
+
+Comments:
+Data on this language is sketchy.
+
+Sources: 
+Tucker, A.N. and Bryan, M.A. 1966. Linguistic Analyses: the Non-Bantu Languages of North-Eastern Africa. Oxford University Press for International African Institute, London.

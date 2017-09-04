@@ -1,0 +1,13 @@
+Language name: EYAK
+
+Language number: 6109
+
+Alternate names: 
+
+Classification: Na-Dene, Eyak
+
+Comments:
+Krauss (1965) reported that there were "3 persons capable of serving adequately as informants for Eyak".  Apart from loanwords /m,n/ "could be interpreted as w and l respectively, followed by a nasalized vowel". Short oral vowels are often in free variation, the non-high vowel variation being obscurely described. Krauss includes 'aspiration' and 'glottalization' of vowels as modifications similar to length and nasalization.  Since there are consonants /h,?/, and verb stems in -V:? ("long glottalized nucleus") seem to count as closed, these are interpreted as postvocalic -h and -?.
+
+Sources: 
+Krauss, M.E. 1965. Eyak: a preliminary report. Canadian Journal of Linguistics/RCL 10:2,3: 167-187.

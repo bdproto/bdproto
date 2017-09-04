@@ -1,0 +1,14 @@
+Language name: Nama
+
+Language number: 4906
+
+Alternate names: 
+
+Classification: Khoisan, Central Khoisan
+
+Comments: 
+
+Sources: 
+Beach, D.M. 1938. The Phonetics of the Hottentot Language. Heffer, Cambridge.
+
+Ladefoged, P. and Traill, A. 1980. The phonetic inadequacy of phonological specifications of clicks. UCLA Working Papers in Phonetics 49: 1-27.

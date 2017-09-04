@@ -1,0 +1,16 @@
+Language name: Brahui
+
+Language number: 2917
+
+Alternate names: 
+
+Classification: Dravidian, Brahui
+
+Comments: 
+
+Sources: 
+De Armond, R.C. 1975. Some rules of Brahui conjugation. In H.G. Schiffman and C.M. Eastman (eds.), Dravidian Phonological Systems. University of Washington Press, Seattle. 
+
+Emeneau, M.B. 1937. Phonetic observations on the Brahui language. Bulletin of the School of Oriental Studies 8: 981-3.
+
+Emeneau, M.B. 1962. Brahui and Dravidian Comparative Grammar. University of California Publications in Linguistics 27. University of California Press, Berkeley.

@@ -1,0 +1,687 @@
+BdprotoID	LanguageName	SpecificDialect	Phoneme	PhonemeNotes	Allophone	AllophoneNotes
+16	Akkadian		a		aː	the contrast could be phonemic, but there is no conclusive evidence
+			e		eː	the contrast could be phonemic, but there is no conclusive evidence
+			i		iː	the contrast could be phonemic, but there is no conclusive evidence
+			u		uː	the contrast could be phonemic, but there is no conclusive evidence
+			tʼ			
+			kʼ			
+			p			
+			t			
+			k			
+			ʔ			
+			b			
+			d			
+			g			
+			ʦʼ			
+			ʦ			
+			tɬ			
+			ʣ			
+			χ	could also be x		
+			m			
+			n			
+			l			
+			r			
+			w	does not occur before consonants or at the end of words		
+			j	only occurs in intervocalic position		
+			tʼː	only in intervocalic position		
+			kʼː	only in intervocalic position		
+			pː	only in intervocalic position		
+			tː	only in intervocalic position		
+			kː	only in intervocalic position		
+			ʔː	only in intervocalic position		
+			bː	only in intervocalic position		
+			dː	only in intervocalic position		
+			gː	only in intervocalic position		
+			ʦʼː	only in intervocalic position		
+			ʦː	only in intervocalic position		
+			tɬː	only in intervocalic position		
+			ʣː	only in intervocalic position		
+			χː	only in intervocalic position		
+			mː	only in intervocalic position		
+			nː	only in intervocalic position		
+			lː	only in intervocalic position		
+			rː	only in intervocalic position		
+			wː	only in intervocalic position		
+			jː	only in intervocalic position		
+						
+17	Hittite		i		aː	the contrast could be phonemic, but there is no conclusive evidence
+			u		eː	the contrast could be phonemic, but there is no conclusive evidence
+			e		iː	the contrast could be phonemic, but there is no conclusive evidence
+			a		uː	the contrast could be phonemic, but there is no conclusive evidence
+			p			
+			t			
+			k			
+			ʦ			
+			kʷ			
+			s			
+			ħ	the phonetic realization is unclear, could also be h or something similar		
+			m			
+			n			
+			l			
+			r	does not occur word-initially		
+			w			
+			j			
+			pː	the phonetic contrast to p is unclear, could also be voiced vs unvoiced or aspired to unaspired		
+			tː	the phonetic contrast to t is unclear, could also be voiced vs unvoiced or aspired to unaspired		
+			kː	the phonetic contrast to k is unclear, could also be voiced vs unvoiced or aspired to unaspired		
+			ʦː	unclear whether this really exists		
+			kʷː	the phonetic contrast to kʷ is unclear, could also be voiced vs unvoiced or aspired to unaspired		
+			sː			
+			hː	the phonetic contrast to ħ is unclear, could also be voiced vs unvoiced		
+			mː			
+			nː			
+			lː			
+			rː			
+			wː	unclear whether this really exists		
+			jː	unclear whether this really exists		
+						
+18	Ancient North Arabian		i			
+			u			
+			a			
+			eː	if it exists from a monophthongised ai		
+			oː	if it exists from a monophthongised au		
+			t			
+			k			
+			q			
+			tˁ			
+			ʔ			
+			b			
+			d			
+			g			
+			f			
+			θ			
+			s			
+			ɬ			
+			ʃ			
+			ç	the phonetic realisation is unclear, could also be j		
+			χ			
+			ħ			
+			h			
+			θˁ			
+			sˁ			
+			β	some use v instead		
+			ð			
+			z			
+			ɣ			
+			ðˁ			
+			m			
+			n			
+			l			
+			r			
+			tː	only in intervocalic position		
+			kː	only in intervocalic position		
+			qː	only in intervocalic position		
+			tˁː	only in intervocalic position		
+			ʔː	only in intervocalic position		
+			bː	only in intervocalic position		
+			dː	only in intervocalic position		
+			gː	only in intervocalic position		
+			fː	only in intervocalic position		
+			θː	only in intervocalic position		
+			sː	only in intervocalic position		
+			ɬː	only in intervocalic position		
+			ʃː	only in intervocalic position		
+			çː	only in intervocalic position		
+			χː	only in intervocalic position		
+			ħː	only in intervocalic position		
+			hː	only in intervocalic position		
+			θˁː	only in intervocalic position		
+			sˁː	only in intervocalic position		
+			βː	only in intervocalic position		
+			ðː	only in intervocalic position		
+			zː	only in intervocalic position		
+			ɣː	only in intervocalic position		
+			ðˁː	only in intervocalic position		
+			mː	only in intervocalic position		
+			nː	only in intervocalic position		
+			lː	only in intervocalic position		
+			rː	only in intervocalic position		
+						
+19	Aramaic		i			
+			u			
+			a			
+			tˁ			
+			kˁ			
+			p			
+			t			
+			k			
+			ʔ			
+			b			
+			d			
+			h			
+			θˁ			
+			sˁ			
+			ɬˁ			
+			θ			
+			s			
+			ɬ			
+			ʃ			
+			ħ			
+			h			
+			ð			
+			z			
+			ʕ			
+			m			
+			n			
+			l			
+			ʀ			
+			j			
+			w			
+						
+20	Elamite		i	maybe centralized		
+			u	maybe centralized		
+			a			
+			e	unclear whether this really exists		
+			o	unclear whether this really exists		
+			p			
+			t			
+			k			
+			ts			
+			f	unclear whether this really exists		
+			s			
+			x			
+			m			
+			n			
+			r			
+			ɾ			
+			l			
+			lː	only in intervocalic position		
+						
+21	Avestan	Gathaic Avestan/Old Avestan	a	not in final position except before clitics		
+			aː			
+			ã			
+			ãː			
+			ɒ			
+			i	not in final position except before clitics	ĩ	
+			iː			
+			u	not in final position except before clitics	ũ	
+			uː			
+			e		eː	
+			o		oː	
+			ə	uncertain	əː	
+			r ̩	uncertain		
+			p			
+			t			
+			c			
+			k			
+			b		β	before ʒ
+			d			
+			ɟ			
+			g		ɣ	before ʒ
+			f			
+			θ		ð	after x and f 
+			v		β	after θ
+			s	Skaervo distinguishes between a dental and a alveolar sibilant unlike the IPA		
+			z			
+			ɕ			
+			ʑ			
+			sʲ​	Skaervo adds a palatal sibilant unlike the IPA		
+			h		ç	before j when accent lies on the following silable
+			x			
+			ŋ		ŋ​ʷ​, ŋ​ʲ​	
+			m		m̥ 	only in hm̥
+			n			
+			r			
+			j			
+						
+22	Classical Armenian		a			
+			e			
+			ɛ			
+			i			
+			o			
+			u	written as ow		
+			ə	epenthetic		
+			p​ʰ​			
+			t​ʰ​			
+			ʦ​ʰ​			
+			ʧʰ			
+			kʰ			
+			p			
+			t			
+			ʦ			
+			ʧ			
+			k			
+			b			
+			d			
+			ʣ			
+			ʤ			
+			g			
+			s			
+			ʃ			
+			x			
+			h			
+			v	the exact pronounciation is unknown	w	v occurs word-initial and after o, w in the digraph ow standing for [u], after a/e/i and in C_V in oblique cases of polysillables ending in -i. Both sounds seem to contrast with the digraph ow in the Position C_V.
+			z			
+			ʒ			
+			m			
+			n			
+			ʎ			
+			ʟ			
+			r			
+			ɹ			
+			j			
+						
+23	Middle Egyptian		a			
+			i			
+			u			
+			p			
+			b			
+			tʼ			
+			t			
+			d		ʕ	may have started as a d and become ʕ
+			c’			
+			c			
+			k’			
+			k			
+			q			
+			ʔ			
+			f			
+			s			
+			ʃ			
+			ç			
+			x			
+			ħ			
+			h			
+			m			
+			n			
+			r			
+			w			
+			j			
+						
+24	Hattic		a			
+			i	maybe no distinction between i and e		
+			e	maybe no distinction between i and e		
+			u			
+			p			
+			t			
+			k			
+			ʦ			
+			s			
+			ɬ	uncertain, maybe there was a sound between t and l		
+			ħ	the phonetic realization is unclear, could also be h or something similar		
+			m			
+			n			
+			l			
+			r	does not occur word-initially		
+			w			
+			v			
+			j			
+						
+25	Hurrian		a			
+			i			
+			u			
+			e			
+			o			
+			aː			
+			iː			
+			uː			
+			eː			
+			oː			
+			p		b	intervocalic, word-final and in contact with m/n/l/r
+			t		d	intervocalic, word-final and in contact with m/n/l/r
+			k		g	intervocalic, word-final and in contact with m/n/l/r
+			ʦ	uncertain	ʣ	intervocalic, word-final and in contact with m/n/l/r
+			f		v	intervocalic, word-final and in contact with m/n/l/r
+			s		z	intervocalic, word-final and in contact with m/n/l/r
+			h	the phonetic realization is unclear, could also be ħ or something similar	voiced variant of the respective sound	intervocalic, word-final and in contact with m/n/l/r
+			m			
+			n			
+			l	does not occur word-initially		
+			r	does not occur word-initially		
+			w			
+			j			
+			pː			
+			tː			
+			kː			
+			ʦː			
+			fː			
+			sː			
+			hː	the phonetic realization is unclear, could also be ħː or something similar		
+			mː			
+			nː			
+			lː	does not occur word-initially		
+			wː			
+			jː			
+						
+26	Kassite		a			
+			i			
+			u			
+			e			
+			o			
+			p		b	before sonorants and vowels
+			t		d	before sonorants and vowels
+			ʦ		ʣ	before sonorants and vowels
+			k		g	before sonorants and vowels
+			k​ʷ​	might be a phoneme, because B and G vary in writing sometimes	gʷ​	before sonorants and vowels
+			s		z	before sonorants and vowels
+			x		ɣ	before sonorants and vowels
+			m			
+			n			
+			l			
+			r			
+			j			
+						
+27	Palaic		a			
+			i			
+			u			
+			e	maybe an allophone of i		
+			aː			
+			iː			
+			uː			
+			eː			
+			p			
+			t			
+			ʦ	maybe z		
+			k			
+			k​ʷ​			
+			f	only in loanwords		
+			s			
+			ħ	the phonetic realization is unclear, could also be h or something similar		
+			ħʷ​	uncertain, only in 1 word		
+			m			
+			n			
+			l			
+			r	does not occur word-initially		
+			w			
+			j			
+			b	the phonetic contrast to p is unclear, could also be gemminated or aspired to unaspired, 		
+			d	the phonetic contrast to t is unclear, could also be gemminated or aspired to unaspired		
+			ʦː	maybe zː		
+			g	the phonetic contrast to k is unclear, could also be gemminated or aspired to unaspired		
+			ʕ	the phonetic contrast to ħ is unclear, could also be gemminated		
+						
+28	Old Persian		a			
+			i			
+			u			
+			aː			
+			iː	no clear evidence due to the writing system		
+			uː	no clear evidence due to the writing system		
+			p			
+			t			
+			ʧ			
+			k			
+			b			
+			d			
+			ʤ			
+			g			
+			f			
+			θ			
+			s			
+			ʦ			
+			ʃ			
+			x			
+			h			
+			z			
+			m			
+			n			
+			l	occurs in loanwords only		
+			r			
+			w			
+			j			
+						
+29	Phrygian	Paleo-Phrygian	i			
+			e			
+			a			
+			o			
+			u			
+			iː			
+			aː			
+			oː			
+			uː			
+			p			
+			t			
+			ʦ			
+			k			
+			b			
+			d			
+			ʣ			
+			g			
+			s			
+			m	same as n word-finally		
+			n	same as n word-finally		
+			l			
+			r			
+			w			
+			j			
+						
+30	Phrygian	Neo-Phrygian	a			
+			i			
+			u			
+			e			
+			o			
+			p			
+			t			
+			k			
+			b			
+			d			
+			z			
+			g			
+			s			
+			m	not word-finally		
+			n	not word-finally		
+			l			
+			r			
+			w			
+			j			
+						
+31	Old South Arabic		iː	may be short		
+			uː	may be short		
+			a			
+			oː			
+			eː			
+			t’			
+			t			
+			k			
+			q			
+			ʔ			
+			b			
+			d			
+			g			
+			ʦ’			
+			θ’			
+			ɬ’			
+			f			
+			θ			
+			s			
+			ɬ			
+			ʃ			
+			χ			
+			ħ			
+			h			
+			ð			
+			z			
+			ɣ			
+			ʕ			
+			m			
+			n			
+			l			
+			r			
+			w			
+			j			
+			t’ː			
+			tː			
+			kː			
+			qː			
+			ʔː			
+			bː			
+			dː			
+			gː			
+			ʦ’ː			
+			θ’ː			
+			ɬ’ː			
+			fː			
+			θː			
+			sː			
+			ɬː			
+			ʃː			
+			χː			
+			ħː			
+			hː			
+			ðː			
+			zː			
+			ɣː			
+			ʕː			
+			mː			
+			nː			
+			lː			
+			rː			
+			wː			
+			jː			
+						
+32	Sumerian		i			
+			e			
+			a			
+			o	discussed and seldomly accepted		
+			u			
+			iː			
+			eː			
+			aː			
+			oː	discussed and seldomly accepted		
+			uː			
+			b	the phonetic contrast to p is unclear, could also be unaspired to aspired		
+			d	the phonetic contrast to t is unclear, could also be unaspired to aspired		
+			g	the phonetic contrast to k is unclear, could also be unaspired to aspired		
+			p​			
+			t			
+			ʦ			
+			k​			
+			s			
+			ʃ			
+			x			
+			h	uncertain		
+			m			
+			n			
+			ŋ			
+			l			
+			l	uncertain, if existing probably [ɬ]		
+			r			
+			ř	discussed and with unclear phonetic realisation, maybe even [ʦʰ​]		
+			w			
+			j			
+						
+33	Ugaritic		i			
+			a			
+			u			
+			iː			
+			eː			
+			aː			
+			oː			
+			uː			
+			t’			
+			ʦ’			
+			k’			
+			p			
+			t			
+			ʦ	there is a shift to s in younger texts		
+			k			
+			ʔ			
+			b			
+			d			
+			ʣ			
+			g			
+			ð’			
+			θ			
+			ð			
+			ʃ			
+			x	sometimes seen as uvular χ instead of the velar x		
+			ɣ	sometimes seen as uvular ʁ instead of the velar ɣ		
+			ħ			
+			ʕ			
+			m			
+			n			
+			l			
+			r			
+			w			
+			j			
+						
+34	Urartian		a			
+			i		ə	word-finally
+			u			
+			e		ə	word-finally
+			aː			
+			iː			
+			uː			
+			eː			
+			t’			
+			s’			
+			k’			
+			b			
+			d			
+			g			
+			p			
+			t			
+			ʦ			
+			k			
+			ʔ			
+			s			
+			z			
+			x			
+			m			
+			n			
+			l			
+			r	does not occur word-initially		
+			w			
+			j			
+						
+35	Luwian	Cunieform Luwian	a			
+			i			
+			u			
+			aː			
+			iː			
+			uː			
+			p			
+			t			
+			ʦ			
+			k			
+			s			
+			ħ	the phonetic realization is unclear, could also be x or something similar		
+			ʕ			
+			m			
+			n			
+			l			
+			r	does not occur word-initially		
+			w			
+			j			
+			pː	the phonetic contrast to p is unclear, could also be voiced vs unvoiced or aspired to unaspired		
+			tː	the phonetic contrast to t is unclear, could also be voiced vs unvoiced or aspired to unaspired		
+			ʦː			
+			kː	the phonetic contrast to k is unclear, could also be voiced vs unvoiced or aspired to unaspired		
+			sː			
+			ħː			
+			ʕː			
+			mː			
+			nː			
+			lː			
+			rː			
+						
+36	Phoenician		a			
+			i			
+			u			
+			iː			
+			uː			
+			eː			
+			oː			
+			t’			
+			ʦ’			
+			k’			
+			p			
+			t			
+			ʦ			
+			k			
+			ʔ			
+			b			
+			d			
+			ʃ			
+			g			
+			s			
+			x			
+			ħ			
+			h			
+			ɣ			
+			ʕ			
+			m			
+			n			
+			l			
+			r			
+			w			
+			j			

@@ -1,0 +1,12 @@
+Language name: ITONAMA
+
+Language number: 6800
+
+Alternate names: 
+
+Classification: S. American, Paezan
+
+Comments: 
+
+Sources: 
+Liccardi, M. and Grimes, J. 1968. Itonama intonation and phonemes. Linguistics 38: 36-41.

@@ -1,0 +1,17 @@
+Language name: Ewe
+
+Language number: 4114
+
+Alternate names: 
+
+Classification: Niger-Kordofanian, Kwa
+
+Comments:
+Post-alveolar stop /d_/ is interpreted as an allophone of /r_[/, following Stahlke.
+
+Sources: 
+Berry, J. no date a. The Pronunciation of Ewe. Heffer, Cambridge.
+
+Ladefoged, P. 1968. A Phonetic Study of West African Languages, 2nd ed. Cambridge Univerity Press, Cambridge.
+
+Stahlke, H. 1971. Topics in Ewe phonology. Ph. D. Dissertation. University of California, Los Angeles.

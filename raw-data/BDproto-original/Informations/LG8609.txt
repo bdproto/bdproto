@@ -1,0 +1,16 @@
+Language name: YAGARIA
+
+Language number: 8609
+
+Alternate names: Kamano, Kami
+
+Classification: Papuan, Trans-New Guinea
+
+Comments: 
+
+Sources: 
+Haiman, J. 1980. HUA: A Papuan Language of the Eastern Highlands of New Guinea. Studies in Language Companion Series, vol. 5. John Benjamins B.V., Amsterdam.
+
+Renck, G.L. 1967. A tentative statement of the phonemes of Yagaria. Papers in New Guinea Linguistics 6 (Pacific Linguistics, Series A, 12):19-48.
+
+Renck, G.L. 1975. A Grammar of Yagaria (Pacific  Linguistics, Series B, 40). Australian National University, Canberra.

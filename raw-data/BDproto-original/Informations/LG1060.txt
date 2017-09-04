@@ -1,0 +1,17 @@
+Language name: EDOID
+
+Language number: 1060
+
+Classification: Niger-Kordofanian, Kwa
+
+Depth: 
+
+Author: O. B. Elugbe
+
+Date: 1989
+
+Comments: 
+
+
+Sources: 
+O. B. Elugbe, 1989, ‘Comparative Edoid : phonology and lexicon, Delta series n° 6, University of Port Harcourt Press

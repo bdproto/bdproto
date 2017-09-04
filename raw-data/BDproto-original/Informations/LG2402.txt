@@ -1,0 +1,13 @@
+Language name: YAY
+
+Language number: 2402
+
+Alternate names: 
+
+Classification: Austro-Tai, Li-Kam-Tai
+
+Comments:
+Yay is spoken in Northwestern Vietnam and a few speakers in the South in Vietnam, also in Southern Yunnan uin China. There are 6 tones on non-stopped syllables, 4 essentially level, 1 rising, and 1 falling.
+
+Sources: 
+Gedney, W.J. 1965. Yay, a Northern Tai language in North Vietnam. Lingua 14: 180-93.

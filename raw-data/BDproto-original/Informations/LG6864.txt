@@ -1,0 +1,15 @@
+Language name: CACUA
+
+Language number: 6864
+
+Alternate names: 
+
+Classification: South American, Macro-Tucanoan
+
+Comments:
+Cacua is spoken along tributaries of the Vaupes and Papuri rivers in the Vaupes region, Colombia. The language is tonal with two levels. Cathcart (1979) suggests that tonal distribution is better analyzed over a "foot"; four patterns contrast, HL, HHL, LH, L. A foot is usually one syllable, but may be up to 3 syllables. The segments analyzed as nasals here appear as nasals before or after a nasalized vowel, otherwise as prenasalized stops in word-initial position and medially after a nasalized vowel and /h, ?/, as prestopped nasals in final position, and as voiced plosives in other medial positions. Cathcart analyzes these segments as voiced stops, but the nasality in marginal positions is better accounted for if these are nasals which denasalize adjacent to an oral vowel (or consonant in medial environments).
+
+Sources: 
+Anderton, A. 1989. The Sounds of Cacua, based on data collected by the Summer Institute of Linguistics. Ms., UCLA.
+
+Cathcart, M. 1979. Fonologia del Cacua. Sistemos Fonologicos de Idiomas Colombianos. Summer Institute of Linguistics: Loma Linda, Colombia.

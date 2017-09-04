@@ -1,0 +1,15 @@
+Language name: NYIMANG
+
+Language number: 4227
+
+Alternate names: 
+
+Classification: Nilo-Saharan, E. Sudanic
+
+Comments:
+Nyimang is spoken in the Sidra area of Jebel Dair, Sudan. Tucker and Bryan (1966) remark that "there appear to be three tone levels."
+
+Sources: 
+Stevenson, R.C. 1957. A survey of the phonetics and grammatical structure of the Nuba mountain languages, with particular reference to Otoro, Katcha and Nyimang. Afrika und ubersee, Band XLI.
+
+Tucker, A.N. and Bryan, M.A. 1966. Linguistic Analyses: the Non-Bantu Languages of North-Eastern Africa. Oxford University Press for International African Institute, London.

@@ -1,0 +1,17 @@
+Language name: BANTU
+
+Language number: 1094
+
+Classification: Niger-Kordofanian, Bantoid
+
+Depth: 
+
+Author: Meeussen
+
+Date: 
+
+Comments: 
+2 tones (high, low)
+
+Sources: 
+A. E. Meeussen, 19, ‘Reconstructions grammaticales du bantou’, 

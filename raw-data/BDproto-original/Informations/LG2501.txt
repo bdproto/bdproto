@@ -1,0 +1,19 @@
+Language name: Taishan
+
+Language number: 2501
+
+Alternate names: 
+
+Classification: Sino-Tibetan, Sinitic
+
+Comments:
+Taishan is spoken primarily in Guangdong (except for the Hakka speaking areas in the northeast the Min Nan speaking areas of the east at points along the coast as well as Hainan Island) and in the Southern part of Guangxi in china.
+
+Sources: 
+Chan, M.K.M. 1980. Zhong-shan phonology. MA thesis, University of British Columbia.
+
+Chao, Yuan-Ren. 1951. Taishan yuliao. Bulletin of the Institute of History and Philology 23: 25-76.
+
+Cao, Yuan-Ren. 1947. Cantonese Primer. Harvard University Press. Cambridge, Massachusetts.
+
+Cheng, T.M. 1973. The phonology of Taishan. Journal of Chinese Linguistics 1: 256-322.

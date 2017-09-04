@@ -1,0 +1,15 @@
+Language name: SONGHAI
+
+Language number: 4200
+
+Alternate names: 
+
+Classification: Nilo-Saharan, Songhai
+
+Comments:
+Prost description of vowels suggests the possibility of a larger number of mid vowels. Nasalized vowels occur without an adjoining nasal consonant only in a few uncommon words.
+
+Sources: 
+Prost, A. 1956. La Langue Songay et ses Dialectes (Memoires de l'Institut francais d'Afrique Noire 47). IFAN, Dakar.
+
+Williamson, K. 1967. Songhai Word List (Gao Dialect). Research Notes, Department of Linguistics and Nigerian Languages, University of Ibadan, 1/3: 1-34.

@@ -1,0 +1,13 @@
+Language name: AWIYA
+
+Language number: 4359
+
+Alternate names: Awngi
+
+Classification: Afro-Asiatic, Cushitic
+
+Comments:
+"Length is relevant for consonants, but geminate consonants occur relatively seldom." (Hetzron)  'Ash' can be derived from "a palatal element and /a/ at a morpheme boundary" but some forms are fossilized and can be cited to justify the 6-vowel analysis.  Probably tonal.
+
+Sources: 
+Hetzron, R. 1969. The Verbal System of Southern Agaw. University of California Press, Berkeley and Los Angeles.

@@ -1,0 +1,17 @@
+Language name: PANARE
+
+Language number: 6849
+
+Alternate names: 
+
+Classification: S. American, Macro-Carib
+
+Comments:
+Panare is spoken in Bolivar state, Venezuela. Cauty's description of this language is problematical in several respects. Phonetic syllable-final fricatives are treated as allophones of glottal stop since they alternate with ? but it is not clear whether ? is the product of neutralization or if the fricative quality can be predicted from other environmental features. Nasalized vowels vary with syllables with a final nasal.
+
+Sources: 
+Cauty, A. 1974. Los sistemas fonologicos y silabicos de la lengua Panare. Revista Colombiana de Antropologia 17: 251-254.
+
+Cauty, A. 1974. Un criterio de decision sobre la presencia de la oclusiva glotal en el idioma Panare. Revista Colombiana de Antropologia 17: 255-258.
+
+Cauty, A. 1978. An approach to the phonological and syllabic systems of the Panare language. Summer Institute in Linguistics, Amerindia Series 3: 85-103.

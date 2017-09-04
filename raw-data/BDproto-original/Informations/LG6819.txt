@@ -1,0 +1,16 @@
+Language name: Quechua
+
+Language number: 6819
+
+Alternate names: 
+
+Classification: S. American, Andean
+
+Comments: 
+
+Sources: 
+Bills, G.D., Vallejo C., B. and Troike, R.C. 1969. An Introduction to Spoken Bolivian Quecha. University of Texas Press for Institute of Latin American Studies, Austin.
+
+Lastra, Y. 1968. Cochabamba Quechua Syntax. Mouton, The Hague.
+
+Parker, G.J. 1969. Review of Lastra, Y.: Cochabamba Quechua Syntax. Language 45/3: 702-3.

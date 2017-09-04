@@ -1,0 +1,13 @@
+Language name: AGHEM
+
+Language number: 4134
+
+Alternate names: 
+
+Classification: Niger-Kordofanian, Bantoid
+
+Comments:
+Aghem has two level tones.  A falling tone is derived when high spreads to a following low tone syllable.  Long vowels and diphthongs seem best treated as vowel sequences.  They carry a single tone but often derive from affixation or loss of intervocalic consonants. Phonetic [p] is analyzed as the allophone of /kp/ before [u].
+
+Sources: 
+Hyman, L.M. 1979. Part I: Phonology and noun structure. In L.M. Hyman (ed.), Aghem grammatical structure. Southern California Occasional Papers in Linguistics No. 7, June 1979.

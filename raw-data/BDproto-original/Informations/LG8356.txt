@@ -1,0 +1,15 @@
+Language name: Malakmalak
+
+Language number: 8356
+
+Alternate names: 
+
+Classification: Australian, Daly
+
+Comments:
+Stops are voiced intervocalically and after voiced consonants, voiceless elsewhere.  Initially, single consonants or the vowels /E, a/ appear.  There are a large number of medial clusters, seven clusters with a liquid as first member occur finally.
+
+Sources: 
+Birk, D.B.W. 1975. The phonology of Malakmalak. Papers in Australian Linguistics 8 (Pacific Linguistics, Series A, 39): 59-78.
+
+Tryon, D.T. 1974. Daly Family Languages (Pacific Linguistics, Series C, 32). Australian National University, Canberra.

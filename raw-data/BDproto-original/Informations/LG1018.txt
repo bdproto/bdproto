@@ -1,0 +1,17 @@
+Language name: ANATOLIAN
+
+Language number: 1018
+
+Classification: Indo-European, Anatolian
+
+Depth: 
+
+Author: H. Craig Melchert
+
+Date: 1994
+
+Comments: 
+
+
+Sources: 
+H. Craig Melchert, 1994, ‘Anatolian historical phonology’, Rodopi, Amsterdam, Atlanta

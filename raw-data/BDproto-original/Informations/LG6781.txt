@@ -1,0 +1,17 @@
+Language name: CHEROKEE
+
+Language number: 6781
+
+Alternate names: 
+
+Classification: North American, Keresiouan, Iroquoian
+
+Comments:
+North Carolina dialect.  Cherokee is spoken in parts of eastern  Oklahoma and also in western North Carolina. Clusters of /h/ + voiced consonant are phonetically voiceless counterparts of the voiced C. Such clusters often arise from a metathesis process switching /h, ?/ and a resonant. A more superficial account might posit a whole set of voiceless consonants.
+
+Sources: 
+Bender, E. and Harris, Z.S. 1946.  The Phonemes of North Carolina Cherokee.  International Journal of American Linguistics 12/1: 14-21.
+
+Walker, W. 1975. Cherokee. In Studies in SE Indian Languages. (James M. Crawford, ed.) University of Georgia Press, Athens.
+
+Cook, W.H. 1979. A Grammar of North Carolina Cherokee. PhD dissertation, Yale.

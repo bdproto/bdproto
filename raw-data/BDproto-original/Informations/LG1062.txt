@@ -1,0 +1,17 @@
+Language name: CUSHITIC
+
+Language number: 1062
+
+Classification: Afro-Asiatic, Cushitic
+
+Depth: 
+
+Author: C. Ehret
+
+Date: 1995
+
+Comments: 
+
+
+Sources: 
+C. Ehret, 1995, ‘Reconstructing proto afroasiatic : vowels, tones, consonants and vocabulary’, UC Press

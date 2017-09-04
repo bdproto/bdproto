@@ -1,0 +1,15 @@
+Language name: JACALTEC
+
+Language number: 6780
+
+Alternate names: 
+
+Classification: North American, Penutian
+
+Comments:
+Jacaltec is spoken in the Huehuetenango department of Guatemala near the Mexican border. Loanwords from Spanish may add /b,d,g,x/ to the segments listed here.  The implosive segments listed here appear to be variably implosive or ejective -- the only indication of voicing is the choice of symbol.
+
+Sources: 
+Craig, C.G.  1977.  The Structure of Jacaltec.  University of Texas, Austin.
+
+Day, C.  1972.  The Jacaltec Language.  Indiana University, Bloomington.

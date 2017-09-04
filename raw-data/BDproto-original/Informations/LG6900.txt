@@ -1,0 +1,18 @@
+Language name: Aleut
+
+Language number: 6900
+
+Alternate names: 
+
+Classification: Eskimo-Aleut, Aleut
+
+Comments: 
+
+Sources: 
+Bergsland, K. 1956. Some problems of Aleut phonology. In M. Halle (ed.), For Roman Jakobson. Mouton, the Hague: 38-43.
+
+Bergsland, K. 1959. Aleut dialects of Atka and Attu. Transactions of the American Philosophical Society, new series, 49/3.
+
+Jacobson, R. 1944. A note on Aleut speech sounds. Aleutian Manuscript Collection. New York Public Library Bulletin 48.
+
+Menovshchikov, G.A. 1968. Aleutskij Jazyk. Jazyki Narodov SSSR, vol. 5.

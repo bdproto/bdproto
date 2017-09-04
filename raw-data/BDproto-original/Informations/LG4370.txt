@@ -1,0 +1,13 @@
+Language name: KANAKURU
+
+Language number: 4370
+
+Alternate names: 
+
+Classification: Afro-Asiatic, Chadic
+
+Comments:
+Kanakuru has a two level tone system, with somewhat limited contrastive function. Newman recognizes 7 additional labialized consonant phonemes.  As these are apparently identical to Cw sequences that are derived in Cui and Coi syllables they are interpreted as sequences here.
+
+Sources: 
+Newman, P. 1974. The Kanakuru Language. Cambridge University Press, Cambridge.

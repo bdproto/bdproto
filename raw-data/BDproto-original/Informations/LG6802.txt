@@ -1,0 +1,16 @@
+Language name: PIRAHA
+
+Language number: 6802
+
+Alternate names: Mura-Piraha~, Mura
+
+Classification: S. American, Paezan
+
+Comments: 
+
+Sources: 
+Everett, D.L. 1982. Phonetic rarities in Piraha. Journal of the International Phonetic Association 12/2: 94-96.
+
+Rodrigues, A.D. 1980. Contribuicoes das linguas Brasileiras para a fonetica e a fonologia. XII Reuniao Brasileira de Antropologia, Rio de Janeiro.
+
+Sheldon, S.N. 1974. Some morphophonemic and tone perturbation rules in Mura-Piraha~. International Journal of American Linguistics 40: 279-82.

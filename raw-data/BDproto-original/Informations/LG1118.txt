@@ -1,0 +1,17 @@
+Language name: GUAHIBAN
+
+Language number: 1118
+
+Classification: South-American, Macro-Arawakan
+
+Depth: 
+
+Author: D. R. Christian & E. Matteson
+
+Date: 1972
+
+Comments: 
+
+
+Sources: 
+E. Matteson, A. Wheeler, F. L. Jackson, N. E. Waltz, D. R. Christian, 1972, "Comparative studies in American languages", Mouton, The Hague, Paris

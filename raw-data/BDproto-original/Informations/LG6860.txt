@@ -1,0 +1,13 @@
+Language name: MOVIMA
+
+Language number: 6860
+
+Alternate names: 
+
+Classification: South American, Macro-Tucanoan
+
+Comments:
+Movima is spoken in the Santa Ana region of Beni department, Bolivia. Judy & Judy (1962) also recognize two "glottalized nasals" which only occur as codas often as phonetic glottal stop + syllabic nasal. They are interpreted as sequences /?m, ?n/. Stress is usually penultimate.
+
+Sources: 
+Judy, R. and Judy J.E. de, 1962. Fonemas del Movima: con atencion especial a la serie glotal. Notas Linguisticas de Bolivia, no. 5. SILV, Cochabamba.

@@ -1,0 +1,19 @@
+Language name: TSIMSHIAN
+
+Language number: 6774
+
+Alternate names: Sm'algyax
+
+Classification: N. American, Penutian
+
+Comments:
+Coast Tsimshian is spoken along the British Columbia coast adjacent to the border with Alaska. The system presented here is primarily based on Mulder's (1988) interpretation of Dunn's grammar and dictionary. Voiced and voiceless plosives are largely in complementary distribution, voiced ones occurring immediately before a voiced sonorant or vowel and voiceless ones in final position and in clusters elsewhere. However, exceptions to this pattern occur often enough that obstruent voicing must be treated as contrastive. It is not clear if plain velar stops are distinctive; Dunn implies that either a w-offglide or a j-offglide accompanies every velar stop but many examples are written without an offglide. Mulder interprets occurrence of "plain velars before rounded vowels" as evidence for three velar series, but it could be that consonant rounding is redundant in this context and these are instances of labialized velars. Both Mulder and Dunn recognise a larger inventory of vowels than Hoard (1978) does for closely-related Gitksan. Phonetic vowel quality seems strongly influenced by consonant environment and stress, but full details are not worked out. Only three vowels, which occur long and short, are assumed to be underlying.
+
+Sources: 
+Dunn, J.A. 1978. A Practical Dictionary of the Coast Tsimshian Language. National Museum of Man Mercury Series, Canadian Ethnology Service Paper no. 42.
+
+Dunn, J.A. 1979. A Reference Grammar for the Coast Tsimshian Language. Canadian Ethnology Service.
+
+Hoard, J.E. 1978. Obstruent voicing in Gitksan: some implications for distinctive feature theory. Linguistic Studies of Native Canada (eds. Eung-Do Cook and J. Kaye). University of British Columbia Press, Vancouver.
+
+Mulder, J.G. 1988. Ergativity in Coast Tsimshian (Sm'algyax). PhD Dissertation, UCLA.

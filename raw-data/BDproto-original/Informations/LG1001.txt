@@ -1,0 +1,17 @@
+Language name: SANGIRIC
+
+Language number: 1001
+
+Classification: Austro-Tai, Austronesian, West-Malayo-Polynesian
+
+Depth: 
+
+Author: J. N. Sneddon
+
+Date: 
+
+Comments: 
+
+
+Sources: 
+J. N. Sneddon, 19, ‘Proto-Sangiric and the sangiric languages’, Pacific Linguistics, series B, n° 91

@@ -1,0 +1,17 @@
+Language name: AUSTRALIAN
+
+Language number: 1059
+
+Classification: Australian
+
+Depth: -40000 or less
+
+Author: Dixon
+
+Date: 
+
+Comments: 
+
+
+Sources: 
+R. M. W. Dixon, 19, ‘Sumary report : linguistic change and reconstruction in the australian language family’, 

@@ -1,0 +1,13 @@
+Language name: WARIS
+
+Language number: 8637
+
+Alternate names: 
+
+Classification: Papuan, Trans-New Guinea
+
+Comments:
+Waris is spoken in Amanab District, West Sepik Province, Papua New Guinea, and adjoining areas of Irian Jaya, Indonesia. Brown (1988) provides only a list of phoneme symbols with few definitions. /a/ is described as low front but seems more likely to be central as there are two other vowels in the lower front region.
+
+Sources: 
+Brown, R. 1988. Waris Case System and Verb Classification. Language and Linguistics in Melanesia 19: 37-80.

@@ -1,0 +1,12 @@
+Language name: Wintu
+
+Language number: 6709 
+
+Alternate names: 
+
+Classification: 
+
+Comments: 
+
+Sources: 
+Broadbent, S.M. and Pitkin, H. 1964. A comparison of Miwok and Wintu. In W. Bright (ed.), Studies in Californian Linguistics. University of California Press, Berkeley and Los Angeles: 19-45.

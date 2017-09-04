@@ -1,0 +1,12 @@
+Language name: MARI
+
+Language number: 2151
+
+Alternate names: Cheremis
+
+Classification: Ural-Altaic, Finno-Ugric, Finnic
+
+Comments: 
+
+Sources: 
+Ristinen, E.K. 1960. An East Cheremis Phonology (Indiana University Publications, Uralic and Altaic Series 1). Indiana University, Bloomington.

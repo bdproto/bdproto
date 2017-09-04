@@ -1,0 +1,14 @@
+Language name: PAPAGO
+
+Language number: 6736
+
+Alternate names: Pima
+
+Classification: N. American, Uto-Aztecan
+
+Comments: 
+
+Sources: 
+Hale, K. 1959. A Papago Grammar. Ph.D. Dissertation. Indiana University, Bloomington.
+
+Saxton, D. 1963. Papago phonemes. International Journal of American Linguistics 29: 29-35.

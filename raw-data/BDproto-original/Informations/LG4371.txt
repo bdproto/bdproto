@@ -1,0 +1,15 @@
+Language name: KERA
+
+Language number: 4371
+
+Alternate names: 
+
+Classification: Afro-Asiatic, Chadic 
+
+Comments:
+In open syllables there is a contrast between long and short vowels. Ebert notes ten words with nasalized vowels. We have interpreted these as having a palatal nasal -- medially this varies with nasalized /j/, finally it is lost leaving a nasalized vowel. Kera has 3 level tones and glides composed of their combination. There is a strong interrelationship between tone level and obstruent consonant voicing (laryngealized stops go with voiceless ones).
+
+Sources: 
+Ebert, K.H. 1976. Sprache und Tradition der Kera (Tschad). Teil II: Lexikon. Berlin: Verlag von Dietrich Reimer.
+
+Ebert, K.H. 1979. Sprache und Tradition der Kera; III: Grammatik.  Verlag von Dietrich Reimer, Berlin.

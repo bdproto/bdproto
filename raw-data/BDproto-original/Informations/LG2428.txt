@@ -1,0 +1,17 @@
+Language name: IVATAN
+
+Language number: 2428
+
+Alternate names: 
+
+Classification: Austro-Tai, W. Malayo-Polynesian
+
+Comments:
+Southern Ivatan dialect.  Ivatan is spoken  on the islands of the Batanes province of the Philippines relatively close to Taiwan. The palato-alveolar segments historically derive from velars and are mostly still found before /i/ where velars do not occur. If an underlying /i/ is posited for the remaining cases these segments can be eliminated.
+
+Sources: 
+Cottle, M. and Cottle, S. 1958. The significant sounds of Ivatan. Studies in Philippine Linguistics, by members of the Summer Institute in Linguistics, University of Sydney. (Oceania Linguistic Monographs, no. 3)
+
+Heye, J. and Hidalgo, C.A. 1967. An outline of Southern Ivatan phonology. General Linguistics 7/2: 105-120.
+
+Hidalgo, C.A. and Hidalgo, A. 1971. A Tagmemic Grammar of Ivatan. Linguistic Society of the Philippines, Manila.

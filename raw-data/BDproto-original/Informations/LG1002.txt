@@ -1,0 +1,17 @@
+Language name: POLYNESIAN
+
+Language number: 1002
+
+Classification: Austro-Tai, Austronesian, East-Malayo-Polynesian
+
+Depth: 
+
+Author: D. S. Walsh & B. Biggs
+
+Date: 1966
+
+Comments: 
+
+
+Sources: 
+D. S. Walsh, B. Biggs, 1966, ‘Proto-Polynesian word list I’, Te Reo monographs, Linguistic Society of New Zealand, Auckland

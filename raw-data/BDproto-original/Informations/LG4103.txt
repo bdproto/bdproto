@@ -1,0 +1,17 @@
+Language name: KPELLE
+
+Language number: 4103
+
+Alternate names: 
+
+Classification: Niger-Kordofanian, Mande
+
+Comments:
+Voiced plosives and fricatives can be morphophonemically derived (in initial position following a low-toned nasal, which deletes). Kpelle has three surface level tones.
+
+Sources: 
+Hyman, L.M. 1973. Notes on the history of Southwestern Mande. Studies in African Linguistics 4: 183-96.
+
+Welmers, W.E. 1962. The phonology of Kpelle. Journal of African Languages 1: 69-93.
+
+Welmers, W.E. 1973. African Language Structures. University of California Press, Berkeley.
