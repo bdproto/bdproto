@@ -1,17 +1,0 @@
-Language name: CHADIC
-
-Language number: 1083
-
-Classification: Afro-Asiatic, Chadic
-
-Depth: 
-
-Author: Newman
-
-Date: 1977
-
-Comments: 
-missing prenasalized !!!Open question : pitch accent or 2 tones system...
-
-Sources: 
-P. Newman, 1977, ‘Chadic classification and reconstructions’, Monographic Journals of the Near East Afrosiatic Linguistics, 5/1
