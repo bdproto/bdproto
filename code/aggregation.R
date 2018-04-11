@@ -1,7 +1,6 @@
 # BDPROTO aggregation script
 # Steven Moran <steven.moran@uzh.ch>
 # https://github.com/uzling/data/tree/master/bdproto
-# setwd('/Users/stiv/Dropbox/Github/bdproto/code')
 #
 # TODO: move ANE metadata out of inventories file and into metadata file; unify columns names across data sources
 
