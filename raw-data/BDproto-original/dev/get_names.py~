@@ -1,9 +1,0 @@
-import unicodedata
-
-infile = open("unicode.temp", "r")
-header = infile.readline()
-
-for line in infile:
-    line = line.strip()
-    i = int(line, 16)
-    print(line+"\t"+unicodedata.name(i))
