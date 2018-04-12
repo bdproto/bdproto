@@ -5,11 +5,11 @@ BDPROTO is a database of phonological inventories from ancient and reconstructed
 
 This source is described in and can be cited as:
 
-Egidio Marsico, Sebastien Flavier, Annemarie Verkerk and Steven Moran. Accepted. BDPROTO: A Database of Phonological Inventories from Ancient and Reconstructed Languages. To appear in Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018). May 7--12, Miyazaki, Japan.
+```Egidio Marsico, Sebastien Flavier, Annemarie Verkerk and Steven Moran. Accepted. BDPROTO: A Database of Phonological Inventories from Ancient and Reconstructed Languages. To appear in Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018). May 7--12, Miyazaki, Japan.```
 
 The original source data (and project name) come from:
 
-Marsico, Egidio. 1999. What can a database of proto-languages tell us about the last 10,000 years of sound changes. In Proceedings of the XIVth International Congress of Phonetic Sciences (ICPhS99), 353--356.
+```Marsico, Egidio. 1999. What can a database of proto-languages tell us about the last 10,000 years of sound changes. In Proceedings of the XIVth International Congress of Phonetic Sciences (ICPhS99), 353--356.```
 
 This legacy resource was converted into Unicode UTF-8. The original data is available in various formats along with the extraction and transformation scripts at: [https://github.com/bdproto/bdproto-legacy](https://github.com/bdproto/bdproto-legacy).
 
