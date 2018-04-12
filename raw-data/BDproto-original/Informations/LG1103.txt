@@ -1,17 +1,0 @@
-Language name: GUANG
-
-Language number: 1103
-
-Classification: Niger-Kordofanian, Voltaic
-
-Depth: 
-
-Author: Snider
-
-Date: 1989/1990
-
-Comments: 
-
-
-Sources: 
-Keith L. Snider, 1989, ‘The vowels of proto guang’, The Journal of West African Languages, vol. XIX, n° 2andKeith L. Snider, 1990, ‘The consonants of proto guang’, The Journal of West African Languages, vol. XX, n° 1

@@ -1,9 +1,0 @@
-Laut				
-ɛ	front	mid-tief	–	kurz
-a	zentral	tief	–	kurz
-e	front	mid	–	kurz
-y	front	hoch	+	kurz
-i	front	hoch	–	kurz
-o	back	mid	+	kurz
-u	back	hoch	+	kurz
-ø	front	mid	+	kurz
