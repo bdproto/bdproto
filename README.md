@@ -5,19 +5,19 @@ BDPROTO is a database of phonological inventories from ancient and reconstructed
 
 This source is described in and can be cited as:
 
-Egidio Marsico, Sebastien Flavier, Annemarie Verkerk and Steven Moran. Accepted. BDPROTO: A Database of Phonological Inventories from Ancient and Reconstructed Languages. To appear in Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018). May 7--12, Miyazaki, Japan.
+Egidio Marsico, Sebastien Flavier, Annemarie Verkerk and Steven Moran. 2018. BDPROTO: A Database of Phonological Inventories from Ancient and Reconstructed Languages. To appear in Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018), 1654-1658. May 7-12, Miyazaki, Japan. Online: [http://www.lrec-conf.org/proceedings/lrec2018/pdf/534.pdf](http://www.lrec-conf.org/proceedings/lrec2018/pdf/534.pdf)
 
-A preliminary PDF version of the paper is available [here](https://github.com/bdproto/bdproto/blob/master/Marsico_etal2018-bdproto.pdf).
+We also maintain a copy of the paper in this [repository](https://github.com/bdproto/bdproto/blob/master/Marsico_etal2018-bdproto.pdf).
 
 The original source data (and project name) come from:
 
-Marsico, Egidio. 1999. What can a database of proto-languages tell us about the last 10,000 years of sound changes. In Proceedings of the XIVth International Congress of Phonetic Sciences (ICPhS99), 353--356. Online:  [https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS1999/papers/p14_0353.pdf](https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS1999/papers/p14_0353.pdf)
+Marsico, Egidio. 1999. What can a database of proto-languages tell us about the last 10,000 years of sound changes. In Proceedings of the XIVth International Congress of Phonetic Sciences (ICPhS99), 353-356. Online: [https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS1999/papers/p14_0353.pdf](https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS1999/papers/p14_0353.pdf)
 
-This legacy resource was converted into Unicode UTF-8. The original data is available in various formats along with the extraction and transformation scripts at: [https://github.com/bdproto/bdproto-legacy](https://github.com/bdproto/bdproto-legacy).
+This legacy resource was converted into Unicode UTF-8. The original data is available in various formats along with the extraction and transformation scripts at: [https://github.com/bdproto/bdproto-legacy](https://github.com/bdproto/bdproto-legacy). The original BDPROTO contains a convenience sample aimed at genealogical diversity and it contains no duplicate inventories for a given reconstruction.
 
-Two additional resources have been compiled to update and extend the coverage of the original BDPROTO sample. These include the raw data in the `src` directory for the two resources `ancient-near-east` and `uz`.
+Two additional resources have been compiled to update and extend the coverage of the original BDPROTO sample. These include the raw data in the `src` directory for the two resources `ancient-near-east` and `uz`. These data points contain more recent reconstructions, which in some cases introduces more than one inventory for a given reconstruction.
 
-The ancient near-east inventories were collected as part of a project on ancient near-east languages at the Department of Comparative Linguistics at the University of Zurich, and they were graciously made available to this project. 
+The ancient near-east inventories were collected as part of a project on ancient near-east languages at the Department of Comparative Linguistics at the University of Zurich, which were made available to this project. 
 
 Additional inventories from recent publications was also extracted from source references at the Department of Comparative Linguistics. We simply call this source `uz`.
 
