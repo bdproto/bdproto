@@ -1,22 +1,22 @@
-BdprotoID,LanguageCode,GlottologID,Squib,SyllableStructure,SyllableStructureNotes,PhonologyNotes,TimeDepth,Region
-16,akk,akka1240,buccellatti1997phon.pdf; huehnergard1997phon.pdf,VC; CV; CVC,"vowels are not allowed word-initially; it is unclear if they are allowed syllable-initially, it might be that there is always a glide or glottal stop in front of them",,2800-700 BC,mesopotamia
-17,hit,hitt1242,hoffner-melchert2008phon.pdf,VC; CV; CVC; VCC; CCV,maybe even VCCC,,1600-1300 BC,Anatolia
-18,xna,anci1245,goldammer2012phon_arabic.pdf; MacDonald2008phon.pdf,CV; CVC; CVC,,,1200 bc-700 AD,southern syria to yemen
-19,arc,aram1259,goldammer2012phon_arc.pdf,CV; CVC,,,,
-20,elx,elam1244,goldammer2012phon_elx.pdf; Khaikjan1998phon.pdf,CV; CVC; CVCC,,,2800-500 BC,Elam (ancient lands in the west and southwest of todays Iran)
-21,ave,aves1237,skaervo2006phon.pdf,CCVC; CCCV,also smaller ones,The phonemic inventory is not clear at all. This list follows P. O. SKJÆRVØ.,"uncertain, written from the 3rd century, but the language was extinct by then. Maybe with the start of the Zoroastrism around 600bc or same time as early Vedic around 1500 BCE",unknown
-22,xcl,clas1249,clackson2008phon.pdf,VC; CV; CVC; CVCC,,,400 AD,Armenian Highlands
-23,NA,NA,allen2000phon.pdf,CV; CVC; CVCC,,,2000-1350 BC,Ancient Egypt
-24,xht,hatt1246,kammenhuber1969phon.pdf; klinger2005phon.pdf,NA,,same problems as in Hittite with the ponetic realisations,3000-2000 BC,zentral Anatolia northwards to the black sea
-25,xhu,hurr1240,wegner2000phon.pdf; wilhelm2008phon_xhu.pdf,CV; VC; CVC; CVCC,,,2300-1000 BC,northern Mesopotamia
-26,NA,kass1244,goldammer21012phon_kass1244.pdf,CCVC,maximal structure,,1800-400 BC,southern Mesopotamia
-27,plq,pala1331,melchert2008phon.pdf; carruba1970phon.pdf,V; CV; VC; CVC; VCC; CVCC; CVCCC,complex onset is unclear; CVCCC only in the ending -nts,"There is variation in the spelling of gemminates, which may or may not indicate phonemically distinct consonants.",1600-1300 BC,central north Anatolia
-28,peo,oldp1255,skjaervo2009phon.pdf,V; VC; CV; CVC; CCV; CCVC; CCCVC,,,600-300 BC,"Inscriptions found in modern Iran, Armenia, Bahrain, Romania (Gherla), Egypt, Turky, Iraq."
-29,xpg,phry1239,brixhe2008phon.pdf,CV; CVC; VCC; CCV; CCVC,coda clusters are very rare,,800 BC-300 AD; texts found from 800-500 (Paleo-Phrygian) BC and 100 AD - 300 (Neo-Phrygian),central Asia Minor
-30,xpg,phry1239,brixhe2008phon.pdf,NA,,,,
-31,NA,sayh1236,nebesstein2008phon.pdf,CV; CVC,,Consonantal length is not expressed in the script.,,
-32,sux,sume1241,edzard2003phon.pdf; michalowski2008phon.pdf,NA,,,3300-2000 BC,
-33,uga,ugar1238,tropper2000phon.pdf,CV; CVC,,,,
-34,xur,urar1245,wilhelm2008phon_xur.pdf; hazenbos2005phon.pdf,NA,,,,
-35,xlu,cune1239,melchert 2008phon.pdf,NA,,"Melchert suggest, that all dialects share the same phonemic inventory",1400-1200,Asia Minor
-36,phn,phoe1239,hackett2008phon.pdf,NA,,,1200-600 BC,
+BdprotoID,LanguageCode,GlottologID,BibtexKey,SyllableStructure,SyllableStructureNotes,PhonologyNotes,TimeDepth,TimeDepthYBP,Homeland
+16,akk,akka1240,"buccellatti1997phon,huehnergard1997phon",VC; CV; CVC,"vowels are not allowed word-initially; it is unclear if they are allowed syllable-initially, it might be that there is always a glide or glottal stop in front of them",,2800-700 BC,2700,Mesopotamia
+17,hit,hitt1242,hoffner-melchert2008phon,VC; CV; CVC; VCC; CCV,maybe even VCCC,,1600-1300 BC,3300,Anatolia
+18,xna,anci1245,"goldammer2012phon_arabic,MacDonald2008phon",CV; CVC; CVC,,,1200 bc-700 AD,2700,Southern Syria to Yemen
+19,arc,aram1259,goldammer2012phon_arc,CV; CVC,,,,,
+20,elx,elam1244,"goldammer2012phon_elx,Khaikjan1998phon",CV; CVC; CVCC,,,2800-500 BC,2500,Elam (ancient lands in the west and southwest of today’s Iran)
+21,ave,aves1237,skaervo2006phon,CCVC; CCCV,also smaller ones,The phonemic inventory is not clear at all. This list follows P. O. SKJÆRVØ.,"uncertain, written from the 3rd century, but the language was extinct by then. Maybe with the start of the Zoroastrism around 600bc or same time as early Vedic around 1500 BCE",,Unknown
+22,xcl,clas1249,clackson2008phon,VC; CV; CVC; CVCC,,,400 AD,1600,Armenian Highlands
+23,NA,NA,allen2000phon,CV; CVC; CVCC,,,2000-1350 BC,3350,Ancient Egypt
+24,xht,hatt1246,"kammenhuber1969phon,klinger2005phon",NA,,same problems as in Hittite with the ponetic realisations,3000-2000 BC,4000,Central Anatolia and northwards to the Black sea
+25,xhu,hurr1240,"wegner2000phon,wilhelm2008phon_xhu",CV; VC; CVC; CVCC,,,2300-1000 BC,3000,Northern Mesopotamia
+26,NA,kass1244,goldammer21012phon_kass1244,CCVC,maximal structure,,1800-400 BC,2400,Southern Mesopotamia
+27,plq,pala1331,"melchert2008phon,carruba1970phon",V; CV; VC; CVC; VCC; CVCC; CVCCC,complex onset is unclear; CVCCC only in the ending -nts,"There is variation in the spelling of gemminates, which may or may not indicate phonemically distinct consonants.",1600-1300 BC,3300,Central northern Anatolia
+28,peo,oldp1255,skjaervo2009phon,V; VC; CV; CVC; CCV; CCVC; CCCVC,,,600-300 BC,2300,"Inscriptions found in modern Iran, Armenia, Bahrain, Romania (Gherla), Egypt, Turky, Iraq"
+29,xpg,phry1239,brixhe2008phon,CV; CVC; VCC; CCV; CCVC,coda clusters are very rare,,800 BC-300 AD; texts found from 800-500 (Paleo-Phrygian) BC and 100 AD - 300 (Neo-Phrygian),1700,Central Asia Minor
+30,xpg,phry1239,brixhe2008phon,NA,,,,,
+31,NA,sayh1236,nebesstein2008phon,CV; CVC,,Consonantal length is not expressed in the script.,,,
+32,sux,sume1241,"edzard2003phon,michalowski2008phon",NA,,,3300-2000 BC,4000,
+33,uga,ugar1238,tropper2000phon,CV; CVC,,,,,
+34,xur,urar1245,"wilhelm2008phon_xur,hazenbos2005phon",NA,,,,,
+35,xlu,cune1239,melchert2008phon,NA,,"Melchert suggest, that all dialects share the same phonemic inventory",1400-1200,3200,Asia Minor
+36,phn,phoe1239,hackett2008phon,NA,,,1200-600 BC,2600,
