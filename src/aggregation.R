@@ -1,16 +1,15 @@
 # BDPROTO raw data sources aggregation script
 # Steven Moran <steven.moran@uzh.ch>
 
-library(zoo)
-library(dplyr)
 library(testthat)
-
+library(tidyverse)
+library(dplyr)
 
 ################################
 # Original BDproto inventories #
 ################################
 # Get inventories.
-bdproto.inventories <- read.table("bdproto-original/bdproto-inventories.tsv", header=T, sep="\t", stringsAsFactors = F)
+bdproto.inventories <- read.csv("bdproto-original/bdproto-inventories.csv", header=T, stringsAsFactors = F)
 expect_equal(nrow(bdproto.inventories), 2864)
 
 # Identify duplicate segments in the input (4 rows).
@@ -21,8 +20,9 @@ bdproto.inventories <- bdproto.inventories %>% group_by(BdprotoID, Phoneme) %>% 
 expect_equal(nrow(bdproto.inventories), 2862)
 
 # Get metadata and drop language names because they do not necessarily match the inventory language names (see below)
-bdproto.metadata <- read.table("bdproto-original/bdproto-metadata.tsv", header=T, sep="\t", stringsAsFactors = F)
+bdproto.metadata <- read.csv("bdproto-original/bdproto-metadata.csv", header=T, stringsAsFactors = F)
 bdproto.metadata <- bdproto.metadata %>% select(-LanguageName)
+bdproto.metadata <- bdproto.metadata %>% select(-LanguageFamily)
 
 # Join inventories and metadata.
 bdproto.inventories <- left_join(bdproto.inventories, bdproto.metadata, by=c("BdprotoID"="BdprotoID"))
@@ -54,22 +54,21 @@ rm(bdproto.metadata)
 # UZ inventories #
 ##################
 # Get inventories.
-uz.raw <- read.table("uz/uz-inventories.tsv", header=T, sep="\t", na.strings="", blank.lines.skip=T)
+uz.raw <- read.csv("uz/uz-inventories.csv", header=T, blank.lines.skip=T, stringsAsFactors=F, na.strings="")
+glimpse(uz.raw)
 
-# Fill in the blank cells and reconstruct the data types.
-uz.inventories <- uz.raw %>% do(zoo::na.locf(.))
-uz.inventories$BdprotoID <- as.numeric(uz.inventories$BdprotoID)
-rm(uz.raw)
+# Fill in the blank cells
+uz.raw <- uz.raw %>% fill(BdprotoID)
+uz.raw <- uz.raw %>% fill(LanguageName)
 
 # Get metadata, subset relevant columns, fix data types.
-uz.metadata <- read.table("uz/uz-metadata.tsv", header=T, sep="\t", stringsAsFactors = F)
-uz.metadata$TimeDepth <- as.character(uz.metadata$TimeDepth)
-uz.metadata$TimeDepthInventorySource <- as.character(uz.metadata$TimeDepthInventorySource)
+uz.metadata <- read.csv("uz/uz-metadata.csv", header=T, stringsAsFactors = F)
+glimpse(uz.metadata)
 
 # Join inventories and metadata
-uz.inventories <- left_join(uz.inventories, uz.metadata, by=c("BdprotoID"="BdprotoID", "LanguageName"="LanguageName"))
+uz.inventories <- left_join(uz.raw, uz.metadata, by=c("BdprotoID"="BdprotoID", "LanguageName"="LanguageName"))
 uz.inventories$Source <- "UZ"
-rm(uz.metadata)
+rm(uz.raw, uz.metadata)
 
 
 #################################
@@ -77,19 +76,17 @@ rm(uz.metadata)
 #################################
 ane.raw <- read.csv("ancient-near-east/AnNeEa-inventories.csv", header=T, na.strings="", blank.lines.skip=T, stringsAsFactors = F)
 
-# ane.raw <- ane.raw %>% select(BdprotoID, LanguageName, Phoneme)
-ane.inventories <- ane.raw %>% do(zoo::na.locf(.))
-
-# Reconstruct data types
-ane.inventories$BdprotoID <- as.numeric(ane.inventories$BdprotoID)
+# Fill in the blank cells
+ane.raw <- ane.raw %>% fill(BdprotoID)
+ane.raw <- ane.raw %>% fill(LanguageName)
+ane.raw <- ane.raw %>% fill(SpecificDialect)
 
 # Metadata
 ane.metadata <- read.csv("ancient-near-east/AnNeEa-metadata.csv", na.strings="NA", stringsAsFactors = F)
 head(ane.metadata)
-ane.metadata$GlottologID
 
 # Join em!
-ane.inventories <- inner_join(ane.inventories, ane.metadata, by=c("BdprotoID"="BdprotoID"))
+ane.inventories <- left_join(ane.raw, ane.metadata, by=c("BdprotoID"="BdprotoID"))
 ane.inventories$Source <- "ANE"
 rm(ane.raw, ane.metadata)
 
@@ -117,7 +114,7 @@ rm(ane.inventories, bdproto.inventories, uz.inventories)
 # Add the PHOIBLE segment features #
 ####################################
 load(url('https://github.com/phoible/dev/blob/master/data/phoible-by-phoneme.RData?raw=true'))
-features <- read.table('https://raw.githubusercontent.com/phoible/dev/master/raw-data/FEATURES/phoible-segments-features.tsv', header=T, sep='\t')
+features <- read.table('https://raw.githubusercontent.com/phoible/dev/master/raw-data/FEATURES/phoible-segments-features.tsv', header=T, sep='\t', stringsAsFactors=F)
 expect_equal(nrow(features), 2163)
 num_inventories <- nrow(inventories)
 # Merge
@@ -126,24 +123,27 @@ expect_equal(nrow(inventories), num_inventories)
 rm(num_inventories)
 
 
+#########
+# Cache #
+#########
+save(inventories, file='../bdproto.Rdata')
+write.csv(inventories, file='../bdproto.csv', row.names = FALSE)
+
+
 ##############################
 # Towards CLDF specification #
 ##############################
 # Rename columns according to CLDF ontology
-names(inventories)[names(inventories) == 'GlottologID'] <- 'Glottocode'
 names(inventories)[names(inventories) == 'BdprotoID'] <- 'ID'
 names(inventories)[names(inventories) == 'LanguageName'] <- 'Name'
 names(inventories)[names(inventories) == 'LanguageCode'] <- 'ISO639P3code'
-
-# Fix datatypes
-inventories$ID <- as.integer(inventories$ID)
-class(inventories$ID)
+glimpse(inventories)
 
 
 ########################################################
 # Merge results in segments with NA for feature values #
 ########################################################
-inventories %>% filter(is.na(consonantal)) %>% select(ID, Name, Glottocode) %>% unique()
+inventories %>% dplyr::filter(is.na(consonantal)) %>% select(ID, Name, Glottocode) %>% unique()
 missing.segments <- inventories %>% filter(is.na(consonantal)) %>% select(Phoneme) %>% unique()
 write.table(missing.segments, "missing-segments.csv", sep="\t", quote = F, row.names = F)
 
@@ -156,9 +156,5 @@ dim(no.feature.vectors %>% distinct(LanguageName)) # 36 distinct segments
 head(no.feature.vectors)
 
 
-#########
-# Cache #
-#########
-save(inventories, file='../bdproto.Rdata')
-write.csv(inventories, file='../bdproto.csv', row.names = FALSE)
+
 

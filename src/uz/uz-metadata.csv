@@ -1,4 +1,4 @@
-BdprotoID,LanguageName,GlottologID,BibtexKey,LanguageFamily,TimeDepth,TimeDepth,MetadataNotes,Homeland,HomelandSource
+BdprotoID,LanguageName,Glottocode,BibtexKey,LanguageFamily,TimeDepth,TimeDepthYBP,MetadataNotes,Homeland,HomelandSource
 1,Proto-Berber,berb1260,basset1952,Afro-Asiatic,louali2003protoberberes,7000,no squib,,
 2,Proto-Kartvelian,kart1248,bomhard1990,Caucasian,-5000 (gamkrelidze1995indo),5000,p.804 fn 28,,
 3,Proto-Balto-Slavic,balt1263,kortlandt1979_phon,,between 1500 and 1000 B.C. (novotna2011glottochronology),3000,,,

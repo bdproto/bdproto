@@ -1,4 +1,4 @@
-BdprotoID,LanguageCode,GlottologID,BibtexKey,SyllableStructure,SyllableStructureNotes,PhonologyNotes,TimeDepth,TimeDepthYBP,Homeland
+BdprotoID,LanguageCode,Glottocode,BibtexKey,SyllableStructure,SyllableStructureNotes,PhonologyNotes,TimeDepth,TimeDepthYBP,Homeland
 16,akk,akka1240,"buccellatti1997phon,huehnergard1997phon",VC; CV; CVC,"vowels are not allowed word-initially; it is unclear if they are allowed syllable-initially, it might be that there is always a glide or glottal stop in front of them",,2800-700 BC,2700,Mesopotamia
 17,hit,hitt1242,hoffner-melchert2008phon,VC; CV; CVC; VCC; CCV,maybe even VCCC,,1600-1300 BC,3300,Anatolia
 18,xna,anci1245,"goldammer2012phon_arabic,MacDonald2008phon",CV; CVC; CVC,,,1200 bc-700 AD,2700,Southern Syria to Yemen
