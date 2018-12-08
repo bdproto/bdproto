@@ -1,0 +1,102 @@
+---
+title: "BDPROTO stats"
+author: "Steven Moran"
+output:
+  github_document:
+  pandoc_args: --webtex
+---
+  
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+# knitr::opts_chunk$set(cache=TRUE)
+```
+
+```{r, warning=FALSE, message=FALSE}
+library(dplyr)
+library(ggplot2)
+```
+
+```{r}
+load(file='../bdproto.Rdata')
+glimpse(inventories)
+```
+
+```{r}
+# How many inventories are there?
+nrow(inventories %>% select(BdprotoID) %>% unique())
+```
+
+```{r}
+# How many distinct Glottocodes are there?
+bdproto.glottocodes <- inventories %>% select(Glottocode) %>% unique()
+nrow(bdproto.glottocodes)
+
+# How many are NA?
+x <- as.data.frame(inventories %>% select(BdprotoID, Glottocode) %>% distinct())
+sum(is.na(x$Glottocode))
+```
+
+```{r}
+# Get the Glottolog family IDs -- this doesn't do much because language families don't have latitude, longitude, area, etc.
+glottolog <- read.csv('glottolog_languoid.csv/languoid.csv', header=T, stringsAsFactors = F)
+glottlog.families <- glottolog %>% select(family_id) %>% distinct()
+```
+
+```{r}
+# How many BDPROTO Glottocodes are in the Glottolog top-level language family trees?
+table(bdproto.glottocodes$Glottocode %in% glottlog.families$family_id)
+```
+
+```{r}
+# Which ones?
+bdproto.in.glottolog <- bdproto.glottocodes[which(bdproto.glottocodes$Glottocode %in% glottlog.families$family_id), ]
+bdproto.in.glottolog
+```
+
+```{r}
+# How many segments do the proto-languages have?
+inventories.counts <- inventories %>% select(BdprotoID, LanguageName) %>% group_by(BdprotoID, LanguageName) %>% summarize(segments=n()) %>% arrange(desc(segments))
+inventories.counts
+```
+
+```{r}
+summary(inventories.counts$segments)
+inventories.counts$BdprotoID <- factor(inventories.counts$BdprotoID, levels=inventories.counts$BdprotoID[order(-inventories.counts$segments)])
+qplot(inventories.counts$LanguageName, inventories.counts$segments)
+```
+
+
+```{r}
+# What is the frequency of segments across the proto-languages?
+segment.counts <- inventories %>% select(Phoneme) %>% group_by(Phoneme) %>% summarize(count=n()) %>% arrange(desc(count)) %>% filter(!is.na(Phoneme))
+dim(segment.counts)
+head(segment.counts)
+segment.counts$Phoneme <- factor(segment.counts$Phoneme, levels=segment.counts$Phoneme[order(-segment.counts$count)])
+ggplot(segment.counts, aes(x=Phoneme, y=count))+
+  geom_point() + 
+  ylab('count') +
+  xlab('Phoneme')
+```
+
+```{r}
+# Plot just the top 50 most frequent segments in BSD
+top <- head(segment.counts, n=50)
+qplot(top$Phoneme, top$count)
+```
+
+<!--
+########################################################
+# Merge results in segments with NA for feature values #
+########################################################
+inventories %>% dplyr::filter(is.na(consonantal)) %>% select(ID, Name, Glottocode) %>% unique()
+missing.segments <- inventories %>% filter(is.na(consonantal)) %>% select(Phoneme) %>% unique()
+write.table(missing.segments, "missing-segments.csv", sep="\t", quote = F, row.names = F)
+
+# There are 36 languages that have one or more missing feature vectors.
+dim(inventories %>% filter(is.na(consonantal)) %>% select(ID, Name) %>% unique())
+no.feature.vectors <- anti_join(inventories, features)
+no.feature.vectors <- no.feature.vectors %>% select(ID, Name, Phoneme, Source) %>% arrange(Name) %>% arrange(ID)
+nrow(no.feature.vectors) # 91 feature vectors missing (with duplicates)
+dim(no.feature.vectors %>% distinct(LanguageName)) # 36 distinct segments
+head(no.feature.vectors)
+-->
