@@ -1,16 +1,16 @@
-BdprotoID,LanguageName,Glottocode,BibtexKey,LanguageFamily,TimeDepth,TimeDepthYBP,MetadataNotes,Homeland,HomelandSource
-1,Proto-Berber,berb1260,basset1952,Afro-Asiatic,louali2003protoberberes,7000,no squib,,
-2,Proto-Kartvelian,kart1248,bomhard1990,Caucasian,-5000 (gamkrelidze1995indo),5000,p.804 fn 28,,
-3,Proto-Balto-Slavic,balt1263,kortlandt1979_phon,,between 1500 and 1000 B.C. (novotna2011glottochronology),3000,,,
-4,Proto-Slavic,slav1255,schenker1993proto,,around 500 AD split of daughter languages (andersen2003language),1500,,Eastern Poland and Wester Ukraine,andersen2003language
-5,Proto-Celtic,celt1248,schrijver1995studies,,gosden2014celtic,3000,,,
-6,Proto-Tai,daic1237,pittayaporn2009proto,,between one and three thousand years ago (enfield2013linguistic),1000,,,
-7,Proto-Turkic,turk1311,ronatas1998reconstruction,,hruschka2015detecting,2200,,,
-8,Proto-Mongolic,mong1329,jahunen2003,,less than 1000 years (brown2010concise),1000,,,
-9,Proto-Kra,kada1291,ostapirat2000proto-kra,,,,,,
-10,Proto-Hlai,nucl1241,norquest2007phonological,,,,,,
-11,Proto-Tibeto-Burman,NA,matisoff2003handbook,,stedt2015sinotibetan,6000,,"Somewhere on the Himalayan plateau, where the great rivers of East and Southeast Asia (including the Yellow, Yangtze, Mekong, Brahmaputra, Salween, and Irrawaddy) have their source",stedt2015sinotibetan
-12,Proto-Austroasiatic,aust1305,shorto2006mon,,2000 BCE (sidwell-family),4000,,,
-13,Proto-Iroquoian,iroq1247,julian2010history,,"3,500 to 3,800 for the split of South and North Iroquoian (lounsbury1961iroquois)",5500,,,
-14,Proto-Dené–Caucasian,NA,bengtson2008materials,,,,,,
-15,Indo-European,indo1319,Fortson2011-indo-european,Indo-European,,,,,
+BdprotoID,LanguageName,Glottocode,BibtexKey,LanguageFamily,InventoryType,TimeDepth,TimeDepthYBP,MetadataNotes,Homeland,HomelandSource
+1,Proto-Berber,berb1260,basset1952,Afro-Asiatic,,louali2003protoberberes,7000,no squib,,
+2,Proto-Kartvelian,kart1248,bomhard1990,Caucasian,,-5000 (gamkrelidze1995indo),5000,p.804 fn 28,,
+3,Proto-Balto-Slavic,balt1263,kortlandt1979_phon,,,between 1500 and 1000 B.C. (novotna2011glottochronology),3000,,,
+4,Proto-Slavic,slav1255,schenker1993proto,,,around 500 AD split of daughter languages (andersen2003language),1500,,Eastern Poland and Wester Ukraine,andersen2003language
+5,Proto-Celtic,celt1248,schrijver1995studies,,,gosden2014celtic,3000,,,
+6,Proto-Tai,daic1237,pittayaporn2009proto,,,between one and three thousand years ago (enfield2013linguistic),1000,,,
+7,Proto-Turkic,turk1311,ronatas1998reconstruction,,,hruschka2015detecting,2200,,,
+8,Proto-Mongolic,mong1329,jahunen2003,,,less than 1000 years (brown2010concise),1000,,,
+9,Proto-Kra,kada1291,ostapirat2000proto-kra,,,,,,,
+10,Proto-Hlai,nucl1241,norquest2007phonological,,,,,,,
+11,Proto-Tibeto-Burman,NA,matisoff2003handbook,,,stedt2015sinotibetan,6000,,"Somewhere on the Himalayan plateau, where the great rivers of East and Southeast Asia (including the Yellow, Yangtze, Mekong, Brahmaputra, Salween, and Irrawaddy) have their source",stedt2015sinotibetan
+12,Proto-Austroasiatic,aust1305,shorto2006mon,,,2000 BCE (sidwell-family),4000,,,
+13,Proto-Iroquoian,iroq1247,julian2010history,,,"3,500 to 3,800 for the split of South and North Iroquoian (lounsbury1961iroquois)",5500,,,
+14,Proto-Dené–Caucasian,NA,bengtson2008materials,,,,,,,
+15,Indo-European,indo1319,Fortson2011-indo-european,Indo-European,,,,,,
