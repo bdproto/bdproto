@@ -363,8 +363,9 @@ ggplot(data = top.z, aes(x = Phoneme, group=1)) +
   geom_line(aes(y = Phoible.percentage, color = "PHOIBLE")) + 
   geom_line(aes(y = Bdproto.percentage, color = "BDPROTO")) +
   ylab("Percentage of language sample") +
-  xlab("The 30 most frequent phonemes reported in PHOIBLE") +
-  labs(color="Database")
+  xlab("Most frequent phonemes reported in PHOIBLE") +
+  labs(color="Database") +
+  theme_bw()
 ```
 
 ![](descriptive_stats_files/figure-markdown_github/unnamed-chunk-28-1.png)
@@ -396,8 +397,9 @@ ggplot(data = top.z, aes(x = Phoneme, group=1)) +
   geom_line(aes(y = Phoible.percentage, color = "PHOIBLE")) + 
   geom_line(aes(y = Bdproto.percentage, color = "BDPROTO")) +
   ylab("Percentage of language sample") +
-  xlab("The 50 most frequent phonemes reported in PHOIBLE") +
-  labs(color="Database")
+  xlab("Most frequent phonemes reported in PHOIBLE") +
+  labs(color="Database") +
+  theme_bw()
 ```
 
 ![](descriptive_stats_files/figure-markdown_github/unnamed-chunk-29-1.png)
