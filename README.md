@@ -7,7 +7,7 @@ BDPROTO 1.0 is described in:
 
 ```Marsico, Egidio, Sebastien Flavier, Annemarie Verkerk and Steven Moran. 2018. BDPROTO: A Database of Phonological Inventories from Ancient and Reconstructed Languages. In Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018), 1654-1658. May 7-12, Miyazaki, Japan. Online:``` [http://www.lrec-conf.org/proceedings/lrec2018/pdf/534.pdf](http://www.lrec-conf.org/proceedings/lrec2018/pdf/534.pdf)
 
-An expanded version BDPROTO 1.1 is described in:
+An expanded version, BDPROTO 1.1, is described in:
 
 ```
 Moran, Steven, Eitan Grossman and Annemarie Verkerk. Accepted. Investigating diachronic trends in phonological 
