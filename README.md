@@ -9,8 +9,8 @@ BDPROTO 1.0 is described in:
 
 An expanded version, BDPROTO 1.1, is described in:
 
-```Moran, Steven, Eitan Grossman and Annemarie Verkerk. Accepted. Investigating diachronic trends in phonological 
-inventories using BDPROTO.``` [Language Resources and Evaluation](https://link.springer.com/journal/10579).
+Moran, Steven, Eitan Grossman and Annemarie Verkerk. Accepted. Investigating diachronic trends in phonological 
+inventories using BDPROTO. [Language Resources and Evaluation](https://link.springer.com/journal/10579).
 
 If you use the BDPROTO data in your research, please cite the specific version for replicability purposes. We archive each release of BDPROTO in [Zenodo](https://doi.org/10.5281/zenodo.3521639).
 
