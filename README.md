@@ -28,6 +28,6 @@ Three additional resources have been compiled to update and extend the coverage 
 
 The `ancient-near-east` inventories were collected as part of a project on ancient Near East languages at the Department of Comparative Linguistics at the University of Zurich. Additional inventories were also extracted from source references at the Department of Comparative Linguistics (we simply call this source `uz`). Ongoing work by The Hebrew University of Jerusalem includes phonological inventories from recent publications. This source is labeled `huji`.
 
-For all four data sources, we have gathered additional metadata including identifying information such as [Glottolog](https://glottolog.org/) codes, but also information about estimated time-depths, possible homelands, etc. The phonological inventory data and metadata are aggregated from the four raw data sources into a single flat-file table, available in this directory, called `bdproto.csv`.
+For all four data sources, we have gathered additional metadata (where available) including identifying information such as [Glottolog](https://glottolog.org/) codes, but also information about estimated time-depths, possible homelands, etc. The phonological inventory data and metadata are aggregated from the four raw data sources into a single flat-file table, available in this directory, called `bdproto.csv`.
 
 We have also collected and curated references for each data point and we make them available in the `sources.bib` file. 
