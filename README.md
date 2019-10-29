@@ -3,7 +3,7 @@ BDPROTO
 
 BDPROTO is a database of phonological inventories from ancient and reconstructed languages. The aggregated phonological inventory data and associated metadata is available in a flat CSV file in this directory named `bdproto.csv`. Bibliographic references for each data point are available in the `sources.bib` file.
 
-BDPROTO 1.0 is described in :
+BDPROTO 1.0 is described in:
 
 ```Marsico, Egidio, Sebastien Flavier, Annemarie Verkerk and Steven Moran. 2018. BDPROTO: A Database of Phonological Inventories from Ancient and Reconstructed Languages. In Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018), 1654-1658. May 7-12, Miyazaki, Japan. Online:``` [http://www.lrec-conf.org/proceedings/lrec2018/pdf/534.pdf](http://www.lrec-conf.org/proceedings/lrec2018/pdf/534.pdf)
 
