@@ -1,17 +1,19 @@
 BDPROTO
 =======
 
-BDPROTO is a database of phonological inventories from ancient and reconstructed languages. The aggregated phonological inventory data and associated metadata is available in a flat CSV file in this directory `bdproto.csv`. Bibliographic references for each data point are available in the `sources.bib` file.
+BDPROTO is a database of phonological inventories from ancient and reconstructed languages. The aggregated phonological inventory data and associated metadata is available in a flat CSV file in this directory named `bdproto.csv`. Bibliographic references for each data point are available in the `sources.bib` file.
 
 This source is described in and can be cited as:
 
 ```Marsico, Egidio, Sebastien Flavier, Annemarie Verkerk and Steven Moran. 2018. BDPROTO: A Database of Phonological Inventories from Ancient and Reconstructed Languages. In Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018), 1654-1658. May 7-12, Miyazaki, Japan. Online:``` [http://www.lrec-conf.org/proceedings/lrec2018/pdf/534.pdf](http://www.lrec-conf.org/proceedings/lrec2018/pdf/534.pdf)
 
-We also maintain a copy of the paper in this [repository](https://github.com/bdproto/bdproto/blob/master/Marsico_etal2018-bdproto.pdf).
+If using the data in your researc, you may also want to cite the specific version being used. We archive the BDPROTO data in [Zendodo](https://doi.org/10.5281/zenodo.3521639).
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3521639)](https://doi.org/10.5281/zenodo.3521639)
 
 The original source data (and project name) come from:
 
-Marsico, Egidio. 1999. What can a database of proto-languages tell us about the last 10,000 years of sound changes. In Proceedings of the XIVth International Congress of Phonetic Sciences (ICPhS99), 353-356. Online: [https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS1999/papers/p14_0353.pdf](https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS1999/papers/p14_0353.pdf)
+```Marsico, Egidio. 1999. What can a database of proto-languages tell us about the last 10,000 years of sound changes. In Proceedings of the XIVth International Congress of Phonetic Sciences (ICPhS99), 353-356. Online:``` [https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS1999/papers/p14_0353.pdf](https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS1999/papers/p14_0353.pdf)
 
 This legacy resource was converted into Unicode UTF-8 using principles defined in [Moran & Cysouw, 2018](https://github.com/unicode-cookbook/cookbook/blob/master/unicode-cookbook.pdf). The original BDPROTO data is available in various formats along with the extraction and transformation scripts at: [https://github.com/bdproto/bdproto-legacy](https://github.com/bdproto/bdproto-legacy). BDPROTO contains a convenience sample aimed at genealogical diversity and it contains no duplicate inventories for a given reconstruction.
 
