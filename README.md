@@ -7,7 +7,7 @@ This source is described in and can be cited as:
 
 ```Marsico, Egidio, Sebastien Flavier, Annemarie Verkerk and Steven Moran. 2018. BDPROTO: A Database of Phonological Inventories from Ancient and Reconstructed Languages. In Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018), 1654-1658. May 7-12, Miyazaki, Japan. Online:``` [http://www.lrec-conf.org/proceedings/lrec2018/pdf/534.pdf](http://www.lrec-conf.org/proceedings/lrec2018/pdf/534.pdf)
 
-If using the data in your researc, you may also want to cite the specific version being used. We archive the BDPROTO data in [Zendodo](https://doi.org/10.5281/zenodo.3521639).
+If using the data in your researc, you may also want to cite the specific version being used. We archive the BDPROTO data in [Zenodo](https://doi.org/10.5281/zenodo.3521639).
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3521639)](https://doi.org/10.5281/zenodo.3521639)
 
