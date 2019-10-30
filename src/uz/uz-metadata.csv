@@ -1,7 +1,7 @@
 BdprotoID,LanguageName,Glottocode,BibtexKey,LanguageFamily,InventoryType,TimeDepth,TimeDepthYBP,MetadataNotes,Homeland,HomelandSource
 1,Proto-Berber,berb1260,basset1952,Afro-Asiatic,,louali2003protoberberes,7000,no squib,,
 2,Proto-Kartvelian,kart1248,bomhard1990,Caucasian,,-5000 (gamkrelidze1995indo),5000,p.804 fn 28,,
-3,Proto-Balto-Slavic,balt1263,kortlandt1979_phon,,,between 1500 and 1000 B.C. (novotna2011glottochronology),3000,,,
+3,Proto-Balto-Slavic,balt1263,kortlandt1979,,,between 1500 and 1000 B.C. (novotna2011glottochronology),3000,,,
 4,Proto-Slavic,slav1255,schenker1993proto,,,around 500 AD split of daughter languages (andersen2003language),1500,,Eastern Poland and Wester Ukraine,andersen2003language
 5,Proto-Celtic,celt1248,schrijver1995studies,,,gosden2014celtic,3000,,,
 6,Proto-Tai,daic1237,pittayaporn2009proto,,,between one and three thousand years ago (enfield2013linguistic),1000,,,

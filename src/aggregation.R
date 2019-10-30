@@ -196,7 +196,7 @@ rm(ane.raw, ane.metadata)
 expect_equal(nrow(bdproto.inventories), 2862)
 expect_equal(nrow(uz.inventories), 573)
 expect_equal(nrow(ane.inventories), 666)
-expect_equal(nrow(huji.inventories), 3468)
+expect_equal(nrow(huji.inventories), 3541)
 
 # Stack em!
 inventories <- bind_rows(bdproto.inventories, uz.inventories, ane.inventories, huji.inventories)
@@ -206,9 +206,9 @@ rownames(inventories) <- NULL
 # Test counts
 expect_equal(nrow(inventories), nrow(bdproto.inventories)+nrow(uz.inventories)+nrow(ane.inventories)+nrow(huji.inventories))
 nrow(inventories %>% select(LanguageName) %>% distinct())
-expect_equal(nrow(inventories %>% select(LanguageName) %>% distinct()), 243) # unique language names
+expect_equal(nrow(inventories %>% select(LanguageName) %>% distinct()), 246) # unique language names
 nrow(inventories %>% select(BdprotoID) %>% distinct())
-expect_equal(nrow(inventories %>% select(BdprotoID) %>% distinct()), 254) # unique inventories
+expect_equal(nrow(inventories %>% select(BdprotoID) %>% distinct()), 257) # unique inventories
 rm(ane.inventories, bdproto.inventories, uz.inventories, huji.inventories)
 
 # Tests for duplicates -- should be 0!!
@@ -220,15 +220,15 @@ rm(dups)
 ####################################
 # Add the PHOIBLE segment features #
 ####################################
-load(url('https://github.com/phoible/dev/blob/master/data/phoible-by-phoneme.RData?raw=true'))
-features <- read.table('https://raw.githubusercontent.com/phoible/dev/master/raw-data/FEATURES/phoible-segments-features.tsv', header=T, sep='\t', stringsAsFactors=F)
-expect_equal(nrow(features), 2163)
+load(url('https://github.com/phoible/dev/blob/master/data/phoible.RData?raw=true'))
+features <- phoible %>% select(Phoneme,tone,stress,syllabic,short,long,consonantal,sonorant,continuant,delayedRelease,approximant,tap,trill,nasal,lateral,labial,round ,labiodental,coronal,anterior,distributed,strident,dorsal,high,low,front,back,tense,retractedTongueRoot,advancedTongueRoot,periodicGlottalSource,epilaryngealSource,spreadGlottis,constrictedGlottis,fortis,raisedLarynxEjective,loweredLarynxImplosive,click) %>% distinct()
+expect_equal(nrow(features), 3169)
 num_inventories <- nrow(inventories)
 
 # Merge
-inventories <- left_join(inventories, features, by=c("Phoneme"="segment"))
+inventories <- left_join(inventories, features)
 expect_equal(nrow(inventories), num_inventories)
-rm(num_inventories, final.data, features)
+rm(num_inventories, phoible, features)
 
 # Identify potential coding errors in HUJI
 bad.chars <- inventories %>% filter(Source=="HUJI") %>% group_by(Phoneme, consonantal) %>% select(Phoneme, consonantal) %>% filter(is.na(consonantal)) %>% distinct()
@@ -242,13 +242,13 @@ rm(bad.chars)
 # Identify consonant vs vowels #
 ################################
 phonemes <- inventories %>% group_by(Phoneme) %>% select(Phoneme, consonantal, syllabic) %>% distinct()
-table(phonemes$consonantal, exclude=F) # 349 NAs
+table(phonemes$consonantal, exclude=F) # 319 NAs
 
 # [consonantal] is a proxy for consonants and does not work in all cases, see below
 phonemes.cs <- phonemes %>% summarize(is.consonantal = ifelse(consonantal=="+", TRUE, FALSE))
 phonemes.vs <- phonemes %>% summarize(is.not.consonantal = ifelse(consonantal=="-" & syllabic=="+", TRUE, FALSE))
 phonemes.status <- left_join(phonemes.cs, phonemes.vs)
-phonemes.status[which(phonemes.status$is.consonant == phonemes.status$is.vowel),]
+phonemes.status[which(phonemes.status$is.consonantal == phonemes.status$is.not.consonantal),]
 
 # We write the data to disk and then fix the missing data points by hand
 # To this we add a `type` column (copied from `is.consonantal` and updated by hand)
@@ -269,6 +269,7 @@ inventories <- left_join(inventories, segment.types)
 table(inventories$type, exclude=F) # Looks like 16 NA segments to deal with
 
 rm(segment.types)
+
 
 ###############
 # Data checks #
