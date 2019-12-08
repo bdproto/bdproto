@@ -1,6 +1,7 @@
 ---
 title: "BDPROTO descriptive stats"
 author: "Steven Moran"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
 output:
   github_document:
   pandoc_args: --webtex
@@ -240,6 +241,19 @@ ggplot(data = top.z, aes(x = Phoneme, group=1)) +
   ylab("Percentage of language sample") +
   xlab("Most frequent phonemes reported in PHOIBLE") +
   labs(color="Database") +
+  theme_bw()
+```
+
+```{r}
+# Try top 30 phonemes without color
+top.z <- head(z, n=30)
+
+ggplot(data = top.z, aes(x = Phoneme, group=1)) +
+  geom_line(aes(y = Bdproto.percentage, linetype = "BDPROTO")) +
+  geom_line(aes(y = Phoible.percentage, linetype = "PHOIBLE")) + 
+  ylab("Percentage of language sample") +
+  xlab("Most frequent phonemes reported in PHOIBLE and BDPROTO") +
+  labs(linetype="Database") +
   theme_bw()
 ```
 

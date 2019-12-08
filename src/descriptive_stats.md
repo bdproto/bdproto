@@ -1,6 +1,7 @@
 BDPROTO descriptive stats
 ================
 Steven Moran
+08 December, 2019
 
 ``` r
 library(dplyr)
@@ -426,6 +427,21 @@ ggplot(data = top.z, aes(x = Phoneme, group=1)) +
 ![](descriptive_stats_files/figure-markdown_github/unnamed-chunk-29-1.png)
 
 ``` r
+# Try top 30 phonemes without color
+top.z <- head(z, n=30)
+
+ggplot(data = top.z, aes(x = Phoneme, group=1)) +
+  geom_line(aes(y = Bdproto.percentage, linetype = "BDPROTO")) +
+  geom_line(aes(y = Phoible.percentage, linetype = "PHOIBLE")) + 
+  ylab("Percentage of language sample") +
+  xlab("Most frequent phonemes reported in PHOIBLE and BDPROTO") +
+  labs(linetype="Database") +
+  theme_bw()
+```
+
+![](descriptive_stats_files/figure-markdown_github/unnamed-chunk-30-1.png)
+
+``` r
 # Try top 50 phonemes
 top.z <- head(z, n=50)
 
@@ -457,7 +473,7 @@ ggplot(data = top.z, aes(x = Phoneme, group=1)) +
   theme_bw()
 ```
 
-![](descriptive_stats_files/figure-markdown_github/unnamed-chunk-30-1.png)
+![](descriptive_stats_files/figure-markdown_github/unnamed-chunk-31-1.png)
 
 ``` r
 # Get dates
