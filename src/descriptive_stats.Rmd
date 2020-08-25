@@ -6,67 +6,80 @@ output:
   github_document:
   pandoc_args: --webtex
 ---
+
+Some preliminary descriptive stats about the current BDPROTO data.
   
 ```{r, warning=FALSE, message=FALSE}
 library(dplyr)
+library(readr)
 library(ggplot2)
 library(knitr)
 ```
 
-```{r}
-# Load BDPROTO data
-load(file='../bdproto.Rdata')
+Load BDPROTO data.
 
-# Take a look at the full data format
-# glimpse(inventories)
+```{r}
+load(file='../bdproto.Rdata')
 ```
 
+Display a subset of the data.
+
 ```{r}
-# Display a subset
 kable(inventories %>% select(BdprotoID, LanguageName, Glottocode, Phoneme, LanguageFamily, TimeDepthYBP) %>% arrange(BdprotoID)) %>% head()
 ```
 
+How many total inventories are there (with duplicate languages)?
+
 ```{r}
-# How many total inventories are there (with duplicate languages)?
 nrow(inventories %>% select(BdprotoID) %>% unique())
 ```
 
+How many data points are there per data source?
+
 ```{r}
-# How many data points are there per data source?
 sources <- inventories %>% select(BdprotoID, LanguageName, Source) %>% 
   group_by(BdprotoID, LanguageName, Source) %>% distinct()
 table(sources$Source)
 ```
 
+How many unique phonemes are there?
+
 ```{r}
-# How many unique phonemes are there?
 # TODO: some of these will have to be cleaned up, so the figure will be lower.
 nrow(inventories %>% select(Phoneme) %>% group_by(Phoneme) %>% distinct())
 ```
 
-```{r}
-# How many language families are tagged?
-nrow(inventories %>% select(LanguageFamily) %>% group_by(LanguageFamily) %>% distinct())
-# What are they?
-# table(inventories %>% select(LanguageFamily) %>% group_by(LanguageFamily) %>% distinct())
-```
+How many language families are tagged?
 
 ```{r}
-# How many distinct vs duplicate data points are there?
+nrow(inventories %>% select(LanguageFamily) %>% group_by(LanguageFamily) %>% distinct())
+```
+
+What are they?
+
+```{r}
+table(inventories %>% select(LanguageFamily) %>% group_by(LanguageFamily) %>% distinct()) %>% kable()
+```
+
+How many distinct vs duplicate data points are there?
+
+```{r}
 temp <- inventories %>% select(BdprotoID, LanguageName, Glottocode, Duplicate) %>% unique() %>% arrange(LanguageName)
 table(temp$Duplicate)
-
-# That is, there are 178 independent data points and 79 duplicated ones. Through manual inspection, we identified 3 sets of duplicates (9 data points), and the rest are doubles. This means: 70/2=25 + 3 + 178 == **206 unique language data points**.
 ```
 
+That is, there are 178 independent data points and 79 duplicated ones. Through manual inspection, we identified 3 sets of duplicates (9 data points), and the rest are doubles. This means: 70/2=25 + 3 + 178 == **206 unique language data points**.
+
+How many distinct Glottocodes are there? Some are NA (i.e. don't exist, e.g. Altaic) and others have not yet been identified.
+
 ```{r}
-# How many distinct Glottocodes are there? Some are NA (i.e. don't exist, e.g. Altaic) and others have not yet been identified.
 bdproto.glottocodes <- inventories %>% select(Glottocode) %>% filter(!is.na(Glottocode)) %>% unique()
 nrow(bdproto.glottocodes) # 187 without NAs or ""
 ```
 
+How many Glottocodes are NA (i.e. we know there exists no Glottocode at the moment)?
+
 ```{r}
-# How many Glottocodes are NA (i.e. we know there exists no Glottocode at the moment)?
 # inventories %>% group_by(BdprotoID, Glottocode) %>% select(BdprotoID, Glottocode) %>% distinct() %>% filter(n()<1)
 temp <- as.data.frame(inventories %>% select(BdprotoID, Glottocode) %>% distinct())
 table(temp$Glottocode=="") # 22
@@ -77,103 +90,132 @@ table(temp$Glottocode=="", exclude=F) # 11 NA
 # expect_that() # 224 + 22 + 11 = 257
 ```
 
+Get the Glottolog family IDs (this doesn't do much because language families don't have latitude, longitude, area, etc.)
+
 ```{r}
-# Get the Glottolog family IDs -- this doesn't do much because language families don't have latitude, longitude, area, etc.
 glottolog <- read.csv('glottolog_languoid.csv/languoid.csv', header=T, stringsAsFactors = F)
 glottlog.families <- glottolog %>% select(family_id) %>% distinct()
 ```
 
-```{r}
-# How many BDPROTO Glottocodes are in the Glottolog top-level language family trees?
-table(bdproto.glottocodes$Glottocode %in% glottlog.families$family_id)
+How many BDPROTO Glottocodes are in the Glottolog top-level language family trees?
 
-# Which ones?
+```{r}
+table(bdproto.glottocodes$Glottocode %in% glottlog.families$family_id)
+```
+
+Which ones?
+
+```{r}
 kable(bdproto.glottocodes[which(bdproto.glottocodes$Glottocode %in% glottlog.families$family_id), ])
 ```
 
+How many segments do the proto-languages have? (Note some inventories only have consonant or vowel inventories specified, so we filter by the `InventoryType` field.)
 
 ```{r}
-# How many segments do the proto-languages have? (Note some inventories only have consonant or vowel inventories specified, so we filter by the `InventoryType` field.)
 inventories.counts <- inventories %>% select(BdprotoID, LanguageName, InventoryType) %>% group_by(BdprotoID, LanguageName, InventoryType) %>% summarize(segments=n()) %>% arrange(segments)
 dim(inventories.counts)
 ```
 
+Drop consonant and vowel only inventories (currently 10 data points)
+
 ```{r}
-# Drop consonant and vowel only inventories (currently 10 data points)
 inventories.counts.cs.vs <- inventories.counts %>% filter(is.na(InventoryType))
 dim(inventories.counts.cs.vs)
 ```
 
+What is the median and mean number of segments in the sample (for full consonant and vowel inventories)?
+
 ```{r}
-# What is the median and mean number of segments in the sample (for full consonant and vowel inventories)?
 summary(inventories.counts.cs.vs$segments)
 ```
 
+All segment types.
+
 ```{r}
-# All segment types
 # TODO: fix the NAs in the input data
 table(inventories$type, exclude=F)
 ```
 
+Get consonant counts and stats of ALL inventories.
+
 ```{r}
-# Get consonant counts and stats of ALL inventories
 inventories.consonants <- inventories %>% filter(is.na(InventoryType) | InventoryType=="consonants") %>% filter(Source!="ANE") 
 table(inventories.consonants$InventoryType, exclude=F)
 ```
 
+Get the consonant counts per inventory (252 data points).
+
 ```{r}
-# Get the consonant counts per inventory (252 data points)
 c.counts <- inventories.consonants %>% select(BdprotoID, Phoneme, type) %>% filter(type=="C") %>%  group_by(BdprotoID) %>% summarize(consonants = n())
 summary(c.counts$consonants)
 ```
 
-```{r}
-# Get consonant counts and stats of original BDPROTO (one data point per genealogical unit)
-og.bdproto.cs <- inventories %>% filter(is.na(InventoryType) | InventoryType=="consonants") %>% filter(Source=="BDPROTO")
+Get consonant counts and stats of original BDPROTO (one data point per genealogical unit).
 
-# Get the consonant counts per inventory (252 data points)
+```{r}
+og.bdproto.cs <- inventories %>% filter(is.na(InventoryType) | InventoryType=="consonants") %>% filter(Source=="BDPROTO")
+```
+
+Get the consonant counts per inventory (252 data points).
+
+```{r}
 og.c.counts <- og.bdproto.cs %>% select(BdprotoID, Phoneme, type) %>% filter(type=="C") %>% group_by(BdprotoID) %>% summarize(consonants = n())
 summary(og.c.counts$consonants)
 ```
 
+Get vowel counts and stats of ALL inventories.
+
 ```{r}
-# Get vowel counts and stats of ALL inventories
 inventories.vowels <- inventories %>% filter(is.na(InventoryType) | InventoryType=="vowels") %>% filter(Source!="ANE")
 table(inventories.vowels$InventoryType, exclude=F)
+```
 
-# Get the vowel counts per inventory (should be 252 data points)
+Get the vowel counts per inventory (should be 252 data points).
+
+```{r}
 v.counts <- inventories.vowels %>% select(BdprotoID, Phoneme, type) %>% filter(type=="V") %>% group_by(BdprotoID) %>% summarize(vowels = n())
 summary(v.counts$vowels)
 ```
 
-```{r}
-# Get vowel counts and stats of original BDPROTO  (one data point per genealogical unit)
-og.bdproto.vs <- inventories %>% filter(is.na(InventoryType) | InventoryType=="vowels") %>% filter(Source=="BDPROTO")
+Get vowel counts and stats of original BDPROTO (one data point per genealogical unit).
 
-# Get the consonant counts per inventory (252 data points)
+```{r}
+og.bdproto.vs <- inventories %>% filter(is.na(InventoryType) | InventoryType=="vowels") %>% filter(Source=="BDPROTO")
+```
+
+Get the consonant counts per inventory (252 data points).
+
+```{r}
 og.v.counts <- og.bdproto.vs %>% select(BdprotoID, Phoneme, type) %>% filter(type=="V") %>% group_by(BdprotoID) %>% summarize(vowels = n())
 summary(og.v.counts$vowels)
 ```
 
+Plot segment counts (all inventories).
+
 ```{r}
-# Plot segment counts (all inventories)
 inventories.counts$BdprotoID <- factor(inventories.counts$BdprotoID, levels=inventories.counts$BdprotoID[order(-inventories.counts$segments)])
 qplot(inventories.counts$LanguageName, inventories.counts$segments)
 ```
 
+What is the frequency of segments across the proto-languages? Use only inventories that have both consonant and vowel descriptions.
 
 ```{r}
-# What is the frequency of segments across the proto-languages? Use only inventories that have both consonant and vowel descriptions.
 inventories.cs.vs <- inventories %>% filter(is.na(InventoryType))
 segment.counts <- inventories.cs.vs %>% select(Phoneme) %>% group_by(Phoneme) %>% summarize(count=n()) %>% arrange(desc(count)) %>% filter(!is.na(Phoneme))
 dim(segment.counts)
 head(segment.counts)
+```
 
-# Get percentages
+Get percentages.
+
+```{r}
 total.inventories <- nrow(inventories.cs.vs %>% select(BdprotoID) %>% distinct())
 segment.counts$Percentage <- segment.counts$count/total.inventories
+```
 
-# Plot it
+Plot it.
+
+```{r}
 segment.counts$Phoneme <- factor(segment.counts$Phoneme, levels=segment.counts$Phoneme[order(-segment.counts$count)])
 ggplot(segment.counts, aes(x=Phoneme, y=count))+
 geom_point() + 
@@ -181,16 +223,18 @@ ylab('count') +
 xlab('Phoneme')
 ```
 
+Plot just the top 50 most frequent segments.
+
 ```{r}
-# Plot just the top 50 most frequent segments
 top <- head(segment.counts, n=50)
 # qplot(top$Phoneme, top$count)
 qplot(top$Phoneme, top$Percentage)
 ```
 
+Get phoible phonemes for comparison.
+
 ```{r}
-# Get phoible phonemes for comparison
-load(url('https://github.com/phoible/dev/blob/master/data/phoible.RData?raw=true'))
+phoible <- read_csv('https://raw.githubusercontent.com/phoible/dev/master/data/phoible.csv')
 
 # PHOIBLE inventories are not unique (3020)
 num.phoible.inventories <- nrow(phoible %>% select(InventoryID) %>% distinct())
@@ -207,19 +251,50 @@ head(phoible.phonemes)
 phoible.phonemes$Phoneme <- factor(phoible.phonemes$Phoneme, levels=phoible.phonemes$Phoneme[order(-phoible.phonemes$count)])
 ```
 
+Segment counts (disregards genealogical relatedness and areal proximity).
+
 ```{r}
-# Frequency distribution of phonemes in phoible
+phoible.counts <- phoible %>% select(InventoryID, Phoneme, SegmentClass) %>% group_by(InventoryID) %>% summarize(segments=n())
+summary(phoible.counts$segments)
+```
+
+Consonant counts (disregards genealogical relatedness and areal proximity).
+
+```{r}
+phoible.cs <- phoible %>% select(InventoryID, Phoneme, SegmentClass) %>% filter(SegmentClass == "consonant") %>% group_by(InventoryID) %>% summarize(segments=n())
+summary(phoible.cs$segments)
+```
+
+Vowel counts (disregards genealogical relatedness and areal proximity).
+
+```{r}
+phoible.vs <- phoible %>% select(InventoryID, Phoneme, SegmentClass) %>% filter(SegmentClass == "vowel") %>% group_by(InventoryID) %>% summarize(segments=n())
+summary(phoible.vs$segments)
+```
+
+Tone counts (disregards genealogical relatedness and areal proximity).
+
+```{r}
+phoible.ts <- phoible %>% select(InventoryID, Phoneme, SegmentClass) %>% filter(SegmentClass == "tone") %>% group_by(InventoryID) %>% summarize(segments=n())
+summary(phoible.ts$segments)
+```
+
+Frequency distribution of phonemes in phoible.
+
+```{r}
 qplot(phoible.phonemes$Phoneme, phoible.phonemes$Percentage)
 ```
 
+Frequency distribution of 50 most frequent phonemes in phoible.
+
 ```{r}
-# Frequency distribution of 50 most frequent phonemes in phoible
 top.phoible <- head(phoible.phonemes, n=50)
 qplot(top.phoible$Phoneme, top$Percentage)
 ```
 
+Combine the phoneme counts to plot them together in one graph.
+
 ```{r}
-# Combine the phoneme counts to plot them together in one graph
 x <- phoible.phonemes
 colnames(x) <- c("Phoneme", "Phoible.count", "Phoible.percentage")
 y <- segment.counts
@@ -231,8 +306,9 @@ rm(x,y)
 z$Phoneme <- factor(z$Phoneme, levels=z$Phoneme[order(-z$Phoible.count)])
 ```
 
+Try top 30 phonemes.
+
 ```{r}
-# Try top 30 phonemes
 top.z <- head(z, n=30)
 
 ggplot(data = top.z, aes(x = Phoneme, group=1)) +
@@ -244,8 +320,9 @@ ggplot(data = top.z, aes(x = Phoneme, group=1)) +
   theme_bw()
 ```
 
+Try top 30 phonemes without color.
+
 ```{r}
-# Try top 30 phonemes without color
 top.z <- head(z, n=30)
 
 ggplot(data = top.z, aes(x = Phoneme, group=1)) +
@@ -257,8 +334,9 @@ ggplot(data = top.z, aes(x = Phoneme, group=1)) +
   theme_bw()
 ```
 
+Try top 50 phonemes.
+
 ```{r}
-# Try top 50 phonemes
 top.z <- head(z, n=50)
 
 # Some phonemes occur very rarely in BDPROTO (or not at all) compared to PHOIBLE, e.g. /ts/ occurs at 2.5%. High tone not at all.
@@ -274,15 +352,16 @@ ggplot(data = top.z, aes(x = Phoneme, group=1)) +
   theme_bw()
 ```
 
+Get dates.
+
 ```{r}
-# Get dates
 inventories.dates <- inventories.cs.vs %>% select(BdprotoID, LanguageName, LanguageFamily, TimeDepthYBP) %>% group_by(BdprotoID, LanguageName, LanguageFamily, TimeDepthYBP) %>% distinct() %>% arrange(desc(TimeDepthYBP)) %>% filter(TimeDepthYBP < 10001)
 head(inventories.dates)
 ```
 
-```{r}
-# Get coverage by Glottolog macroarea
+Get coverage by Glottolog macroarea.
 
+```{r}
 # Get the geo/genealogical data from Glottolog
 geo <- read.csv(url("https://cdstar.shh.mpg.de/bitstreams/EAEA0-E7DE-FA06-8817-0/languages_and_dialects_geo.csv"), stringsAsFactors = FALSE)
 
