@@ -1,0 +1,61 @@
+---
+title: "BDPROTO raw data sources aggregation script"
+author: "Steven Moran <steven.moran@uzh.ch>"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output:
+  github_document:
+  pandoc_args: --webtex
+---
+
+# Overview
+
+This a script to aggregate the raw data sources in BDPROTO into single CSV and RData files.
+
+In BDPROTO versions 1.0 and 1.1, we integreated separate metadata for each raw data source (`bdproto-original`, `uz`, `huji`, and `ancient-near-east`). To make things easier to maintain and process, we extracted the metadata fields pertinent to all source inventories into a separate CSV file, which we then aggregated into the combined raw data sources.
+
+```{r, warning=FALSE, message=FALSE}
+library(testthat)
+library(tidyverse)
+library(dplyr)
+library(readr)
+library(knitr)
+library(stringi)
+```
+
+Read in the metadata.
+
+```{r, warning=FALSE, message=FALSE}
+metadata <- read_csv('BDPROTO metadata - bdproto_metadata.csv')
+```
+
+Let's do some tests to make sure things like Glottolog glottocodes are valid. First load the Glottolog's languiods data.
+
+```{r, warning=FALSE, message=FALSE}
+glottolog <- read_csv('glottolog_languoid.csv/languoid.csv')
+```
+
+Then make sure all BDPROTO glottocodes are represented in that file. Note that we have a bunch of NAs (we know there exists no glottocode for these languages). These should all be NA.
+
+```{r}
+metadata$Glottocode[which(!(metadata$Glottocode %in% glottolog$id))]
+```
+
+Let's eyeball the canonical language names for typos.
+
+```{r}
+table(metadata$LanguageName) %>% kable()
+```
+
+And the same for the language family names.
+
+```{r}
+table(metadata$LanguageFamily) %>% kable()
+```
+
+And the same for the root level language families.
+
+```{r}
+table(metadata$LanguageFamilyRoot) %>% kable()
+```
+
+
