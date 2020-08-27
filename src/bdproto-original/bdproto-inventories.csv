@@ -1,4 +1,4 @@
-BdprotoID,LanguageName,LanguageFamily,Phoneme
+BdprotoID,SourceLanguageName,SourceLanguageFamily,Phoneme
 1061,AFRO-ASIATIC,Afro-Asiatic,ʕ
 1061,AFRO-ASIATIC,Afro-Asiatic,ʔ
 1061,AFRO-ASIATIC,Afro-Asiatic,ħ
@@ -212,9 +212,9 @@ BdprotoID,LanguageName,LanguageFamily,Phoneme
 1110,ATHAPASKAN,"Na-Dene, Athabaskan",u
 1110,ATHAPASKAN,"Na-Dene, Athabaskan",w
 1110,ATHAPASKAN,"Na-Dene, Athabaskan",xʲ
-1110,ATHAPASKAN,"Na-Dene, Athabaskan",ɡʲʷ
-1110,ATHAPASKAN,"Na-Dene, Athabaskan",kʲʷ
-1110,ATHAPASKAN,"Na-Dene, Athabaskan",xʲʷ
+1110,ATHAPASKAN,"Na-Dene, Athabaskan",ɡʷʲ
+1110,ATHAPASKAN,"Na-Dene, Athabaskan",kʷʲ
+1110,ATHAPASKAN,"Na-Dene, Athabaskan",xʷʲ
 1104,ATTIC,"Indo-European, Greek",ɛ
 1104,ATTIC,"Indo-European, Greek",ɔ
 1104,ATTIC,"Indo-European, Greek",a
@@ -274,7 +274,6 @@ BdprotoID,LanguageName,LanguageFamily,Phoneme
 1041,AUSTRONESIAN,"Austro-Tai, Austronesian",j
 1041,AUSTRONESIAN,"Austro-Tai, Austronesian",k
 1041,AUSTRONESIAN,"Austro-Tai, Austronesian",l
-1041,AUSTRONESIAN,"Austro-Tai, Austronesian",ɭ
 1041,AUSTRONESIAN,"Austro-Tai, Austronesian",ɭ
 1041,AUSTRONESIAN,"Austro-Tai, Austronesian",m
 1041,AUSTRONESIAN,"Austro-Tai, Austronesian",n
@@ -1111,7 +1110,7 @@ BdprotoID,LanguageName,LanguageFamily,Phoneme
 1051,INDO-EUROPEAN,Indo-European,bʰ
 1051,INDO-EUROPEAN,Indo-European,dʰ
 1051,INDO-EUROPEAN,Indo-European,ɡʰ
-1051,INDO-EUROPEAN,Indo-European,ɡʰʷ
+1051,INDO-EUROPEAN,Indo-European,ɡʷʰ
 1052,KARTVELIAN,Caucasian,θ̪
 1052,KARTVELIAN,Caucasian,ð
 1052,KARTVELIAN,Caucasian,ɢ
@@ -2409,7 +2408,6 @@ BdprotoID,LanguageName,LanguageFamily,Phoneme
 1085,SAMOYED,"Ural-Altaic, Samoyed",l
 1085,SAMOYED,"Ural-Altaic, Samoyed",m
 1085,SAMOYED,"Ural-Altaic, Samoyed",n
-1085,SAMOYED,"Ural-Altaic, Samoyed",o
 1085,SAMOYED,"Ural-Altaic, Samoyed",o
 1085,SAMOYED,"Ural-Altaic, Samoyed",ø
 1085,SAMOYED,"Ural-Altaic, Samoyed",p

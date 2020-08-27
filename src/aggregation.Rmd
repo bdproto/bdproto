@@ -22,6 +22,9 @@ library(knitr)
 library(stringi)
 ```
 
+
+# Metadata
+
 Read in the metadata.
 
 ```{r, warning=FALSE, message=FALSE}
@@ -43,19 +46,300 @@ metadata$Glottocode[which(!(metadata$Glottocode %in% glottolog$id))]
 Let's eyeball the canonical language names for typos.
 
 ```{r}
-table(metadata$LanguageName) %>% kable()
+table(metadata$LanguageName) %>% kable() %>% head()
 ```
 
 And the same for the language family names.
 
 ```{r}
-table(metadata$LanguageFamily) %>% kable()
+table(metadata$LanguageFamily) %>% kable() %>% head()
 ```
 
 And the same for the root level language families.
 
 ```{r}
-table(metadata$LanguageFamilyRoot) %>% kable()
+table(metadata$LanguageFamilyRoot) %>% kable() %>% head()
 ```
 
+
+# Load and clean raw data sources
+
+## Original BDPROTO inventories 
+
+Load the data.
+
+```{r, warning=FALSE, message=FALSE}
+bdproto.inventories <- read_csv('bdproto-original/bdproto-inventories.csv')
+expect_equal(nrow(bdproto.inventories), 2862)
+```
+
+
+## UZ inventories
+
+Load the inventories from the `UZ` source.
+
+```{r, warning=FALSE, message=FALSE}
+uz.raw <- read_csv("uz/uz-inventories.csv")
+```
+
+
+## Ancient-near-east inventories
+
+Load the ANE data.
+
+```{r, warning=FALSE, message=FALSE}
+ane.raw <- read_csv('ancient-near-east/AnNeEa-inventories.csv')
+```
+
+It is a slightly different format. It has blank rows between inventories and the field for IDs and names do not repeat. Let's remove or fill those in.
+
+```{r}
+dim(ane.raw[rowSums(is.na(ane.raw)) == ncol(ane.raw), ])
+ane.raw <- ane.raw[rowSums(is.na(ane.raw)) != ncol(ane.raw), ]
+rownames(ane.raw) <- NULL
+```
+
+This should be zero.
+
+```{r}
+expect_equal(nrow(ane.raw[rowSums(is.na(ane.raw)) == ncol(ane.raw), ]), 0)
+```
+
+Fill in the blank cells.
+
+```{r}
+ane.raw <- ane.raw %>% fill(BdprotoID)
+ane.raw <- ane.raw %>% fill(SourceLanguageName)
+ane.raw <- ane.raw %>% fill(SpecificDialect)
+```
+
+## HUJI Inventories 
+
+```{r, warning=FALSE, message=FALSE}
+huji.inventories <- read_csv('huji/BDPROTO Jerusalem - Inventories.csv')
+```
+
+Check the inventories for blank rows -- if yes, they need to be removed so not to introduce NA as a phoneme.
+
+```{r}
+expect_equal(nrow(huji.inventories[rowSums(is.na(huji.inventories)) == ncol(huji.inventories), ]), 0)
+```
+
+Check that all huji inventories are represented in the metadata file.
+
+```{r}
+expect_false(any(!(huji.inventories$BdprotoID %in% metadata$BdprotoID)))
+```
+
+Make sure there are no duplicate phoneme values in each language.
+
+```{r}
+expect_equal(nrow(huji.inventories %>% group_by(BdprotoID, Phoneme) %>% select(BdprotoID, SourceLanguageName, Phoneme) %>% filter(n()>1) %>% arrange(BdprotoID, Phoneme)), 0)
+
+# If so, these are the ones
+# huji.inventories %>% group_by(BdprotoID, Phoneme) %>% select(BdprotoID, SourceLanguageName, Phoneme) %>% filter(n()>1) %>% arrange(BdprotoID, Phoneme)
+```
+
+# Merge the data sources
+
+Merge the three inventory data sources together.
+
+First check that the input data sources haven't changed in size or if something has been lost along the way.
+
+```{r}
+expect_equal(nrow(bdproto.inventories), 2862)
+expect_equal(nrow(uz.raw), 479)
+expect_equal(nrow(ane.raw), 666)
+expect_equal(nrow(huji.inventories), 3954)
+```
+
+Now we stack the data frames.
+
+```{r}
+inventories <- bind_rows(bdproto.inventories, uz.raw, ane.raw, huji.inventories)
+inventories <- ungroup(inventories)
+rownames(inventories) <- NULL
+```
+
+The concatenation should reflect the same number of rows combined above.
+
+```{r}
+expect_equal(nrow(inventories), (nrow(bdproto.inventories) + nrow(uz.raw) + nrow(ane.raw) + nrow(huji.inventories)))
+```
+
+And merge in the metadata.
+
+```{r}
+results <- left_join(inventories, metadata, by = c("BdprotoID" = "BdprotoID", "SourceLanguageName" = "SourceLanguageName"))
+```
+
+How's it look?
+
+```{r}
+results %>% head() %>% kable()
+```
+
+Let's run some checks.
+
+Anything weird about the phoneme counts? Recall, some inventories are consonants or vowels only.
+
+```{r}
+results %>% group_by(BdprotoID, InventoryType) %>% summarize(segments = n()) %>% arrange(segments)
+temp <- results %>% select(BdprotoID, InventoryType) %>% distinct()
+table(temp$InventoryType, exclude = FALSE)
+```
+
+There should be no duplicate phonemes in the merged data set (within each language).
+
+```{r}
+results %>% select(BdprotoID, Phoneme) %>% group_by(BdprotoID, Phoneme) %>% distinct() %>% arrange(Phoneme) %>% filter(n() > 1)
+```
+
+Check BDPROTO segments against PHOIBLE.
+
+Load PHOIBLE.
+
+```{r}
+url_ <- "https://github.com/phoible/dev/blob/master/data/phoible.csv?raw=true"
+col_types <- cols(InventoryID='i', Marginal='l', .default='c')
+phoible <- read_csv(url(url_), col_types=col_types)
+```
+
+Which segments in BDPROTO are not in PHOIBLE?
+
+```{r}
+bdproto.segments <- results %>% select(Source, Phoneme) %>% group_by(Source, Phoneme) %>% summarize(count=n())
+table(bdproto.segments$Phoneme %in% phoible$Phoneme)
+temp <- bdproto.segments[which(!(bdproto.segments$Phoneme %in% phoible$Phoneme)),]
+write_csv(temp, 'missing-phonemes.csv')
+```
+
+How about if we NDF the characters?
+
+```{r}
+results$PhonemeNFD <- stri_trans_nfd(results$Phoneme)
+bdproto.segments <- results %>% select(Source, PhonemeNFD) %>% group_by(Source, PhonemeNFD) %>% summarize(count=n())
+table(bdproto.segments$PhonemeNFD %in% phoible$Phoneme)
+temp <- bdproto.segments[which(!(bdproto.segments$PhonemeNFD %in% phoible$Phoneme)),]
+write_csv(temp, 'inventories_NFD.csv')
+```
+
+```{r}
+results$PhonemeNFD <- stri_trans_nfd(results$Phoneme)
+results$PhonemeNFD <- stri_trans_nfc(results$Phoneme)
+bdproto.segments <- results %>% select(Source, PhonemeNFD) %>% group_by(Source, PhonemeNFD) %>% summarize(count=n())
+phoible$PhonemeNFD <- stri_trans_nfd(phoible$Phoneme)
+phoible$PhonemeNFD <- stri_trans_nfc(phoible$Phoneme)
+
+table(bdproto.segments$PhonemeNFD %in% phoible$Phoneme)
+temp <- bdproto.segments[which(!(bdproto.segments$PhonemeNFD %in% phoible$Phoneme)),]
+write_csv(temp, 'inventories_NFD.csv')
+```
+
+# 
+
+
+
+Write to disk.
+
+```{r}
+write_csv(inventories, 'inventories.csv')
+
+```
+
+
+## Add the PHOIBLE segment features
+
+```{r}
+load(url('https://github.com/phoible/dev/blob/master/data/phoible.RData?raw=true'))
+features <- phoible %>% select(Phoneme,tone,stress,syllabic,short,long,consonantal,sonorant,continuant,delayedRelease,approximant,tap,trill,nasal,lateral,labial,round ,labiodental,coronal,anterior,distributed,strident,dorsal,high,low,front,back,tense,retractedTongueRoot,advancedTongueRoot,periodicGlottalSource,epilaryngealSource,spreadGlottis,constrictedGlottis,fortis,raisedLarynxEjective,loweredLarynxImplosive,click) %>% distinct()
+expect_equal(nrow(features), 3169)
+num_inventories <- nrow(inventories)
+
+# Merge
+inventories <- left_join(inventories, features)
+expect_equal(nrow(inventories), num_inventories)
+rm(num_inventories, phoible, features)
+
+# Identify potential coding errors in HUJI
+bad.chars <- inventories %>% filter(Source=="HUJI") %>% group_by(Phoneme, consonantal) %>% select(Phoneme, consonantal) %>% filter(is.na(consonantal)) %>% distinct()
+write.csv(bad.chars, file='bad-chars.csv')
+rm(bad.chars)
+
+# TODO: identify potential coding errors in other resources
+```
+
+## Identify consonant vs vowels
+
+```{r}
+phonemes <- inventories %>% group_by(Phoneme) %>% select(Phoneme, consonantal, syllabic) %>% distinct()
+table(phonemes$consonantal, exclude=F) # 319 NAs
+
+# [consonantal] is a proxy for consonants and does not work in all cases, see below
+phonemes.cs <- phonemes %>% summarize(is.consonantal = ifelse(consonantal=="+", TRUE, FALSE))
+phonemes.vs <- phonemes %>% summarize(is.not.consonantal = ifelse(consonantal=="-" & syllabic=="+", TRUE, FALSE))
+phonemes.status <- left_join(phonemes.cs, phonemes.vs)
+phonemes.status[which(phonemes.status$is.consonantal == phonemes.status$is.not.consonantal),]
+
+# We write the data to disk and then fix the missing data points by hand
+# To this we add a `type` column (copied from `is.consonantal` and updated by hand)
+# write.csv(phonemes.status, file='phonemes-status.csv')
+rm(phonemes, phonemes.cs, phonemes.vs, phonemes.status)
+
+# TODO: when the input data sources are changed or updated in the future, we should:
+# read in the current output csv `phonemes-status-by-hand.csv` and check newly inputted 
+# segments against it and then add correct them.
+
+# The hand curated consonant vs vowel types
+segment.types <- read.csv('phonemes-status-by-hand.csv', header=TRUE, stringsAsFactors=FALSE)
+glimpse(segment.types)
+glimpse(inventories)
+
+# Merge in the segment type information
+inventories <- left_join(inventories, segment.types)
+table(inventories$type, exclude=F) # Looks like 16 NA segments to deal with
+
+rm(segment.types)
+```
+
+# Data checks
+
+TODO: 
+
+* check that all Glottocodes are valid
+* remove duplicate in Phoneme
+
+* 
+```{r}
+# x <- inventories %>% select(BdprotoID, Glottocode) %>% distinct() %>% filter(!is.na(Glottocode)) %>% filter(Glottocode!="")
+# x$Glottocode
+# grepl("")
+
+# InventoryType introduces NA during the merge. Make all non-values NA.
+inventories %>% select(InventoryType)
+table(inventories$InventoryType, exclude = F)
+inventories$InventoryType[inventories$InventoryType==""] <- NA
+table(inventories$InventoryType, exclude = F)
+```
+
+## Identify how many unique data points
+
+```{r}
+# Identify the unique entries given their IDs, language names, and reported Glottocodes
+# We write these to disk and then update them by hand
+
+# inventories-duplicates <- inventories %>% select(BdprotoID, LanguageName, Glottocode) %>% unique() %>% arrange(LanguageName)
+# write.csv(x, 'inventories-duplicates.csv')
+
+duplicate.entries <- read.csv('inventories-duplicates-by-hand.csv', header=T, stringsAsFactors=F)
+inventories <- left_join(inventories, duplicate.entries)
+rm(duplicate.entries)
+```
+
+# Save 
+
+```{r}
+save(inventories, file='../bdproto.Rdata')
+write.csv(inventories, file='../bdproto.csv', row.names = FALSE)
+```
 
