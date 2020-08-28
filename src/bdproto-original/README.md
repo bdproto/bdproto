@@ -6,7 +6,7 @@ The original source data (and project name) come from Marsico 1999:
 
 This legacy resource was converted into Unicode UTF-8 using principles defined in [Moran & Cysouw, 2018](https://github.com/unicode-cookbook/cookbook/blob/master/unicode-cookbook.pdf). The original BDPROTO data is available in various formats along with the extraction and transformation scripts at: [https://github.com/bdproto/bdproto-legacy](https://github.com/bdproto/bdproto-legacy). BDPROTO-legacy contains a convenience sample aimed at genealogical diversity and it contains no duplicate inventories for a given reconstruction.
 
-We have also updated the data here so that, when possible, the segments follow the [PHOIBLE conventions](http://phoible.github.io/conventions/) to make the two data sources maximally comparable.
+We have also updated the data here so that, when possible, the segments follow the [PHOIBLE conventions](http://phoible.github.io/conventions/) to make the two data sources maximally comparable. We note these changes in the `PhonemeNotes` column. The majority of the changes involve updating the voiced glottalized consonants from the ejective symbol to the glottalized symbol.
 
 
 

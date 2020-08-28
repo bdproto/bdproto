@@ -14,12 +14,10 @@ This a script to aggregate the raw data sources in BDPROTO into single CSV and R
 In BDPROTO versions 1.0 and 1.1, we integreated separate metadata for each raw data source (`bdproto-original`, `uz`, `huji`, and `ancient-near-east`). To make things easier to maintain and process, we extracted the metadata fields pertinent to all source inventories into a separate CSV file, which we then aggregated into the combined raw data sources.
 
 ```{r, warning=FALSE, message=FALSE}
-library(testthat)
 library(tidyverse)
-library(dplyr)
-library(readr)
-library(knitr)
 library(stringi)
+library(knitr)
+library(testthat)
 ```
 
 
