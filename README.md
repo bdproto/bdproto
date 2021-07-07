@@ -28,3 +28,9 @@ The `ancient-near-east` inventories were collected as part of a project on ancie
 For all four data sources, we have gathered additional metadata (when available) including identifying information such as [Glottolog](https://glottolog.org/) codes, but also information about estimated time-depths, possible homelands, etc. The phonological inventory data and metadata are aggregated from the four raw data sources into a single flat-file table, available in this directory, called [bdproto.csv](bdproto.csv).
 
 We have also collected and curated references for each data point and we make them available in the [sources.bib](sources.bib) file. 
+
+Preliminary studies based on recent versions of BDPROTO have been presented at the following conferences:
+
+- Elad Eisen, Eitan Grossman, Dmitry Nikolaev and Steven Moran. Defining and operationalizing 'borrowability' in phonology. 5th Usage-Based Linguistics Conference (Tel Aviv, July 5-7 2021).
+
+- Steven Moran and Eitan Grossman. Temporal bias: a new type of bias for typologists to worry about. 5th Usage-Based Linguistics Conference (Tel Aviv, July 5-7 2021).
