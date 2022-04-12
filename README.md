@@ -31,8 +31,10 @@ We have also collected and curated references for each data point and we make th
 
 Preliminary studies based on recent versions of BDPROTO have been presented at the following conferences:
 
-- Steven Moran and Eitan Grossman. 2021. Temporal bias: a new type of bias for typologists to worry about. *5th Usage-Based Linguistics Conference* (Tel Aviv, July 5-7 2021). Slides [here](https://github.com/bdproto/bdproto/blob/master/UBL%202021%20Temporal%20bias_%20A%20new%20bias%20for%20typologists%20to%20worry%20about-2.pdf).
-- Eitan Grossman. 2021. Universals of phonological segment borrowing? Questions, evidence, methods, findings. Keynote address at the *43 Jahrestagung der Deutschen Gesellschaft fuer Sprachwissenschaft (DGfS).* (Freiburg, 23-26 February 2021). Slides [here](https://github.com/bdproto/bdproto/blob/master/DgFS_2021_Keynote-26.pdf).
+- Steven Moran and Eitan Grossman. 2021. Temporal bias: a new type of bias for typologists to worry about. *5th Usage-Based Linguistics Conference* (Tel Aviv, Israel, July 5-7 2021). [Slides](research/UBL2021.pdf).
+
+- Eitan Grossman. 2021. Universals of phonological segment borrowing? Questions, evidence, methods, findings. Keynote address at the *43 Jahrestagung der Deutschen Gesellschaft fuer Sprachwissenschaft (DGfS).* (Freiburg, Germany, 23-26 February 2021). [Slides](research/DgFS_2021_Keynote-26.pdf).
 
 A recent paper making extensive use of BDPROTO is:
-- Steven Moran, Nicholas A. Lester and Eitan Grossman. Inferring recent evolutionary changes in speech sounds. *Philological Transactions of the Royal Society B* 376: 20200198. Part of special thematic issue on 'Reconstructing ancient languages.' Available [here](https://github.com/bdproto/bdproto/blob/master/rstb.2020.0198-2.pdf).
+
+- Steven Moran, Nicholas A. Lester and Eitan Grossman. 2021. Inferring recent evolutionary changes in speech sounds. *Philological Transactions of the Royal Society B* 376: 20200198. [https://doi.org/10.1098/rstb.2020.0198](https://doi.org/10.1098/rstb.2020.0198).
