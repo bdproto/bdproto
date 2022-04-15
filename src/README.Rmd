@@ -1,6 +1,6 @@
 ---
-title: "BDPROTO raw data sources aggregation script"
-author: "Steven Moran \\<steven.moran@uzh.ch\\>"
+title: "BDPROTO aggregation script"
+author: "Steven Moran\n"
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output:
   github_document:
@@ -9,9 +9,9 @@ output:
 
 # Overview
 
-This a script to aggregate the raw data sources in BDPROTO into single CSV and RData files.
+This script aggregates the raw data sources in BDPROTO into single CSV file..
 
-In BDPROTO versions 1.0 and 1.1, we integreated separate metadata for each raw data source (`bdproto-original`, `uz`, `huji`, and `ancient-near-east`). To make things easier to maintain and process, we extracted the metadata fields pertinent to all source inventories into a separate CSV file, which we then aggregated into the combined raw data sources.
+In BDPROTO versions 1.0 and 1.1, we integrated separate metadata for each raw data source (`bdproto-original`, `uz`, `huji`, and `ancient-near-east`). To make things easier to maintain and process, we extracted the metadata fields pertinent to all source inventories into a separate CSV file, which we then aggregated into the combined raw data sources.
 
 ```{r, warning=FALSE, message=FALSE}
 library(tidyverse)
@@ -23,7 +23,7 @@ library(testthat)
 
 # Metadata
 
-Read in the metadata.
+Read in the metadata. It's stored in a Google sheet for editors.
 
 ```{r, warning=FALSE, message=FALSE}
 metadata <- read_csv('BDPROTO metadata - bdproto_metadata.csv')
@@ -230,11 +230,9 @@ temp <- bdproto.segments[which(!(bdproto.segments$PhonemeNFD %in% phoible$Phonem
 # write_csv(temp, 'inventories_NFD.csv')
 ```
 
-
 Let's write the merged results to disk.
 
 ```{r}
-save(inventories, file='../bdproto.Rdata')
 write_csv(inventories, '../bdproto.csv')
 ```
 
