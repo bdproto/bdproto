@@ -39,12 +39,19 @@ The phonological inventory data from the various raw input sources and their met
 
 We have also collected and curated references for each data point and these are available in the [sources.bib](sources.bib) file.
 
+Inferred geo-coordinates for homelands, when available, come from:
+
+* Wichmann, S., Müller, A., & Velupillai, V. 2010. Homelands of the world’s language families: A quantitative approach. *Diachronica*, 27(2), 247-276.
+
 Preliminary studies based on BDPROTO have been presented at the following conferences:
 
-- Steven Moran and Eitan Grossman. 2021. Temporal bias: a new type of bias for typologists to worry about. *5th Usage-Based Linguistics Conference* (Tel Aviv, Israel, July 5-7 2021). [Slides](research/UBL2021.pdf).
+- Grossman, Eitan. 2021. Universals of phonological segment borrowing? Questions, evidence, methods, findings. Keynote address at the *43 Jahrestagung der Deutschen Gesellschaft fuer Sprachwissenschaft (DGfS).* (Freiburg, Germany, 23-26 February 2021). [Slides](research/DgFS_2021_Keynote-26.pdf).
 
-- Eitan Grossman. 2021. Universals of phonological segment borrowing? Questions, evidence, methods, findings. Keynote address at the *43 Jahrestagung der Deutschen Gesellschaft fuer Sprachwissenschaft (DGfS).* (Freiburg, Germany, 23-26 February 2021). [Slides](research/DgFS_2021_Keynote-26.pdf).
+- Moran, Steven and Eitan Grossman. 2021. Temporal bias: a new type of bias for typologists to worry about. *5th Usage-Based Linguistics Conference* (Tel Aviv, Israel, July 5-7 2021). [Slides](research/UBL2021.pdf).
 
-And recent paper making extensive use of BDPROTO is:
+Published papers making extensive use of BDPROTO include:
 
-- Steven Moran, Nicholas A. Lester and Eitan Grossman. 2021. Inferring recent evolutionary changes in speech sounds. *Philological Transactions of the Royal Society B* 376: 20200198. [https://doi.org/10.1098/rstb.2020.0198](https://doi.org/10.1098/rstb.2020.0198).
+- Moran, Steven, Nicholas A. Lester and Eitan Grossman. 2021. Inferring recent evolutionary changes in speech sounds. *Philological Transactions of the Royal Society B* 376: 20200198. [https://doi.org/10.1098/rstb.2020.0198](https://doi.org/10.1098/rstb.2020.0198).
+
+- Moran, Steven, Eitan Grossman and Annemarie Verkerk. 2020. Investigating diachronic trends in phonological inventories using BDPROTO. Language Resources and Evaluation. Online:  [https://link.springer.com/article/10.1007/s10579-019-09483-3](https://link.springer.com/article/10.1007/s10579-019-09483-3).
+
