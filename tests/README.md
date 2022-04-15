@@ -49,53 +49,53 @@ file?
 unique(split_keys[which(!(split_keys %in% bib$BIBTEXKEY))])
 ```
 
-    ##  [1] NA                             "kammerzell1998"              
-    ##  [3] "KoosmannPC2018"               "Gravina2016"                 
-    ##  [5] "Huehnegard2007"               "ehret1980"                   
-    ##  [7] "Goddard1979"                  "ushersuter2015"              
-    ##  [9] "Jolkesky2016"                 "KraussGolla1981"             
-    ## [11] "Kraus1979"                    "CookRice1989"                
-    ## [13] "Austroasiatic_SidwellRau2015" "sidwellrau2014"              
-    ## [15] "Mead1998"                     "Geraghty1983"                
-    ## [17] "goodenough1997"               "Cerron2000"                  
-    ## [19] "curnow1998"                   "SeifartEcheverri2015"        
-    ## [21] "usher2014"                    "Chafe1979"                   
-    ## [23] "Meira1998"                    "Powell1993"                  
-    ## [25] "Berge2018"                    "Bergsland1986"               
-    ## [27] "harvey2003"                   "suarez1975"                  
-    ## [29] "Hock2003a"                    "Kümmel2007"                  
-    ## [31] "Melchert1994a"                "kuemmel2007"                 
-    ## [33] "Bartoněk1961"                 "Mayrhofer1989"               
-    ## [35] "Kobayashi2004"                "Lipp2009"                    
-    ## [37] "Nelson1991"                   "Adams1988"                   
-    ## [39] "Ringe1996"                    "Kim1999"                     
-    ## [41] "woodward2008attic"            "clackson2008"                
-    ## [43] "wallace2008oscan"             "hale2008avestan"             
-    ## [45] "hale2008pahlavi"              "MailhammerHarvey2018"        
-    ## [47] "CampbellOltrogge1980"         "tuite2008georgian"           
-    ## [49] "Vossen1997"                   "GueldemannElderkin2010"      
-    ## [51] "Hale1967"                     "Sutton2014"                  
-    ## [53] "dutton2010"                   "Bender1983"                  
-    ## [55] "Ultan1964"                    "CampbellKaufman1985"         
-    ## [57] "bricker2008mayan"             "Cahallagan1967"              
-    ## [59] "Callghan1967"                 "brown2011totozoquean.pdf"    
-    ## [61] "Ehret 2001"                   "Dimmendaal1988"              
-    ## [63] "Vossen1982"                   "Rottland1982"                
-    ## [65] "holtonrobinson2014"           "RibeiroVandervoort2010"      
-    ## [67] "usher2020"                    "StokesMcGregor"              
-    ## [69] "Suarez 1973"                  "goodetal2003"                
-    ## [71] "Austin1981"                   "Alpher2004"                  
-    ## [73] "hale1966"                     "ogrady1966"                  
-    ## [75] "Cerron2003"                   "gregersonhartzler1987"       
-    ## [77] "Yu2012"                       "Jacques2017"                 
-    ## [79] "Hill2014"                     "RankinEtAl2015"              
-    ## [81] "Donohue2002"                  "Ostapirat2004"               
-    ## [83] "Ostapirat2000"                "Pittayaporn2009"             
-    ## [85] "Berman1990"                   "Shipley1970"                 
-    ## [87] "klamer2014"                   "Mandalaetal2011"             
-    ## [89] "Tarpent1997"                  "Chacon2014"                  
-    ## [91] "MeiraDrude2015"               "sandalo1995"                 
-    ## [93] "mcgregorrumsey2009"           "Callghan1997"
+    ##  [1] "klamer2014"                   "holtonrobinson2014"          
+    ##  [3] "Goddard1979"                  "Chafe1979"                   
+    ##  [5] "Mandalaetal2011"              "Cerron2003"                  
+    ##  [7] "Cerron2000"                   "curnow1998"                  
+    ##  [9] "Austroasiatic_SidwellRau2015" NA                            
+    ## [11] "kuemmel2007"                  "Kümmel2007"                  
+    ## [13] "Mayrhofer1989"                "Kobayashi2004"               
+    ## [15] "Lipp2009"                     "Hock2003a"                   
+    ## [17] "Melchert1994a"                "Adams1988"                   
+    ## [19] "Ringe1996"                    "Kim1999"                     
+    ## [21] "Nelson1991"                   "Bartoněk1961"                
+    ## [23] "Yu2012"                       "Jacques2017"                 
+    ## [25] "Gravina2016"                  "Dimmendaal1988"              
+    ## [27] "Vossen1982"                   "Rottland1982"                
+    ## [29] "Hill2014"                     "Berge2018"                   
+    ## [31] "MeiraDrude2015"               "RibeiroVandervoort2010"      
+    ## [33] "Ultan1964"                    "Jolkesky2016"                
+    ## [35] "Meira1998"                    "brown2011totozoquean.pdf"    
+    ## [37] "CampbellOltrogge1980"         "Chacon2014"                  
+    ## [39] "Tarpent1997"                  "Ostapirat2000"               
+    ## [41] "Pittayaporn2009"              "Ostapirat2004"               
+    ## [43] "KoosmannPC2018"               "Donohue2002"                 
+    ## [45] "RankinEtAl2015"               "Hale1967"                    
+    ## [47] "Sutton2014"                   "Alpher2004"                  
+    ## [49] "sandalo1995"                  "Vossen1997"                  
+    ## [51] "GueldemannElderkin2010"       "hale1966"                    
+    ## [53] "Bergsland1986"                "KraussGolla1981"             
+    ## [55] "Kraus1979"                    "CookRice1989"                
+    ## [57] "Powell1993"                   "Berman1990"                  
+    ## [59] "Shipley1970"                  "Cahallagan1967"              
+    ## [61] "Callghan1967"                 "Callghan1997"                
+    ## [63] "suarez1975"                   "CampbellKaufman1985"         
+    ## [65] "ehret1980"                    "sidwellrau2014"              
+    ## [67] "Ehret 2001"                   "goodenough1997"              
+    ## [69] "kammerzell1998"               "goodetal2003"                
+    ## [71] "Mead1998"                     "Austin1981"                  
+    ## [73] "MailhammerHarvey2018"         "StokesMcGregor"              
+    ## [75] "Huehnegard2007"               "Geraghty1983"                
+    ## [77] "Bender1983"                   "Suarez 1973"                 
+    ## [79] "SeifartEcheverri2015"         "harvey2003"                  
+    ## [81] "woodward2008attic"            "clackson2008"                
+    ## [83] "wallace2008oscan"             "hale2008avestan"             
+    ## [85] "hale2008pahlavi"              "bricker2008mayan"            
+    ## [87] "tuite2008georgian"            "usher2020"                   
+    ## [89] "ushersuter2015"               "usher2014"                   
+    ## [91] "dutton2010"                   "gregersonhartzler1987"       
+    ## [93] "ogrady1966"                   "mcgregorrumsey2009"
 
 ``` r
 x <- unique(split_keys[which(!(split_keys %in% bib$BIBTEXKEY))])
@@ -109,7 +109,7 @@ these are included in the `Comments` field.
 bib[which(!(bib$BIBTEXKEY %in% split_keys)),] %>% select(BIBTEXKEY) %>% arrange(BIBTEXKEY)
 ```
 
-    ## # A tibble: 57 × 1
+    ## # A tibble: 58 × 1
     ##    BIBTEXKEY                
     ##    <chr>                    
     ##  1 aikhenvald2014global     
@@ -121,8 +121,8 @@ bib[which(!(bib$BIBTEXKEY %in% split_keys)),] %>% select(BIBTEXKEY) %>% arrange(
     ##  7 bengtson2008materials    
     ##  8 black1980                
     ##  9 bomhard2008reconstructing
-    ## 10 brown2010concise         
-    ## # … with 47 more rows
+    ## 10 Bouckaert_etal2018       
+    ## # … with 48 more rows
 
 All accounted for?
 
@@ -136,9 +136,10 @@ Matches both ways?
 which(!(bib$BIBTEXKEY %in% split_keys))
 ```
 
-    ##  [1]   1  31  32  35  36  37  38  42  44  45  47  49  52  54  56  61  63  66  67
-    ## [20]  74  75  76  77  78  82  84  85  88  90  93  94  99 102 105 108 113 114 126
-    ## [39] 127 130 137 138 139 142 147 148 149 151 154 160 161 166 167 169 170 171 172
+    ##  [1]   1   2  32  33  36  37  38  39  43  45  46  48  50  53  55  57  62  64  67
+    ## [20]  68  75  76  77  78  79  83  85  86  89  91  94  95 100 103 106 109 114 115
+    ## [39] 127 128 131 138 139 140 143 148 149 150 152 155 161 162 167 168 170 171 172
+    ## [58] 173
 
 Do the Glottocodes follow the correct format in the metadata?
 
@@ -154,12 +155,13 @@ which(!(str_detect(metadata$Glottocode, glottocode)))
 metadata[which(!(str_detect(metadata$Glottocode, glottocode))), ]
 ```
 
-    ## # A tibble: 0 × 19
-    ## # … with 19 variables: BdprotoID <dbl>, LanguageName <chr>,
+    ## # A tibble: 0 × 21
+    ## # … with 21 variables: BdprotoID <dbl>, LanguageName <chr>,
     ## #   SourceLanguageName <chr>, LanguageFamily <chr>, LanguageFamilyRoot <chr>,
     ## #   Glottocode <chr>, FamilyID <chr>, Type <chr>, Macroarea <chr>, Dates <chr>,
     ## #   DatesSource <chr>, InventoryType <chr>, TimeDepth <chr>,
-    ## #   TimeDepthYBP <dbl>, Homeland <chr>, HomelandSource <chr>, BibtexKey <chr>,
+    ## #   TimeDepthYBP <dbl>, HomelandLatitude <dbl>, HomelandLongitude <dbl>,
+    ## #   HomelandSource <chr>, HomelandComments <chr>, BibtexKey <chr>,
     ## #   Source <chr>, Comments <chr>
 
 Check whether the segments in SegBo are also reported in

@@ -117,60 +117,60 @@ All segment types.
 
 ```{r}
 # TODO: fix the NAs in the input data
-table(inventories$type, exclude=F)
+table(inventories$InventoryType, exclude=F)
 ```
 
 Get consonant counts and stats of ALL inventories.
 
 ```{r}
-inventories.consonants <- inventories %>% filter(is.na(InventoryType) | InventoryType=="consonants") %>% filter(Source!="ANE") 
+inventories.consonants <- inventories %>% filter(is.na(InventoryType) | InventoryType=="consonants only") %>% filter(Source!="ANE") 
 table(inventories.consonants$InventoryType, exclude=F)
 ```
 
 Get the consonant counts per inventory (252 data points).
 
 ```{r}
-c.counts <- inventories.consonants %>% select(BdprotoID, Phoneme, type) %>% filter(type=="C") %>%  group_by(BdprotoID) %>% summarize(consonants = n())
+c.counts <- inventories.consonants %>% select(BdprotoID, Phoneme, InventoryType) %>% filter(InventoryType=="consonants only") %>% group_by(BdprotoID) %>% summarize(consonants = n())
 summary(c.counts$consonants)
 ```
 
 Get consonant counts and stats of original BDPROTO (one data point per genealogical unit).
 
 ```{r}
-og.bdproto.cs <- inventories %>% filter(is.na(InventoryType) | InventoryType=="consonants") %>% filter(Source=="BDPROTO")
+og.bdproto.cs <- inventories %>% filter(is.na(InventoryType) | InventoryType=="consonants only") %>% filter(Source=="BDPROTO")
 ```
 
 Get the consonant counts per inventory (252 data points).
 
 ```{r}
-og.c.counts <- og.bdproto.cs %>% select(BdprotoID, Phoneme, type) %>% filter(type=="C") %>% group_by(BdprotoID) %>% summarize(consonants = n())
+og.c.counts <- og.bdproto.cs %>% select(BdprotoID, Phoneme, InventoryType) %>% filter(InventoryType=="consonants only") %>% group_by(BdprotoID) %>% summarize(consonants = n())
 summary(og.c.counts$consonants)
 ```
 
 Get vowel counts and stats of ALL inventories.
 
 ```{r}
-inventories.vowels <- inventories %>% filter(is.na(InventoryType) | InventoryType=="vowels") %>% filter(Source!="ANE")
+inventories.vowels <- inventories %>% filter(is.na(InventoryType) | InventoryType=="vowels only") %>% filter(Source!="ANE")
 table(inventories.vowels$InventoryType, exclude=F)
 ```
 
 Get the vowel counts per inventory (should be 252 data points).
 
 ```{r}
-v.counts <- inventories.vowels %>% select(BdprotoID, Phoneme, type) %>% filter(type=="V") %>% group_by(BdprotoID) %>% summarize(vowels = n())
+v.counts <- inventories.vowels %>% select(BdprotoID, Phoneme, InventoryType) %>% filter(InventoryType=="vowels only") %>% group_by(BdprotoID) %>% summarize(vowels = n())
 summary(v.counts$vowels)
 ```
 
 Get vowel counts and stats of original BDPROTO (one data point per genealogical unit).
 
 ```{r}
-og.bdproto.vs <- inventories %>% filter(is.na(InventoryType) | InventoryType=="vowels") %>% filter(Source=="BDPROTO")
+og.bdproto.vs <- inventories %>% filter(is.na(InventoryType) | InventoryType=="vowels only") %>% filter(Source=="BDPROTO")
 ```
 
 Get the consonant counts per inventory (252 data points).
 
 ```{r}
-og.v.counts <- og.bdproto.vs %>% select(BdprotoID, Phoneme, type) %>% filter(type=="V") %>% group_by(BdprotoID) %>% summarize(vowels = n())
+og.v.counts <- og.bdproto.vs %>% select(BdprotoID, Phoneme, InventoryType) %>% filter(InventoryType=="vowels only") %>% group_by(BdprotoID) %>% summarize(vowels = n())
 summary(og.v.counts$vowels)
 ```
 
@@ -273,7 +273,7 @@ Frequency distribution of 50 most frequent phonemes in phoible.
 
 ```{r}
 top.phoible <- head(phoible.phonemes, n=50)
-qplot(top.phoible$Phoneme, top$Percentage)
+qplot(top.phoible$Phoneme, top.phoible$Percentage)
 ```
 
 Combine the phoneme counts to plot them together in one graph.
