@@ -1,0 +1,90 @@
+---
+title: "Data checks for BDPROTO"
+author: "Steven Moran"
+date: "(`r format(Sys.time(), '%d %B, %Y')`)"
+output:
+  github_document:
+  pandoc_args: --webtex
+---
+
+Load libraries.
+
+```{r, message=FALSE}
+library(tidyverse)
+library(testthat)
+library(bib2df)
+```
+
+Load BDPROTO data.
+
+```{r, message=FALSE}
+metadata <- read_csv('../src/BDPROTO metadata - bdproto_metadata.csv')
+bdproto <- read_csv('../bdproto.csv')
+```
+
+Make sure there are no duplicate phonemes.
+
+```{r}
+dups <- bdproto %>% group_by(BdprotoID, Glottocode, Phoneme) %>% filter(n()>1) %>% select(BdprotoID, Glottocode, Phoneme)
+expect_equal(nrow(dups), 0)
+```
+
+Check the bibliography.
+
+```{r, warning=FALSE, message=FALSE}
+path <- '../sources.bib'
+bib <- bib2df(path)
+```
+
+Some entries have multiple comma separated IDs in the metadata table. Split them and get a list of all IDs.
+
+```{r}
+keys <- metadata$BibtexKey
+split_keys <- str_split(keys, ",")
+split_keys <- split_keys %>% unlist()
+split_keys <- str_trim(split_keys)
+```
+
+Which bibtex keys in the metadata do not match the keys in the bibtex file?
+
+```{r}
+unique(split_keys[which(!(split_keys %in% bib$BIBTEXKEY))])
+x <- unique(split_keys[which(!(split_keys %in% bib$BIBTEXKEY))])
+# metadata %>% select(BibtexKey, Source) %>% filter(!(BibtexKey %in% split_keys))
+```
+
+Which are the bibtex file that are not in the BDPROTO data? Some of these are included in the `Comments` field.
+
+```{r}
+bib[which(!(bib$BIBTEXKEY %in% split_keys)),] %>% select(BIBTEXKEY) %>% arrange(BIBTEXKEY)
+```
+
+All accounted for?
+
+```{r}
+# expect_equal(nrow(metadata[which(!(split.keys %in% bib$BIBTEXKEY)),]), 0)
+```
+
+Matches both ways?
+
+```{r}
+which(!(bib$BIBTEXKEY %in% split_keys))
+```
+
+Do the Glottocodes follow the correct format in the metadata?
+
+```{r}
+glottocode <- "([a-z0-9]{4})([0-9]{4})"
+expect_equal(length(which(!(str_detect(metadata$Glottocode, glottocode)))), 0)
+which(!(str_detect(metadata$Glottocode, glottocode)))
+metadata[which(!(str_detect(metadata$Glottocode, glottocode))), ]
+```
+
+Check whether the segments in SegBo are also reported in [PHOIBLE](https://phoible.org). At the current time, this rhotic segment reported by Mahanta (2012) in Assamese (ID 285, assa1263) is under investigation (it is reported as a aspirated rhotic from Sanskrit).
+
+```{r, warning=FALSE, message=FALSE}
+phoible <- read_csv('https://raw.githubusercontent.com/phoible/dev/master/data/phoible.csv')
+phoible_segments <- phoible %>% select(Phoneme) %>% distinct()
+bdproto_phonemes <- bdproto %>% select(Phoneme) %>% distinct()
+bdproto_phonemes[which(!(bdproto_phonemes$Phoneme %in% phoible_segments$Phoneme)),]
+```

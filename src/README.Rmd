@@ -23,7 +23,7 @@ library(testthat)
 
 # Metadata
 
-Read in the metadata.
+Read in the metadata. It's stored in a Google sheet for editors.
 
 ```{r, warning=FALSE, message=FALSE}
 metadata <- read_csv('BDPROTO metadata - bdproto_metadata.csv')
@@ -229,7 +229,6 @@ table(bdproto.segments$PhonemeNFD %in% phoible$Phoneme)
 temp <- bdproto.segments[which(!(bdproto.segments$PhonemeNFD %in% phoible$Phoneme)),]
 # write_csv(temp, 'inventories_NFD.csv')
 ```
-
 
 Let's write the merged results to disk.
 
