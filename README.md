@@ -3,7 +3,7 @@ BDPROTO
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3521639.svg)](https://doi.org/10.5281/zenodo.3521639)
 
-BDPROTO is a database of phonological inventories from ancient and reconstructed languages. The aggregated phonological inventory data and associated metadata is available in a flat CSV file in this directory named [bdproto.csv](bdproto.csv). Bibliographic references for each data point are available in the [sources.bib](sources.bib) file.
+BDPROTO is a database of phonological inventories from ancient and reconstructed languages. The aggregated phonological inventory data and associated metadata is available in a flat CSV file in this directory named [bdproto.csv](bdproto.csv). Bibliographic references for data points are available in the [sources.bib](sources.bib) file.
 
 BDPROTO 1.0 is described in:
 
@@ -55,3 +55,8 @@ Published papers making extensive use of BDPROTO include:
 
 - Moran, Steven, Eitan Grossman and Annemarie Verkerk. 2020. Investigating diachronic trends in phonological inventories using BDPROTO. Language Resources and Evaluation. Online:  [https://link.springer.com/article/10.1007/s10579-019-09483-3](https://link.springer.com/article/10.1007/s10579-019-09483-3).
 
+The data in this repository contain the development version, i.e., we continue to add, edit, and refine BDPROTO. We are also making the BDPROTO data available in the [Cross-Linguistic Data Format](https://cldf.clld.org) here:
+
+* https://github.com/cldf-datasets/bdproto
+
+And a website is forthcoming.
