@@ -1,8 +1,8 @@
 BdprotoID,LanguageName,Glottocode,Macro-Area,LanguageFamily,InventoryType,TimeDepthYBP,TimeDepth,Homeland,HomelandSource,MetadataNotes,BibtexKey,Contributor,Checked by
-16,Proto-Alor-Pantar,alor1249,Papunesia,Alor-Pantor,C,3000,3000,Pantar Strait,,45,klamer2017alorpantar,Eitan Grossman,
-17,Western Pantar,lamm1241,Papunesia,Alor-Pantor,C,,,,,,holtonrobinson2017westpantar,Eitan Grossman,
-18,Proto-Timor-Alor-Pantar,timo1261,Papunesia,Timor-Alor-Pantar,C,,,,,,holtonrobinson2017timoralorpantar,Eitan Grossman,
-19,Proto-North Halmahera,nort2923,Papunesia,North Halmahera,C,,,,,,holtonrobinson2017timoralorpantar,Eitan Grossman,
+16,Proto-Alor-Pantar,alor1249,Papunesia,Alor-Pantor,C,3000,3000,Pantar Strait,,45,klamer2017alorpantar,Eitan Grossman,EG
+17,Western Pantar,lamm1241,Papunesia,Alor-Pantor,C,,,,,,holtonrobinson2017westpantar,Eitan Grossman,EG
+18,Proto-Timor-Alor-Pantar,timo1261,Papunesia,Timor-Alor-Pantar,C,,,,,,holtonrobinson2017timoralorpantar,Eitan Grossman,EG
+19,Proto-North Halmahera,nort2923,Papunesia,North Halmahera,C,,,,,,holtonrobinson2017timoralorpantar,Eitan Grossman,EG
 20,Proto-Trans-New Guinea,nucl1709,Papunesia,Nuclear Trans New Guinea,C,,,,,,pawleyhammarstrom2017nuclTNG,Eitan Grossman,
 21,Proto-Algonquian,algo1256,North America,Algic,CV,,,,,,goddard1919algonquian,Eitan Grossman,
 22,Proto-Caddoan,cadd1255,North America,Caddoan,CV,,,,,,chafe1979caddoan,Eitan Grossman,
