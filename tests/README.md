@@ -1,7 +1,7 @@
 Data checks for BDPROTO
 ================
 Steven Moran
-(15 April, 2022)
+(16 May, 2022)
 
 Load libraries.
 
@@ -176,7 +176,7 @@ bdproto_phonemes <- bdproto %>% select(Phoneme) %>% distinct()
 bdproto_phonemes[which(!(bdproto_phonemes$Phoneme %in% phoible_segments$Phoneme)),]
 ```
 
-    ## # A tibble: 153 × 1
+    ## # A tibble: 169 × 1
     ##    Phoneme
     ##    <chr>  
     ##  1 xʷʲ    
@@ -189,4 +189,4 @@ bdproto_phonemes[which(!(bdproto_phonemes$Phoneme %in% phoible_segments$Phoneme)
     ##  8 ǁ̟      
     ##  9 dʰ     
     ## 10 mʰ     
-    ## # … with 143 more rows
+    ## # … with 159 more rows

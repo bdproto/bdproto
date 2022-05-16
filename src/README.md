@@ -2,7 +2,7 @@ BDPROTO aggregation script
 ================
 Steven Moran
 
-15 April, 2022
+16 May, 2022
 
 # Overview
 
@@ -127,7 +127,7 @@ Load the HUJI Inventories.
 
 ``` r
 huji <- read_csv('huji/BDPROTO Jerusalem - Inventories.csv')
-expect_equal(nrow(huji), 3930)
+expect_equal(nrow(huji), 3935)
 ```
 
 Merge the three inventory data sources together.
@@ -288,7 +288,7 @@ table(bdproto.segments$Phoneme %in% phoible$Phoneme)
 
     ## 
     ## FALSE  TRUE 
-    ##   194  7665
+    ##   249  7615
 
 ``` r
 temp <- bdproto.segments[which(!(bdproto.segments$Phoneme %in% phoible$Phoneme)),]

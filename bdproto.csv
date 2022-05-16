@@ -3963,19 +3963,23 @@ BdprotoID,SourceLanguageName,SourceLanguageFamily,Phoneme,PhonemeNotes,Allophone
 16,Proto-Alor-Pantar,NA,w,NA,NA,NA,NA,NA,NA,NA,Proto-Alor-Pantar,Alor-Pantar,Timor-Alor-Pantar,alor1249,timo1261,Reconstructed,Papunesia,NA,NA,consonants only,3000,3000,NA,NA,NA,Pantar Strait,klamer2014,HUJI,NA,w
 16,Proto-Alor-Pantar,NA,j,NA,NA,NA,NA,NA,NA,NA,Proto-Alor-Pantar,Alor-Pantar,Timor-Alor-Pantar,alor1249,timo1261,Reconstructed,Papunesia,NA,NA,consonants only,3000,3000,NA,NA,NA,Pantar Strait,klamer2014,HUJI,NA,j
 16,Proto-Alor-Pantar,NA,l,NA,NA,NA,NA,NA,NA,NA,Proto-Alor-Pantar,Alor-Pantar,Timor-Alor-Pantar,alor1249,timo1261,Reconstructed,Papunesia,NA,NA,consonants only,3000,3000,NA,NA,NA,Pantar Strait,klamer2014,HUJI,NA,l
-16,Proto-Alor-Pantar,NA,r,NA,NA,NA,NA,NA,TRUE,NA,Proto-Alor-Pantar,Alor-Pantar,Timor-Alor-Pantar,alor1249,timo1261,Reconstructed,Papunesia,NA,NA,consonants only,3000,3000,NA,NA,NA,Pantar Strait,klamer2014,HUJI,NA,r
+16,Proto-Alor-Pantar,NA,r,"this phoneme occurs in complementary distribution with *j. In fact, *r is the only consonant
+which does not occur in initial position (2017:51-52)",NA,NA,NA,NA,TRUE,NA,Proto-Alor-Pantar,Alor-Pantar,Timor-Alor-Pantar,alor1249,timo1261,Reconstructed,Papunesia,NA,NA,consonants only,3000,3000,NA,NA,NA,Pantar Strait,klamer2014,HUJI,NA,r
 17,Western Pantar,NA,p,NA,NA,NA,NA,NA,NA,NA,Proto-Western Pantar,Alor-Pantar,Timor-Alor-Pantar,lamm1241,timo1261,Reconstructed,Papunesia,NA,NA,consonants only,NA,NA,NA,NA,NA,NA,klamer2014,HUJI,NA,p
 17,Western Pantar,NA,b,NA,NA,NA,NA,NA,NA,NA,Proto-Western Pantar,Alor-Pantar,Timor-Alor-Pantar,lamm1241,timo1261,Reconstructed,Papunesia,NA,NA,consonants only,NA,NA,NA,NA,NA,NA,klamer2014,HUJI,NA,b
 17,Western Pantar,NA,t,NA,NA,NA,NA,NA,NA,NA,Proto-Western Pantar,Alor-Pantar,Timor-Alor-Pantar,lamm1241,timo1261,Reconstructed,Papunesia,NA,NA,consonants only,NA,NA,NA,NA,NA,NA,klamer2014,HUJI,NA,t
 17,Western Pantar,NA,d,NA,NA,NA,NA,NA,NA,NA,Proto-Western Pantar,Alor-Pantar,Timor-Alor-Pantar,lamm1241,timo1261,Reconstructed,Papunesia,NA,NA,consonants only,NA,NA,NA,NA,NA,NA,klamer2014,HUJI,NA,d
 17,Western Pantar,NA,k,NA,NA,NA,NA,NA,NA,NA,Proto-Western Pantar,Alor-Pantar,Timor-Alor-Pantar,lamm1241,timo1261,Reconstructed,Papunesia,NA,NA,consonants only,NA,NA,NA,NA,NA,NA,klamer2014,HUJI,NA,k
-17,Western Pantar,NA,ɡ,NA,NA,NA,NA,NA,NA,NA,Proto-Western Pantar,Alor-Pantar,Timor-Alor-Pantar,lamm1241,timo1261,Reconstructed,Papunesia,NA,NA,consonants only,NA,NA,NA,NA,NA,NA,klamer2014,HUJI,NA,ɡ
-17,Western Pantar,NA,ʔ,glottal stop,NA,NA,NA,NA,NA,NA,Proto-Western Pantar,Alor-Pantar,Timor-Alor-Pantar,lamm1241,timo1261,Reconstructed,Papunesia,NA,NA,consonants only,NA,NA,NA,NA,NA,NA,klamer2014,HUJI,NA,ʔ
+17,Western Pantar,NA,ɡ,"First, the uvular stop has merged with the velar stop. Second, Western Pantar has developed a velar nasal in final position.
+Third, Western Pantar has developed a phonemic glottal stop (2017:52)",NA,NA,NA,NA,NA,NA,Proto-Western Pantar,Alor-Pantar,Timor-Alor-Pantar,lamm1241,timo1261,Reconstructed,Papunesia,NA,NA,consonants only,NA,NA,NA,NA,NA,NA,klamer2014,HUJI,NA,ɡ
+17,Western Pantar,NA,ʔ,"First, the uvular stop has merged with the velar stop. Second, Western Pantar has developed a velar nasal in final position.
+Third, Western Pantar has developed a phonemic glottal stop (2017:52)",NA,NA,NA,NA,NA,NA,Proto-Western Pantar,Alor-Pantar,Timor-Alor-Pantar,lamm1241,timo1261,Reconstructed,Papunesia,NA,NA,consonants only,NA,NA,NA,NA,NA,NA,klamer2014,HUJI,NA,ʔ
 17,Western Pantar,NA,s,NA,NA,NA,NA,NA,NA,NA,Proto-Western Pantar,Alor-Pantar,Timor-Alor-Pantar,lamm1241,timo1261,Reconstructed,Papunesia,NA,NA,consonants only,NA,NA,NA,NA,NA,NA,klamer2014,HUJI,NA,s
 17,Western Pantar,NA,h,NA,NA,NA,NA,NA,NA,NA,Proto-Western Pantar,Alor-Pantar,Timor-Alor-Pantar,lamm1241,timo1261,Reconstructed,Papunesia,NA,NA,consonants only,NA,NA,NA,NA,NA,NA,klamer2014,HUJI,NA,h
 17,Western Pantar,NA,m,NA,NA,NA,NA,NA,NA,NA,Proto-Western Pantar,Alor-Pantar,Timor-Alor-Pantar,lamm1241,timo1261,Reconstructed,Papunesia,NA,NA,consonants only,NA,NA,NA,NA,NA,NA,klamer2014,HUJI,NA,m
 17,Western Pantar,NA,n,NA,NA,NA,NA,NA,NA,NA,Proto-Western Pantar,Alor-Pantar,Timor-Alor-Pantar,lamm1241,timo1261,Reconstructed,Papunesia,NA,NA,consonants only,NA,NA,NA,NA,NA,NA,klamer2014,HUJI,NA,n
-17,Western Pantar,NA,ŋ,NA,NA,NA,NA,NA,NA,NA,Proto-Western Pantar,Alor-Pantar,Timor-Alor-Pantar,lamm1241,timo1261,Reconstructed,Papunesia,NA,NA,consonants only,NA,NA,NA,NA,NA,NA,klamer2014,HUJI,NA,ŋ
+17,Western Pantar,NA,ŋ,"First, the uvular stop has merged with the velar stop. Second, Western Pantar has developed a velar nasal in final position.
+Third, Western Pantar has developed a phonemic glottal stop (2017:52)",NA,NA,NA,NA,NA,NA,Proto-Western Pantar,Alor-Pantar,Timor-Alor-Pantar,lamm1241,timo1261,Reconstructed,Papunesia,NA,NA,consonants only,NA,NA,NA,NA,NA,NA,klamer2014,HUJI,NA,ŋ
 17,Western Pantar,NA,w,NA,NA,NA,NA,NA,NA,NA,Proto-Western Pantar,Alor-Pantar,Timor-Alor-Pantar,lamm1241,timo1261,Reconstructed,Papunesia,NA,NA,consonants only,NA,NA,NA,NA,NA,NA,klamer2014,HUJI,NA,w
 17,Western Pantar,NA,j,NA,NA,NA,NA,NA,NA,NA,Proto-Western Pantar,Alor-Pantar,Timor-Alor-Pantar,lamm1241,timo1261,Reconstructed,Papunesia,NA,NA,consonants only,NA,NA,NA,NA,NA,NA,klamer2014,HUJI,NA,j
 17,Western Pantar,NA,l,NA,NA,NA,NA,NA,NA,NA,Proto-Western Pantar,Alor-Pantar,Timor-Alor-Pantar,lamm1241,timo1261,Reconstructed,Papunesia,NA,NA,consonants only,NA,NA,NA,NA,NA,NA,klamer2014,HUJI,NA,l
@@ -4006,7 +4010,7 @@ BdprotoID,SourceLanguageName,SourceLanguageFamily,Phoneme,PhonemeNotes,Allophone
 19,Proto-North Halmahera,NA,ŋ,NA,NA,NA,NA,NA,NA,NA,Proto-North Halmahera,North Halmahera,North Halmahera,nort2923,nort2923,Reconstructed,Papunesia,NA,NA,consonants only,NA,NA,NA,NA,NA,NA,holtonrobinson2014,HUJI,"check wada1980, holtonrobinson2014 in klamer2014",ŋ
 19,Proto-North Halmahera,NA,w,NA,NA,NA,NA,NA,NA,NA,Proto-North Halmahera,North Halmahera,North Halmahera,nort2923,nort2923,Reconstructed,Papunesia,NA,NA,consonants only,NA,NA,NA,NA,NA,NA,holtonrobinson2014,HUJI,"check wada1980, holtonrobinson2014 in klamer2014",w
 19,Proto-North Halmahera,NA,l,NA,NA,NA,NA,NA,NA,NA,Proto-North Halmahera,North Halmahera,North Halmahera,nort2923,nort2923,Reconstructed,Papunesia,NA,NA,consonants only,NA,NA,NA,NA,NA,NA,holtonrobinson2014,HUJI,"check wada1980, holtonrobinson2014 in klamer2014",l
-19,Proto-North Halmahera,NA,r,"described as retroflex, should check",NA,NA,NA,NA,NA,NA,Proto-North Halmahera,North Halmahera,North Halmahera,nort2923,nort2923,Reconstructed,Papunesia,NA,NA,consonants only,NA,NA,NA,NA,NA,NA,holtonrobinson2014,HUJI,"check wada1980, holtonrobinson2014 in klamer2014",r
+19,Proto-North Halmahera,NA,r,NA,NA,NA,NA,NA,NA,NA,Proto-North Halmahera,North Halmahera,North Halmahera,nort2923,nort2923,Reconstructed,Papunesia,NA,NA,consonants only,NA,NA,NA,NA,NA,NA,holtonrobinson2014,HUJI,"check wada1980, holtonrobinson2014 in klamer2014",r
 20,Proto-Trans-New Guinea,NA,p,NA,NA,NA,NA,NA,NA,NA,Proto-Trans-New Guinea,Nuclear Trans New Guinea,Nuclear Trans New Guinea,nucl1709,nucl1709,Reconstructed,Papunesia,NA,NA,consonants only,NA,NA,-8.33,124.25,Wichmann_etal2010,NA,holtonrobinson2014,HUJI,"After Pawley 1995, 2001 -- check",p
 20,Proto-Trans-New Guinea,NA,t,NA,NA,NA,NA,NA,NA,NA,Proto-Trans-New Guinea,Nuclear Trans New Guinea,Nuclear Trans New Guinea,nucl1709,nucl1709,Reconstructed,Papunesia,NA,NA,consonants only,NA,NA,-8.33,124.25,Wichmann_etal2010,NA,holtonrobinson2014,HUJI,"After Pawley 1995, 2001 -- check",t
 20,Proto-Trans-New Guinea,NA,k,NA,NA,NA,NA,NA,NA,NA,Proto-Trans-New Guinea,Nuclear Trans New Guinea,Nuclear Trans New Guinea,nucl1709,nucl1709,Reconstructed,Papunesia,NA,NA,consonants only,NA,NA,-8.33,124.25,Wichmann_etal2010,NA,holtonrobinson2014,HUJI,"After Pawley 1995, 2001 -- check",k
@@ -4029,8 +4033,8 @@ BdprotoID,SourceLanguageName,SourceLanguageFamily,Phoneme,PhonemeNotes,Allophone
 21,Proto-Algonquian,NA,ʃ,NA,NA,NA,NA,NA,NA,NA,Proto-Algonquian,Algic,Algonquian,algo1256,algi1248,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,NA,NA,Goddard1979,HUJI,NA,ʃ
 21,Proto-Algonquian,NA,m,NA,NA,NA,NA,NA,NA,NA,Proto-Algonquian,Algic,Algonquian,algo1256,algi1248,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,NA,NA,Goddard1979,HUJI,NA,m
 21,Proto-Algonquian,NA,n,NA,NA,NA,NA,NA,NA,NA,Proto-Algonquian,Algic,Algonquian,algo1256,algi1248,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,NA,NA,Goddard1979,HUJI,NA,n
-21,Proto-Algonquian,NA,θ,NA,NA,NA,NA,NA,NA,NA,Proto-Algonquian,Algic,Algonquian,algo1256,algi1248,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,NA,NA,Goddard1979,HUJI,NA,θ
-21,Proto-Algonquian,NA,l,NA,NA,NA,NA,NA,NA,NA,Proto-Algonquian,Algic,Algonquian,algo1256,algi1248,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,NA,NA,Goddard1979,HUJI,NA,l
+21,Proto-Algonquian,NA,θ,The phonetic nature of θ is unknown (1974:103),NA,NA,NA,NA,TRUE,TRUE,Proto-Algonquian,Algic,Algonquian,algo1256,algi1248,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,NA,NA,Goddard1979,HUJI,NA,θ
+21,Proto-Algonquian,NA,l,the positioning of θ and l above is in part arbitrary (1974:103),NA,NA,NA,NA,TRUE,NA,Proto-Algonquian,Algic,Algonquian,algo1256,algi1248,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,NA,NA,Goddard1979,HUJI,NA,l
 21,Proto-Algonquian,NA,w,NA,NA,NA,NA,NA,NA,NA,Proto-Algonquian,Algic,Algonquian,algo1256,algi1248,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,NA,NA,Goddard1979,HUJI,NA,w
 21,Proto-Algonquian,NA,j,(/y/ in the source),NA,NA,NA,NA,NA,NA,Proto-Algonquian,Algic,Algonquian,algo1256,algi1248,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,NA,NA,Goddard1979,HUJI,NA,j
 21,Proto-Algonquian,NA,i,NA,NA,NA,NA,NA,NA,NA,Proto-Algonquian,Algic,Algonquian,algo1256,algi1248,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,NA,NA,Goddard1979,HUJI,NA,i
@@ -4047,7 +4051,7 @@ BdprotoID,SourceLanguageName,SourceLanguageFamily,Phoneme,PhonemeNotes,Allophone
 22,Proto-Caddoan,NA,p,NA,NA,NA,NA,NA,NA,NA,Proto-Caddoan,Caddoan,Caddoan,cadd1255,cadd1255,Reconstructed,North America,NA,NA,all,NA,NA,33.33,-93.5,Wichmann_etal2010,NA,Chafe1979,HUJI,NA,p
 22,Proto-Caddoan,NA,t,NA,NA,NA,NA,NA,NA,NA,Proto-Caddoan,Caddoan,Caddoan,cadd1255,cadd1255,Reconstructed,North America,NA,NA,all,NA,NA,33.33,-93.5,Wichmann_etal2010,NA,Chafe1979,HUJI,NA,t
 22,Proto-Caddoan,NA,k,NA,NA,NA,NA,NA,NA,NA,Proto-Caddoan,Caddoan,Caddoan,cadd1255,cadd1255,Reconstructed,North America,NA,NA,all,NA,NA,33.33,-93.5,Wichmann_etal2010,NA,Chafe1979,HUJI,NA,k
-22,Proto-Caddoan,NA,t̠ʃ,NA,NA,NA,NA,NA,NA,NA,Proto-Caddoan,Caddoan,Caddoan,cadd1255,cadd1255,Reconstructed,North America,NA,NA,all,NA,NA,33.33,-93.5,Wichmann_etal2010,NA,Chafe1979,HUJI,NA,t̠ʃ
+22,Proto-Caddoan,NA,ts,/c/ in source,NA,NA,NA,NA,NA,NA,Proto-Caddoan,Caddoan,Caddoan,cadd1255,cadd1255,Reconstructed,North America,NA,NA,all,NA,NA,33.33,-93.5,Wichmann_etal2010,NA,Chafe1979,HUJI,NA,ts
 22,Proto-Caddoan,NA,s,NA,NA,NA,NA,NA,NA,NA,Proto-Caddoan,Caddoan,Caddoan,cadd1255,cadd1255,Reconstructed,North America,NA,NA,all,NA,NA,33.33,-93.5,Wichmann_etal2010,NA,Chafe1979,HUJI,NA,s
 22,Proto-Caddoan,NA,w,NA,NA,NA,NA,NA,NA,NA,Proto-Caddoan,Caddoan,Caddoan,cadd1255,cadd1255,Reconstructed,North America,NA,NA,all,NA,NA,33.33,-93.5,Wichmann_etal2010,NA,Chafe1979,HUJI,NA,w
 22,Proto-Caddoan,NA,n,NA,NA,NA,NA,NA,NA,NA,Proto-Caddoan,Caddoan,Caddoan,cadd1255,cadd1255,Reconstructed,North America,NA,NA,all,NA,NA,33.33,-93.5,Wichmann_etal2010,NA,Chafe1979,HUJI,NA,n
@@ -4105,6 +4109,7 @@ BdprotoID,SourceLanguageName,SourceLanguageFamily,Phoneme,PhonemeNotes,Allophone
 25,Proto-Quechuan,NA,a,NA,NA,NA,NA,NA,NA,NA,Proto-Quechuan,Quechuan,Quechuan,quec1387,quec1387,Reconstructed,South America,NA,NA,all,NA,NA,0.33,-78,Wichmann_etal2010,NA,Cerron2003,HUJI,NA,a
 25,Proto-Quechuan,NA,u,NA,NA,NA,NA,NA,NA,NA,Proto-Quechuan,Quechuan,Quechuan,quec1387,quec1387,Reconstructed,South America,NA,NA,all,NA,NA,0.33,-78,Wichmann_etal2010,NA,Cerron2003,HUJI,NA,u
 25,Proto-Quechuan,NA,ʎ,NA,NA,NA,NA,NA,NA,NA,Proto-Quechuan,Quechuan,Quechuan,quec1387,quec1387,Reconstructed,South America,NA,NA,all,NA,NA,0.33,-78,Wichmann_etal2010,NA,Cerron2003,HUJI,NA,ʎ
+25,Proto-Quechuan,NA,q,NA,NA,NA,NA,NA,NA,NA,Proto-Quechuan,Quechuan,Quechuan,quec1387,quec1387,Reconstructed,South America,NA,NA,all,NA,NA,0.33,-78,Wichmann_etal2010,NA,Cerron2003,HUJI,NA,q
 26,Proto-Aymaran,NA,p,NA,NA,NA,NA,NA,NA,NA,Proto-Aymaran,Aymaran,Aymaran,ayma1253,ayma1253,Reconstructed,South America,NA,NA,consonants only,NA,NA,NA,NA,NA,NA,Cerron2000,HUJI,NA,p
 26,Proto-Aymaran,NA,t,NA,NA,NA,NA,NA,NA,NA,Proto-Aymaran,Aymaran,Aymaran,ayma1253,ayma1253,Reconstructed,South America,NA,NA,consonants only,NA,NA,NA,NA,NA,NA,Cerron2000,HUJI,NA,t
 26,Proto-Aymaran,NA,k,NA,NA,NA,NA,NA,NA,NA,Proto-Aymaran,Aymaran,Aymaran,ayma1253,ayma1253,Reconstructed,South America,NA,NA,consonants only,NA,NA,NA,NA,NA,NA,Cerron2000,HUJI,NA,k
@@ -4134,6 +4139,9 @@ BdprotoID,SourceLanguageName,SourceLanguageFamily,Phoneme,PhonemeNotes,Allophone
 26,Proto-Aymaran,NA,j,NA,NA,NA,NA,NA,NA,NA,Proto-Aymaran,Aymaran,Aymaran,ayma1253,ayma1253,Reconstructed,South America,NA,NA,consonants only,NA,NA,NA,NA,NA,NA,Cerron2000,HUJI,NA,j
 26,Proto-Aymaran,NA,ʎ,NA,NA,NA,NA,NA,NA,NA,Proto-Aymaran,Aymaran,Aymaran,ayma1253,ayma1253,Reconstructed,South America,NA,NA,consonants only,NA,NA,NA,NA,NA,NA,Cerron2000,HUJI,NA,ʎ
 26,Proto-Aymaran,NA,l,NA,NA,NA,NA,NA,NA,NA,Proto-Aymaran,Aymaran,Aymaran,ayma1253,ayma1253,Reconstructed,South America,NA,NA,consonants only,NA,NA,NA,NA,NA,NA,Cerron2000,HUJI,NA,l
+26,Proto-Aymaran,NA,a,NA,NA,NA,NA,NA,NA,NA,Proto-Aymaran,Aymaran,Aymaran,ayma1253,ayma1253,Reconstructed,South America,NA,NA,consonants only,NA,NA,NA,NA,NA,NA,Cerron2000,HUJI,NA,a
+26,Proto-Aymaran,NA,i,NA,NA,NA,NA,NA,NA,NA,Proto-Aymaran,Aymaran,Aymaran,ayma1253,ayma1253,Reconstructed,South America,NA,NA,consonants only,NA,NA,NA,NA,NA,NA,Cerron2000,HUJI,NA,i
+26,Proto-Aymaran,NA,u,NA,NA,NA,NA,NA,NA,NA,Proto-Aymaran,Aymaran,Aymaran,ayma1253,ayma1253,Reconstructed,South America,NA,NA,consonants only,NA,NA,NA,NA,NA,NA,Cerron2000,HUJI,NA,u
 27,Proto-Barbacoan,NA,p,NA,NA,NA,NA,NA,NA,NA,Proto-Barbacoan,Barbacoan,Barbacoan,barb1265,barb1265,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,curnow1998,HUJI,NA,p
 27,Proto-Barbacoan,NA,t,NA,NA,NA,NA,NA,NA,NA,Proto-Barbacoan,Barbacoan,Barbacoan,barb1265,barb1265,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,curnow1998,HUJI,NA,t
 27,Proto-Barbacoan,NA,k,NA,NA,NA,NA,NA,NA,NA,Proto-Barbacoan,Barbacoan,Barbacoan,barb1265,barb1265,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,curnow1998,HUJI,NA,k
@@ -4174,6 +4182,7 @@ BdprotoID,SourceLanguageName,SourceLanguageFamily,Phoneme,PhonemeNotes,Allophone
 28,Proto-Austroasiatic,NA,s,NA,NA,NA,NA,NA,NA,NA,Proto-Austroasiatic,Austroasiatic,Austroasiatic,aust1305,aust1305,Reconstructed,Eurasia,NA,NA,all,NA,NA,14.83,100.5,Wichmann_etal2010,NA,Austroasiatic_SidwellRau2015,HUJI,NA,s
 28,Proto-Austroasiatic,NA,h,NA,NA,NA,NA,NA,NA,NA,Proto-Austroasiatic,Austroasiatic,Austroasiatic,aust1305,aust1305,Reconstructed,Eurasia,NA,NA,all,NA,NA,14.83,100.5,Wichmann_etal2010,NA,Austroasiatic_SidwellRau2015,HUJI,NA,h
 28,Proto-Austroasiatic,NA,w,NA,NA,NA,NA,NA,NA,NA,Proto-Austroasiatic,Austroasiatic,Austroasiatic,aust1305,aust1305,Reconstructed,Eurasia,NA,NA,all,NA,NA,14.83,100.5,Wichmann_etal2010,NA,Austroasiatic_SidwellRau2015,HUJI,NA,w
+28,Proto-Austroasiatic,NA,l,NA,NA,NA,NA,NA,NA,NA,Proto-Austroasiatic,Austroasiatic,Austroasiatic,aust1305,aust1305,Reconstructed,Eurasia,NA,NA,all,NA,NA,14.83,100.5,Wichmann_etal2010,NA,Austroasiatic_SidwellRau2015,HUJI,NA,l
 28,Proto-Austroasiatic,NA,i,NA,NA,NA,NA,NA,NA,NA,Proto-Austroasiatic,Austroasiatic,Austroasiatic,aust1305,aust1305,Reconstructed,Eurasia,NA,NA,all,NA,NA,14.83,100.5,Wichmann_etal2010,NA,Austroasiatic_SidwellRau2015,HUJI,NA,i
 28,Proto-Austroasiatic,NA,u,NA,NA,NA,NA,NA,NA,NA,Proto-Austroasiatic,Austroasiatic,Austroasiatic,aust1305,aust1305,Reconstructed,Eurasia,NA,NA,all,NA,NA,14.83,100.5,Wichmann_etal2010,NA,Austroasiatic_SidwellRau2015,HUJI,NA,u
 28,Proto-Austroasiatic,NA,e,NA,NA,NA,NA,NA,NA,NA,Proto-Austroasiatic,Austroasiatic,Austroasiatic,aust1305,aust1305,Reconstructed,Eurasia,NA,NA,all,NA,NA,14.83,100.5,Wichmann_etal2010,NA,Austroasiatic_SidwellRau2015,HUJI,NA,e
@@ -4683,9 +4692,9 @@ BdprotoID,SourceLanguageName,SourceLanguageFamily,Phoneme,PhonemeNotes,Allophone
 43,Proto-Germanic,NA,ɛː,NA,NA,NA,NA,NA,NA,NA,Proto-Germanic,Germanic,Indo-European,germ1287,indo1319,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,NA,NA,NA,HUJI,NA,ɛː
 43,Proto-Germanic,NA,ɔː,NA,NA,NA,NA,NA,NA,NA,Proto-Germanic,Germanic,Indo-European,germ1287,indo1319,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,NA,NA,NA,HUJI,NA,ɔː
 43,Proto-Germanic,NA,aː,NA,NA,NA,NA,NA,TRUE,NA,Proto-Germanic,Germanic,Indo-European,germ1287,indo1319,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,NA,NA,NA,HUJI,NA,aː
-43,Proto-Germanic,NA,ĩː,NA,NA,NA,NA,NA,NA,NA,Proto-Germanic,Germanic,Indo-European,germ1287,indo1319,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,NA,NA,NA,HUJI,NA,ĩː
-43,Proto-Germanic,NA,ũː,NA,NA,NA,NA,NA,NA,NA,Proto-Germanic,Germanic,Indo-European,germ1287,indo1319,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,NA,NA,NA,HUJI,NA,ũː
-43,Proto-Germanic,NA,ãː,NA,NA,NA,NA,NA,NA,NA,Proto-Germanic,Germanic,Indo-European,germ1287,indo1319,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,NA,NA,NA,HUJI,NA,ãː
+43,Proto-Germanic,NA,ĩː,NA,NA,NA,NA,NA,NA,NA,Proto-Germanic,Germanic,Indo-European,germ1287,indo1319,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,NA,NA,NA,HUJI,NA,ĩː
+43,Proto-Germanic,NA,ũː,NA,NA,NA,NA,NA,NA,NA,Proto-Germanic,Germanic,Indo-European,germ1287,indo1319,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,NA,NA,NA,HUJI,NA,ũː
+43,Proto-Germanic,NA,ãː,NA,NA,NA,NA,NA,NA,NA,Proto-Germanic,Germanic,Indo-European,germ1287,indo1319,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,NA,NA,NA,HUJI,NA,ãː
 44,Proto-Uralic,NA,p,NA,NA,NA,NA,NA,NA,NA,Proto-Uralic,Uralic,Uralic,ural1272,ural1272,Reconstructed,Eurasia,NA,NA,all,NA,NA,68,30,Wichmann_etal2010,NA,sammallahti1988,HUJI,NA,p
 44,Proto-Uralic,NA,pː,NA,NA,NA,NA,NA,NA,NA,Proto-Uralic,Uralic,Uralic,ural1272,ural1272,Reconstructed,Eurasia,NA,NA,all,NA,NA,68,30,Wichmann_etal2010,NA,sammallahti1988,HUJI,NA,pː
 44,Proto-Uralic,NA,t,NA,NA,NA,NA,NA,NA,NA,Proto-Uralic,Uralic,Uralic,ural1272,ural1272,Reconstructed,Eurasia,NA,NA,all,NA,NA,68,30,Wichmann_etal2010,NA,sammallahti1988,HUJI,NA,t
@@ -4824,12 +4833,12 @@ BdprotoID,SourceLanguageName,SourceLanguageFamily,Phoneme,PhonemeNotes,Allophone
 46,Proto-Ersuic,NA,ro,NA,NA,NA,NA,NA,NA,NA,Proto-Ersuic,Burmo-Quiangic,Sino-Tibetan,ersu1242,sino1245,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,NA,NA,Yu2012,HUJI,NA,ro
 46,Proto-Ersuic,NA,ræ,NA,NA,NA,NA,NA,NA,NA,Proto-Ersuic,Burmo-Quiangic,Sino-Tibetan,ersu1242,sino1245,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,NA,NA,Yu2012,HUJI,NA,ræ
 46,Proto-Ersuic,NA,rɑ,NA,NA,NA,NA,NA,NA,NA,Proto-Ersuic,Burmo-Quiangic,Sino-Tibetan,ersu1242,sino1245,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,NA,NA,Yu2012,HUJI,NA,rɑ
-46,Proto-Ersuic,NA,ĩ,NA,NA,NA,NA,NA,NA,NA,Proto-Ersuic,Burmo-Quiangic,Sino-Tibetan,ersu1242,sino1245,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,NA,NA,Yu2012,HUJI,NA,ĩ
-46,Proto-Ersuic,NA,ũ,NA,NA,NA,NA,NA,NA,NA,Proto-Ersuic,Burmo-Quiangic,Sino-Tibetan,ersu1242,sino1245,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,NA,NA,Yu2012,HUJI,NA,ũ
+46,Proto-Ersuic,NA,ĩ,NA,NA,NA,NA,NA,NA,NA,Proto-Ersuic,Burmo-Quiangic,Sino-Tibetan,ersu1242,sino1245,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,NA,NA,Yu2012,HUJI,NA,ĩ
+46,Proto-Ersuic,NA,ũ,NA,NA,NA,NA,NA,NA,NA,Proto-Ersuic,Burmo-Quiangic,Sino-Tibetan,ersu1242,sino1245,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,NA,NA,Yu2012,HUJI,NA,ũ
 46,Proto-Ersuic,NA,jẽ,NA,NA,NA,NA,NA,NA,NA,Proto-Ersuic,Burmo-Quiangic,Sino-Tibetan,ersu1242,sino1245,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,NA,NA,Yu2012,HUJI,NA,jẽ
 46,Proto-Ersuic,NA,wõ,NA,NA,NA,NA,NA,NA,NA,Proto-Ersuic,Burmo-Quiangic,Sino-Tibetan,ersu1242,sino1245,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,NA,NA,Yu2012,HUJI,NA,wõ
-46,Proto-Ersuic,NA,ẽ,NA,NA,NA,NA,NA,NA,NA,Proto-Ersuic,Burmo-Quiangic,Sino-Tibetan,ersu1242,sino1245,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,NA,NA,Yu2012,HUJI,NA,ẽ
-46,Proto-Ersuic,NA,õ,NA,NA,NA,NA,NA,NA,NA,Proto-Ersuic,Burmo-Quiangic,Sino-Tibetan,ersu1242,sino1245,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,NA,NA,Yu2012,HUJI,NA,õ
+46,Proto-Ersuic,NA,ẽ,NA,NA,NA,NA,NA,NA,NA,Proto-Ersuic,Burmo-Quiangic,Sino-Tibetan,ersu1242,sino1245,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,NA,NA,Yu2012,HUJI,NA,ẽ
+46,Proto-Ersuic,NA,õ,NA,NA,NA,NA,NA,NA,NA,Proto-Ersuic,Burmo-Quiangic,Sino-Tibetan,ersu1242,sino1245,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,NA,NA,Yu2012,HUJI,NA,õ
 46,Proto-Ersuic,NA,ɑ̃,NA,NA,NA,NA,NA,NA,NA,Proto-Ersuic,Burmo-Quiangic,Sino-Tibetan,ersu1242,sino1245,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,NA,NA,Yu2012,HUJI,NA,ɑ̃
 47,Proto-Kiranti,NA,p,NA,NA,NA,NA,NA,NA,NA,Proto-Kiranti,Himalayish,Sino-Tibetan,kira1253,sino1245,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,NA,NA,Jacques2017,HUJI,NA,p
 47,Proto-Kiranti,NA,t,NA,NA,NA,NA,NA,NA,NA,Proto-Kiranti,Himalayish,Sino-Tibetan,kira1253,sino1245,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,NA,NA,Jacques2017,HUJI,NA,t
@@ -4929,7 +4938,7 @@ BdprotoID,SourceLanguageName,SourceLanguageFamily,Phoneme,PhonemeNotes,Allophone
 49,Proto-Nilotic,NA,ɔ,NA,NA,NA,NA,NA,NA,NA,Proto-Nilotic,Nilotic,Nilotic,nilo1247,nilo1247,Reconstructed,Africa,NA,NA,all,NA,NA,NA,NA,NA,NA,Dimmendaal1988,HUJI,NA,ɔ
 49,Proto-Nilotic,NA,o,NA,NA,NA,NA,NA,NA,NA,Proto-Nilotic,Nilotic,Nilotic,nilo1247,nilo1247,Reconstructed,Africa,NA,NA,all,NA,NA,NA,NA,NA,NA,Dimmendaal1988,HUJI,NA,o
 49,Proto-Nilotic,NA,ʊ,NA,NA,NA,NA,NA,NA,NA,Proto-Nilotic,Nilotic,Nilotic,nilo1247,nilo1247,Reconstructed,Africa,NA,NA,all,NA,NA,NA,NA,NA,NA,Dimmendaal1988,HUJI,NA,ʊ
-49,Proto-Nilotic,NA,ä,ask Dimmendaal,NA,NA,NA,NA,NA,NA,Proto-Nilotic,Nilotic,Nilotic,nilo1247,nilo1247,Reconstructed,Africa,NA,NA,all,NA,NA,NA,NA,NA,NA,Dimmendaal1988,HUJI,NA,ä
+49,Proto-Nilotic,NA,ä,ask Dimmendaal,NA,NA,NA,NA,NA,NA,Proto-Nilotic,Nilotic,Nilotic,nilo1247,nilo1247,Reconstructed,Africa,NA,NA,all,NA,NA,NA,NA,NA,NA,Dimmendaal1988,HUJI,NA,ä
 50,Proto-Eastern Nilotic,NA,p,NA,NA,NA,NA,NA,NA,NA,Proto-Eastern Nilotic,Nilotic,Nilotic,east2418,nilo1247,Reconstructed,Africa,NA,NA,consonants only,NA,NA,NA,NA,NA,NA,"Dimmendaal1988,Vossen1982",HUJI,NA,p
 50,Proto-Eastern Nilotic,NA,t,NA,NA,NA,NA,NA,NA,NA,Proto-Eastern Nilotic,Nilotic,Nilotic,east2418,nilo1247,Reconstructed,Africa,NA,NA,consonants only,NA,NA,NA,NA,NA,NA,"Dimmendaal1988,Vossen1982",HUJI,NA,t
 50,Proto-Eastern Nilotic,NA,t2,ask Dimmendaal,NA,NA,NA,NA,NA,NA,Proto-Eastern Nilotic,Nilotic,Nilotic,east2418,nilo1247,Reconstructed,Africa,NA,NA,consonants only,NA,NA,NA,NA,NA,NA,"Dimmendaal1988,Vossen1982",HUJI,NA,t2
@@ -5076,11 +5085,11 @@ BdprotoID,SourceLanguageName,SourceLanguageFamily,Phoneme,PhonemeNotes,Allophone
 55,Proto-Tupi-Guarani,NA,o,NA,NA,NA,NA,NA,NA,NA,Proto-Tupi-Guarani,Tupi-Guarani,Tupian,tupi1276,tupi1275,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,MeiraDrude2015,HUJI,NA,o
 55,Proto-Tupi-Guarani,NA,u,NA,NA,NA,NA,NA,NA,NA,Proto-Tupi-Guarani,Tupi-Guarani,Tupian,tupi1276,tupi1275,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,MeiraDrude2015,HUJI,NA,u
 55,Proto-Tupi-Guarani,NA,ɨ,NA,NA,NA,NA,NA,NA,NA,Proto-Tupi-Guarani,Tupi-Guarani,Tupian,tupi1276,tupi1275,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,MeiraDrude2015,HUJI,NA,ɨ
-55,Proto-Tupi-Guarani,NA,ã,NA,NA,NA,NA,NA,NA,NA,Proto-Tupi-Guarani,Tupi-Guarani,Tupian,tupi1276,tupi1275,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,MeiraDrude2015,HUJI,NA,ã
-55,Proto-Tupi-Guarani,NA,ĩ,NA,NA,NA,NA,NA,NA,NA,Proto-Tupi-Guarani,Tupi-Guarani,Tupian,tupi1276,tupi1275,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,MeiraDrude2015,HUJI,NA,ĩ
-55,Proto-Tupi-Guarani,NA,ẽ,NA,NA,NA,NA,NA,NA,NA,Proto-Tupi-Guarani,Tupi-Guarani,Tupian,tupi1276,tupi1275,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,MeiraDrude2015,HUJI,NA,ẽ
-55,Proto-Tupi-Guarani,NA,õ,NA,NA,NA,NA,NA,NA,NA,Proto-Tupi-Guarani,Tupi-Guarani,Tupian,tupi1276,tupi1275,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,MeiraDrude2015,HUJI,NA,õ
-55,Proto-Tupi-Guarani,NA,ũ,NA,NA,NA,NA,NA,NA,NA,Proto-Tupi-Guarani,Tupi-Guarani,Tupian,tupi1276,tupi1275,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,MeiraDrude2015,HUJI,NA,ũ
+55,Proto-Tupi-Guarani,NA,ã,NA,NA,NA,NA,NA,NA,NA,Proto-Tupi-Guarani,Tupi-Guarani,Tupian,tupi1276,tupi1275,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,MeiraDrude2015,HUJI,NA,ã
+55,Proto-Tupi-Guarani,NA,ĩ,NA,NA,NA,NA,NA,NA,NA,Proto-Tupi-Guarani,Tupi-Guarani,Tupian,tupi1276,tupi1275,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,MeiraDrude2015,HUJI,NA,ĩ
+55,Proto-Tupi-Guarani,NA,ẽ,NA,NA,NA,NA,NA,NA,NA,Proto-Tupi-Guarani,Tupi-Guarani,Tupian,tupi1276,tupi1275,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,MeiraDrude2015,HUJI,NA,ẽ
+55,Proto-Tupi-Guarani,NA,õ,NA,NA,NA,NA,NA,NA,NA,Proto-Tupi-Guarani,Tupi-Guarani,Tupian,tupi1276,tupi1275,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,MeiraDrude2015,HUJI,NA,õ
+55,Proto-Tupi-Guarani,NA,ũ,NA,NA,NA,NA,NA,NA,NA,Proto-Tupi-Guarani,Tupi-Guarani,Tupian,tupi1276,tupi1275,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,MeiraDrude2015,HUJI,NA,ũ
 55,Proto-Tupi-Guarani,NA,ɨ̃,NA,NA,NA,NA,NA,NA,NA,Proto-Tupi-Guarani,Tupi-Guarani,Tupian,tupi1276,tupi1275,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,MeiraDrude2015,HUJI,NA,ɨ̃
 56,Proto-Maweti-Guarani,NA,p,NA,NA,NA,NA,NA,NA,NA,Proto-Maweti-Guarani,Maweti-Guarani,Tupian,mawe1252,tupi1275,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,MeiraDrude2015,HUJI,NA,p
 56,Proto-Maweti-Guarani,NA,t,NA,NA,NA,NA,NA,NA,NA,Proto-Maweti-Guarani,Maweti-Guarani,Tupian,mawe1252,tupi1275,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,MeiraDrude2015,HUJI,NA,t
@@ -5102,11 +5111,11 @@ BdprotoID,SourceLanguageName,SourceLanguageFamily,Phoneme,PhonemeNotes,Allophone
 56,Proto-Maweti-Guarani,NA,o,NA,NA,NA,NA,NA,NA,NA,Proto-Maweti-Guarani,Maweti-Guarani,Tupian,mawe1252,tupi1275,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,MeiraDrude2015,HUJI,NA,o
 56,Proto-Maweti-Guarani,NA,u,NA,NA,NA,NA,NA,NA,NA,Proto-Maweti-Guarani,Maweti-Guarani,Tupian,mawe1252,tupi1275,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,MeiraDrude2015,HUJI,NA,u
 56,Proto-Maweti-Guarani,NA,ɨ,NA,NA,NA,NA,NA,NA,NA,Proto-Maweti-Guarani,Maweti-Guarani,Tupian,mawe1252,tupi1275,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,MeiraDrude2015,HUJI,NA,ɨ
-56,Proto-Maweti-Guarani,NA,ã,NA,NA,NA,NA,NA,NA,NA,Proto-Maweti-Guarani,Maweti-Guarani,Tupian,mawe1252,tupi1275,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,MeiraDrude2015,HUJI,NA,ã
-56,Proto-Maweti-Guarani,NA,ẽ,NA,NA,NA,NA,NA,NA,NA,Proto-Maweti-Guarani,Maweti-Guarani,Tupian,mawe1252,tupi1275,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,MeiraDrude2015,HUJI,NA,ẽ
-56,Proto-Maweti-Guarani,NA,ĩ,NA,NA,NA,NA,NA,NA,NA,Proto-Maweti-Guarani,Maweti-Guarani,Tupian,mawe1252,tupi1275,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,MeiraDrude2015,HUJI,NA,ĩ
-56,Proto-Maweti-Guarani,NA,õ,NA,NA,NA,NA,NA,NA,NA,Proto-Maweti-Guarani,Maweti-Guarani,Tupian,mawe1252,tupi1275,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,MeiraDrude2015,HUJI,NA,õ
-56,Proto-Maweti-Guarani,NA,ũ,NA,NA,NA,NA,NA,NA,NA,Proto-Maweti-Guarani,Maweti-Guarani,Tupian,mawe1252,tupi1275,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,MeiraDrude2015,HUJI,NA,ũ
+56,Proto-Maweti-Guarani,NA,ã,NA,NA,NA,NA,NA,NA,NA,Proto-Maweti-Guarani,Maweti-Guarani,Tupian,mawe1252,tupi1275,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,MeiraDrude2015,HUJI,NA,ã
+56,Proto-Maweti-Guarani,NA,ẽ,NA,NA,NA,NA,NA,NA,NA,Proto-Maweti-Guarani,Maweti-Guarani,Tupian,mawe1252,tupi1275,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,MeiraDrude2015,HUJI,NA,ẽ
+56,Proto-Maweti-Guarani,NA,ĩ,NA,NA,NA,NA,NA,NA,NA,Proto-Maweti-Guarani,Maweti-Guarani,Tupian,mawe1252,tupi1275,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,MeiraDrude2015,HUJI,NA,ĩ
+56,Proto-Maweti-Guarani,NA,õ,NA,NA,NA,NA,NA,NA,NA,Proto-Maweti-Guarani,Maweti-Guarani,Tupian,mawe1252,tupi1275,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,MeiraDrude2015,HUJI,NA,õ
+56,Proto-Maweti-Guarani,NA,ũ,NA,NA,NA,NA,NA,NA,NA,Proto-Maweti-Guarani,Maweti-Guarani,Tupian,mawe1252,tupi1275,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,MeiraDrude2015,HUJI,NA,ũ
 56,Proto-Maweti-Guarani,NA,ɨ̃,NA,NA,NA,NA,NA,NA,NA,Proto-Maweti-Guarani,Maweti-Guarani,Tupian,mawe1252,tupi1275,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,MeiraDrude2015,HUJI,NA,ɨ̃
 56,Proto-Maweti-Guarani,NA,aː,NA,NA,NA,NA,NA,NA,NA,Proto-Maweti-Guarani,Maweti-Guarani,Tupian,mawe1252,tupi1275,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,MeiraDrude2015,HUJI,NA,aː
 56,Proto-Maweti-Guarani,NA,eː,NA,NA,NA,NA,NA,NA,NA,Proto-Maweti-Guarani,Maweti-Guarani,Tupian,mawe1252,tupi1275,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,MeiraDrude2015,HUJI,NA,eː
@@ -5114,11 +5123,11 @@ BdprotoID,SourceLanguageName,SourceLanguageFamily,Phoneme,PhonemeNotes,Allophone
 56,Proto-Maweti-Guarani,NA,oː,NA,NA,NA,NA,NA,NA,NA,Proto-Maweti-Guarani,Maweti-Guarani,Tupian,mawe1252,tupi1275,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,MeiraDrude2015,HUJI,NA,oː
 56,Proto-Maweti-Guarani,NA,uː,NA,NA,NA,NA,NA,NA,NA,Proto-Maweti-Guarani,Maweti-Guarani,Tupian,mawe1252,tupi1275,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,MeiraDrude2015,HUJI,NA,uː
 56,Proto-Maweti-Guarani,NA,ɨː,NA,NA,NA,NA,NA,NA,NA,Proto-Maweti-Guarani,Maweti-Guarani,Tupian,mawe1252,tupi1275,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,MeiraDrude2015,HUJI,NA,ɨː
-56,Proto-Maweti-Guarani,NA,ãː,NA,NA,NA,NA,NA,NA,NA,Proto-Maweti-Guarani,Maweti-Guarani,Tupian,mawe1252,tupi1275,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,MeiraDrude2015,HUJI,NA,ãː
-56,Proto-Maweti-Guarani,NA,ẽː,NA,NA,NA,NA,NA,NA,NA,Proto-Maweti-Guarani,Maweti-Guarani,Tupian,mawe1252,tupi1275,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,MeiraDrude2015,HUJI,NA,ẽː
-56,Proto-Maweti-Guarani,NA,ĩː,NA,NA,NA,NA,NA,NA,NA,Proto-Maweti-Guarani,Maweti-Guarani,Tupian,mawe1252,tupi1275,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,MeiraDrude2015,HUJI,NA,ĩː
-56,Proto-Maweti-Guarani,NA,õː,NA,NA,NA,NA,NA,NA,NA,Proto-Maweti-Guarani,Maweti-Guarani,Tupian,mawe1252,tupi1275,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,MeiraDrude2015,HUJI,NA,õː
-56,Proto-Maweti-Guarani,NA,ũː,NA,NA,NA,NA,NA,NA,NA,Proto-Maweti-Guarani,Maweti-Guarani,Tupian,mawe1252,tupi1275,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,MeiraDrude2015,HUJI,NA,ũː
+56,Proto-Maweti-Guarani,NA,ãː,NA,NA,NA,NA,NA,NA,NA,Proto-Maweti-Guarani,Maweti-Guarani,Tupian,mawe1252,tupi1275,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,MeiraDrude2015,HUJI,NA,ãː
+56,Proto-Maweti-Guarani,NA,ẽː,NA,NA,NA,NA,NA,NA,NA,Proto-Maweti-Guarani,Maweti-Guarani,Tupian,mawe1252,tupi1275,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,MeiraDrude2015,HUJI,NA,ẽː
+56,Proto-Maweti-Guarani,NA,ĩː,NA,NA,NA,NA,NA,NA,NA,Proto-Maweti-Guarani,Maweti-Guarani,Tupian,mawe1252,tupi1275,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,MeiraDrude2015,HUJI,NA,ĩː
+56,Proto-Maweti-Guarani,NA,õː,NA,NA,NA,NA,NA,NA,NA,Proto-Maweti-Guarani,Maweti-Guarani,Tupian,mawe1252,tupi1275,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,MeiraDrude2015,HUJI,NA,õː
+56,Proto-Maweti-Guarani,NA,ũː,NA,NA,NA,NA,NA,NA,NA,Proto-Maweti-Guarani,Maweti-Guarani,Tupian,mawe1252,tupi1275,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,MeiraDrude2015,HUJI,NA,ũː
 56,Proto-Maweti-Guarani,NA,ɨ̃ː,NA,NA,NA,NA,NA,NA,NA,Proto-Maweti-Guarani,Maweti-Guarani,Tupian,mawe1252,tupi1275,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,MeiraDrude2015,HUJI,NA,ɨ̃ː
 57,Proto-Jabuti,NA,i,NA,NA,NA,NA,NA,NA,NA,Proto-Jabuti,Jabuti,Nuclear Macro-Je,jabu1249,nucl1710,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,RibeiroVandervoort2010,HUJI,NA,i
 57,Proto-Jabuti,NA,a,NA,NA,NA,NA,NA,NA,NA,Proto-Jabuti,Jabuti,Nuclear Macro-Je,jabu1249,nucl1710,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,RibeiroVandervoort2010,HUJI,NA,a
@@ -5127,11 +5136,11 @@ BdprotoID,SourceLanguageName,SourceLanguageFamily,Phoneme,PhonemeNotes,Allophone
 57,Proto-Jabuti,NA,ɨ,NA,NA,NA,NA,NA,NA,NA,Proto-Jabuti,Jabuti,Nuclear Macro-Je,jabu1249,nucl1710,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,RibeiroVandervoort2010,HUJI,NA,ɨ
 57,Proto-Jabuti,NA,ɪ,NA,NA,NA,NA,NA,NA,NA,Proto-Jabuti,Jabuti,Nuclear Macro-Je,jabu1249,nucl1710,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,RibeiroVandervoort2010,HUJI,NA,ɪ
 57,Proto-Jabuti,NA,ə,NA,NA,NA,NA,NA,NA,NA,Proto-Jabuti,Jabuti,Nuclear Macro-Je,jabu1249,nucl1710,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,RibeiroVandervoort2010,HUJI,NA,ə
-57,Proto-Jabuti,NA,ĩ,NA,NA,NA,NA,NA,NA,NA,Proto-Jabuti,Jabuti,Nuclear Macro-Je,jabu1249,nucl1710,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,RibeiroVandervoort2010,HUJI,NA,ĩ
-57,Proto-Jabuti,NA,ũ,NA,NA,NA,NA,NA,NA,NA,Proto-Jabuti,Jabuti,Nuclear Macro-Je,jabu1249,nucl1710,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,RibeiroVandervoort2010,HUJI,NA,ũ
+57,Proto-Jabuti,NA,ĩ,NA,NA,NA,NA,NA,NA,NA,Proto-Jabuti,Jabuti,Nuclear Macro-Je,jabu1249,nucl1710,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,RibeiroVandervoort2010,HUJI,NA,ĩ
+57,Proto-Jabuti,NA,ũ,NA,NA,NA,NA,NA,NA,NA,Proto-Jabuti,Jabuti,Nuclear Macro-Je,jabu1249,nucl1710,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,RibeiroVandervoort2010,HUJI,NA,ũ
 57,Proto-Jabuti,NA,ɨ̃,NA,NA,NA,NA,NA,NA,NA,Proto-Jabuti,Jabuti,Nuclear Macro-Je,jabu1249,nucl1710,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,RibeiroVandervoort2010,HUJI,NA,ɨ̃
-57,Proto-Jabuti,NA,õ,NA,NA,NA,NA,NA,NA,NA,Proto-Jabuti,Jabuti,Nuclear Macro-Je,jabu1249,nucl1710,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,RibeiroVandervoort2010,HUJI,NA,õ
-57,Proto-Jabuti,NA,ã,NA,NA,NA,NA,NA,NA,NA,Proto-Jabuti,Jabuti,Nuclear Macro-Je,jabu1249,nucl1710,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,RibeiroVandervoort2010,HUJI,NA,ã
+57,Proto-Jabuti,NA,õ,NA,NA,NA,NA,NA,NA,NA,Proto-Jabuti,Jabuti,Nuclear Macro-Je,jabu1249,nucl1710,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,RibeiroVandervoort2010,HUJI,NA,õ
+57,Proto-Jabuti,NA,ã,NA,NA,NA,NA,NA,NA,NA,Proto-Jabuti,Jabuti,Nuclear Macro-Je,jabu1249,nucl1710,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,RibeiroVandervoort2010,HUJI,NA,ã
 57,Proto-Jabuti,NA,ɛ̃,NA,NA,NA,NA,NA,NA,NA,Proto-Jabuti,Jabuti,Nuclear Macro-Je,jabu1249,nucl1710,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,RibeiroVandervoort2010,HUJI,NA,ɛ̃
 57,Proto-Jabuti,NA,ə̃,NA,NA,NA,NA,NA,NA,NA,Proto-Jabuti,Jabuti,Nuclear Macro-Je,jabu1249,nucl1710,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,RibeiroVandervoort2010,HUJI,NA,ə̃
 57,Proto-Jabuti,NA,p,NA,NA,NA,NA,NA,NA,NA,Proto-Jabuti,Jabuti,Nuclear Macro-Je,jabu1249,nucl1710,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,RibeiroVandervoort2010,HUJI,NA,p
@@ -5167,11 +5176,11 @@ BdprotoID,SourceLanguageName,SourceLanguageFamily,Phoneme,PhonemeNotes,Allophone
 58,Proto-Je,NA,ɜ,NA,NA,NA,NA,NA,NA,NA,Proto-Je,Je,Nuclear Macro-Je,nucl1710,nucl1710,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,RibeiroVandervoort2010,HUJI,NA,ɜ
 58,Proto-Je,NA,ə,NA,NA,NA,NA,NA,NA,NA,Proto-Je,Je,Nuclear Macro-Je,nucl1710,nucl1710,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,RibeiroVandervoort2010,HUJI,NA,ə
 58,Proto-Je,NA,ɨ̃,check,NA,NA,NA,NA,TRUE,NA,Proto-Je,Je,Nuclear Macro-Je,nucl1710,nucl1710,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,RibeiroVandervoort2010,HUJI,NA,ɨ̃
-58,Proto-Je,NA,ĩ,NA,NA,NA,NA,NA,NA,NA,Proto-Je,Je,Nuclear Macro-Je,nucl1710,nucl1710,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,RibeiroVandervoort2010,HUJI,NA,ĩ
-58,Proto-Je,NA,ũ,check,NA,NA,NA,NA,TRUE,NA,Proto-Je,Je,Nuclear Macro-Je,nucl1710,nucl1710,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,RibeiroVandervoort2010,HUJI,NA,ũ
-58,Proto-Je,NA,ẽ,NA,NA,NA,NA,NA,NA,NA,Proto-Je,Je,Nuclear Macro-Je,nucl1710,nucl1710,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,RibeiroVandervoort2010,HUJI,NA,ẽ
-58,Proto-Je,NA,õ,NA,NA,NA,NA,NA,NA,NA,Proto-Je,Je,Nuclear Macro-Je,nucl1710,nucl1710,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,RibeiroVandervoort2010,HUJI,NA,õ
-58,Proto-Je,NA,ã,NA,NA,NA,NA,NA,NA,NA,Proto-Je,Je,Nuclear Macro-Je,nucl1710,nucl1710,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,RibeiroVandervoort2010,HUJI,NA,ã
+58,Proto-Je,NA,ĩ,NA,NA,NA,NA,NA,NA,NA,Proto-Je,Je,Nuclear Macro-Je,nucl1710,nucl1710,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,RibeiroVandervoort2010,HUJI,NA,ĩ
+58,Proto-Je,NA,ũ,check,NA,NA,NA,NA,TRUE,NA,Proto-Je,Je,Nuclear Macro-Je,nucl1710,nucl1710,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,RibeiroVandervoort2010,HUJI,NA,ũ
+58,Proto-Je,NA,ẽ,NA,NA,NA,NA,NA,NA,NA,Proto-Je,Je,Nuclear Macro-Je,nucl1710,nucl1710,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,RibeiroVandervoort2010,HUJI,NA,ẽ
+58,Proto-Je,NA,õ,NA,NA,NA,NA,NA,NA,NA,Proto-Je,Je,Nuclear Macro-Je,nucl1710,nucl1710,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,RibeiroVandervoort2010,HUJI,NA,õ
+58,Proto-Je,NA,ã,NA,NA,NA,NA,NA,NA,NA,Proto-Je,Je,Nuclear Macro-Je,nucl1710,nucl1710,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,NA,NA,RibeiroVandervoort2010,HUJI,NA,ã
 59,Proto-Maiduan,NA,p,NA,NA,NA,NA,NA,NA,NA,Proto-Maiduan,Maiduan,Maiduan,maid1262,maid1262,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,NA,NA,"Ultan1964,Campbell1997",HUJI,Campbell1997:128,p
 59,Proto-Maiduan,NA,t,NA,NA,NA,NA,NA,NA,NA,Proto-Maiduan,Maiduan,Maiduan,maid1262,maid1262,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,NA,NA,"Ultan1964,Campbell1997",HUJI,Campbell1997:128,t
 59,Proto-Maiduan,NA,k,NA,NA,NA,NA,NA,NA,NA,Proto-Maiduan,Maiduan,Maiduan,maid1262,maid1262,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,NA,NA,"Ultan1964,Campbell1997",HUJI,Campbell1997:128,k
@@ -5272,12 +5281,12 @@ BdprotoID,SourceLanguageName,SourceLanguageFamily,Phoneme,PhonemeNotes,Allophone
 62,Proto-Totonacan,NA,aː,NA,NA,NA,NA,NA,NA,NA,Proto-Totonacan,Totonacan,Totonacan,toto1251,toto1251,Reconstructed,North America,NA,NA,all,NA,NA,19.92,-97.42,Wichmann_etal2010,NA,brown2011totozoquean,HUJI,NA,aː
 62,Proto-Totonacan,NA,iː,NA,NA,NA,NA,NA,NA,NA,Proto-Totonacan,Totonacan,Totonacan,toto1251,toto1251,Reconstructed,North America,NA,NA,all,NA,NA,19.92,-97.42,Wichmann_etal2010,NA,brown2011totozoquean,HUJI,NA,iː
 62,Proto-Totonacan,NA,uː,NA,NA,NA,NA,NA,NA,NA,Proto-Totonacan,Totonacan,Totonacan,toto1251,toto1251,Reconstructed,North America,NA,NA,all,NA,NA,19.92,-97.42,Wichmann_etal2010,NA,brown2011totozoquean,HUJI,NA,uː
-62,Proto-Totonacan,NA,ḭ,Laryngealized vowels,NA,NA,NA,NA,NA,NA,Proto-Totonacan,Totonacan,Totonacan,toto1251,toto1251,Reconstructed,North America,NA,NA,all,NA,NA,19.92,-97.42,Wichmann_etal2010,NA,brown2011totozoquean,HUJI,NA,ḭ
+62,Proto-Totonacan,NA,ḭ,Laryngealized vowels,NA,NA,NA,NA,NA,NA,Proto-Totonacan,Totonacan,Totonacan,toto1251,toto1251,Reconstructed,North America,NA,NA,all,NA,NA,19.92,-97.42,Wichmann_etal2010,NA,brown2011totozoquean,HUJI,NA,ḭ
 62,Proto-Totonacan,NA,a̰,Laryngealized vowels,NA,NA,NA,NA,NA,NA,Proto-Totonacan,Totonacan,Totonacan,toto1251,toto1251,Reconstructed,North America,NA,NA,all,NA,NA,19.92,-97.42,Wichmann_etal2010,NA,brown2011totozoquean,HUJI,NA,a̰
-62,Proto-Totonacan,NA,ṵ,Laryngealized vowels,NA,NA,NA,NA,NA,NA,Proto-Totonacan,Totonacan,Totonacan,toto1251,toto1251,Reconstructed,North America,NA,NA,all,NA,NA,19.92,-97.42,Wichmann_etal2010,NA,brown2011totozoquean,HUJI,NA,ṵ
-62,Proto-Totonacan,NA,ḭː,Laryngealized vowels,NA,NA,NA,NA,NA,NA,Proto-Totonacan,Totonacan,Totonacan,toto1251,toto1251,Reconstructed,North America,NA,NA,all,NA,NA,19.92,-97.42,Wichmann_etal2010,NA,brown2011totozoquean,HUJI,NA,ḭː
+62,Proto-Totonacan,NA,ṵ,Laryngealized vowels,NA,NA,NA,NA,NA,NA,Proto-Totonacan,Totonacan,Totonacan,toto1251,toto1251,Reconstructed,North America,NA,NA,all,NA,NA,19.92,-97.42,Wichmann_etal2010,NA,brown2011totozoquean,HUJI,NA,ṵ
+62,Proto-Totonacan,NA,ḭː,Laryngealized vowels,NA,NA,NA,NA,NA,NA,Proto-Totonacan,Totonacan,Totonacan,toto1251,toto1251,Reconstructed,North America,NA,NA,all,NA,NA,19.92,-97.42,Wichmann_etal2010,NA,brown2011totozoquean,HUJI,NA,ḭː
 62,Proto-Totonacan,NA,a̰ː,Laryngealized vowels,NA,NA,NA,NA,NA,NA,Proto-Totonacan,Totonacan,Totonacan,toto1251,toto1251,Reconstructed,North America,NA,NA,all,NA,NA,19.92,-97.42,Wichmann_etal2010,NA,brown2011totozoquean,HUJI,NA,a̰ː
-62,Proto-Totonacan,NA,ṵː,Laryngealized vowels,NA,NA,NA,NA,NA,NA,Proto-Totonacan,Totonacan,Totonacan,toto1251,toto1251,Reconstructed,North America,NA,NA,all,NA,NA,19.92,-97.42,Wichmann_etal2010,NA,brown2011totozoquean,HUJI,NA,ṵː
+62,Proto-Totonacan,NA,ṵː,Laryngealized vowels,NA,NA,NA,NA,NA,NA,Proto-Totonacan,Totonacan,Totonacan,toto1251,toto1251,Reconstructed,North America,NA,NA,all,NA,NA,19.92,-97.42,Wichmann_etal2010,NA,brown2011totozoquean,HUJI,NA,ṵː
 63,Proto-Mixe-Zoquean,NA,p,NA,NA,NA,NA,NA,NA,NA,Proto-Mixe-Zoquean,Zoque,Mixe-Zoque,mixe1284,mixe1284,Reconstructed,North America,NA,NA,all,NA,NA,17.22,-96.03,Wichmann_etal2010,NA,brown2011totozoquean.pdf,HUJI,NA,p
 63,Proto-Mixe-Zoquean,NA,t,NA,NA,NA,NA,NA,NA,NA,Proto-Mixe-Zoquean,Zoque,Mixe-Zoque,mixe1284,mixe1284,Reconstructed,North America,NA,NA,all,NA,NA,17.22,-96.03,Wichmann_etal2010,NA,brown2011totozoquean.pdf,HUJI,NA,t
 63,Proto-Mixe-Zoquean,NA,k,NA,NA,NA,NA,NA,NA,NA,Proto-Mixe-Zoquean,Zoque,Mixe-Zoque,mixe1284,mixe1284,Reconstructed,North America,NA,NA,all,NA,NA,17.22,-96.03,Wichmann_etal2010,NA,brown2011totozoquean.pdf,HUJI,NA,k
@@ -5670,10 +5679,10 @@ BdprotoID,SourceLanguageName,SourceLanguageFamily,Phoneme,PhonemeNotes,Allophone
 76,Proto-Northern Iroquoian,NA,oː,NA,NA,NA,NA,NA,NA,NA,Proto-Northern Iroquoian,Northern Iroquoian,Iroquoian,nort2947,iroq1247,Reconstructed,North America,5-4.5K,NA,all,NA,NA,NA,NA,NA,NA,Julian2010,HUJI,NA,oː
 76,Proto-Northern Iroquoian,NA,a,NA,NA,NA,NA,NA,NA,NA,Proto-Northern Iroquoian,Northern Iroquoian,Iroquoian,nort2947,iroq1247,Reconstructed,North America,5-4.5K,NA,all,NA,NA,NA,NA,NA,NA,Julian2010,HUJI,NA,a
 76,Proto-Northern Iroquoian,NA,aː,NA,NA,NA,NA,NA,NA,NA,Proto-Northern Iroquoian,Northern Iroquoian,Iroquoian,nort2947,iroq1247,Reconstructed,North America,5-4.5K,NA,all,NA,NA,NA,NA,NA,NA,Julian2010,HUJI,NA,aː
-76,Proto-Northern Iroquoian,NA,ẽ,NA,NA,NA,NA,NA,NA,NA,Proto-Northern Iroquoian,Northern Iroquoian,Iroquoian,nort2947,iroq1247,Reconstructed,North America,5-4.5K,NA,all,NA,NA,NA,NA,NA,NA,Julian2010,HUJI,NA,ẽ
-76,Proto-Northern Iroquoian,NA,ẽː,NA,NA,NA,NA,NA,NA,NA,Proto-Northern Iroquoian,Northern Iroquoian,Iroquoian,nort2947,iroq1247,Reconstructed,North America,5-4.5K,NA,all,NA,NA,NA,NA,NA,NA,Julian2010,HUJI,NA,ẽː
-76,Proto-Northern Iroquoian,NA,õ,NA,NA,NA,NA,NA,NA,NA,Proto-Northern Iroquoian,Northern Iroquoian,Iroquoian,nort2947,iroq1247,Reconstructed,North America,5-4.5K,NA,all,NA,NA,NA,NA,NA,NA,Julian2010,HUJI,NA,õ
-76,Proto-Northern Iroquoian,NA,õː,NA,NA,NA,NA,NA,NA,NA,Proto-Northern Iroquoian,Northern Iroquoian,Iroquoian,nort2947,iroq1247,Reconstructed,North America,5-4.5K,NA,all,NA,NA,NA,NA,NA,NA,Julian2010,HUJI,NA,õː
+76,Proto-Northern Iroquoian,NA,ẽ,NA,NA,NA,NA,NA,NA,NA,Proto-Northern Iroquoian,Northern Iroquoian,Iroquoian,nort2947,iroq1247,Reconstructed,North America,5-4.5K,NA,all,NA,NA,NA,NA,NA,NA,Julian2010,HUJI,NA,ẽ
+76,Proto-Northern Iroquoian,NA,ẽː,NA,NA,NA,NA,NA,NA,NA,Proto-Northern Iroquoian,Northern Iroquoian,Iroquoian,nort2947,iroq1247,Reconstructed,North America,5-4.5K,NA,all,NA,NA,NA,NA,NA,NA,Julian2010,HUJI,NA,ẽː
+76,Proto-Northern Iroquoian,NA,õ,NA,NA,NA,NA,NA,NA,NA,Proto-Northern Iroquoian,Northern Iroquoian,Iroquoian,nort2947,iroq1247,Reconstructed,North America,5-4.5K,NA,all,NA,NA,NA,NA,NA,NA,Julian2010,HUJI,NA,õ
+76,Proto-Northern Iroquoian,NA,õː,NA,NA,NA,NA,NA,NA,NA,Proto-Northern Iroquoian,Northern Iroquoian,Iroquoian,nort2947,iroq1247,Reconstructed,North America,5-4.5K,NA,all,NA,NA,NA,NA,NA,NA,Julian2010,HUJI,NA,õː
 77,Proto-Tuscarora-Nottoway,NA,t,NA,NA,NA,NA,NA,NA,NA,Proto-Tuscarora-Nottoway,Northern Iroquoian,Iroquoian,tusc1256,iroq1247,Reconstructed,North America,2.5-2K,NA,all,NA,NA,NA,NA,NA,NA,Julian2010,HUJI,NA,t
 77,Proto-Tuscarora-Nottoway,NA,ˀt,NA,NA,NA,NA,NA,NA,NA,Proto-Tuscarora-Nottoway,Northern Iroquoian,Iroquoian,tusc1256,iroq1247,Reconstructed,North America,2.5-2K,NA,all,NA,NA,NA,NA,NA,NA,Julian2010,HUJI,NA,ˀt
 77,Proto-Tuscarora-Nottoway,NA,k,NA,NA,NA,NA,NA,NA,NA,Proto-Tuscarora-Nottoway,Northern Iroquoian,Iroquoian,tusc1256,iroq1247,Reconstructed,North America,2.5-2K,NA,all,NA,NA,NA,NA,NA,NA,Julian2010,HUJI,NA,k
@@ -5695,10 +5704,10 @@ BdprotoID,SourceLanguageName,SourceLanguageFamily,Phoneme,PhonemeNotes,Allophone
 77,Proto-Tuscarora-Nottoway,NA,oː,NA,NA,NA,NA,NA,NA,NA,Proto-Tuscarora-Nottoway,Northern Iroquoian,Iroquoian,tusc1256,iroq1247,Reconstructed,North America,2.5-2K,NA,all,NA,NA,NA,NA,NA,NA,Julian2010,HUJI,NA,oː
 77,Proto-Tuscarora-Nottoway,NA,a,NA,NA,NA,NA,NA,NA,NA,Proto-Tuscarora-Nottoway,Northern Iroquoian,Iroquoian,tusc1256,iroq1247,Reconstructed,North America,2.5-2K,NA,all,NA,NA,NA,NA,NA,NA,Julian2010,HUJI,NA,a
 77,Proto-Tuscarora-Nottoway,NA,aː,NA,NA,NA,NA,NA,NA,NA,Proto-Tuscarora-Nottoway,Northern Iroquoian,Iroquoian,tusc1256,iroq1247,Reconstructed,North America,2.5-2K,NA,all,NA,NA,NA,NA,NA,NA,Julian2010,HUJI,NA,aː
-77,Proto-Tuscarora-Nottoway,NA,ẽ,NA,NA,NA,NA,NA,NA,NA,Proto-Tuscarora-Nottoway,Northern Iroquoian,Iroquoian,tusc1256,iroq1247,Reconstructed,North America,2.5-2K,NA,all,NA,NA,NA,NA,NA,NA,Julian2010,HUJI,NA,ẽ
-77,Proto-Tuscarora-Nottoway,NA,ẽː,NA,NA,NA,NA,NA,NA,NA,Proto-Tuscarora-Nottoway,Northern Iroquoian,Iroquoian,tusc1256,iroq1247,Reconstructed,North America,2.5-2K,NA,all,NA,NA,NA,NA,NA,NA,Julian2010,HUJI,NA,ẽː
-77,Proto-Tuscarora-Nottoway,NA,õ,NA,NA,NA,NA,NA,NA,NA,Proto-Tuscarora-Nottoway,Northern Iroquoian,Iroquoian,tusc1256,iroq1247,Reconstructed,North America,2.5-2K,NA,all,NA,NA,NA,NA,NA,NA,Julian2010,HUJI,NA,õ
-77,Proto-Tuscarora-Nottoway,NA,õː,NA,NA,NA,NA,NA,NA,NA,Proto-Tuscarora-Nottoway,Northern Iroquoian,Iroquoian,tusc1256,iroq1247,Reconstructed,North America,2.5-2K,NA,all,NA,NA,NA,NA,NA,NA,Julian2010,HUJI,NA,õː
+77,Proto-Tuscarora-Nottoway,NA,ẽ,NA,NA,NA,NA,NA,NA,NA,Proto-Tuscarora-Nottoway,Northern Iroquoian,Iroquoian,tusc1256,iroq1247,Reconstructed,North America,2.5-2K,NA,all,NA,NA,NA,NA,NA,NA,Julian2010,HUJI,NA,ẽ
+77,Proto-Tuscarora-Nottoway,NA,ẽː,NA,NA,NA,NA,NA,NA,NA,Proto-Tuscarora-Nottoway,Northern Iroquoian,Iroquoian,tusc1256,iroq1247,Reconstructed,North America,2.5-2K,NA,all,NA,NA,NA,NA,NA,NA,Julian2010,HUJI,NA,ẽː
+77,Proto-Tuscarora-Nottoway,NA,õ,NA,NA,NA,NA,NA,NA,NA,Proto-Tuscarora-Nottoway,Northern Iroquoian,Iroquoian,tusc1256,iroq1247,Reconstructed,North America,2.5-2K,NA,all,NA,NA,NA,NA,NA,NA,Julian2010,HUJI,NA,õ
+77,Proto-Tuscarora-Nottoway,NA,õː,NA,NA,NA,NA,NA,NA,NA,Proto-Tuscarora-Nottoway,Northern Iroquoian,Iroquoian,tusc1256,iroq1247,Reconstructed,North America,2.5-2K,NA,all,NA,NA,NA,NA,NA,NA,Julian2010,HUJI,NA,õː
 78,Common Tuscarora,NA,t,NA,NA,NA,NA,NA,NA,NA,Proto-Tuscarora,Cherokee,Iroquoian,tusc1257,iroq1247,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,NA,NA,Julian2010,HUJI,NA,t
 78,Common Tuscarora,NA,k,NA,NA,NA,NA,NA,NA,NA,Proto-Tuscarora,Cherokee,Iroquoian,tusc1257,iroq1247,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,NA,NA,Julian2010,HUJI,NA,k
 78,Common Tuscarora,NA,kʷ,NA,NA,NA,NA,NA,NA,NA,Proto-Tuscarora,Cherokee,Iroquoian,tusc1257,iroq1247,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,NA,NA,Julian2010,HUJI,NA,kʷ
@@ -5733,9 +5742,9 @@ BdprotoID,SourceLanguageName,SourceLanguageFamily,Phoneme,PhonemeNotes,Allophone
 79,Proto-Mohawk-Oneida,NA,w,NA,NA,NA,NA,NA,NA,NA,Proto-Mohawk-Oneida,Northern Iroquoian,Iroquoian,moha1257,iroq1247,Reconstructed,North America,1K-0.5K,NA,all,NA,NA,NA,NA,NA,NA,Julian2010,HUJI,NA,w
 79,Proto-Mohawk-Oneida,NA,ɹ,NA,NA,NA,NA,NA,NA,NA,Proto-Mohawk-Oneida,Northern Iroquoian,Iroquoian,moha1257,iroq1247,Reconstructed,North America,1K-0.5K,NA,all,NA,NA,NA,NA,NA,NA,Julian2010,HUJI,NA,ɹ
 79,Proto-Mohawk-Oneida,NA,i,NA,NA,NA,NA,NA,NA,NA,Proto-Mohawk-Oneida,Northern Iroquoian,Iroquoian,moha1257,iroq1247,Reconstructed,North America,1K-0.5K,NA,all,NA,NA,NA,NA,NA,NA,Julian2010,HUJI,NA,i
-79,Proto-Mohawk-Oneida,NA,ũ,NA,NA,NA,NA,NA,NA,NA,Proto-Mohawk-Oneida,Northern Iroquoian,Iroquoian,moha1257,iroq1247,Reconstructed,North America,1K-0.5K,NA,all,NA,NA,NA,NA,NA,NA,Julian2010,HUJI,NA,ũ
+79,Proto-Mohawk-Oneida,NA,ũ,NA,NA,NA,NA,NA,NA,NA,Proto-Mohawk-Oneida,Northern Iroquoian,Iroquoian,moha1257,iroq1247,Reconstructed,North America,1K-0.5K,NA,all,NA,NA,NA,NA,NA,NA,Julian2010,HUJI,NA,ũ
 79,Proto-Mohawk-Oneida,NA,iː,NA,NA,NA,NA,NA,NA,NA,Proto-Mohawk-Oneida,Northern Iroquoian,Iroquoian,moha1257,iroq1247,Reconstructed,North America,1K-0.5K,NA,all,NA,NA,NA,NA,NA,NA,Julian2010,HUJI,NA,iː
-79,Proto-Mohawk-Oneida,NA,ũː,NA,NA,NA,NA,NA,NA,NA,Proto-Mohawk-Oneida,Northern Iroquoian,Iroquoian,moha1257,iroq1247,Reconstructed,North America,1K-0.5K,NA,all,NA,NA,NA,NA,NA,NA,Julian2010,HUJI,NA,ũː
+79,Proto-Mohawk-Oneida,NA,ũː,NA,NA,NA,NA,NA,NA,NA,Proto-Mohawk-Oneida,Northern Iroquoian,Iroquoian,moha1257,iroq1247,Reconstructed,North America,1K-0.5K,NA,all,NA,NA,NA,NA,NA,NA,Julian2010,HUJI,NA,ũː
 79,Proto-Mohawk-Oneida,NA,e,NA,NA,NA,NA,NA,NA,NA,Proto-Mohawk-Oneida,Northern Iroquoian,Iroquoian,moha1257,iroq1247,Reconstructed,North America,1K-0.5K,NA,all,NA,NA,NA,NA,NA,NA,Julian2010,HUJI,NA,e
 79,Proto-Mohawk-Oneida,NA,eː,NA,NA,NA,NA,NA,NA,NA,Proto-Mohawk-Oneida,Northern Iroquoian,Iroquoian,moha1257,iroq1247,Reconstructed,North America,1K-0.5K,NA,all,NA,NA,NA,NA,NA,NA,Julian2010,HUJI,NA,eː
 79,Proto-Mohawk-Oneida,NA,o,NA,NA,NA,NA,NA,NA,NA,Proto-Mohawk-Oneida,Northern Iroquoian,Iroquoian,moha1257,iroq1247,Reconstructed,North America,1K-0.5K,NA,all,NA,NA,NA,NA,NA,NA,Julian2010,HUJI,NA,o
@@ -5756,9 +5765,9 @@ BdprotoID,SourceLanguageName,SourceLanguageFamily,Phoneme,PhonemeNotes,Allophone
 80,Common Mohawk,NA,w,NA,NA,NA,NA,NA,NA,NA,Proto-Mohawk,Iroquoian,Iroquoian,moha1258,iroq1247,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,NA,NA,Julian2010,HUJI,NA,w
 80,Common Mohawk,NA,ɹ,NA,NA,NA,NA,NA,NA,NA,Proto-Mohawk,Iroquoian,Iroquoian,moha1258,iroq1247,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,NA,NA,Julian2010,HUJI,NA,ɹ
 80,Common Mohawk,NA,i,NA,NA,NA,NA,NA,NA,NA,Proto-Mohawk,Iroquoian,Iroquoian,moha1258,iroq1247,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,NA,NA,Julian2010,HUJI,NA,i
-80,Common Mohawk,NA,ũ,NA,NA,NA,NA,NA,NA,NA,Proto-Mohawk,Iroquoian,Iroquoian,moha1258,iroq1247,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,NA,NA,Julian2010,HUJI,NA,ũ
+80,Common Mohawk,NA,ũ,NA,NA,NA,NA,NA,NA,NA,Proto-Mohawk,Iroquoian,Iroquoian,moha1258,iroq1247,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,NA,NA,Julian2010,HUJI,NA,ũ
 80,Common Mohawk,NA,iː,NA,NA,NA,NA,NA,NA,NA,Proto-Mohawk,Iroquoian,Iroquoian,moha1258,iroq1247,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,NA,NA,Julian2010,HUJI,NA,iː
-80,Common Mohawk,NA,ũː,NA,NA,NA,NA,NA,NA,NA,Proto-Mohawk,Iroquoian,Iroquoian,moha1258,iroq1247,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,NA,NA,Julian2010,HUJI,NA,ũː
+80,Common Mohawk,NA,ũː,NA,NA,NA,NA,NA,NA,NA,Proto-Mohawk,Iroquoian,Iroquoian,moha1258,iroq1247,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,NA,NA,Julian2010,HUJI,NA,ũː
 80,Common Mohawk,NA,e,NA,NA,NA,NA,NA,NA,NA,Proto-Mohawk,Iroquoian,Iroquoian,moha1258,iroq1247,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,NA,NA,Julian2010,HUJI,NA,e
 80,Common Mohawk,NA,eː,NA,NA,NA,NA,NA,NA,NA,Proto-Mohawk,Iroquoian,Iroquoian,moha1258,iroq1247,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,NA,NA,Julian2010,HUJI,NA,eː
 80,Common Mohawk,NA,o,NA,NA,NA,NA,NA,NA,NA,Proto-Mohawk,Iroquoian,Iroquoian,moha1258,iroq1247,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,NA,NA,Julian2010,HUJI,NA,o
@@ -5843,12 +5852,12 @@ BdprotoID,SourceLanguageName,SourceLanguageFamily,Phoneme,PhonemeNotes,Allophone
 83,Proto-Siouan,NA,oː,NA,NA,NA,NA,NA,NA,NA,Proto-Siouan,Siouan,Siouan,siou1252,siou1252,Reconstructed,North America,NA,NA,all,NA,4000,35.5,-80.5,Wichmann_etal2010,NA,RankinEtAl2015,HUJI,NA,oː
 83,Proto-Siouan,NA,a,NA,NA,NA,NA,NA,NA,NA,Proto-Siouan,Siouan,Siouan,siou1252,siou1252,Reconstructed,North America,NA,NA,all,NA,4000,35.5,-80.5,Wichmann_etal2010,NA,RankinEtAl2015,HUJI,NA,a
 83,Proto-Siouan,NA,aː,NA,NA,NA,NA,NA,NA,NA,Proto-Siouan,Siouan,Siouan,siou1252,siou1252,Reconstructed,North America,NA,NA,all,NA,4000,35.5,-80.5,Wichmann_etal2010,NA,RankinEtAl2015,HUJI,NA,aː
-83,Proto-Siouan,NA,ĩː,NA,NA,NA,NA,NA,NA,NA,Proto-Siouan,Siouan,Siouan,siou1252,siou1252,Reconstructed,North America,NA,NA,all,NA,4000,35.5,-80.5,Wichmann_etal2010,NA,RankinEtAl2015,HUJI,NA,ĩː
-83,Proto-Siouan,NA,ĩ,NA,NA,NA,NA,NA,NA,NA,Proto-Siouan,Siouan,Siouan,siou1252,siou1252,Reconstructed,North America,NA,NA,all,NA,4000,35.5,-80.5,Wichmann_etal2010,NA,RankinEtAl2015,HUJI,NA,ĩ
-83,Proto-Siouan,NA,ãː,NA,NA,NA,NA,NA,NA,NA,Proto-Siouan,Siouan,Siouan,siou1252,siou1252,Reconstructed,North America,NA,NA,all,NA,4000,35.5,-80.5,Wichmann_etal2010,NA,RankinEtAl2015,HUJI,NA,ãː
-83,Proto-Siouan,NA,ã,NA,NA,NA,NA,NA,NA,NA,Proto-Siouan,Siouan,Siouan,siou1252,siou1252,Reconstructed,North America,NA,NA,all,NA,4000,35.5,-80.5,Wichmann_etal2010,NA,RankinEtAl2015,HUJI,NA,ã
-83,Proto-Siouan,NA,ũː,NA,NA,NA,NA,NA,NA,NA,Proto-Siouan,Siouan,Siouan,siou1252,siou1252,Reconstructed,North America,NA,NA,all,NA,4000,35.5,-80.5,Wichmann_etal2010,NA,RankinEtAl2015,HUJI,NA,ũː
-83,Proto-Siouan,NA,ũ,NA,NA,NA,NA,NA,NA,NA,Proto-Siouan,Siouan,Siouan,siou1252,siou1252,Reconstructed,North America,NA,NA,all,NA,4000,35.5,-80.5,Wichmann_etal2010,NA,RankinEtAl2015,HUJI,NA,ũ
+83,Proto-Siouan,NA,ĩː,NA,NA,NA,NA,NA,NA,NA,Proto-Siouan,Siouan,Siouan,siou1252,siou1252,Reconstructed,North America,NA,NA,all,NA,4000,35.5,-80.5,Wichmann_etal2010,NA,RankinEtAl2015,HUJI,NA,ĩː
+83,Proto-Siouan,NA,ĩ,NA,NA,NA,NA,NA,NA,NA,Proto-Siouan,Siouan,Siouan,siou1252,siou1252,Reconstructed,North America,NA,NA,all,NA,4000,35.5,-80.5,Wichmann_etal2010,NA,RankinEtAl2015,HUJI,NA,ĩ
+83,Proto-Siouan,NA,ãː,NA,NA,NA,NA,NA,NA,NA,Proto-Siouan,Siouan,Siouan,siou1252,siou1252,Reconstructed,North America,NA,NA,all,NA,4000,35.5,-80.5,Wichmann_etal2010,NA,RankinEtAl2015,HUJI,NA,ãː
+83,Proto-Siouan,NA,ã,NA,NA,NA,NA,NA,NA,NA,Proto-Siouan,Siouan,Siouan,siou1252,siou1252,Reconstructed,North America,NA,NA,all,NA,4000,35.5,-80.5,Wichmann_etal2010,NA,RankinEtAl2015,HUJI,NA,ã
+83,Proto-Siouan,NA,ũː,NA,NA,NA,NA,NA,NA,NA,Proto-Siouan,Siouan,Siouan,siou1252,siou1252,Reconstructed,North America,NA,NA,all,NA,4000,35.5,-80.5,Wichmann_etal2010,NA,RankinEtAl2015,HUJI,NA,ũː
+83,Proto-Siouan,NA,ũ,NA,NA,NA,NA,NA,NA,NA,Proto-Siouan,Siouan,Siouan,siou1252,siou1252,Reconstructed,North America,NA,NA,all,NA,4000,35.5,-80.5,Wichmann_etal2010,NA,RankinEtAl2015,HUJI,NA,ũ
 84,Proto-Finno-Permic,NA,p,NA,NA,NA,NA,NA,NA,NA,Proto-Finno-Permic,Uralic,Uralic,NA,ural1272,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,NA,NA,sammallahti1988,HUJI,NA,p
 84,Proto-Finno-Permic,NA,w,NA,NA,NA,NA,NA,NA,NA,Proto-Finno-Permic,Uralic,Uralic,NA,ural1272,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,NA,NA,sammallahti1988,HUJI,NA,w
 84,Proto-Finno-Permic,NA,m,NA,NA,NA,NA,NA,NA,NA,Proto-Finno-Permic,Uralic,Uralic,NA,ural1272,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,NA,NA,sammallahti1988,HUJI,NA,m
@@ -6584,7 +6593,7 @@ BdprotoID,SourceLanguageName,SourceLanguageFamily,Phoneme,PhonemeNotes,Allophone
 116,Proto-Keresan,NA,ɨː,NA,NA,NA,NA,NA,NA,NA,Proto-Keresan,Keresan,Keresan,kere1287,kere1287,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,NA,NA,Campbell1997,HUJI,Campbell1997: 138,ɨː
 116,Proto-Keresan,NA,i̥,note the rare voiceless vowels,NA,NA,NA,NA,NA,NA,Proto-Keresan,Keresan,Keresan,kere1287,kere1287,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,NA,NA,Campbell1997,HUJI,Campbell1997: 138,i̥
 116,Proto-Keresan,NA,e̥,note the rare voiceless vowels,NA,NA,NA,NA,NA,NA,Proto-Keresan,Keresan,Keresan,kere1287,kere1287,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,NA,NA,Campbell1997,HUJI,Campbell1997: 138,e̥
-116,Proto-Keresan,NA,ḁ,note the rare voiceless vowels,NA,NA,NA,NA,NA,NA,Proto-Keresan,Keresan,Keresan,kere1287,kere1287,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,NA,NA,Campbell1997,HUJI,Campbell1997: 138,ḁ
+116,Proto-Keresan,NA,ḁ,note the rare voiceless vowels,NA,NA,NA,NA,NA,NA,Proto-Keresan,Keresan,Keresan,kere1287,kere1287,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,NA,NA,Campbell1997,HUJI,Campbell1997: 138,ḁ
 116,Proto-Keresan,NA,o̥,note the rare voiceless vowels,NA,NA,NA,NA,NA,NA,Proto-Keresan,Keresan,Keresan,kere1287,kere1287,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,NA,NA,Campbell1997,HUJI,Campbell1997: 138,o̥
 116,Proto-Keresan,NA,u̥,note the rare voiceless vowels,NA,NA,NA,NA,NA,NA,Proto-Keresan,Keresan,Keresan,kere1287,kere1287,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,NA,NA,Campbell1997,HUJI,Campbell1997: 138,u̥
 116,Proto-Keresan,NA,ɨ̥,note the rare voiceless vowels,NA,NA,NA,NA,NA,NA,Proto-Keresan,Keresan,Keresan,kere1287,kere1287,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,NA,NA,Campbell1997,HUJI,Campbell1997: 138,ɨ̥
