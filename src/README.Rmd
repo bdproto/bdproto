@@ -113,7 +113,7 @@ Load the HUJI Inventories.
 
 ```{r, warning=FALSE, message=FALSE}
 huji <- read_csv('huji/BDPROTO Jerusalem - Inventories.csv')
-expect_equal(nrow(huji), 3935)
+expect_equal(nrow(huji), 3829)
 ```
 
 Merge the three inventory data sources together.

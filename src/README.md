@@ -2,7 +2,7 @@ BDPROTO aggregation script
 ================
 Steven Moran
 
-16 May, 2022
+01 October, 2022
 
 # Overview
 
@@ -46,7 +46,7 @@ these languages). These should all be NA.
 metadata$Glottocode[which(!(metadata$Glottocode %in% glottolog$id))]
 ```
 
-    ##  [1] NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA
+    ##  [1] NA NA NA NA NA NA NA NA NA NA NA NA NA NA
 
 There should be no NAs in several fields in the metadata.
 
@@ -127,7 +127,7 @@ Load the HUJI Inventories.
 
 ``` r
 huji <- read_csv('huji/BDPROTO Jerusalem - Inventories.csv')
-expect_equal(nrow(huji), 3935)
+expect_equal(nrow(huji), 3829)
 ```
 
 Merge the three inventory data sources together.
@@ -264,7 +264,7 @@ table(temp$InventoryType, exclude = FALSE)
 
     ## 
     ##             all consonants only     vowels only 
-    ##             229              38               5
+    ##             226              37               5
 
 Check BDPROTO segments against PHOIBLE. First load PHOIBLE.
 
@@ -288,7 +288,7 @@ table(bdproto.segments$Phoneme %in% phoible$Phoneme)
 
     ## 
     ## FALSE  TRUE 
-    ##   249  7615
+    ##   240  7518
 
 ``` r
 temp <- bdproto.segments[which(!(bdproto.segments$Phoneme %in% phoible$Phoneme)),]
@@ -311,7 +311,7 @@ table(bdproto.segments$PhonemeNFD %in% phoible$Phoneme)
 
     ## 
     ## FALSE  TRUE 
-    ##   176   936
+    ##   168   929
 
 ``` r
 temp <- bdproto.segments[which(!(bdproto.segments$PhonemeNFD %in% phoible$Phoneme)),]
