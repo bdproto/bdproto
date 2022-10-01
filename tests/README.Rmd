@@ -13,6 +13,7 @@ Load libraries.
 library(tidyverse)
 library(testthat)
 library(bib2df)
+library(knitr)
 ```
 
 Load BDPROTO data.
@@ -88,3 +89,11 @@ phoible_segments <- phoible %>% select(Phoneme) %>% distinct()
 bdproto_phonemes <- bdproto %>% select(Phoneme) %>% distinct()
 bdproto_phonemes[which(!(bdproto_phonemes$Phoneme %in% phoible_segments$Phoneme)),]
 ```
+
+Let's figure out where those non-conventional phonemes come from.
+
+```{r}
+ncp <- bdproto_phonemes[which(!(bdproto_phonemes$Phoneme %in% phoible_segments$Phoneme)),]
+bdproto %>% filter(Phoneme %in% ncp$Phoneme) %>% arrange(Phoneme) %>% select(BdprotoID, Source, SourceLanguageName, Phoneme, PhonemeNotes, Allophone) %>% kable()
+```
+
