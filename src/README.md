@@ -7,7 +7,7 @@ Steven Moran
 # Overview
 
 This script aggregates the raw data sources in BDPROTO into single CSV
-file..
+file.
 
 In BDPROTO versions 1.0 and 1.1, we integrated separate metadata for
 each raw data source (`bdproto-original`, `uz`, `huji`, and
@@ -288,7 +288,7 @@ table(bdproto.segments$Phoneme %in% phoible$Phoneme)
 
     ## 
     ## FALSE  TRUE 
-    ##   240  7518
+    ##   164  7594
 
 ``` r
 temp <- bdproto.segments[which(!(bdproto.segments$Phoneme %in% phoible$Phoneme)),]
@@ -311,7 +311,7 @@ table(bdproto.segments$PhonemeNFD %in% phoible$Phoneme)
 
     ## 
     ## FALSE  TRUE 
-    ##   168   929
+    ##   145   947
 
 ``` r
 temp <- bdproto.segments[which(!(bdproto.segments$PhonemeNFD %in% phoible$Phoneme)),]

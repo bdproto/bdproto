@@ -9,7 +9,7 @@ output:
 
 # Overview
 
-This script aggregates the raw data sources in BDPROTO into single CSV file..
+This script aggregates the raw data sources in BDPROTO into single CSV file.
 
 In BDPROTO versions 1.0 and 1.1, we integrated separate metadata for each raw data source (`bdproto-original`, `uz`, `huji`, and `ancient-near-east`). To make things easier to maintain and process, we extracted the metadata fields pertinent to all source inventories into a separate CSV file, which we then aggregated into the combined raw data sources.
 
